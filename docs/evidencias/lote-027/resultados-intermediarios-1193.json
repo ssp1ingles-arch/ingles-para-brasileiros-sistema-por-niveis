@@ -1,0 +1,78 @@
+{
+  "total": 18,
+  "aprovados": 18,
+  "resultados": [
+    {
+      "teste": "somente 1193 aberta",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "leitura integral 176 páginas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "48 módulos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "paginação contínua",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem vazias/OCR/corrupção",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "todas decididas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero úteis sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "destinos existentes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "editoriais justificadas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "prática/respostas separadas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem atividades derivadas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução extensa",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "base preservada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Jornada preservada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "localStorage preservado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash 1193 preservado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1194 bloqueada",
+      "resultado": "APROVADO"
+    }
+  ]
+}

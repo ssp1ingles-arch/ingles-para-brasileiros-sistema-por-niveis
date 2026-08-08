@@ -206,3 +206,12 @@
 - Consolidar 1192 apenas depois da validação intermediária 17/17.
 - Encerrar antes de 1193.
 <!-- LOTE-026-DECISOES:FIM -->
+
+<!-- LOTE-027-DECISOES:INICIO -->
+## Decisões do lote 027
+
+- Mapear 1193 antes de abrir 1194.
+- Não converter exercícios ou respostas em atividades.
+- Classificar 1194 como sobreposição extensa/extração alternativa, não duplicata integral.
+- Encerrar antes de 1195.
+<!-- LOTE-027-DECISOES:FIM -->

@@ -1,0 +1,78 @@
+{
+  "total": 18,
+  "aprovados": 18,
+  "resultados": [
+    {
+      "teste": "1193 integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1194 integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "intermediária 18/18",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "não duplicata integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sobreposição registrada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "paginação igual",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero exclusivo linguístico",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero úteis sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "base 834/1977",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "IDs únicos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Jornada 806+28",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "806 preservados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem órfãos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "localStorage",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "atividades preservadas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Kids/C2",
+      "resultado": "APROVADO"
+    }
+  ]
+}

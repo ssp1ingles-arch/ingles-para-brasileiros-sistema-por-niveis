@@ -184,3 +184,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1191 possui 361 páginas presentes e 78 unidades temáticas: 156 páginas consolidadas, 174 referenciadas sem publicação e 31 editoriais/índice descartadas. A página 2 está ausente. 1192 é duplicata integral comprovada após intermediária.
 <!-- LOTE-026-MAPEAMENTO:FIM -->
+
+<!-- LOTE-027-MAPEAMENTO:INICIO -->
+## Lote 027 — mapeamento
+
+1193: 176 páginas, 48 módulos, 144 páginas de prática, 21 de respostas e 11 editoriais. 1194 tem a mesma organização, mas corpo e hashes diferentes: sobreposição extensa em extração alternativa.
+<!-- LOTE-027-MAPEAMENTO:FIM -->

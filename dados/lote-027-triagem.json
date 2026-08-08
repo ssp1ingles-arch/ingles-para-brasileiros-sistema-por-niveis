@@ -1,0 +1,44 @@
+{
+  "lote": "027",
+  "intervalo": [
+    1193,
+    1194
+  ],
+  "sequenciais": [
+    {
+      "numero": 1193,
+      "nome": "1193_03_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+      "tamanho_bytes": 194228,
+      "hash_bruto": "3ce3a5940dd148c4bf74f8e866aa40be42a40e4ad4bf1bd9ac736dd096e0be6b",
+      "hash_normalizado": "e7a5bd2f67cef1010e0a09207b102b762d62e8f3853d8578f3851593bab485be",
+      "leitura_integral": true,
+      "paginas": 176,
+      "status": "integralmente classificada",
+      "sem_destino_util": 0,
+      "justificativa": "176 páginas e 48 módulos decididos."
+    },
+    {
+      "numero": 1194,
+      "nome": "1194_04_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+      "tamanho_bytes": 130330,
+      "hash_bruto": "1d74415187c35ad8f45d23b099b0d24071609a76faba03a9ece522fd84f9bb57",
+      "hash_normalizado": "4c86c6805741f803e22bf36cdd490f46b4f66c96b8e2fd7f0c49d16a193597b1",
+      "leitura_integral": true,
+      "paginas": 176,
+      "status": "integralmente classificada",
+      "tipo": "sobreposição extensa; extração alternativa",
+      "sem_destino_util": 0,
+      "justificativa": "Mesma organização e exercícios, mas corpo e hashes diferentes; procedência separada sem conteúdo exclusivo publicado."
+    }
+  ],
+  "direcionadas": [],
+  "duplicatas": [],
+  "parciais": [],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1193,
+    "testes": "18/18",
+    "aprovada": true
+  },
+  "observacao": "Encerrado antes de 1195; 1194 não é duplicata integral."
+}
