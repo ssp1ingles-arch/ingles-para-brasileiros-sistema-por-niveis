@@ -1,0 +1,564 @@
+{
+  "resultado": "APROVADO",
+  "base": "http://127.0.0.1:8000/",
+  "resultados": [
+    {
+      "route": "index.html",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "index.html",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "index.html",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "index.html",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "index.html",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/a1/",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/a1/",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/a1/",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/a1/",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/a1/",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/a2/",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/a2/",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/a2/",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/a2/",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/a2/",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/b1/",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/b1/",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/b1/",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/b1/",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/b1/",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/b2/",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/b2/",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/b2/",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/b2/",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/b2/",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/c1/",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/c1/",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/c1/",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/c1/",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/c1/",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/c2/",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/c2/",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/c2/",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/c2/",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/c2/",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/kids/",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/kids/",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/kids/",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/kids/",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "niveis/kids/",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "jornada.html",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "jornada.html",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "jornada.html",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "jornada.html",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "jornada.html",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "estudar.html",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "estudar.html",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "estudar.html",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "estudar.html",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "estudar.html",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "praticar.html",
+      "width": 1440,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "praticar.html",
+      "width": 1024,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "praticar.html",
+      "width": 768,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "praticar.html",
+      "width": 390,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "route": "praticar.html",
+      "width": 360,
+      "status": 200,
+      "errors": [],
+      "overflow": false,
+      "technical": false,
+      "small": 0,
+      "ok": true
+    },
+    {
+      "interaction": "menu,grupos,busca,persistencia",
+      "ok": true,
+      "menu": "true",
+      "aria": "true",
+      "search": true,
+      "persisted": true
+    }
+  ]
+}

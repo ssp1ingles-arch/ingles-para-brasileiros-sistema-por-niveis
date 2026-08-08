@@ -1,0 +1,90 @@
+{
+  "tipo": "auditoria-preservacao-redesign",
+  "base_git": "HEAD antes do commit de redesign",
+  "resultado": "APROVADO",
+  "totais": {
+    "unidades": 834,
+    "atividades": 1977,
+    "subpaineis": 95,
+    "jornada_itens": 806,
+    "jornada_ids_unicos": 806
+  },
+  "preservacao": {
+    "arquivos_pedagogicos_byte_a_byte": true,
+    "titulos_conteudos_exemplos_traducoes": true,
+    "ids_niveis_habilidades_prerequisitos": true,
+    "procedencias_internas": true,
+    "renderizacao_procedencia_removida": true,
+    "localStorage_compativel": [
+      "nivelState",
+      "nivelGroupState",
+      "studyProgressV1",
+      "studySessionV1",
+      "practiceStatsV1",
+      "practiceSessionV1",
+      "journeyLastUnit"
+    ]
+  },
+  "arquivos": [
+    {
+      "arquivo": "dados/atividades.json",
+      "sha256_antes": "781505f5b6b1182f098793d0a4e91f0875d2c28a074da32c26c1ab4da26b09d4",
+      "sha256_depois": "781505f5b6b1182f098793d0a4e91f0875d2c28a074da32c26c1ab4da26b09d4",
+      "preservado": true
+    },
+    {
+      "arquivo": "dados/jornadas.json",
+      "sha256_antes": "0f077a4d93ff98f5d229641a8c139e9d3e5fa0adbb2f1a8636cb7a69b873c4c1",
+      "sha256_depois": "0f077a4d93ff98f5d229641a8c139e9d3e5fa0adbb2f1a8636cb7a69b873c4c1",
+      "preservado": true
+    },
+    {
+      "arquivo": "dados/subpaineis.json",
+      "sha256_antes": "10cdfc2f9ef1bf11252205887fda9d21d3a188f7768b1a9411baf084863770a6",
+      "sha256_depois": "10cdfc2f9ef1bf11252205887fda9d21d3a188f7768b1a9411baf084863770a6",
+      "preservado": true
+    },
+    {
+      "arquivo": "dados/a1/unidades.json",
+      "sha256_antes": "013078b2150139e0cf2d20240ae62a568bd2c81684b8aaffb6868acba9e65316",
+      "sha256_depois": "013078b2150139e0cf2d20240ae62a568bd2c81684b8aaffb6868acba9e65316",
+      "preservado": true
+    },
+    {
+      "arquivo": "dados/a2/unidades.json",
+      "sha256_antes": "fe7c3f17d727a5453cf58aa437290b47c8eb50f6d8874eab22a01cc6050aa7fe",
+      "sha256_depois": "fe7c3f17d727a5453cf58aa437290b47c8eb50f6d8874eab22a01cc6050aa7fe",
+      "preservado": true
+    },
+    {
+      "arquivo": "dados/b1/unidades.json",
+      "sha256_antes": "0a536d3513d0c77b393cdc713987313b09b0e1d4cfb38ee6fd757c211d8340d7",
+      "sha256_depois": "0a536d3513d0c77b393cdc713987313b09b0e1d4cfb38ee6fd757c211d8340d7",
+      "preservado": true
+    },
+    {
+      "arquivo": "dados/b2/unidades.json",
+      "sha256_antes": "4fcff49ed4f393a3ea60054420da75f920d62cb859ada4f312b04dd18d8311e7",
+      "sha256_depois": "4fcff49ed4f393a3ea60054420da75f920d62cb859ada4f312b04dd18d8311e7",
+      "preservado": true
+    },
+    {
+      "arquivo": "dados/c1/unidades.json",
+      "sha256_antes": "d490344e8811ca6c99234187beaca7bd696be46f34794492b204b79628d69c70",
+      "sha256_depois": "d490344e8811ca6c99234187beaca7bd696be46f34794492b204b79628d69c70",
+      "preservado": true
+    },
+    {
+      "arquivo": "dados/c2/unidades.json",
+      "sha256_antes": "ed1ea3242241d2655f8ca341695155b4d743acd9764c38ec37b46e4ab8e4ad41",
+      "sha256_depois": "ed1ea3242241d2655f8ca341695155b4d743acd9764c38ec37b46e4ab8e4ad41",
+      "preservado": true
+    },
+    {
+      "arquivo": "dados/kids/unidades.json",
+      "sha256_antes": "3b18cbe06f2f95690a1881e4a2970d567bbb90bb1edcd2e0ca4ac7ba254592de",
+      "sha256_depois": "3b18cbe06f2f95690a1881e4a2970d567bbb90bb1edcd2e0ca4ac7ba254592de",
+      "preservado": true
+    }
+  ]
+}
