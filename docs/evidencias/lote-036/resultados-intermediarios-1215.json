@@ -1,0 +1,66 @@
+{
+  "total": 15,
+  "aprovados": 15,
+  "resultados": [
+    {
+      "teste": "leitura integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "paginação íntegra",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "4 partes decididas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "destinos válidos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero útil sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "integridade",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem automação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero imagem publicada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sanitização",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash preservado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "834 unidades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1977 atividades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "IDs únicos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "barreira 1215",
+      "resultado": "APROVADO"
+    }
+  ]
+}

@@ -290,3 +290,12 @@
 - Classificar as fontes como independentes com sobreposição temática parcial.
 - Não publicar imagem, páginas, exemplos, tabelas, aproximação fonética ou créditos; encerrar antes de 1215.
 <!-- LOTE-035-DECISOES:FIM -->
+
+<!-- LOTE-036-DECISOES:INICIO -->
+## Decisões do lote 036
+
+- Ler 1215 e 1216 integralmente, com barreira intermediária antes da segunda fonte.
+- Destinar stress, reduções e contrações somente a unidades existentes.
+- Registrar que 1216 já estava tratada como duplicata por hash; a comparação do lote não altera esse histórico.
+- Não publicar páginas, tabelas, exemplos, traduções ou editorial; encerrar antes de 1217.
+<!-- LOTE-036-DECISOES:FIM -->

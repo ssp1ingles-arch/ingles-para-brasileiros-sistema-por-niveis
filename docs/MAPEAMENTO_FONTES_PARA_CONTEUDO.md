@@ -238,3 +238,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1213 é um fragmento visual de redução informal; 1214 é um PDF curto sobre connected speech e Flap T. Os destinos existentes receberam apenas procedência sanitizada.
 <!-- LOTE-035-MAPEAMENTO:FIM -->
+
+<!-- LOTE-036-MAPEAMENTO:INICIO -->
+## Lote 036 — mapeamento
+
+1215 consolida stress de frase e palavras funcionais; 1216 consolida contrações e já constava como duplicata integral de fonte anterior. Somente procedência sanitizada foi registrada.
+<!-- LOTE-036-MAPEAMENTO:FIM -->

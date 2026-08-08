@@ -1,0 +1,257 @@
+{
+  "lote": "036",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1215,
+        1216
+      ],
+      "executada_apos_validacao_1215": true,
+      "tamanhos": [
+        6650,
+        7408
+      ],
+      "hashes_brutos": [
+        "065ba5c2098058b0ec8934e1cd5cfcdafb4c0fd6a4d661db6faff778c3b11af1",
+        "84f087870c4a0362e33fb9d894b59a82d822faae20bb16faab040b7f0be291a9"
+      ],
+      "hashes_normalizados": [
+        "401597670d067df2e093791ef140a7dd4cbfa907cc59a45562de966c56a3eef5",
+        "aa2cff86ce6242136e73f07ce97d7c4edb54687970a01bd454ad5922bd2fdf74"
+      ],
+      "corpo_integral_igual": false,
+      "estrutura_igual": false,
+      "paginacao": "ambas têm duas páginas contínuas, mas seções e conteúdo diferem",
+      "tema_1215": "content/function words, proeminência e ritmo",
+      "tema_1216": "contrações afirmativas, negativas, temporais e interrogativas",
+      "sobreposicao": "parcial no domínio de redução e fala natural; 1215 trata ritmo lexical/gramatical e 1216 trata formas contraídas",
+      "conteudo_exclusivo_1215": "classificação lexical/gramatical e stress de frase",
+      "conteudo_exclusivo_1216": "inventário funcional de contrações e ambiguidade de formas",
+      "classificacao": "fontes independentes com sobreposição temática parcial; não são duplicatas",
+      "decisao": "classificar separadamente e não republicar páginas, tabelas, exemplos ou traduções"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1215,
+      "nome_completo": "1215_QW_SALA04_PDF2_CONTENT_FUNCTION_CONTENT_WORDS_FUNCTION_WORDS_STRESS_2.md",
+      "tipo": "extração nativa de PDF didático curto",
+      "tamanho_bytes": 6650,
+      "hash_bruto": "065ba5c2098058b0ec8934e1cd5cfcdafb4c0fd6a4d661db6faff778c3b11af1",
+      "hash_normalizado": "401597670d067df2e093791ef140a7dd4cbfa907cc59a45562de966c56a3eef5",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": true,
+        "presentes": [
+          1,
+          2
+        ],
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "paginas": 2,
+        "secoes_uteis": 4,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "indices": 0,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "content-function-words",
+          "paginas": [
+            1
+          ],
+          "natureza": "distinção entre palavras lexicais e gramaticais na construção de sentido",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L10-0461-01",
+          "justificativa": "A classificação e a redução das palavras gramaticais integram o objetivo já publicado de reduções e fala conectada.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "stress-frase",
+          "paginas": [
+            2
+          ],
+          "natureza": "proeminência das palavras de conteúdo e enfraquecimento das palavras de função",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "O contraste de proeminência e ritmo pertence ao destino existente de pronúncia inteligível.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "estrategia-escuta-producao",
+          "paginas": [
+            2
+          ],
+          "natureza": "orientação de escuta seletiva e produção com ritmo",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Compreensão oral",
+          "destino_curricular_especifico": "B1-L15-0841-01",
+          "justificativa": "A orientação converge com o treino de escuta e imitação já existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "exemplos-tabelas-editorial",
+          "paginas": [
+            1,
+            2
+          ],
+          "natureza": "tabelas, exemplos, traduções, alertas e resumo repetitivo",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Servem de ilustração ou repetem conceitos destinados; não justificam reprodução nem objetivo autônomo."
+        }
+      ],
+      "totais": {
+        "partes": 4,
+        "consolidadas": 3,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Somente classificação, contagens, hashes e destinos; páginas, tabelas, exemplos e traduções não foram republicados."
+    },
+    {
+      "numero": 1216,
+      "nome_completo": "1216_QW_SALA04_PDF3_CONTRACTIONS_CONTRACOES_ESSENCIAIS_FALA_NATURAL_2.md",
+      "tipo": "extração nativa de PDF didático curto",
+      "tamanho_bytes": 7408,
+      "hash_bruto": "84f087870c4a0362e33fb9d894b59a82d822faae20bb16faab040b7f0be291a9",
+      "hash_normalizado": "aa2cff86ce6242136e73f07ce97d7c4edb54687970a01bd454ad5922bd2fdf74",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": true,
+        "presentes": [
+          1,
+          2
+        ],
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "paginas": 2,
+        "secoes_uteis": 4,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "indices": 0,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "contracoes-to-be",
+          "paginas": [
+            1
+          ],
+          "natureza": "contrações afirmativas com to be",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "A1-PRON-0001",
+          "justificativa": "O conteúdo coincide com o objetivo existente de contrações básicas com to be.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "contracoes-negativas",
+          "paginas": [
+            1
+          ],
+          "natureza": "contrações negativas frequentes",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "A2-PRON-0001",
+          "justificativa": "As formas negativas já possuem destino específico publicado.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "will-have-would-had",
+          "paginas": [
+            2
+          ],
+          "natureza": "contrações com will, have, would e had e ambiguidade contextual",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-PRON-0001",
+          "destinos_adicionais": [
+            "B2-PRON-0001"
+          ],
+          "justificativa": "Will/have e a distinção would/had já estão cobertas por destinos específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "perguntas-contraidas",
+          "paginas": [
+            2
+          ],
+          "natureza": "contrações em perguntas com question words",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "A1-PRON-0002",
+          "justificativa": "O padrão interrogativo já pertence à unidade publicada de contrações em perguntas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "tabelas-exemplos-editorial",
+          "paginas": [
+            1,
+            2
+          ],
+          "natureza": "tabelas, exemplos, traduções, alertas, mito e resumo",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Material ilustrativo ou repetitivo, sem objetivo autônomo e impróprio para reprodução extensa."
+        }
+      ],
+      "totais": {
+        "partes": 5,
+        "consolidadas": 4,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Somente estrutura, contagens, decisões, hashes e destinos; páginas, tabelas, exemplos e traduções não foram republicados."
+    }
+  ]
+}

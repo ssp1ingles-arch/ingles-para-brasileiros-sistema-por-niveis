@@ -1,0 +1,42 @@
+{
+  "lote": "036",
+  "intervalo": [
+    1215,
+    1216
+  ],
+  "sequenciais": [
+    {
+      "numero": 1215,
+      "nome": "1215_QW_SALA04_PDF2_CONTENT_FUNCTION_CONTENT_WORDS_FUNCTION_WORDS_STRESS_2.md",
+      "tamanho_bytes": 6650,
+      "hash_bruto": "065ba5c2098058b0ec8934e1cd5cfcdafb4c0fd6a4d661db6faff778c3b11af1",
+      "hash_normalizado": "401597670d067df2e093791ef140a7dd4cbfa907cc59a45562de966c56a3eef5",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "extração nativa de PDF didático curto",
+      "paginas": 2,
+      "partes": 4,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1216,
+      "nome": "1216_QW_SALA04_PDF3_CONTRACTIONS_CONTRACOES_ESSENCIAIS_FALA_NATURAL_2.md",
+      "tamanho_bytes": 7408,
+      "hash_bruto": "84f087870c4a0362e33fb9d894b59a82d822faae20bb16faab040b7f0be291a9",
+      "hash_normalizado": "aa2cff86ce6242136e73f07ce97d7c4edb54687970a01bd454ad5922bd2fdf74",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "extração nativa de PDF didático curto",
+      "paginas": 2,
+      "partes": 5,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1215,
+    "testes": "15/15",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1216, antes de 1217; fontes independentes com sobreposição temática parcial."
+}
