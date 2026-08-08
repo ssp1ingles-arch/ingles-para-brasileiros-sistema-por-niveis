@@ -1,0 +1,26 @@
+{
+  "total": 5,
+  "aprovados": 5,
+  "resultados": [
+    {
+      "teste": "intermediária 1191 antecede comparação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "tamanhos e hashes brutos registrados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "corpo e normalização iguais",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "paginação, ausências e ordem iguais",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "capítulos/exemplos iguais e sem exclusivo",
+      "resultado": "APROVADO"
+    }
+  ]
+}

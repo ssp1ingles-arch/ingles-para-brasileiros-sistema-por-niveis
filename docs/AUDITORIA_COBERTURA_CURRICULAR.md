@@ -97,3 +97,9 @@ Cobertura documental calculada: 79,83% → 79,96%. Currículo e experiência per
 
 Cobertura documental calculada: 79,96% → 80,16%. Currículo, atividades e experiência permaneceram estáveis.
 <!-- LOTE-025-COBERTURA:FIM -->
+
+<!-- LOTE-026-COBERTURA:INICIO -->
+## Atualização curricular — lote 026
+
+Cobertura documental: 80,16% → 80,28%. Currículo, atividades e Jornada permaneceram estáveis.
+<!-- LOTE-026-COBERTURA:FIM -->

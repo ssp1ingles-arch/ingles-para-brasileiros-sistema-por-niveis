@@ -1,0 +1,91 @@
+{
+  "total": 17,
+  "aprovados": 17,
+  "resultados": [
+    {
+      "teste": "somente 1191 aberta",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "leitura integral",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "página 2 ausente registrada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem páginas repetidas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem páginas vazias/OCR/corrupção",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "todas as páginas decididas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "nenhum conteúdo útil sem destino",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "destinos existentes",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "editorial justificado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "estrutura completa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem reprodução extensa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs e base preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Jornada preservada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Kids e C2 válidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "hash 1191 preservado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1192 ainda bloqueada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

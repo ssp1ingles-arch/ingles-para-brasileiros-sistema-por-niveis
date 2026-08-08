@@ -196,3 +196,13 @@
 - Comparar 1190 somente após a validação intermediária 12/12 de 1189.
 - Encerrar antes de 1191.
 <!-- LOTE-025-DECISOES:FIM -->
+
+<!-- LOTE-026-DECISOES:INICIO -->
+## Decisões do lote 026
+
+- Mapear integralmente 1191 antes de abrir 1192.
+- Registrar 78 unidades temáticas e cada página sem copiar listas, exercícios, respostas ou imagens.
+- Relacionar ensino, exercícios e respostas a unidades existentes; usar a lista alfabética somente para cobertura.
+- Consolidar 1192 apenas depois da validação intermediária 17/17.
+- Encerrar antes de 1193.
+<!-- LOTE-026-DECISOES:FIM -->

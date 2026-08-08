@@ -178,3 +178,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1188 forneceu as regras de seleção de inglês real. 1189 possui 361 páginas presentes: 345 consolidadas e 16 descartadas; a página 2 está ausente no Markdown. 1190 é duplicata integral comprovada após validação intermediária.
 <!-- LOTE-025-MAPEAMENTO:FIM -->
+
+<!-- LOTE-026-MAPEAMENTO:INICIO -->
+## Lote 026 — mapeamento
+
+1191 possui 361 páginas presentes e 78 unidades temáticas: 156 páginas consolidadas, 174 referenciadas sem publicação e 31 editoriais/índice descartadas. A página 2 está ausente. 1192 é duplicata integral comprovada após intermediária.
+<!-- LOTE-026-MAPEAMENTO:FIM -->

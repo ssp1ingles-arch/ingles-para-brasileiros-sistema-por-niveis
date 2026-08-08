@@ -1,0 +1,46 @@
+{
+  "lote": "026",
+  "intervalo": [
+    1191,
+    1192
+  ],
+  "sequenciais": [
+    {
+      "numero": 1191,
+      "nome": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+      "tamanho_bytes": 263638,
+      "hash_bruto": "c08cd955dfd212053b60a373913f9429c26cb81434e6734632af49c95b58dec1",
+      "hash_normalizado": "ee61b253680b06e78ee3bb12f2c462ffc4da4af5824efc8da60cbea065636274",
+      "leitura_integral": true,
+      "paginas": 361,
+      "status": "integralmente classificada",
+      "sem_destino_util": 0,
+      "justificativa": "361 páginas presentes e 78 seções temáticas integralmente decididas; página 2 ausente registrada."
+    },
+    {
+      "numero": 1192,
+      "nome": "1192_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition)_2.md",
+      "tamanho_bytes": 263639,
+      "hash_bruto": "1ad7cf1141cff13045ca867f46134d26edff0dbef25603a6d5b26e7d78a7fd19",
+      "hash_normalizado": "ee61b253680b06e78ee3bb12f2c462ffc4da4af5824efc8da60cbea065636274",
+      "leitura_integral": true,
+      "paginas": 361,
+      "status": "duplicata consolidada",
+      "duplicata_de": 1191,
+      "sem_destino_util": 0,
+      "justificativa": "Corpo textual integral, 361 páginas, ausência da página 2, ordem, capítulos, exemplos e hash normalizado idênticos a 1191."
+    }
+  ],
+  "direcionadas": [],
+  "duplicatas": [
+    1192
+  ],
+  "parciais": [],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1191,
+    "testes": "17/17",
+    "aprovada": true
+  },
+  "observacao": "Encerrado antes de 1193; 1192 comparada somente depois da intermediária formal de 1191."
+}
