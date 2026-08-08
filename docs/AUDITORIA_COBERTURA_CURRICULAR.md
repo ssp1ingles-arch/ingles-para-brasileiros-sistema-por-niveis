@@ -133,3 +133,9 @@ Cobertura: 80,74% → 80,87%. Unidades, atividades, subpainéis, Jornada e local
 
 Cobertura: 80,87% → 81,00%. Unidades, atividades, subpainéis, Jornada e localStorage permaneceram estáveis.
 <!-- LOTE-031-COBERTURA:FIM -->
+
+<!-- LOTE-032-COBERTURA:INICIO -->
+## Atualização curricular — lote 032
+
+Cobertura: 81,00% → 81,12%. Unidades, atividades, subpainéis, Jornada e localStorage permaneceram estáveis.
+<!-- LOTE-032-COBERTURA:FIM -->

@@ -214,3 +214,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1205 e 1206 são OCRs de imagens curtas com o mesmo modelo e verbo-base, mas focos gramaticais distintos: going to e would. Cada ocorrência foi consolidada em destino existente; pseudo-fonética, créditos, identificadores, frases e imagens não foram publicados.
 <!-- LOTE-031-MAPEAMENTO:FIM -->
+
+<!-- LOTE-032-MAPEAMENTO:INICIO -->
+## Lote 032 — mapeamento
+
+1207 e 1208 compartilham modelo e verbo-base, mas distinguem passado simples irregular e passado contínuo. Somente decisões e procedências sanitizadas foram publicadas.
+<!-- LOTE-032-MAPEAMENTO:FIM -->

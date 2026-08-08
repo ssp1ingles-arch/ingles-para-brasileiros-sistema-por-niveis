@@ -1,0 +1,94 @@
+{
+  "total": 22,
+  "aprovados": 22,
+  "resultados": [
+    {
+      "teste": "intervalo",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "duas fontes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "leitura visual",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "partes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "decisões",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "destinos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "integridade",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem automação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero imagens",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sanitização",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "834 unidades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1977 atividades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "IDs unidades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "IDs atividades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Jornada 806+28",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Jornada íntegra",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "806 preservados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "localStorage",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "66 sem atividade",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "encerrado",
+      "resultado": "APROVADO"
+    }
+  ]
+}

@@ -254,3 +254,12 @@
 - Descartar aproximações fonéticas não padronizadas, créditos e identificadores; não publicar imagens ou frases.
 - Encerrar antes de 1207.
 <!-- LOTE-031-DECISOES:FIM -->
+
+<!-- LOTE-032-DECISOES:INICIO -->
+## Decisões do lote 032
+
+- Conferir 1207 e 1208 no Markdown e nas imagens somente leitura.
+- Consolidar passado simples e passado contínuo de think em destinos existentes distintos.
+- Classificar como fragmentos complementares, não duplicatas.
+- Descartar pseudo-fonética, créditos, perfis e elementos visuais; encerrar antes de 1209.
+<!-- LOTE-032-DECISOES:FIM -->

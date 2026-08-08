@@ -1,0 +1,47 @@
+{
+  "versao": "032",
+  "gerado_em": "2026-08-08T18:09:31.719Z",
+  "comparacao": {
+    "antes": {
+      "tratadas": 1253,
+      "pendentes": 294,
+      "cobertura": 81
+    },
+    "depois": {
+      "tratadas": 1255,
+      "pendentes": 292,
+      "cobertura": 81.12
+    }
+  },
+  "unidades": 834,
+  "atividades": 1977,
+  "subpaineis": 95,
+  "por_nivel": {
+    "A1": 80,
+    "A2": 360,
+    "B1": 270,
+    "B2": 95,
+    "C1": 18,
+    "C2": 5,
+    "KIDS": 6
+  },
+  "por_habilidade": {
+    "Conversação": 103,
+    "Escrita": 7,
+    "Escuta": 15,
+    "Gramática": 282,
+    "Inglês acadêmico": 15,
+    "Inglês profissional": 5,
+    "Leitura": 13,
+    "Pronúncia": 21,
+    "Verbos": 339,
+    "Vocabulário": 34
+  },
+  "impacto": "1207 e 1208 classificados como fragmentos complementares sobre passado simples e contínuo de think, sem republicação.",
+  "lacunas_abertas": [
+    "escuta objetiva",
+    "inglês profissional",
+    "Kids legítimo",
+    "C2 comprovado"
+  ]
+}
