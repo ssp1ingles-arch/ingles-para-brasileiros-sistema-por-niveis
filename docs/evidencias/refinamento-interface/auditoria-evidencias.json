@@ -1,0 +1,33 @@
+{
+  "resultado": "APROVADO",
+  "capturas": [
+    {
+      "device": "desktop",
+      "theme": "claro",
+      "largura": 1440,
+      "tema_aplicado": "light",
+      "voltar_visivel": true
+    },
+    {
+      "device": "desktop",
+      "theme": "escuro",
+      "largura": 1440,
+      "tema_aplicado": "dark",
+      "voltar_visivel": true
+    },
+    {
+      "device": "celular",
+      "theme": "claro",
+      "largura": 390,
+      "tema_aplicado": "light",
+      "voltar_visivel": true
+    },
+    {
+      "device": "celular",
+      "theme": "escuro",
+      "largura": 390,
+      "tema_aplicado": "dark",
+      "voltar_visivel": true
+    }
+  ]
+}

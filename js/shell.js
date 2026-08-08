@@ -1,26 +1,23 @@
 (() => {
   const root = location.pathname.includes('/niveis/') ? '../../' : '';
-  const redesign = document.createElement('link'); redesign.rel = 'stylesheet'; redesign.href = root + 'css/redesign.css'; document.head.append(redesign); const fixes=document.createElement('link');fixes.rel='stylesheet';fixes.href=root+'css/redesign-fixes.css';document.head.append(fixes);
+  const themeKey = 'interfaceThemeV1';
+  const savedTheme = localStorage.getItem(themeKey);
+  const systemDark = matchMedia('(prefers-color-scheme: dark)').matches;
+  const initialTheme = savedTheme === 'light' || savedTheme === 'dark' ? savedTheme : (systemDark ? 'dark' : 'light');
+  document.documentElement.dataset.theme = initialTheme;
+  document.documentElement.style.colorScheme = initialTheme;
+  for (const file of ['redesign.css','redesign-fixes.css','themes.css','theme-overrides.css']) { const link=document.createElement('link');link.rel='stylesheet';link.href=root+'css/'+file;document.head.append(link); }
+  const internal = location.origin === document.referrer && document.referrer.startsWith(location.origin + location.pathname.split('/').slice(0,-1).join('/'));
+  const isHome = !document.body.dataset.level && /(?:^|\/)index\.html$/.test(location.pathname) || location.pathname.endsWith('/ingles-para-brasileiros-sistema-por-niveis/');
+  const items = [['index.html','Início'],['jornada.html','Jornada'],['index.html#niveis','Níveis'],['praticar.html','Praticar'],['estudar.html','Revisar'],['estudar.html?origem=favoritos','Favoritos'],['estudar.html#progresso','Progresso']];
   const current = location.pathname.split('/').filter(Boolean).pop() || 'index.html';
-  const items = [
-    ['index.html', 'Início'], ['jornada.html', 'Jornada'], ['index.html#niveis', 'Níveis'],
-    ['praticar.html', 'Praticar'], ['estudar.html', 'Revisar'],
-    ['estudar.html?origem=favoritos', 'Favoritos'], ['estudar.html#progresso', 'Progresso']
-  ];
-  const nav = document.createElement('nav');
-  nav.className = 'site-nav';
-  nav.setAttribute('aria-label', 'Navegação principal');
-  nav.innerHTML = `<a class="brand" href="${root}index.html" aria-label="Inglês para Brasileiros — início"><span aria-hidden="true">IB</span><strong>Inglês para Brasileiros</strong></a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-menu"><span aria-hidden="true">☰</span><span class="sr-only">Abrir menu</span></button><div class="nav-links" id="main-menu">${items.map(([href,label])=>`<a href="${root}${href}"${href.startsWith(current)?' aria-current="page"':''}>${label}</a>`).join('')}</div>`;
-  document.body.insertBefore(nav, document.body.firstChild);
+  const nav = document.createElement('nav');nav.className='site-nav';nav.setAttribute('aria-label','Navegação principal');
+  nav.innerHTML=`<div class="nav-start">${isHome?'':`<button class="back-button" type="button" aria-label="Voltar"><span aria-hidden="true">←</span><span>Voltar</span></button>`}<a class="brand" href="${root}index.html" aria-label="Inglês para Brasileiros — início"><span aria-hidden="true">IB</span><strong>Inglês para Brasileiros</strong></a></div><div class="nav-actions"><button class="theme-toggle" type="button" aria-label="Ativar modo ${initialTheme==='dark'?'claro':'escuro'}" title="Alternar tema"><span aria-hidden="true">${initialTheme==='dark'?'☀':'☾'}</span></button><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-menu"><span aria-hidden="true">☰</span><span class="sr-only">Abrir menu</span></button></div><div class="nav-links" id="main-menu">${items.map(([href,label])=>`<a href="${root}${href}"${href.startsWith(current)?' aria-current="page"':''}>${label}</a>`).join('')}</div>`;
+  document.body.insertBefore(nav,document.body.firstChild);
   nav.querySelector('a[href*="estudar.html"]')?.classList.add('study-entry');nav.querySelector('a[href*="jornada.html"]')?.classList.add('journey-entry');nav.querySelector('a[href*="praticar.html"]')?.classList.add('practice-entry');
-  const toggle = nav.querySelector('.menu-toggle');
-  const links = nav.querySelector('.nav-links');
-  toggle.addEventListener('click', () => {
-    const open = toggle.getAttribute('aria-expanded') === 'true';
-    toggle.setAttribute('aria-expanded', String(!open));
-    links.classList.toggle('open', !open);
-    toggle.querySelector('.sr-only').textContent = open ? 'Abrir menu' : 'Fechar menu';
-  });
-  links.addEventListener('click', () => { toggle.setAttribute('aria-expanded','false'); links.classList.remove('open'); });
-  const friendlyOptions=()=>document.querySelectorAll('option').forEach(o=>{if(/^(a1|a2|b1|b2|c1|c2|kids)-/i.test(o.textContent)){o.textContent=o.textContent.replace(/^(a1|a2|b1|b2|c1|c2|kids)-/i,'').replaceAll('-',' ').replace(/\b\w/g,c=>c.toUpperCase())}});friendlyOptions();new MutationObserver(friendlyOptions).observe(document.body,{childList:true,subtree:true});
+  const toggle=nav.querySelector('.menu-toggle'),links=nav.querySelector('.nav-links');toggle.addEventListener('click',()=>{const open=toggle.getAttribute('aria-expanded')==='true';toggle.setAttribute('aria-expanded',String(!open));links.classList.toggle('open',!open);toggle.querySelector('.sr-only').textContent=open?'Abrir menu':'Fechar menu'});links.addEventListener('click',()=>{toggle.setAttribute('aria-expanded','false');links.classList.remove('open')});
+  const themeButton=nav.querySelector('.theme-toggle');themeButton.addEventListener('click',()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;document.documentElement.style.colorScheme=next;localStorage.setItem(themeKey,next);themeButton.querySelector('span').textContent=next==='dark'?'☀':'☾';themeButton.setAttribute('aria-label',`Ativar modo ${next==='dark'?'claro':'escuro'}`)});
+  nav.querySelector('.back-button')?.addEventListener('click',()=>{if(document.referrer.startsWith(location.origin)&&history.length>1)history.back();else if(document.body.dataset.level)location.href=root+'index.html#niveis';else location.href=root+'index.html'});
+  const friendlyOptions=()=>document.querySelectorAll('option').forEach(o=>{if(/^(a1|a2|b1|b2|c1|c2|kids)-/i.test(o.textContent))o.textContent=o.textContent.replace(/^(a1|a2|b1|b2|c1|c2|kids)-/i,'').replaceAll('-',' ').replace(/\b\w/g,c=>c.toUpperCase())});friendlyOptions();new MutationObserver(friendlyOptions).observe(document.body,{childList:true,subtree:true});
+  if(document.body.dataset.level){const filters=document.querySelector('.filters'),search=document.querySelector('#busca'),status=document.createElement('p');status.className='filter-status';status.setAttribute('aria-live','polite');filters?.after(status);const update=()=>{requestAnimationFrame(()=>{const n=document.querySelectorAll('.unit-group').length;status.textContent=search?.value?`${n} subpainel${n===1?'':'éis'} com resultados. O primeiro está aberto; selecione outro para navegar.`:''})};search?.addEventListener('input',update);new MutationObserver(update).observe(document.querySelector('#unidades'),{childList:true})}
 })();

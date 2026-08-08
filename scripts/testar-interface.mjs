@@ -163,6 +163,7 @@ check("última unidade sem próxima", (await lastUnit.count()) === 1);
 const firstId = await firstUnit.getAttribute("id"),
   nextHref = await firstUnit.locator(".next").getAttribute("href"),
   secondId = nextHref.slice(1);
+await firstUnit.evaluate((unit) => { unit.closest("details").open = true; });
 await firstUnit.locator(".next").click();
 check(
   "próxima respeita filtro",

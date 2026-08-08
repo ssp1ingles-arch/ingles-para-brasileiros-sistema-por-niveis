@@ -1,6 +1,6 @@
 {
   "tipo": "auditoria-preservacao-redesign",
-  "base_git": "HEAD antes do commit de redesign",
+  "base_git": "HEAD anterior à segunda etapa do refinamento",
   "resultado": "APROVADO",
   "totais": {
     "unidades": 834,
@@ -11,19 +11,40 @@
   },
   "preservacao": {
     "arquivos_pedagogicos_byte_a_byte": true,
-    "titulos_conteudos_exemplos_traducoes": true,
+    "titulos_explicacoes_conteudos_exemplos_traducoes": true,
     "ids_niveis_habilidades_prerequisitos": true,
     "procedencias_internas": true,
     "renderizacao_procedencia_removida": true,
-    "localStorage_compativel": [
+    "localStorage_progresso_compativel": [
       "nivelState",
-      "nivelGroupState",
       "studyProgressV1",
       "studySessionV1",
       "practiceStatsV1",
       "practiceSessionV1",
       "journeyLastUnit"
     ]
+  },
+  "segunda_etapa": {
+    "tema": {
+      "chave_nova": "interfaceThemeV1",
+      "claro_escuro": true,
+      "preferencia_sistema": true,
+      "progresso_nao_alterado": true
+    },
+    "acordeao": {
+      "chave_nova": "nivelAccordionStateV2",
+      "estado_antigo_migrado_de": "nivelGroupState",
+      "maximo_aberto_por_nivel": 1
+    },
+    "layout": {
+      "unidades_coluna_unica": true,
+      "acoes_agrupadas": true
+    },
+    "navegacao": {
+      "voltar_sticky": true,
+      "fallback_interno": true
+    },
+    "conteudo_pedagogico_alterado": false
   },
   "arquivos": [
     {
