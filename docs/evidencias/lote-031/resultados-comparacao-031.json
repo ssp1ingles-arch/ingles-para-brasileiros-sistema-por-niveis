@@ -1,0 +1,38 @@
+{
+  "total": 8,
+  "aprovados": 8,
+  "resultados": [
+    {
+      "teste": "ordem da comparação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "corpos diferentes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hashes brutos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hashes normalizados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "modelo compartilhado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "focos distintos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "imagens distintas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "classificação complementar",
+      "resultado": "APROVADO"
+    }
+  ]
+}

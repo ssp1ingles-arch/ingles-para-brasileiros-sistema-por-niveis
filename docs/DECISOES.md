@@ -244,3 +244,13 @@
 - Não republicar frases, traduções, exercícios, respostas ou a tabela Review.
 - Preservar currículo e experiência; encerrar antes de 1202.
 <!-- LOTE-030-DECISOES:FIM -->
+
+<!-- LOTE-031-DECISOES:INICIO -->
+## Decisões do lote 031
+
+- Classificar 1205 e 1206 após leitura do Markdown e inspeção visual das imagens somente leitura.
+- Consolidar 1205 no futuro planejado com going to e 1206 nos usos fundamentais de would.
+- Tratar as fontes como fragmentos complementares com sobreposição editorial, não duplicatas.
+- Descartar aproximações fonéticas não padronizadas, créditos e identificadores; não publicar imagens ou frases.
+- Encerrar antes de 1207.
+<!-- LOTE-031-DECISOES:FIM -->

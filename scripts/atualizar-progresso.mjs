@@ -99,6 +99,10 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-030/resultados-validacao-030.json'
   ,'docs/evidencias/lote-030/resultados-comparacao-030.json'
   ,'docs/evidencias/lote-030/resultados-rotas-030.json'
+  ,'docs/evidencias/lote-031/resultados-intermediarios-1205.json'
+  ,'docs/evidencias/lote-031/resultados-validacao-031.json'
+  ,'docs/evidencias/lote-031/resultados-comparacao-031.json'
+  ,'docs/evidencias/lote-031/resultados-rotas-031.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);

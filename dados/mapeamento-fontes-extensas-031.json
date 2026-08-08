@@ -1,0 +1,164 @@
+{
+  "lote": "031",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1205,
+        1206
+      ],
+      "executada_apos_validacao_1205": true,
+      "tamanho_1205": 850,
+      "tamanho_1206": 840,
+      "hash_bruto_1205": "34d44feba27e3250f03ca8ed0666c5e7f80a7af5f00c1758fcad08b002ba43e5",
+      "hash_bruto_1206": "e8e1cb1b661528abfea96ed4d00769ba7a0e5e8ac9f2986dc49ba5d293fc20c3",
+      "hash_normalizado_1205": "5e09061a6e8e403a332a3efa17a39b9080303538ce08a7908eb312f7c8d1b7a7",
+      "hash_normalizado_1206": "2e54e4724d87eadc0f9cf5ffd726fd4c855c65c577a9b607e8d33703536435c8",
+      "corpo_integral_igual": false,
+      "ordem_estrutural_igual": true,
+      "tipo_origem_igual": true,
+      "modelo_visual_igual": true,
+      "verbo_base_compartilhado": "think",
+      "foco_gramatical_1205": "going to para futuro planejado",
+      "foco_gramatical_1206": "would para situação hipotética",
+      "imagens_origem_iguais": false,
+      "creditos_editoriais_equivalentes": true,
+      "sobreposicao": "extensa no modelo visual, créditos e verbo-base; conteúdo linguístico central distinto",
+      "conteudo_exclusivo_1205": "uma ocorrência de futuro planejado com going to",
+      "conteudo_exclusivo_1206": "uma ocorrência de would em formulação hipotética",
+      "classificacao": "fragmentos complementares com sobreposição editorial; não são duplicatas",
+      "decisao": "classificar separadamente, consolidar em destinos gramaticais distintos e não publicar imagens, frases, pseudo-fonética ou créditos"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1205,
+      "nome_completo": "1205_2E6834F9-E31A-4992-8A29-F6622BD1EBED.md",
+      "tipo": "OCR de imagem didática curta",
+      "tamanho_bytes": 850,
+      "hash_bruto": "34d44feba27e3250f03ca8ed0666c5e7f80a7af5f00c1758fcad08b002ba43e5",
+      "hash_normalizado": "5e09061a6e8e403a332a3efa17a39b9080303538ce08a7908eb312f7c8d1b7a7",
+      "leitura_integral": true,
+      "imagem_original_conferida_somente_leitura": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "presentes": 0,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": []
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_insuficiente": false,
+        "corrupcao": false,
+        "correspondencia_visual": "texto principal e créditos confirmados; OCR omitiu apenas pontuação/acentuação da aproximação fonética"
+      },
+      "estrutura": {
+        "frases_bilingues": 1,
+        "aproximacoes_foneticas_nao_padronizadas": 1,
+        "creditos_ou_identificadores": 2,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "frase-bilingue",
+          "natureza": "frase curta com futuro planejado por going to",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "B1-L3-0055-02",
+          "justificativa": "O futuro planejado com going to já é coberto pela unidade existente; a ocorrência acrescenta apenas procedência e não justifica nova unidade.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "aproximacao-fonetica",
+          "natureza": "grafia aproximativa de pronúncia para falante de português, sem IPA",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Não é transcrição fonética padronizada e neutraliza contrastes importantes; não será ensinada como pronúncia confiável."
+        },
+        {
+          "id": "creditos",
+          "natureza": "nome, perfil social e marca de republicação",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Créditos e identificadores pessoais/editoriais não constituem conteúdo curricular e não serão republicados."
+        }
+      ],
+      "totais": {
+        "partes": 3,
+        "consolidadas": 1,
+        "descartadas": 2,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Somente classificação, contagens, hashes e destino; a frase, a imagem, a aproximação fonética e os créditos não foram republicados."
+    },
+    {
+      "numero": 1206,
+      "nome_completo": "1206_3314942F-07CF-487C-9C83-707A4EB8B493.md",
+      "tipo": "OCR de imagem didática curta",
+      "tamanho_bytes": 840,
+      "hash_bruto": "e8e1cb1b661528abfea96ed4d00769ba7a0e5e8ac9f2986dc49ba5d293fc20c3",
+      "hash_normalizado": "2e54e4724d87eadc0f9cf5ffd726fd4c855c65c577a9b607e8d33703536435c8",
+      "leitura_integral": true,
+      "imagem_original_conferida_somente_leitura": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "presentes": 0,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": []
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_insuficiente": false,
+        "corrupcao": false,
+        "correspondencia_visual": "texto principal e créditos confirmados; OCR aglutinou separador dos créditos e simplificou a aproximação fonética"
+      },
+      "estrutura": {
+        "frases_bilingues": 1,
+        "aproximacoes_foneticas_nao_padronizadas": 1,
+        "creditos_ou_identificadores": 2,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "frase-bilingue",
+          "natureza": "frase curta com would para situação hipotética",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "B1-L6-0230-01",
+          "justificativa": "O uso fundamental de would já é coberto pela unidade existente; a ocorrência não justifica nova unidade.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "aproximacao-fonetica",
+          "natureza": "grafia aproximativa de pronúncia para falante de português, sem IPA",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Não é transcrição fonética padronizada e neutraliza contrastes importantes; não será ensinada como pronúncia confiável."
+        },
+        {
+          "id": "creditos",
+          "natureza": "nome, perfil social e marca de republicação",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Créditos e identificadores pessoais/editoriais não constituem conteúdo curricular e não serão republicados."
+        }
+      ],
+      "totais": {
+        "partes": 3,
+        "consolidadas": 1,
+        "descartadas": 2,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Somente classificação, contagens, hashes e destino; a frase, a imagem, a aproximação fonética e os créditos não foram republicados."
+    }
+  ]
+}

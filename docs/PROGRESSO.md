@@ -1,6 +1,6 @@
 # Progresso
 
-Atualizado em 2026-08-08 após o lote 030.
+Atualizado em 2026-08-08 após o lote 031.
 
 <!-- ESTADO-ATUAL:INICIO -->
 ## Estado atual confirmado
@@ -8,23 +8,23 @@ Atualizado em 2026-08-08 após o lote 030.
 > Bloco calculado automaticamente por `scripts/atualizar-progresso.mjs`. Não editar os números manualmente.
 
 - Total de fontes: **1.547**
-- Fontes integralmente classificadas: **417**
+- Fontes integralmente classificadas: **419**
 - Duplicatas consolidadas: **788**
 - Fontes parcialmente analisadas: **0**
 - Fontes sem conteúdo didático: **46**
-- Total tratado: **1251**
-- Fontes não analisadas: **296**
-- Cobertura real: **80,87%** (`1251 ÷ 1.547`)
+- Total tratado: **1253**
+- Fontes não analisadas: **294**
+- Cobertura real: **81,00%** (`1253 ÷ 1.547`)
 - Unidades publicadas: **834**
 - Por nível: A1 **80**; A2 **360**; B1 **270**; B2 **95**; C1 **18**; C2 **5**; Kids **6**
 - Habilidade principal: Conversação **103**; Escrita **7**; Escuta **15**; Gramática **282**; Inglês acadêmico **15**; Inglês profissional **5**; Leitura **13**; Pronúncia **21**; Verbos **339**; Vocabulário **34**
 - Subpainéis: **95**
 - Jornada: **31 etapas**, **82 módulos** e **7 níveis ativos**
 - Atividades: **1977** — identificar_contraste **30**; parear **655**; producao_autorrevisao **755**; reordenar **537**
-- Testes executados e aprovados: **791/791**
+- Testes executados e aprovados: **839/839**
 - Rotas HTML existentes: **11** — `estudar.html`, `index.html`, `jornada.html`, `niveis/a1/index.html`, `niveis/a2/index.html`, `niveis/b1/index.html`, `niveis/b2/index.html`, `niveis/c1/index.html`, `niveis/c2/index.html`, `niveis/kids/index.html`, `praticar.html`
-- Última fonte sequencial tratada: `1201_livro04_3.md`
-- Próxima fonte sequencial: `1205_2E6834F9-E31A-4992-8A29-F6622BD1EBED.md`
+- Última fonte sequencial tratada: `1206_3314942F-07CF-487C-9C83-707A4EB8B493.md`
+- Próxima fonte sequencial: `1207_3771AE3B-8F5A-4D88-88E2-A8766F3E8FFC.md`
 <!-- ESTADO-ATUAL:FIM -->
 
 ## Lote 007
@@ -108,7 +108,7 @@ Atualizado em 2026-08-08 após o lote 030.
 - **95 subpainéis**, **31 etapas** e **82 módulos** registrados nos dados atuais.
 - **1977 atividades** em 4 tipos: identificar_contraste **30**; parear **655**; producao_autorrevisao **755**; reordenar **537**.
 - **11 rotas HTML existentes**: `estudar.html`, `index.html`, `jornada.html`, `niveis/a1/index.html`, `niveis/a2/index.html`, `niveis/b1/index.html`, `niveis/b2/index.html`, `niveis/c1/index.html`, `niveis/c2/index.html`, `niveis/kids/index.html`, `praticar.html`.
-- Último resultado persistido das suítes vigentes: **791/791 testes aprovados**.
+- Último resultado persistido das suítes vigentes: **839/839 testes aprovados**.
 - Hashes e estados vêm de `dados/mapa-fontes.json` e `dados/revisao-fontes.json`; `Arquivo_Fonte` permanece somente para leitura.
 <!-- VALIDACOES-VIGENTES:FIM -->
 
@@ -269,3 +269,12 @@ Atualizado em 2026-08-08 após o lote 030.
 - Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.
 - Última: `1201_livro04_3.md`; próxima não analisada: `1205_2E6834F9-E31A-4992-8A29-F6622BD1EBED.md` (1202–1203 antecipadas; 1204 duplicata de 1203).
 <!-- LOTE-030-PROGRESSO:FIM -->
+
+<!-- LOTE-031-PROGRESSO:INICIO -->
+## Lote 031
+
+- Sequenciais: 1205–1206; dois OCRs de imagens integralmente classificados e visualmente conferidos.
+- Relação: fragmentos complementares com sobreposição editorial; going to e would destinados separadamente.
+- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.
+- Última: `1206_3314942F-07CF-487C-9C83-707A4EB8B493.md`; próxima: `1207_3771AE3B-8F5A-4D88-88E2-A8766F3E8FFC.md`.
+<!-- LOTE-031-PROGRESSO:FIM -->
