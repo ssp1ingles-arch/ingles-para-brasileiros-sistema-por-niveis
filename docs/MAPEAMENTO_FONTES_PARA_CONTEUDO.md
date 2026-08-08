@@ -226,3 +226,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1209 e 1210 compartilham modelo visual e verbo-base, mas distinguem futuro afirmativo e possibilidade com could. Somente decisões e procedências sanitizadas foram publicadas.
 <!-- LOTE-033-MAPEAMENTO:FIM -->
+
+<!-- LOTE-034-MAPEAMENTO:INICIO -->
+## Lote 034 — mapeamento
+
+1211 e 1212 compartilham modelo visual e verbo-base, mas distinguem past perfect e presente simples. Somente decisões e procedências sanitizadas foram publicadas.
+<!-- LOTE-034-MAPEAMENTO:FIM -->

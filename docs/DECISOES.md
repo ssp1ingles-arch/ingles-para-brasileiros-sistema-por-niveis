@@ -272,3 +272,12 @@
 - Classificar como fragmentos complementares, não duplicatas.
 - Descartar pseudo-fonética, créditos, perfis, marcas e elementos visuais; encerrar antes de 1211.
 <!-- LOTE-033-DECISOES:FIM -->
+
+<!-- LOTE-034-DECISOES:INICIO -->
+## Decisões do lote 034
+
+- Conferir 1211 e 1212 no Markdown e nas imagens somente leitura.
+- Consolidar past perfect e presente simples de think em B1-L5-0164-01.
+- Classificar como fragmentos complementares, não duplicatas.
+- Descartar aproximações fonéticas, créditos, perfis, marcas e elementos visuais; encerrar antes de 1213.
+<!-- LOTE-034-DECISOES:FIM -->

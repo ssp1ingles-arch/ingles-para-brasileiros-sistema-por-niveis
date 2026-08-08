@@ -1,0 +1,40 @@
+{
+  "lote": "034",
+  "intervalo": [
+    1211,
+    1212
+  ],
+  "sequenciais": [
+    {
+      "numero": 1211,
+      "nome": "1211_A513BBF1-660F-425A-89DF-128DF888FE65.md",
+      "tamanho_bytes": 847,
+      "hash_bruto": "92adc38f25c1da4a1a543afeb491fbb6b1cb36b3cb438a24ae67559716390274",
+      "hash_normalizado": "50acf67ff50e33116345fc457b9d372f357c1d40ebcfa48faf26bccd9e496bdc",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "OCR de imagem didática curta",
+      "partes": 3,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1212,
+      "nome": "1212_C403A60B-9EDA-4826-B134-DFDE49801CA7.md",
+      "tamanho_bytes": 827,
+      "hash_bruto": "e54f9b13e5d0b883b301d9785d7fbf2fe520215504f9b924e4f91d6ea98a0b25",
+      "hash_normalizado": "1c31b742e7cf936f823bea9b9f9225850b805836cca68b70e3db36cd2132c278",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "OCR de imagem didática curta",
+      "partes": 3,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1211,
+    "testes": "14/14",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1212, antes de 1213; fontes complementares, não duplicatas."
+}

@@ -111,6 +111,10 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-033/resultados-validacao-033.json'
   ,'docs/evidencias/lote-033/resultados-comparacao-033.json'
   ,'docs/evidencias/lote-033/resultados-rotas-033.json'
+  ,'docs/evidencias/lote-034/resultados-intermediarios-1211.json'
+  ,'docs/evidencias/lote-034/resultados-validacao-034.json'
+  ,'docs/evidencias/lote-034/resultados-comparacao-034.json'
+  ,'docs/evidencias/lote-034/resultados-rotas-034.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);
@@ -185,6 +189,10 @@ if (conflitos.length) throw new Error(`Informação corrente conflitante fora do
 const marcadorLote033 = '<!-- LOTE-033-PROGRESSO:INICIO -->';
 if (ultimoLote >= 33 && !progresso.includes(marcadorLote033)) {
   progresso = `${progresso.trim()}\n\n${marcadorLote033}\n## Lote 033\n\n- Sequenciais: 1209–1210; dois OCRs de imagens integralmente classificados e visualmente conferidos.\n- Relação: fragmentos complementares; futuro afirmativo e possibilidade modal com think destinados separadamente.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1210_820B6A28-0D00-414B-9AC3-DFBE93D13F4E.md\`; próxima: \`1211_A513BBF1-660F-425A-89DF-128DF888FE65.md\`.\n<!-- LOTE-033-PROGRESSO:FIM -->\n`;
+}
+const marcadorLote034 = '<!-- LOTE-034-PROGRESSO:INICIO -->';
+if (ultimoLote >= 34 && !progresso.includes(marcadorLote034)) {
+  progresso = `${progresso.trim()}\n\n${marcadorLote034}\n## Lote 034\n\n- Sequenciais: 1211–1212; dois OCRs de imagens integralmente classificados e visualmente conferidos.\n- Relação: fragmentos complementares; past perfect e presente simples de think consolidados no mesmo destino existente.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1212_C403A60B-9EDA-4826-B134-DFDE49801CA7.md\`; próxima: \`1213_E29CFFA1-923C-4363-9DBF-C2D88DC28A01.md\`.\n<!-- LOTE-034-PROGRESSO:FIM -->\n`;
 }
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);
