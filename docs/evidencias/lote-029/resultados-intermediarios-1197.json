@@ -1,0 +1,78 @@
+{
+  "total": 18,
+  "aprovados": 18,
+  "resultados": [
+    {
+      "teste": "somente 1197 aberta",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1198 bloqueada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "leitura integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "função real registrada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "9/9 partes decididas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "quatro obras apenas referenciadas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "nenhuma duplicata presumida",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "descartes justificados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero conteúdo didático útil",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero útil sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução extensa",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "base 834/1977/95",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "IDs únicos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Jornada 806+28 sem órfãos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "806 IDs preservados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "localStorage compatível",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash 1197 preservado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "JSON público sanitizado",
+      "resultado": "APROVADO"
+    }
+  ]
+}

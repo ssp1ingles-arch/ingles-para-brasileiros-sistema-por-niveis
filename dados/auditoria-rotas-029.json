@@ -1,0 +1,189 @@
+[
+  {
+    "rota": "estudar.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  },
+  {
+    "rota": "index.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  },
+  {
+    "rota": "jornada.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  },
+  {
+    "rota": "niveis/a1/index.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  },
+  {
+    "rota": "niveis/a2/index.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  },
+  {
+    "rota": "niveis/b1/index.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  },
+  {
+    "rota": "niveis/b2/index.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  },
+  {
+    "rota": "niveis/c1/index.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  },
+  {
+    "rota": "niveis/c2/index.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  },
+  {
+    "rota": "niveis/kids/index.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  },
+  {
+    "rota": "praticar.html",
+    "status": 200,
+    "erros": [],
+    "desktop": {
+      "sw": 1440,
+      "cw": 1440,
+      "bad": false,
+      "overlap": false
+    },
+    "mobile": {
+      "sw": 390,
+      "cw": 390,
+      "bad": false,
+      "overlap": false
+    }
+  }
+]

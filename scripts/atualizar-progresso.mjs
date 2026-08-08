@@ -90,6 +90,11 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-028/resultados-validacao-028.json'
   ,'docs/evidencias/lote-028/resultados-comparacao-028.json'
   ,'docs/evidencias/lote-028/resultados-rotas-028.json'
+  ,'docs/evidencias/lote-029/resultados-intermediarios-1197.json'
+  ,'docs/evidencias/lote-029/resultados-fonte1198.json'
+  ,'docs/evidencias/lote-029/resultados-validacao-029.json'
+  ,'docs/evidencias/lote-029/resultados-comparacao-029.json'
+  ,'docs/evidencias/lote-029/resultados-rotas-029.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);
@@ -147,6 +152,9 @@ const validacoes = `<!-- VALIDACOES-VIGENTES:INICIO -->
 
 const progressoPath = path.join(raiz, 'docs', 'PROGRESSO.md');
 let progresso = fs.readFileSync(progressoPath, 'utf8');
+const ultimoLote = Math.max(...fs.readdirSync(dados).map(nome => Number(nome.match(/^lote-(\d+)-triagem\.json$/)?.[1] || 0)));
+const dataAtual = new Date().toLocaleDateString('sv-SE', { timeZone: 'America/Sao_Paulo' });
+progresso = progresso.replace(/^Atualizado em .*$/m, `Atualizado em ${dataAtual} após o lote ${String(ultimoLote).padStart(3, '0')}.`);
 // Blocos manuais de retomada ficam obsoletos e competem com o estado calculado.
 progresso = progresso.replace(/\n## Retomada\n[\s\S]*?(?=\n## |\s*$)/g, '');
 const regex = /(?:<!-- ESTADO-ATUAL:INICIO -->\s*)?## Estado atual confirmado[\s\S]*?(?=\n## Lote 007)/;

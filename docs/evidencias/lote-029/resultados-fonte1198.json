@@ -1,0 +1,74 @@
+{
+  "total": 17,
+  "aprovados": 17,
+  "resultados": [
+    {
+      "teste": "1197 intermediária aprovada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1198 integralmente lida",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1199 ainda fechada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "36 temas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "191 itens",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "todas as seções decididas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "todos os destinos existem",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero útil sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "descartes justificados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem paginação inventada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "UTF-8 sem corrupção",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem exercícios ou respostas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem atividade automática",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução de frases",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "base preservada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash 1198 preservado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "JSON sanitizado",
+      "resultado": "APROVADO"
+    }
+  ]
+}

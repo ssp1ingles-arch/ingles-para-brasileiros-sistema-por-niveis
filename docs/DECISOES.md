@@ -225,3 +225,13 @@
 - Consolidar explicações em destinos existentes sem republicá-las.
 - Encerrar antes de 1197.
 <!-- LOTE-028-DECISOES:FIM -->
+
+<!-- LOTE-029-DECISOES:INICIO -->
+## Decisões do lote 029
+
+- Classificar 1197 como índice/hub editorial, sem conteúdo didático independente.
+- Consolidar os 36 temas e 191 itens de 1198 nos destinos já associados à fonte canônica 1189.
+- Consolidar os 14 temas de 1199 nos destinos da fonte canônica 1191 e registrar 150 itens reais contra 140 declarados no cabeçalho.
+- Classificar 1198 e 1199 como obras independentes, não duplicatas.
+- Encerrar antes de 1200.
+<!-- LOTE-029-DECISOES:FIM -->

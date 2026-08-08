@@ -115,3 +115,9 @@ Cobertura: 80,28% → 80,41%. Currículo e experiência preservados.
 
 Cobertura: 80,41% → 80,54%. Currículo, atividades e Jornada preservados.
 <!-- LOTE-028-COBERTURA:FIM -->
+
+<!-- LOTE-029-COBERTURA:INICIO -->
+## Atualização curricular — lote 029
+
+Cobertura: 80,54% → 80,74%. Unidades, atividades, subpainéis, Jornada e localStorage permaneceram estáveis.
+<!-- LOTE-029-COBERTURA:FIM -->

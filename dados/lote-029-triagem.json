@@ -1,0 +1,64 @@
+{
+  "lote": "029",
+  "intervalo": [
+    1197,
+    1199
+  ],
+  "sequenciais": [
+    {
+      "numero": 1197,
+      "nome": "1197_index_7.md",
+      "tamanho_bytes": 2838,
+      "hash_bruto": "9862bae395445f3593cb89a9fbb506b44d1efd067e10fdc2ef67f87b566b3b1e",
+      "hash_normalizado": "1ac1e75c7acd5f76d211c54e2a2f4f43ae85d2bfe3e9c4090cbb9721d11a3168",
+      "leitura_integral": true,
+      "status": "sem conteúdo didático",
+      "tipo": "índice, inventário e hub editorial de obras",
+      "sem_destino_util": 0,
+      "justificativa": "Hub editorial com quatro referências de obras; nenhuma lição autônoma."
+    },
+    {
+      "numero": 1198,
+      "nome": "1198_livro01_3.md",
+      "tamanho_bytes": 25857,
+      "hash_bruto": "ad30ac65dbeabb3c2b79ece0ec40f4c782fb46e84d80159c0a8ca15abc8a694e",
+      "hash_normalizado": "4e1f640df89ddc5d90d5bde65db0d1fad75971328a017bd603d8bd2a14fde621",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "extração HTML temática do English Grammar Guide",
+      "secoes": 36,
+      "itens": 191,
+      "sem_destino_util": 0,
+      "justificativa": "36 temas e 191 itens vinculados a destinos específicos já consolidados pela fonte canônica 1189."
+    },
+    {
+      "numero": 1199,
+      "nome": "1199_livro02_3.md",
+      "tamanho_bytes": 33452,
+      "hash_bruto": "2dbe7652cd964a21e383e85b107ff945e9f14dbfa37cf3b9c90136fd9be06fe2",
+      "hash_normalizado": "3de4365617dbbfd9e13cffa0ad2f8605fb7a657f160774d00dc396e37150eff9",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "extração HTML temática do English Vocabulary Builder",
+      "secoes": 14,
+      "itens_declarados": 140,
+      "itens_identificados": 150,
+      "sem_destino_util": 0,
+      "justificativa": "14 temas vinculados às unidades canônicas de 1191; discrepância editorial 140×150 registrada."
+    }
+  ],
+  "duplicatas": [],
+  "parciais": [],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1197,
+    "testes": "18/18",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1199, antes de 1200; 1198 e 1199 são obras independentes.",
+  "validacao_1198": {
+    "pendente": false,
+    "testes": "17/17",
+    "aprovada": true
+  }
+}

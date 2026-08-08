@@ -1,0 +1,102 @@
+{
+  "total": 24,
+  "aprovados": 24,
+  "resultados": [
+    {
+      "teste": "intervalo encerrado em 1199",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1197 integral e editorial",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1197 9/9 partes decididas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "intermediária 18/18",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1198 validada 17/17",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1198 36 temas e 191 itens",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1199 14 temas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1199 150 itens reais",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "divergência 140×150 registrada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "todas as seções decididas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "todos os destinos existem",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero útil sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução extensa",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem atividade automática",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "base 834/1977/95",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "IDs de unidades únicos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "IDs de atividades únicos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Jornada 806+28",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Jornada sem órfãos/repetidos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "806 IDs preservados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "localStorage preservado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "66 sem atividade",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Kids válido",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "C2 justificado",
+      "resultado": "APROVADO"
+    }
+  ]
+}

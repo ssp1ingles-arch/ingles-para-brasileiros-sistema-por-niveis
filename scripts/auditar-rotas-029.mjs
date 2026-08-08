@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const raiz = path.resolve(import.meta.dirname, '..');
+await import('./auditar-rotas-026.mjs?lote=029');
+const auditoria = JSON.parse(fs.readFileSync(path.join(raiz, 'dados/auditoria-rotas-026.json'), 'utf8'));
+const resultado = JSON.parse(fs.readFileSync(path.join(raiz, 'docs/evidencias/lote-026/resultados-rotas-026.json'), 'utf8'));
+fs.mkdirSync(path.join(raiz, 'docs/evidencias/lote-029'), { recursive: true });
+fs.writeFileSync(path.join(raiz, 'dados/auditoria-rotas-029.json'), `${JSON.stringify(auditoria, null, 2)}\n`);
+fs.writeFileSync(path.join(raiz, 'docs/evidencias/lote-029/resultados-rotas-029.json'), `${JSON.stringify(resultado, null, 2)}\n`);
+console.log(`Rotas 029: ${resultado.aprovados}/${resultado.total}`);

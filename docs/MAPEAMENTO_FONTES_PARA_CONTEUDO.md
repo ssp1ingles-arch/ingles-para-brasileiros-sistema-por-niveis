@@ -196,3 +196,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1195: Practice Book com 184 páginas, 49 módulos, 156 páginas de prática, 13 de respostas, 4 de índice e 11 editoriais. 1196: Course Book complementar, mesma paginação e currículo, mas corpo e conteúdo de ensino distintos.
 <!-- LOTE-028-MAPEAMENTO:FIM -->
+
+<!-- LOTE-029-MAPEAMENTO:INICIO -->
+## Lote 029 — mapeamento
+
+1197: índice/hub editorial com nove partes decididas e quatro referências de obras. 1198: 36 temas gramaticais e 191 itens consolidados por procedência da fonte 1189. 1199: 14 temas lexicais e 150 itens consolidados por procedência da fonte 1191; o cabeçalho declara incorretamente 140.
+<!-- LOTE-029-MAPEAMENTO:FIM -->

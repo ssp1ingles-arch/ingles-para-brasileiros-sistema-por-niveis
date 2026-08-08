@@ -1,0 +1,38 @@
+{
+  "total": 8,
+  "aprovados": 8,
+  "resultados": [
+    {
+      "teste": "ordem da comparação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "corpos diferentes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hashes diferentes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "estruturas diferentes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "contagens exclusivas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem exercícios/respostas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "classificação independente",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "conteúdo exclusivo",
+      "resultado": "APROVADO"
+    }
+  ]
+}
