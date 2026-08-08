@@ -1,0 +1,30 @@
+{
+  "total": 6,
+  "aprovados": 6,
+  "resultados": [
+    {
+      "teste": "ordem",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "corpos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "paginação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hashes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "classificação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "exclusivos",
+      "resultado": "APROVADO"
+    }
+  ]
+}

@@ -109,3 +109,9 @@ Cobertura documental: 80,16% → 80,28%. Currículo, atividades e Jornada perman
 
 Cobertura: 80,28% → 80,41%. Currículo e experiência preservados.
 <!-- LOTE-027-COBERTURA:FIM -->
+
+<!-- LOTE-028-COBERTURA:INICIO -->
+## Atualização curricular — lote 028
+
+Cobertura: 80,41% → 80,54%. Currículo, atividades e Jornada preservados.
+<!-- LOTE-028-COBERTURA:FIM -->

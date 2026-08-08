@@ -1,0 +1,86 @@
+{
+  "total": 20,
+  "aprovados": 20,
+  "resultados": [
+    {
+      "teste": "1195 integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1196 integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "intermediária 20/20",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "obras independentes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "corpos diferentes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "paginação alinhada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "conteúdo exclusivo 1196",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero úteis sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "todas as páginas decididas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "base 834/1977",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "IDs únicos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Jornada 806+28",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "806 preservados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem órfãos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "localStorage",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "66 sem atividade",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Kids válido",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "C2 justificado",
+      "resultado": "APROVADO"
+    }
+  ]
+}

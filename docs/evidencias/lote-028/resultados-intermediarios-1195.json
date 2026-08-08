@@ -1,0 +1,86 @@
+{
+  "total": 20,
+  "aprovados": 20,
+  "resultados": [
+    {
+      "teste": "somente 1195 aberta",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "184/184 registradas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "numeração 1-184",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero ausentes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero repetidas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "tipos fecham 184",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "49 módulos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "todas decididas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "toda útil com destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "descartes justificados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero úteis sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução extensa",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "nenhum exemplo republicado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "IDs únicos e pré-requisitos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "base 834/1977/95",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "Jornada sem órfãos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "806 IDs preservados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "localStorage compatível",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash 1195 preservado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1196 bloqueada",
+      "resultado": "APROVADO"
+    }
+  ]
+}

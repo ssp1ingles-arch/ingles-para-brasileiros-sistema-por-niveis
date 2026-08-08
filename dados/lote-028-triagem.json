@@ -1,0 +1,44 @@
+{
+  "lote": "028",
+  "intervalo": [
+    1195,
+    1196
+  ],
+  "sequenciais": [
+    {
+      "numero": 1195,
+      "nome": "1195_04_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+      "tamanho_bytes": 203338,
+      "hash_bruto": "90d63c8e2d0e4f75da6a7ea43618af564492d4bf7efb72e2c786e2d5e9bc3ce4",
+      "hash_normalizado": "5d7e3bdc51b5e78a5fdb383119532ecae47b5d934164313f357285ada393581b",
+      "leitura_integral": true,
+      "paginas": 184,
+      "status": "integralmente classificada",
+      "sem_destino_util": 0,
+      "justificativa": "184 páginas e 49 módulos integralmente decididos."
+    },
+    {
+      "numero": 1196,
+      "nome": "1196_05_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+      "tamanho_bytes": 189557,
+      "hash_bruto": "67c5e3bead0cf8ae248b465a6119a5281eb570173556974660b2108f9716efbd",
+      "hash_normalizado": "c8c8095418158568366f4e4da9aa3d00a7c49b8ae920f5d4f03b7cae1e402089",
+      "leitura_integral": true,
+      "paginas": 184,
+      "status": "integralmente classificada",
+      "tipo": "obra complementar independente — Course Book",
+      "sem_destino_util": 0,
+      "justificativa": "Mesmo currículo/paginação do Practice Book, mas conteúdo de ensino e explicações exclusivos."
+    }
+  ],
+  "direcionadas": [],
+  "duplicatas": [],
+  "parciais": [],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1195,
+    "testes": "20/20",
+    "aprovada": true
+  },
+  "observacao": "Encerrado antes de 1197; 1195 e 1196 são obras complementares distintas."
+}

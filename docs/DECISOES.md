@@ -215,3 +215,13 @@
 - Classificar 1194 como sobreposição extensa/extração alternativa, não duplicata integral.
 - Encerrar antes de 1195.
 <!-- LOTE-027-DECISOES:FIM -->
+
+<!-- LOTE-028-DECISOES:INICIO -->
+## Decisões do lote 028
+
+- Mapear 1195 integralmente antes de abrir 1196.
+- Não converter exercícios ou respostas em atividades.
+- Classificar 1196 como Course Book complementar independente, não duplicata de 1195.
+- Consolidar explicações em destinos existentes sem republicá-las.
+- Encerrar antes de 1197.
+<!-- LOTE-028-DECISOES:FIM -->
