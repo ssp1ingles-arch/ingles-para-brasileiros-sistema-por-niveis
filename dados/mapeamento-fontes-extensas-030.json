@@ -1,0 +1,480 @@
+{
+  "lote": "030",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1200,
+        1201
+      ],
+      "executada_apos_validacao_1200": true,
+      "tamanho_1200": 16801,
+      "tamanho_1201": 17205,
+      "hash_bruto_1200": "9757169fdf1f4846145d09ca64947c5b27288fa0a90748810604f7b7a2aec597",
+      "hash_bruto_1201": "483a488650e397b3ae37e7b84990a8f0213e5b2d703a1bbdcec1d556f8bc7818",
+      "hash_normalizado_1200": "4f46d0bcf64fc43031b4c1f9e71e2069ae3aadea8f23f4c25d2958627e28fd62",
+      "hash_normalizado_1201": "8ecb1274c5e01170fb9d690277d759a7282116ba878b30919fa3d58e31312b3e",
+      "corpo_integral_igual": false,
+      "ordem_igual": false,
+      "blocos_1200": 12,
+      "blocos_1201": 12,
+      "nivel_1200": "A1",
+      "nivel_1201": "A2",
+      "exercicios_brutos_1200": 0,
+      "exercicios_brutos_1201": 0,
+      "respostas_separadas_1200": 0,
+      "respostas_separadas_1201": 0,
+      "ausencias_1200": [],
+      "ausencias_1201": [],
+      "sobreposicao": "extensa apenas na função editorial de selecionar frases completas de livros de prática; tópicos e progressão são distintos",
+      "conteudo_exclusivo_1200": "negativas, perguntas iniciais, existência, frequência, preferências e habilidade do nível 1",
+      "conteudo_exclusivo_1201": "estado, saúde, comparação, passado, futuros, modais e present perfect do nível 2",
+      "classificacao": "obras independentes e complementares em níveis diferentes",
+      "decisao": "classificar separadamente e consolidar procedência nas fontes canônicas 1193 e 1195"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1200,
+      "nome_completo": "1200_livro03_3.md",
+      "tipo": "extração HTML temática do Practice Book Level 1 Beginner",
+      "tamanho_bytes": 16801,
+      "hash_bruto": "9757169fdf1f4846145d09ca64947c5b27288fa0a90748810604f7b7a2aec597",
+      "hash_normalizado": "4f46d0bcf64fc43031b4c1f9e71e2069ae3aadea8f23f4c25d2958627e28fd62",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "presentes": 0,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "observacao": "Extração HTML temática sem marcadores de página; os 12 blocos foram decididos."
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "blocos_didaticos": 12,
+        "unidades_do_livro_referidas": 48,
+        "exercicios_brutos": 0,
+        "respostas_separadas": 0,
+        "indices": 0,
+        "blocos_editoriais": 4
+      },
+      "secoes": [
+        {
+          "numero": 1,
+          "titulo": "Negativas — to be e outros verbos",
+          "titulo_na_extracao": "Negativas — a diferença entre *to be* e os outros verbos",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A1-GRAM-0011",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Perguntas simples e respostas curtas",
+          "titulo_na_extracao": "Perguntas simples e respostas curtas",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Conversação",
+          "destino_curricular_especifico": "A2-L15-0829-01",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Perguntas abertas e palavras interrogativas",
+          "titulo_na_extracao": "Perguntas abertas — as palavras interrogativas",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Conversação",
+          "destino_curricular_especifico": "A2-L20-1163-01",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 4,
+          "titulo": "There is e there are",
+          "titulo_na_extracao": "*There is* e *there are* — o que existe no lugar",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A1-L7-0264-01",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 5,
+          "titulo": "And, but e adjetivos",
+          "titulo_na_extracao": "Juntar e descrever — *and*, *but* e adjetivos",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A1-GRAM-0011",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Because para expressar motivo",
+          "titulo_na_extracao": "Dar o motivo com *because*",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A2-L5-0169-01",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Have e has para posse",
+          "titulo_na_extracao": "O que você tem — *have* e *has*",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Verbos",
+          "destino_curricular_especifico": "A1-L3-0066-01",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Advérbios e expressões de frequência",
+          "titulo_na_extracao": "Advérbios de frequência e *How often…?*",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A2-L14-0752-01",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Love, like e hate",
+          "titulo_na_extracao": "*Love*, *like* e *hate*",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Verbos",
+          "destino_curricular_especifico": "A2-L8-0336-02",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 10,
+          "titulo": "Estrutura favorite",
+          "titulo_na_extracao": "Falar do favorito",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Vocabulário",
+          "destino_curricular_especifico": "A2-L14-0754-01",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 11,
+          "titulo": "Can e cannot para habilidade",
+          "titulo_na_extracao": "*Can* e *can't* — o que você sabe fazer",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A2-L8-0358-02",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 12,
+          "titulo": "Mapa temático das unidades 05–48",
+          "titulo_na_extracao": "Os campos temáticos do nível 1",
+          "natureza": "mapa editorial de cobertura temática",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Leitura",
+          "destino_curricular_especifico": "A2-L11-1336-01",
+          "fonte_canonica_relacionada": 1193,
+          "decisao": "referenciar cobertura em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1193; frases não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "descartes": [
+        {
+          "parte": "frontmatter, navegação, apresentação e métricas",
+          "decisao": "descartar",
+          "justificativa": "Metadados e interface do sistema anterior."
+        },
+        {
+          "parte": "estado de busca vazia",
+          "decisao": "descartar",
+          "justificativa": "Mensagem de interface sem conteúdo linguístico."
+        }
+      ],
+      "totais": {
+        "consolidadas": 11,
+        "referenciadas": 1,
+        "descartes": 2,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Somente metadados, decisões e destinos; nenhuma frase, tradução, tabela, página, exercício ou resposta foi republicada."
+    },
+    {
+      "numero": 1201,
+      "nome_completo": "1201_livro04_3.md",
+      "tipo": "extração HTML temática do Practice Book Level 2 Beginner",
+      "tamanho_bytes": 17205,
+      "hash_bruto": "483a488650e397b3ae37e7b84990a8f0213e5b2d703a1bbdcec1d556f8bc7818",
+      "hash_normalizado": "8ecb1274c5e01170fb9d690277d759a7282116ba878b30919fa3d58e31312b3e",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "presentes": 0,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "observacao": "Extração HTML temática sem marcadores de página; os 12 blocos foram decididos."
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "blocos_didaticos": 12,
+        "unidades_do_livro_referidas": 49,
+        "exercicios_brutos": 0,
+        "respostas_separadas": 0,
+        "indices": 0,
+        "tabela_review": 1,
+        "blocos_editoriais": 4
+      },
+      "secoes": [
+        {
+          "numero": 1,
+          "titulo": "Verbos de ação e estado",
+          "titulo_na_extracao": "Verbos de ação e verbos de estado",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A2-L8-0336-02",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Saúde, tempo e temperatura",
+          "titulo_na_extracao": "Saúde, tempo e temperatura",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Vocabulário",
+          "destino_curricular_especifico": "A1-GRAM-0002",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Comparativos, superlativos e números",
+          "titulo_na_extracao": "Comparar, escolher e contar alto",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A2-GRAM-0006",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Datas e passado de be",
+          "titulo_na_extracao": "Datas e o passado de *to be*",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A1-GRAM-0016",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Passado simples regular e irregular",
+          "titulo_na_extracao": "Passado simples — regulares e irregulares",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A2-L15-0829-01",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Perguntas de sujeito e objeto",
+          "titulo_na_extracao": "Perguntar sobre o passado — sujeito x objeto",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A2-L20-1163-01",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Pronomes indefinidos e perguntas-eco",
+          "titulo_na_extracao": "*Someone*, *anyone*, *everyone*, *no one* — e as perguntas curtas",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Conversação",
+          "destino_curricular_especifico": "A2-L15-0829-01",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Futuro com present continuous e going to",
+          "titulo_na_extracao": "Futuro com present continuous e com *going to*",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "B1-L3-0055-02",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Will, might, should e could",
+          "titulo_na_extracao": "*Will*, *might*, *should* e *could*",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "B1-L6-0185-01",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 10,
+          "titulo": "Present perfect e passado simples",
+          "titulo_na_extracao": "Present perfect — e o contraste com o passado simples",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "B1-L8-0321-01",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 11,
+          "titulo": "Restaurante, desejos e planos",
+          "titulo_na_extracao": "No restaurante, desejos e planos",
+          "natureza": "síntese temática com frases completas e traduções",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Conversação",
+          "destino_curricular_especifico": "A2-L12-0571-01",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "consolidar procedência em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "numero": 12,
+          "titulo": "Tabela Review das unidades 11–49",
+          "titulo_na_extracao": "A tabela de referência do próprio livro",
+          "natureza": "tabela editorial Review com estruturas e frases-modelo",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Leitura",
+          "destino_curricular_especifico": "A2-L11-1336-01",
+          "fonte_canonica_relacionada": 1195,
+          "decisao": "referenciar cobertura em destino existente",
+          "justificativa": "Conteúdo já coberto por unidades existentes e pela classificação integral da fonte canônica 1195; frases e respostas não republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "descartes": [
+        {
+          "parte": "frontmatter, navegação, apresentação e métricas",
+          "decisao": "descartar",
+          "justificativa": "Metadados e interface do sistema anterior."
+        },
+        {
+          "parte": "estado de busca vazia",
+          "decisao": "descartar",
+          "justificativa": "Mensagem de interface sem conteúdo linguístico."
+        }
+      ],
+      "totais": {
+        "consolidadas": 11,
+        "referenciadas": 1,
+        "descartes": 2,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Somente metadados, decisões e destinos; nenhuma frase, tradução, tabela, página, exercício ou resposta foi republicada."
+    }
+  ]
+}

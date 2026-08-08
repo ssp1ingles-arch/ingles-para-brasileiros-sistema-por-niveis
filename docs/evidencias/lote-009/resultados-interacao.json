@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-08T11:57:03.774Z",
+  "gerado_em": "2026-08-08T17:29:06.064Z",
   "total": 69,
   "aprovados": 69,
   "resultados": [
@@ -216,7 +216,7 @@
     {
       "teste": "unidades sem par excluídas",
       "resultado": "APROVADO",
-      "detalhe": "770/777"
+      "detalhe": "827/834"
     },
     {
       "teste": "abrir unidade completa",

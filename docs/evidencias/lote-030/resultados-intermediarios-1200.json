@@ -1,0 +1,58 @@
+{
+  "total": 13,
+  "aprovados": 13,
+  "resultados": [
+    {
+      "teste": "leitura integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "12 blocos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "todas decisões",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "destinos válidos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero útil sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "integridade textual",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem automação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "834 unidades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1977 atividades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "IDs únicos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "barreira em 1200",
+      "resultado": "APROVADO"
+    }
+  ]
+}

@@ -202,3 +202,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1197: índice/hub editorial com nove partes decididas e quatro referências de obras. 1198: 36 temas gramaticais e 191 itens consolidados por procedência da fonte 1189. 1199: 14 temas lexicais e 150 itens consolidados por procedência da fonte 1191; o cabeçalho declara incorretamente 140.
 <!-- LOTE-029-MAPEAMENTO:FIM -->
+
+<!-- LOTE-030-MAPEAMENTO:INICIO -->
+## Lote 030 — mapeamento
+
+1200: 12 blocos temáticos do Practice Book Level 1, todos destinados. 1201: 12 blocos do Level 2, todos destinados. São obras independentes em progressões A1 e A2; somente metadados e procedência foram publicados.
+<!-- LOTE-030-MAPEAMENTO:FIM -->

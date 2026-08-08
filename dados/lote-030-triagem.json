@@ -1,0 +1,40 @@
+{
+  "lote": "030",
+  "intervalo": [
+    1200,
+    1201
+  ],
+  "sequenciais": [
+    {
+      "numero": 1200,
+      "nome": "1200_livro03_3.md",
+      "tamanho_bytes": 16801,
+      "hash_bruto": "9757169fdf1f4846145d09ca64947c5b27288fa0a90748810604f7b7a2aec597",
+      "hash_normalizado": "4f46d0bcf64fc43031b4c1f9e71e2069ae3aadea8f23f4c25d2958627e28fd62",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "extração HTML temática do Practice Book Level 1 Beginner",
+      "secoes": 12,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1201,
+      "nome": "1201_livro04_3.md",
+      "tamanho_bytes": 17205,
+      "hash_bruto": "483a488650e397b3ae37e7b84990a8f0213e5b2d703a1bbdcec1d556f8bc7818",
+      "hash_normalizado": "8ecb1274c5e01170fb9d690277d759a7282116ba878b30919fa3d58e31312b3e",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "extração HTML temática do Practice Book Level 2 Beginner",
+      "secoes": 12,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1200,
+    "testes": "13/13",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1201, antes de 1202; 1200 e 1201 são obras independentes e complementares."
+}

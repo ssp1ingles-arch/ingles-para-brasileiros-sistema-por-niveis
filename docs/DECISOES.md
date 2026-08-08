@@ -235,3 +235,12 @@
 - Classificar 1198 e 1199 como obras independentes, não duplicatas.
 - Encerrar antes de 1200.
 <!-- LOTE-029-DECISOES:FIM -->
+
+<!-- LOTE-030-DECISOES:INICIO -->
+## Decisões do lote 030
+
+- Consolidar 1200 e 1201 como extrações HTML temáticas independentes dos Practice Books Levels 1 e 2.
+- Relacionar 1200 à fonte canônica 1193 e 1201 à 1195.
+- Não republicar frases, traduções, exercícios, respostas ou a tabela Review.
+- Preservar currículo e experiência; encerrar antes de 1202.
+<!-- LOTE-030-DECISOES:FIM -->
