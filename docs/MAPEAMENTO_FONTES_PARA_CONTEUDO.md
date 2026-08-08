@@ -220,3 +220,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1207 e 1208 compartilham modelo e verbo-base, mas distinguem passado simples irregular e passado contínuo. Somente decisões e procedências sanitizadas foram publicadas.
 <!-- LOTE-032-MAPEAMENTO:FIM -->
+
+<!-- LOTE-033-MAPEAMENTO:INICIO -->
+## Lote 033 — mapeamento
+
+1209 e 1210 compartilham modelo visual e verbo-base, mas distinguem futuro afirmativo e possibilidade com could. Somente decisões e procedências sanitizadas foram publicadas.
+<!-- LOTE-033-MAPEAMENTO:FIM -->

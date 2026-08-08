@@ -1,0 +1,166 @@
+{
+  "lote": "033",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1209,
+        1210
+      ],
+      "executada_apos_validacao_1209": true,
+      "tamanho_1209": 840,
+      "tamanho_1210": 846,
+      "hash_bruto_1209": "fa2f4c03eadc0cf2886f53d556bd8a03e9aced508465e8eb8f4690ab2668d81c",
+      "hash_bruto_1210": "8869fb9a56b9adceca47b8a9b9817ba0f33aa67fb4e6dd27b787612c64af00e5",
+      "hash_normalizado_1209": "aef5becbed19b208ac9c7e5b06ad012ee1354c77937d7fb0698048e4fb489e18",
+      "hash_normalizado_1210": "dd8698b5c73136730053c3a42bdd20293d6120409615de0da3afb8c983884244",
+      "corpo_integral_igual": false,
+      "ordem_estrutural_igual": true,
+      "tipo_origem_igual": true,
+      "modelo_visual_igual": true,
+      "verbo_base_compartilhado": "think",
+      "estrutura_1209": "futuro afirmativo com will",
+      "estrutura_1210": "modal could para possibilidade",
+      "imagens_origem_iguais": false,
+      "creditos_editoriais_equivalentes": true,
+      "sobreposicao": "extensa no modelo visual, créditos, ordem e verbo-base; auxiliares e funções gramaticais distintos",
+      "conteudo_exclusivo_1209": "ocorrência de futuro afirmativo",
+      "conteudo_exclusivo_1210": "ocorrência modal de possibilidade",
+      "classificacao": "fragmentos complementares com sobreposição editorial; não são duplicatas",
+      "decisao": "classificar separadamente e não publicar imagens, frases, pseudo-fonética, créditos ou marcas"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1209,
+      "nome_completo": "1209_5E10C803-A29D-47EF-9925-F11EB874201E.md",
+      "tipo": "OCR de imagem didática curta",
+      "tamanho_bytes": 840,
+      "hash_bruto": "fa2f4c03eadc0cf2886f53d556bd8a03e9aced508465e8eb8f4690ab2668d81c",
+      "hash_normalizado": "aef5becbed19b208ac9c7e5b06ad012ee1354c77937d7fb0698048e4fb489e18",
+      "leitura_integral": true,
+      "imagem_original_conferida_somente_leitura": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "presentes": 0,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": []
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_insuficiente": false,
+        "corrupcao": false,
+        "correspondencia_visual": "texto principal confirmado; OCR omitiu acentos da aproximação fonética e separadores do crédito"
+      },
+      "estrutura": {
+        "frases_bilingues": 1,
+        "aproximacoes_foneticas_nao_padronizadas": 1,
+        "creditos_ou_identificadores": 2,
+        "elementos_visuais_decorativos": 3,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "frase-bilingue",
+          "natureza": "frase curta com futuro afirmativo de think",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Verbos",
+          "destino_curricular_especifico": "B1-L5-0164-02",
+          "justificativa": "O futuro afirmativo de think já é coberto pela unidade existente; a ocorrência isolada não justifica nova unidade.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "aproximacao-fonetica",
+          "natureza": "grafia aproximativa de pronúncia para falante de português, sem IPA",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Não é transcrição fonética padronizada e omite contrastes relevantes."
+        },
+        {
+          "id": "creditos-marcas-e-visuais",
+          "natureza": "crédito pessoal, perfil, marca de repostagem, bandeiras e elementos visuais",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Dados pessoais/editoriais, marcas e elementos visuais não constituem conteúdo curricular e não serão publicados."
+        }
+      ],
+      "totais": {
+        "partes": 3,
+        "consolidadas": 1,
+        "descartadas": 2,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Somente classificação, contagens, hashes e destino; frase, imagem, pseudo-fonética, créditos e marcas não foram republicados."
+    },
+    {
+      "numero": 1210,
+      "nome_completo": "1210_820B6A28-0D00-414B-9AC3-DFBE93D13F4E.md",
+      "tipo": "OCR de imagem didática curta",
+      "tamanho_bytes": 846,
+      "hash_bruto": "8869fb9a56b9adceca47b8a9b9817ba0f33aa67fb4e6dd27b787612c64af00e5",
+      "hash_normalizado": "dd8698b5c73136730053c3a42bdd20293d6120409615de0da3afb8c983884244",
+      "leitura_integral": true,
+      "imagem_original_conferida_somente_leitura": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "presentes": 0,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": []
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_insuficiente": false,
+        "corrupcao": false,
+        "correspondencia_visual": "texto principal confirmado; OCR omitiu acentos da aproximação fonética e normalizou o separador do crédito"
+      },
+      "estrutura": {
+        "frases_bilingues": 1,
+        "aproximacoes_foneticas_nao_padronizadas": 1,
+        "creditos_ou_identificadores": 2,
+        "elementos_visuais_decorativos": 3,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "frase-bilingue",
+          "natureza": "frase curta com modal could e verbo think",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "destino_curricular_especifico": "A2-VERB-0001",
+          "justificativa": "O modal could para possibilidade já integra a unidade existente; a ocorrência isolada não justifica nova unidade.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "aproximacao-fonetica",
+          "natureza": "grafia aproximativa de pronúncia, sem IPA",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Não é transcrição padronizada e omite contrastes relevantes."
+        },
+        {
+          "id": "creditos-marcas-e-visuais",
+          "natureza": "crédito pessoal, perfil, bandeiras e elementos visuais",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Dados pessoais/editoriais, marcas e elementos visuais não serão publicados."
+        }
+      ],
+      "totais": {
+        "partes": 3,
+        "consolidadas": 1,
+        "descartadas": 2,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Somente classificação, contagens, hashes e destino; frase, imagem, pseudo-fonética, créditos e marcas não foram republicados."
+    }
+  ]
+}

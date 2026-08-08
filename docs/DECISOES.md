@@ -263,3 +263,12 @@
 - Classificar como fragmentos complementares, não duplicatas.
 - Descartar pseudo-fonética, créditos, perfis e elementos visuais; encerrar antes de 1209.
 <!-- LOTE-032-DECISOES:FIM -->
+
+<!-- LOTE-033-DECISOES:INICIO -->
+## Decisões do lote 033
+
+- Conferir 1209 e 1210 no Markdown e nas imagens somente leitura.
+- Consolidar futuro de think em B1-L5-0164-02 e possibilidade modal em A2-VERB-0001.
+- Classificar como fragmentos complementares, não duplicatas.
+- Descartar pseudo-fonética, créditos, perfis, marcas e elementos visuais; encerrar antes de 1211.
+<!-- LOTE-033-DECISOES:FIM -->

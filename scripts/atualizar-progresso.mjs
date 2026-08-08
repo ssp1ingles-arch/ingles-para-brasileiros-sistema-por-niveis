@@ -107,6 +107,10 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-032/resultados-validacao-032.json'
   ,'docs/evidencias/lote-032/resultados-comparacao-032.json'
   ,'docs/evidencias/lote-032/resultados-rotas-032.json'
+  ,'docs/evidencias/lote-033/resultados-intermediarios-1209.json'
+  ,'docs/evidencias/lote-033/resultados-validacao-033.json'
+  ,'docs/evidencias/lote-033/resultados-comparacao-033.json'
+  ,'docs/evidencias/lote-033/resultados-rotas-033.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);
@@ -178,5 +182,9 @@ progresso = progresso.replace(regexValidacoes, validacoes + '\n');
 const foraDoEstado = progresso.replace(/<!-- ESTADO-ATUAL:INICIO -->[\s\S]*?<!-- ESTADO-ATUAL:FIM -->/, '');
 const conflitos = foraDoEstado.match(/^## Estado atual confirmado$|^## Retomada$|^- Próxima fonte sequencial:|^- Total tratado:/gm) || [];
 if (conflitos.length) throw new Error(`Informação corrente conflitante fora do bloco automático: ${conflitos.join(' | ')}`);
+const marcadorLote033 = '<!-- LOTE-033-PROGRESSO:INICIO -->';
+if (ultimoLote >= 33 && !progresso.includes(marcadorLote033)) {
+  progresso = `${progresso.trim()}\n\n${marcadorLote033}\n## Lote 033\n\n- Sequenciais: 1209–1210; dois OCRs de imagens integralmente classificados e visualmente conferidos.\n- Relação: fragmentos complementares; futuro afirmativo e possibilidade modal com think destinados separadamente.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1210_820B6A28-0D00-414B-9AC3-DFBE93D13F4E.md\`; próxima: \`1211_A513BBF1-660F-425A-89DF-128DF888FE65.md\`.\n<!-- LOTE-033-PROGRESSO:FIM -->\n`;
+}
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);
