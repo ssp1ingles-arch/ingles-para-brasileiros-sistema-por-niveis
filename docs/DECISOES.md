@@ -186,3 +186,13 @@
 - Consolidar 1187 somente após a validação intermediária e a igualdade integral com 1186.
 - Encerrar antes de 1188_REGRAS_6.md.
 <!-- LOTE-024-DECISOES:FIM -->
+
+<!-- LOTE-025-DECISOES:INICIO -->
+## Decisões do lote 025
+
+- Aplicar 1188 como fonte normativa, sem criar conteúdo didático independente.
+- Mapear as 361 páginas presentes de 1189, registrando honestamente a ausência da página 2.
+- Manter no repositório somente metadados, decisões e destinos, sem páginas ou exemplos integrais do livro.
+- Comparar 1190 somente após a validação intermediária 12/12 de 1189.
+- Encerrar antes de 1191.
+<!-- LOTE-025-DECISOES:FIM -->

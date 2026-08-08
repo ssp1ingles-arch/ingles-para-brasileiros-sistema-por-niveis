@@ -1,0 +1,66 @@
+{
+  "total": 12,
+  "aprovados": 12,
+  "resultados": [
+    {
+      "teste": "1188 lida e aplicada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1189 aberta somente após regras",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1189 361 páginas presentes",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "página 2 ausente registrada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "todas as páginas decididas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "nenhuma seção útil sem destino",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "destinos específicos existentes",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "categorias editoriais separadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "zero corrupção detectada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "nenhuma página ou exemplo republicado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1190 ainda bloqueada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "hash 1189 preservado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "total": 26,
+  "aprovados": 26,
+  "resultados": [
+    {
+      "teste": "início obrigatório 1188",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1188 normativa aplicada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1189 361 páginas presentes",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1189 integralmente decidida",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1189 sem corrupção",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem página útil sem destino",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "destinos existentes",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "categorias separadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem republicação do livro",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "intermediária anterior à comparação",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1190 duplicata",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1170 preservada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs unidades únicos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs atividades únicos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Kids CEFR",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "C2 justificado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Jornada 806+28",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "806 IDs preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem órfãos/repetidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "atividades preservadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem exemplo exato republicado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "hashes preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "localStorage estável",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "currículo estável",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "nenhuma parcial",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

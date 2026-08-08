@@ -1,6 +1,6 @@
 # Progresso
 
-Atualizado em 2026-08-08 após o lote 024.
+Atualizado em 2026-08-08 após o lote 025.
 
 <!-- ESTADO-ATUAL:INICIO -->
 ## Estado atual confirmado
@@ -8,23 +8,23 @@ Atualizado em 2026-08-08 após o lote 024.
 > Bloco calculado automaticamente por `scripts/atualizar-progresso.mjs`. Não editar os números manualmente.
 
 - Total de fontes: **1.547**
-- Fontes integralmente classificadas: **407**
-- Duplicatas consolidadas: **786**
+- Fontes integralmente classificadas: **408**
+- Duplicatas consolidadas: **787**
 - Fontes parcialmente analisadas: **0**
-- Fontes sem conteúdo didático: **44**
-- Total tratado: **1237**
-- Fontes não analisadas: **310**
-- Cobertura real: **79,96%** (`1237 ÷ 1.547`)
+- Fontes sem conteúdo didático: **45**
+- Total tratado: **1240**
+- Fontes não analisadas: **307**
+- Cobertura real: **80,16%** (`1240 ÷ 1.547`)
 - Unidades publicadas: **834**
 - Por nível: A1 **80**; A2 **360**; B1 **270**; B2 **95**; C1 **18**; C2 **5**; Kids **6**
 - Habilidade principal: Conversação **103**; Escrita **7**; Escuta **15**; Gramática **282**; Inglês acadêmico **15**; Inglês profissional **5**; Leitura **13**; Pronúncia **21**; Verbos **339**; Vocabulário **34**
 - Subpainéis: **95**
 - Jornada: **31 etapas**, **82 módulos** e **7 níveis ativos**
 - Atividades: **1977** — identificar_contraste **30**; parear **655**; producao_autorrevisao **755**; reordenar **537**
-- Testes executados e aprovados: **473/473**
+- Testes executados e aprovados: **520/520**
 - Rotas HTML existentes: **11** — `estudar.html`, `index.html`, `jornada.html`, `niveis/a1/index.html`, `niveis/a2/index.html`, `niveis/b1/index.html`, `niveis/b2/index.html`, `niveis/c1/index.html`, `niveis/c2/index.html`, `niveis/kids/index.html`, `praticar.html`
-- Última fonte sequencial tratada: `1187_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_)_2.md`
-- Próxima fonte sequencial: `1188_REGRAS_6.md`
+- Última fonte sequencial tratada: `1190_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference_2.md`
+- Próxima fonte sequencial: `1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md`
 <!-- ESTADO-ATUAL:FIM -->
 
 ## Lote 007
@@ -108,7 +108,7 @@ Atualizado em 2026-08-08 após o lote 024.
 - **95 subpainéis**, **31 etapas** e **82 módulos** registrados nos dados atuais.
 - **1977 atividades** em 4 tipos: identificar_contraste **30**; parear **655**; producao_autorrevisao **755**; reordenar **537**.
 - **11 rotas HTML existentes**: `estudar.html`, `index.html`, `jornada.html`, `niveis/a1/index.html`, `niveis/a2/index.html`, `niveis/b1/index.html`, `niveis/b2/index.html`, `niveis/c1/index.html`, `niveis/c2/index.html`, `niveis/kids/index.html`, `praticar.html`.
-- Último resultado persistido das suítes vigentes: **473/473 testes aprovados**.
+- Último resultado persistido das suítes vigentes: **520/520 testes aprovados**.
 - Hashes e estados vêm de `dados/mapa-fontes.json` e `dados/revisao-fontes.json`; `Arquivo_Fonte` permanece somente para leitura.
 <!-- VALIDACOES-VIGENTES:FIM -->
 
@@ -211,3 +211,14 @@ Atualizado em 2026-08-08 após o lote 024.
 - Última: `1187_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_)_2.md`; próxima: `1188_REGRAS_6.md`.
 - Nenhum commit ou push; ainda restam fontes.
 <!-- LOTE-024:FIM -->
+
+<!-- LOTE-025:INICIO -->
+## Lote 025
+
+- Sequenciais: **3** (`1188`–`1190`): **1 normativa**, **1 canônica extensa** e **1 duplicata integral**.
+- 1189: **361 páginas presentes**, 345 consolidadas, 16 descartadas, zero corrompidas e zero úteis sem destino; página 2 ausente.
+- 1190=1189 no corpo integral, paginação e hash normalizado; hashes brutos distintos e procedência preservada.
+- Unidades/atividades novas: **0**; totais **834/1977**; **95 subpainéis**.
+- Jornada: 806 presentes e 28 complementares; 806/806 IDs preservados.
+- Última: `1190_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference_2.md`; próxima: `1191_02_English_for_Everyone_English_Vocabulary_Builder.md`.
+<!-- LOTE-025:FIM -->

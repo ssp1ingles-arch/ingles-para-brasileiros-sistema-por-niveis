@@ -1,0 +1,22 @@
+{
+  "total": 4,
+  "aprovados": 4,
+  "resultados": [
+    {
+      "teste": "intermediária 1189 aprovada antes da comparação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1189/1190 corpo e normalização",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1189/1190 paginação integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hashes brutos distintos e normalizados iguais",
+      "resultado": "APROVADO"
+    }
+  ]
+}

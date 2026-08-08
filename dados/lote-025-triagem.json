@@ -1,0 +1,57 @@
+{
+  "lote": "025",
+  "intervalo": [
+    1188,
+    1190
+  ],
+  "sequenciais": [
+    {
+      "numero": 1188,
+      "nome": "1188_REGRAS_6.md",
+      "tamanho_bytes": 2171,
+      "hash_bruto": "7eb22e4eaa514ff2b463cd1818bb2bbb17448cf765f606f25fa31879fa29948c",
+      "hash_normalizado": "6ea712a5c94569d8f23e1a35454e3e114e36fd6744ddf919469d9fe50d50f60a",
+      "leitura_integral": true,
+      "paginas": 0,
+      "status": "sem conteúdo didático",
+      "justificativa": "Fonte normativa; regras extraídas e aplicadas a 1189, sem lição independente."
+    },
+    {
+      "numero": 1189,
+      "nome": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+      "tamanho_bytes": 434734,
+      "hash_bruto": "9c684c6ffcb7e11df4bb08aebc7273e9abf174458f8d397b74c080fbaba2e872",
+      "hash_normalizado": "b3875ada342f8b30e43c2e8683607a18c5dfe7a4e06baef8be6ff33bd191b80a",
+      "leitura_integral": true,
+      "paginas": 361,
+      "status": "integralmente classificada",
+      "sem_destino_util": 0,
+      "justificativa": "361 páginas presentes lidas e decididas; página 2 ausente na fonte Markdown, registrada honestamente."
+    },
+    {
+      "numero": 1190,
+      "nome": "1190_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference_2.md",
+      "tamanho_bytes": 434735,
+      "hash_bruto": "a4601228f6f5deb97f8755eede9dcf2e989a71307e9be235f224d09273a5ac13",
+      "hash_normalizado": "b3875ada342f8b30e43c2e8683607a18c5dfe7a4e06baef8be6ff33bd191b80a",
+      "leitura_integral": true,
+      "paginas": 361,
+      "status": "duplicata consolidada",
+      "duplicata_de": 1189,
+      "sem_destino_util": 0,
+      "justificativa": "Corpo integral, sequência de 361 páginas e hash normalizado idênticos a 1189; procedência preservada."
+    }
+  ],
+  "direcionadas": [],
+  "duplicatas": [
+    1190
+  ],
+  "parciais": [],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1189,
+    "testes": "12/12",
+    "aprovada": true
+  },
+  "observacao": "Encerrado antes de 1191; 1190 comparada somente após a validação intermediária formal de 1189."
+}

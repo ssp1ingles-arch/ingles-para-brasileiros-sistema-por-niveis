@@ -91,3 +91,9 @@ Cobertura documental calculada: 79,64% → 79,83%. Unidades, atividades, subpain
 
 Cobertura documental calculada: 79,83% → 79,96%. Currículo e experiência permaneceram estáveis.
 <!-- LOTE-024-COBERTURA:FIM -->
+
+<!-- LOTE-025-COBERTURA:INICIO -->
+## Atualização curricular — lote 025
+
+Cobertura documental calculada: 79,96% → 80,16%. Currículo, atividades e experiência permaneceram estáveis.
+<!-- LOTE-025-COBERTURA:FIM -->

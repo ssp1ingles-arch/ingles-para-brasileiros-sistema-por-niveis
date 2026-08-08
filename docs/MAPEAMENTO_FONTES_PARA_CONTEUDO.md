@@ -172,3 +172,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1186 possui 285 páginas: 224 consolidadas e 61 descartadas, sem corrupção ou conteúdo útil sem destino. 1187 é duplicata integral.
 <!-- LOTE-024-MAPEAMENTO:FIM -->
+
+<!-- LOTE-025-MAPEAMENTO:INICIO -->
+## Lote 025 — mapeamento
+
+1188 forneceu as regras de seleção de inglês real. 1189 possui 361 páginas presentes: 345 consolidadas e 16 descartadas; a página 2 está ausente no Markdown. 1190 é duplicata integral comprovada após validação intermediária.
+<!-- LOTE-025-MAPEAMENTO:FIM -->
