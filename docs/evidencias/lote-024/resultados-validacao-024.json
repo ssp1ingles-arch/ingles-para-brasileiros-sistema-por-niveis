@@ -1,0 +1,126 @@
+{
+  "total": 24,
+  "aprovados": 24,
+  "resultados": [
+    {
+      "teste": "início 1186",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1186 285 páginas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1186 integralmente decidida",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1186 sem corrupção",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem página útil sem destino",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "destinos existentes",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1182 preservada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1184 preservada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1170 preservada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs unidades únicos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs atividades únicos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Kids CEFR",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "C2 justificado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Jornada 806+28",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "806 IDs preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem órfãos/repetidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "atividades preservadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem exemplo exato republicado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "hashes preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "localStorage estável",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "currículo estável",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "uma obra extensa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "nenhuma parcial",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

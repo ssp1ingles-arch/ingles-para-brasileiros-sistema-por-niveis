@@ -1,0 +1,2597 @@
+{
+  "lote": "014",
+  "sequenciais": [
+    {
+      "numero": 681,
+      "nome": "0681_QW_CONJ_IN_OTHER_WORDS_OU_SEJA_ISTO_E.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5101,
+      "hash_bruto": "c88074992146fc9e23b827078e08abc8fb616ec0351b09a7155cfaa5f7d9b8b2",
+      "hash_normalizado": "d6f9d138c33603e9bf7d41044d948f413e881843403b1e4274cb65fcf3a59413",
+      "canonica": "0308_09_IN_OTHER_WORDS_Ou_Seja.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B2-L7-0308-01",
+        "C1-L7-0308-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 682,
+      "nome": "0682_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5520,
+      "hash_bruto": "56a8a91f68409d908f7adc20b3ecdad46386ba8b55e38675fdaf3de8bbb7f713",
+      "hash_normalizado": "e13d7a22631f03261908e304c9ed494ca5270b1d6da5292cdfeea6200b11b35b",
+      "canonica": "0074_02_NEVERTHELESS_Mesmo_Assim.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B2-L4-0074-01",
+        "C1-L4-0074-02",
+        "C1-L4-0074-03",
+        "C1-L4-0074-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 683,
+      "nome": "0683_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5535,
+      "hash_bruto": "f6c66937077a82eea94a4022554889df44fa5444970d442f5c3455fecdf6488d",
+      "hash_normalizado": "e13d7a22631f03261908e304c9ed494ca5270b1d6da5292cdfeea6200b11b35b",
+      "canonica": "0074_02_NEVERTHELESS_Mesmo_Assim.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B2-L4-0074-01",
+        "C1-L4-0074-02",
+        "C1-L4-0074-03",
+        "C1-L4-0074-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 684,
+      "nome": "0684_QW_CONJ_NOR_NEM_TAMBEM_NAO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4063,
+      "hash_bruto": "e3a55aade52799ad13fb977fa8dbee944e949f0aff73f01fd43997a32911a1bf",
+      "hash_normalizado": "b2c15e853397db51ce3b30f45a3eec3d53562443c1162d570730c1f4edecd83d",
+      "canonica": "0254_07_NOR_Nem_Tambem_Nao.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L7-0254-01",
+        "B2-L7-0254-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 685,
+      "nome": "0685_QW_CONJ_NOR_NEM_TAMBEM_NAO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4078,
+      "hash_bruto": "c1a0181a33efa00d3761b584e61f8cd7e814d8cce7a7e7276bbe3875af9b2297",
+      "hash_normalizado": "b2c15e853397db51ce3b30f45a3eec3d53562443c1162d570730c1f4edecd83d",
+      "canonica": "0254_07_NOR_Nem_Tambem_Nao.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L7-0254-01",
+        "B2-L7-0254-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 686,
+      "nome": "0686_QW_CONJ_NOT_ONLY_NAO_SO_MAS_TAMBEM.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4343,
+      "hash_bruto": "72c75ad7ce8b3023003b641ab9d010ca7bdeedff26cdfe6cba2feeedfa3912e0",
+      "hash_normalizado": "c0663cb04e4e6a3e70a50d152a49de3243384768c4b88197de205d05798e3bc7",
+      "canonica": "0113_03_NOT_ONLY_BUT_ALSO.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0113-01",
+        "B2-L5-0113-03",
+        "B2-L5-0113-04",
+        "C1-L5-0113-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 687,
+      "nome": "0687_QW_CONJ_NOT_ONLY_NAO_SO_MAS_TAMBEM_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4358,
+      "hash_bruto": "a2bc041fb2c5a8eb1d57690c24835a6c4a1c809adc5a2998b660574d10408788",
+      "hash_normalizado": "c0663cb04e4e6a3e70a50d152a49de3243384768c4b88197de205d05798e3bc7",
+      "canonica": "0113_03_NOT_ONLY_BUT_ALSO.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0113-01",
+        "B2-L5-0113-03",
+        "B2-L5-0113-04",
+        "C1-L5-0113-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 688,
+      "nome": "0688_QW_CONJ_OR_OU_ALTERNATIVA.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4388,
+      "hash_bruto": "dae0e93f04a6adcfdaa3a4420e8529e77d1104642260456f5ed05d8bdc5a9e07",
+      "hash_normalizado": "54f5fac683545ce7374c2fbb62acc994e46c74b428f1a89f76ec7e4dd58ccf25",
+      "canonica": "0115_03_OR_Ou_Alternativa.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0115-01",
+        "A2-L5-0115-02",
+        "B1-L5-0115-03",
+        "B1-L5-0115-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 689,
+      "nome": "0689_QW_CONJ_OR_OU_ALTERNATIVA_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4403,
+      "hash_bruto": "42ac003b8073855167d998619e8fb60a4c927c1510d597dc04d20c186f4a163a",
+      "hash_normalizado": "54f5fac683545ce7374c2fbb62acc994e46c74b428f1a89f76ec7e4dd58ccf25",
+      "canonica": "0115_03_OR_Ou_Alternativa.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0115-01",
+        "A2-L5-0115-02",
+        "B1-L5-0115-03",
+        "B1-L5-0115-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 690,
+      "nome": "0690_QW_CONJ_PROVIDED_INCASE_DESDE_QUE_CASO_SE.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5529,
+      "hash_bruto": "227ede615e44631a092870efa6d788265ae50819f4efb27f1587e52f4f970bd8",
+      "hash_normalizado": "f3132121222e010931cf9874dd3bdaf5aa3c3a6e3080fa048e91d7fd0b34c61f",
+      "canonica": "0189_05_PROVIDED_IN_CASE_Desde_Que.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B2-L6-0189-01",
+        "B2-L6-0189-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 691,
+      "nome": "0691_QW_CONJ_SINCE_DESDE_JA_QUE.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4828,
+      "hash_bruto": "ff3bc20cbe1022a7de9cd826776f5c45906bca728244f1edfa1144b14ba16b86",
+      "hash_normalizado": "060cc4263760533d904c6e2a91566a3fdf1740cfab145ea2b67a6a85f9f1204f",
+      "canonica": "0039_01_SINCE_Desde_Ja_Que.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L3-0039-01",
+        "B2-L3-0039-02",
+        "B2-L3-0039-03",
+        "B2-L3-0039-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 692,
+      "nome": "0692_QW_CONJ_SINCE_DESDE_JA_QUE_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4843,
+      "hash_bruto": "6e4811da24c8543dfc7478fbac5dfed3ce2575c943158597728041bb3e867405",
+      "hash_normalizado": "060cc4263760533d904c6e2a91566a3fdf1740cfab145ea2b67a6a85f9f1204f",
+      "canonica": "0039_01_SINCE_Desde_Ja_Que.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L3-0039-01",
+        "B2-L3-0039-02",
+        "B2-L3-0039-03",
+        "B2-L3-0039-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 693,
+      "nome": "0693_QW_CONJ_SO_ENTAO_PORTANTO_TAO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4903,
+      "hash_bruto": "1cb8e8dcf63e24afa2a74a89d838e28b27953e3492f0751f2796013d00646564",
+      "hash_normalizado": "41cdf6a61b12ddd5e36a72203146255fb9f4405349225188814e68251f72b5c9",
+      "canonica": "0162_04_SO_Entao_Portanto.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0162-01",
+        "B1-L5-0162-02",
+        "B2-L5-0162-03",
+        "B2-L5-0162-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 694,
+      "nome": "0694_QW_CONJ_SO_ENTAO_PORTANTO_TAO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4918,
+      "hash_bruto": "bef06d070744597ac320ea11e8dadc5446507b29cd630bc389826d60cbc3d5de",
+      "hash_normalizado": "41cdf6a61b12ddd5e36a72203146255fb9f4405349225188814e68251f72b5c9",
+      "canonica": "0162_04_SO_Entao_Portanto.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0162-01",
+        "B1-L5-0162-02",
+        "B2-L5-0162-03",
+        "B2-L5-0162-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 695,
+      "nome": "0695_QW_CONJ_THEREFORE_PORTANTO_POR_ISSO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4642,
+      "hash_bruto": "83f5af11613e6f885b22d4e1f7296bcc2098519ef9399c68818710a41b8d22fb",
+      "hash_normalizado": "61bdbcdbb6b25c8c8f5f3b42f07a2d029b65361954b46b72d02ce980e96e89da",
+      "canonica": "0224_06_THEREFORE_Portanto.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B2-L6-0224-01",
+        "B2-L6-0224-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 696,
+      "nome": "0696_QW_CONJ_THEREFORE_PORTANTO_POR_ISSO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4657,
+      "hash_bruto": "08197db00afcfb5f80e74c0d315d92238cbdcb2ee9c423a28990778399c442da",
+      "hash_normalizado": "61bdbcdbb6b25c8c8f5f3b42f07a2d029b65361954b46b72d02ce980e96e89da",
+      "canonica": "0224_06_THEREFORE_Portanto.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B2-L6-0224-01",
+        "B2-L6-0224-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 697,
+      "nome": "0697_QW_CONJ_UNLESS_A_MENOS_QUE_SE_NAO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3761,
+      "hash_bruto": "92170ffd56d3f016888aedb683d2b1061754efeaf478a34bd6143ad6acbb994f",
+      "hash_normalizado": "d58f21a1234d7d3ae13e55763c4f99b491abf16774e9ff84de08ad717c6a5dd4",
+      "canonica": "0197_05_UNLESS_A_Menos_Que.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0197-01",
+        "B2-L6-0197-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 698,
+      "nome": "0698_QW_CONJ_UNTIL_ATE_ATE_QUE.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4584,
+      "hash_bruto": "7d64af6bc98790f83cc486e107f900e792c16a8d7422a8ad20c6622727eb7b60",
+      "hash_normalizado": "7aac405441669e8a285734bcfaa2778f3cbf92261546d03819bad2ccd366745f",
+      "canonica": "0088_02_UNTIL_Ate.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L4-0088-01",
+        "B1-L4-0088-02",
+        "B1-L4-0088-03",
+        "B1-L4-0088-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 699,
+      "nome": "0699_QW_CONJ_UNTIL_ATE_ATE_QUE_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4599,
+      "hash_bruto": "315eba103046d53d341c53a942491af3bfb026233b235dfa74749e893ce906a6",
+      "hash_normalizado": "7aac405441669e8a285734bcfaa2778f3cbf92261546d03819bad2ccd366745f",
+      "canonica": "0088_02_UNTIL_Ate.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L4-0088-01",
+        "B1-L4-0088-02",
+        "B1-L4-0088-03",
+        "B1-L4-0088-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 700,
+      "nome": "0700_QW_CONJ_WHEN_WHILE_QUANDO_ENQUANTO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4384,
+      "hash_bruto": "66761e5de84ffa3e05996a4a98a23eeb9ba92eaf889283e522e151229eabab5d",
+      "hash_normalizado": "fdb137f3471257ec9194b8efc160782227ba8cd8d25da9a1b35d65653a087e58",
+      "canonica": "0260_07_WHEN_WHILE_Quando_Enquanto.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L7-0260-01",
+        "B2-L7-0260-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 701,
+      "nome": "0701_QW_CONJ_WHEN_WHILE_QUANDO_ENQUANTO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4399,
+      "hash_bruto": "01ab3efd8ee4e60d480c8b75b75f539aa8747be581eeb176b3fbbfff1ce48840",
+      "hash_normalizado": "fdb137f3471257ec9194b8efc160782227ba8cd8d25da9a1b35d65653a087e58",
+      "canonica": "0260_07_WHEN_WHILE_Quando_Enquanto.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L7-0260-01",
+        "B2-L7-0260-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 702,
+      "nome": "0702_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4585,
+      "hash_bruto": "1739fa536fc536746485663fa643562162cc830944e77da8f012b66a5b3089c2",
+      "hash_normalizado": "d738b740f5f944a4bf62a1fd3726de7192b5d433531396c2e2c2a2f1ccafd80f",
+      "canonica": "0051_01_WHEREAS_Enquanto_Que.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B2-L3-0051-01",
+        "C1-L3-0051-02",
+        "C1-L3-0051-03",
+        "C1-L3-0051-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 703,
+      "nome": "0703_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4600,
+      "hash_bruto": "3a5374193665f01827941212fd804a128939bcd0c4f8fe4f7d139140c7b039e8",
+      "hash_normalizado": "d738b740f5f944a4bf62a1fd3726de7192b5d433531396c2e2c2a2f1ccafd80f",
+      "canonica": "0051_01_WHEREAS_Enquanto_Que.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B2-L3-0051-01",
+        "C1-L3-0051-02",
+        "C1-L3-0051-03",
+        "C1-L3-0051-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 704,
+      "nome": "0704_QW_CONJ_YET_MAS_AINDA_JA.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4326,
+      "hash_bruto": "5a53b51dea73fdccbad1774296d8ef93ba000cfa8a81c71bc8e35f7f901c6713",
+      "hash_normalizado": "12f7fa9eff718c97c291b105a723997fecbdab924b5cb5660a29c376db88a528",
+      "canonica": "0231_06_YET_Mas_Ainda.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0231-01",
+        "B2-L6-0231-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 705,
+      "nome": "0705_QW_CONJ_YET_MAS_AINDA_JA_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4341,
+      "hash_bruto": "3c37b55e155705e321dd638409311fcaa316665ab5089d006df5228dd894c1be",
+      "hash_normalizado": "12f7fa9eff718c97c291b105a723997fecbdab924b5cb5660a29c376db88a528",
+      "canonica": "0231_06_YET_Mas_Ainda.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0231-01",
+        "B2-L6-0231-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 706,
+      "nome": "0706_QW_GRAM_G1_01_SUBJECT_PRONOUNS_EU_VOCE_ELE_ELA_NOS_ELES_2.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 6339,
+      "hash_bruto": "4f88ac9c8703795179ee7edb25f83c09ae89b6d64e279cbee8ea3410624a0bf1",
+      "hash_normalizado": "5a94c481bf4a3f8975623376a44b904a48413b220210c7d86a361d18e0a81e60",
+      "canonica": "0038_01_Pronomes_Sujeito_EU_VOCE_ELE_ELA.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0002",
+        "A1-GRAM-0011",
+        "A2-GRAM-0002"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 707,
+      "nome": "0707_QW_GRAM_G1_01_SUBJECT_PRONOUNS_EU_VOCE_ELE_ELA_NOS_ELES_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 6354,
+      "hash_bruto": "af182f00590f025fe1c19ce5d405e584987d2485e05b632b5ef8960f5691668d",
+      "hash_normalizado": "5a94c481bf4a3f8975623376a44b904a48413b220210c7d86a361d18e0a81e60",
+      "canonica": "0038_01_Pronomes_Sujeito_EU_VOCE_ELE_ELA.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0002",
+        "A1-GRAM-0011",
+        "A2-GRAM-0002"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 708,
+      "nome": "0708_QW_GRAM_G1_02_OBJECT_PRONOUNS_ME_YOU_HIM_HER_US_THEM_2.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5150,
+      "hash_bruto": "06ee838d4856d534623678e71dbf6ca4800cfc59c66c8d6cef7b25954d07570d",
+      "hash_normalizado": "b9c78c1903d58c291218007d18d98a8852213e7a7647af9512207001c31a66d1",
+      "canonica": "0079_02_Pronomes_Objeto_ME_YOU_HIM_HER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0017",
+        "A1-CONV-0001",
+        "A2-GRAM-0008"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 709,
+      "nome": "0709_QW_GRAM_G1_02_OBJECT_PRONOUNS_ME_YOU_HIM_HER_US_THEM_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5165,
+      "hash_bruto": "68fabe8d390927b1a64883b413505d54b8451031028b97f24ba21aec190cdc37",
+      "hash_normalizado": "b9c78c1903d58c291218007d18d98a8852213e7a7647af9512207001c31a66d1",
+      "canonica": "0079_02_Pronomes_Objeto_ME_YOU_HIM_HER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0017",
+        "A1-CONV-0001",
+        "A2-GRAM-0008"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 710,
+      "nome": "0710_QW_GRAM_G1_03_POSSESSIVE_MEU_SEU_DELE_DELA_NOSSO_DELES_2.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5333,
+      "hash_bruto": "6f0f4be0fad0feff491b417921aa831d37dd9d1bd37f2cfd08a2080812fea968",
+      "hash_normalizado": "48f137f7bd694b587b183552ce215d4f027d5e4896d72f501097af37e39f9986",
+      "canonica": "0120_03_Pronomes_Possessivos_MY_YOUR_HIS_HER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0020",
+        "A1-L5-0120-01",
+        "A1-L5-0120-02",
+        "A1-L5-0120-03",
+        "A1-L5-0120-04",
+        "A2-GRAM-0010",
+        "A2-CONV-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 711,
+      "nome": "0711_QW_GRAM_G1_03_POSSESSIVE_MEU_SEU_DELE_DELA_NOSSO_DELES_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5348,
+      "hash_bruto": "dde4e5551d8020de0fda73f18e0307a33223af65248f6157104397d92b3e4a89",
+      "hash_normalizado": "48f137f7bd694b587b183552ce215d4f027d5e4896d72f501097af37e39f9986",
+      "canonica": "0120_03_Pronomes_Possessivos_MY_YOUR_HIS_HER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0020",
+        "A1-L5-0120-01",
+        "A1-L5-0120-02",
+        "A1-L5-0120-03",
+        "A1-L5-0120-04",
+        "A2-GRAM-0010",
+        "A2-CONV-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 712,
+      "nome": "0712_QW_GRAM_G1_04_REFLEXIVE_EU_MESMO_VOCE_MESMO_2.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5205,
+      "hash_bruto": "521ad557178e83c76c8de5d1b989164517d9509fe7eab91fc8d27523d941c9d4",
+      "hash_normalizado": "238efca48f3208e8a2c1a9cc05ee7d3560fc43c06b530430e16616efe353f9bf",
+      "canonica": "0156_04_Pronomes_Reflexivos_MYSELF_YOURSELF.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0156-01",
+        "A2-L5-0156-02",
+        "A2-L5-0156-03",
+        "A2-L5-0156-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 713,
+      "nome": "0713_QW_GRAM_G1_04_REFLEXIVE_EU_MESMO_VOCE_MESMO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5220,
+      "hash_bruto": "0ee36e046c88b6086ca106660aedeb71c243f16ca3758529d75ada5b003dc7a9",
+      "hash_normalizado": "238efca48f3208e8a2c1a9cc05ee7d3560fc43c06b530430e16616efe353f9bf",
+      "canonica": "0156_04_Pronomes_Reflexivos_MYSELF_YOURSELF.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0156-01",
+        "A2-L5-0156-02",
+        "A2-L5-0156-03",
+        "A2-L5-0156-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 714,
+      "nome": "0714_QW_GRAM_G2_01_A_AN_UM_UMA_ARTIGO_INDEFINIDO_2.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4543,
+      "hash_bruto": "e7c6eb4e6305b81b3c7b2fbf540b7d90e66b757638207d1a3c4b93c1b6c1c30d",
+      "hash_normalizado": "a98633d3f117be27730db37ea87170cd6df651b7c618ae0cd0148730d49c3f97",
+      "canonica": "0021_01_Artigo_A_AN_UM_UMA.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0003",
+        "A1-GRAM-0004",
+        "A1-GRAM-0009",
+        "A2-GRAM-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 715,
+      "nome": "0715_QW_GRAM_G2_01_A_AN_UM_UMA_ARTIGO_INDEFINIDO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4558,
+      "hash_bruto": "c7b2df0d2536757e2d14a33fc2b4d57c549eb69e9328a12468235314845da9a8",
+      "hash_normalizado": "a98633d3f117be27730db37ea87170cd6df651b7c618ae0cd0148730d49c3f97",
+      "canonica": "0021_01_Artigo_A_AN_UM_UMA.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0003",
+        "A1-GRAM-0004",
+        "A1-GRAM-0009",
+        "A2-GRAM-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 716,
+      "nome": "0716_QW_GRAM_G2_02_THE_O_A_OS_AS_ARTIGO_DEFINIDO_2.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4720,
+      "hash_bruto": "9ebb4c92a9a8be9ead259d5079ba972ae1b937f6e632f532044b73993a1f0122",
+      "hash_normalizado": "ddeb4d5efe3c34941324f7c5b0ebfe304c8f8d7e2247271b5e9734f2e1374695",
+      "canonica": "0057_02_Artigo_THE_O_A_OS_AS.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0014",
+        "A2-GRAM-0005",
+        "A2-GRAM-0006",
+        "B1-VOC-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 717,
+      "nome": "0717_QW_GRAM_G2_02_THE_O_A_OS_AS_ARTIGO_DEFINIDO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4735,
+      "hash_bruto": "cb9e7f3000f2684b07968bc73c87b338f18f93de13734405026c2667abe29d95",
+      "hash_normalizado": "ddeb4d5efe3c34941324f7c5b0ebfe304c8f8d7e2247271b5e9734f2e1374695",
+      "canonica": "0057_02_Artigo_THE_O_A_OS_AS.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0014",
+        "A2-GRAM-0005",
+        "A2-GRAM-0006",
+        "B1-VOC-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 718,
+      "nome": "0718_QW_GRAM_G2_03_ZERO_ARTICLE_SEM_ARTIGO_QUANDO_NAO_USAR_2.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5295,
+      "hash_bruto": "e9a8a55397c9db00132ca79c7c227daf968794c5364b8793a085824795ae998b",
+      "hash_normalizado": "7358c8a7d815de15ecc422fe6c4e114da08f1cd7701fb6e5cf736366d0161d0e",
+      "canonica": "0121_03_Sem_Artigo_Quando_NAO_usar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0121-01",
+        "A2-L5-0121-02",
+        "A2-L5-0121-03",
+        "B1-L5-0121-04",
+        "B1-L5-0121-05"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 719,
+      "nome": "0719_QW_GRAM_G2_03_ZERO_ARTICLE_SEM_ARTIGO_QUANDO_NAO_USAR_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 5310,
+      "hash_bruto": "19690cd1837225af8c9b92516811cd718c6e6fc7062d261832836131f05ae158",
+      "hash_normalizado": "7358c8a7d815de15ecc422fe6c4e114da08f1cd7701fb6e5cf736366d0161d0e",
+      "canonica": "0121_03_Sem_Artigo_Quando_NAO_usar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0121-01",
+        "A2-L5-0121-02",
+        "A2-L5-0121-03",
+        "B1-L5-0121-04",
+        "B1-L5-0121-05"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 720,
+      "nome": "0720_QW_GRAM_G3_01_CAN_COULD_PODER___CONSEGUIR.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4297,
+      "hash_bruto": "e6de9323a8889a16304eba952008a1b25ea2e14bf5de9d0dd2d0de1372435261",
+      "hash_normalizado": "28b9dbe640d3d1d771a3b4cb36b9bfed171498e9f278c300d95e77e8c5b0e7a6",
+      "canonica": "0062_02_CAN_COULD_Poder_Conseguir.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-VERB-0001",
+        "A1-VERB-0002",
+        "A2-VERB-0001",
+        "B1-VERB-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 721,
+      "nome": "0721_QW_GRAM_G3_01_CAN_COULD_PODER___CONSEGUIR_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4312,
+      "hash_bruto": "f8b781c08c093cf67b1ea5e695d3ba65b9bcd20785b1f11eac5588ed1be883df",
+      "hash_normalizado": "28b9dbe640d3d1d771a3b4cb36b9bfed171498e9f278c300d95e77e8c5b0e7a6",
+      "canonica": "0062_02_CAN_COULD_Poder_Conseguir.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-VERB-0001",
+        "A1-VERB-0002",
+        "A2-VERB-0001",
+        "B1-VERB-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 722,
+      "nome": "0722_QW_GRAM_G3_02_MUST_HAVE_TO_DEVER___TER_QUE___PRECISAR.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4375,
+      "hash_bruto": "254552734f80d93218836c5f4b77039a449e6cee9f212aa77b8a5f94e16fccfe",
+      "hash_normalizado": "3038182b70b52c16a83edab64de9e3ec74fee68bdf1daab19bb29afd76ff1469",
+      "canonica": "0110_03_MUST_HAVE_TO_Dever_Ter_Que.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L4-0110-01",
+        "B1-L4-0110-02",
+        "B1-L4-0110-03",
+        "B1-L4-0110-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 723,
+      "nome": "0723_QW_GRAM_G3_02_MUST_HAVE_TO_DEVER___TER_QUE___PRECISAR_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4390,
+      "hash_bruto": "523e244ccc7e3d0991879cacf4105819d49af4aa0bda905253e0cf96afbabc3b",
+      "hash_normalizado": "3038182b70b52c16a83edab64de9e3ec74fee68bdf1daab19bb29afd76ff1469",
+      "canonica": "0110_03_MUST_HAVE_TO_Dever_Ter_Que.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L4-0110-01",
+        "B1-L4-0110-02",
+        "B1-L4-0110-03",
+        "B1-L4-0110-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 724,
+      "nome": "0724_QW_GRAM_G3_03_SHOULD_OUGHT_TO_DEVERIA___SERIA_BOM.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4155,
+      "hash_bruto": "a08fa0ae5a3eb7312e5aa915b146d12b8724b9bd8615d24bb256af02a8a1013f",
+      "hash_normalizado": "231bab7c6b84ddeac0cd582ad936b86f0e253c1fa8eebbaed491358c55d072a0",
+      "canonica": "0159_04_SHOULD_Deveria_Conselho.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0159-01",
+        "B1-L5-0159-02",
+        "B2-L5-0159-03",
+        "B2-L5-0159-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 725,
+      "nome": "0725_QW_GRAM_G3_03_SHOULD_OUGHT_TO_DEVERIA___SERIA_BOM_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4170,
+      "hash_bruto": "019e94abfc40158a631f430dd88a44254158fb5d2d057001f005ace3732de03a",
+      "hash_normalizado": "231bab7c6b84ddeac0cd582ad936b86f0e253c1fa8eebbaed491358c55d072a0",
+      "canonica": "0159_04_SHOULD_Deveria_Conselho.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0159-01",
+        "B1-L5-0159-02",
+        "B2-L5-0159-03",
+        "B2-L5-0159-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 726,
+      "nome": "0726_QW_GRAM_G3_04_MAY_MIGHT_TALVEZ___PODE_SER___POSSO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4017,
+      "hash_bruto": "db2ba5c1d66b0b8dc279bc48b57a90ae7933a1dbd06817e5627b4f71235a7fa6",
+      "hash_normalizado": "2c6f613844b13e097ecc499114eaf3b1a5f09ae1cb0338f2b1e0d122cb61a961",
+      "canonica": "0185_05_MAY_MIGHT_Talvez_Possibilidade.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0185-01",
+        "B2-L6-0185-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 727,
+      "nome": "0727_QW_GRAM_G3_04_MAY_MIGHT_TALVEZ___PODE_SER___POSSO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4032,
+      "hash_bruto": "a9b2416abdc8541e300ccf6edb31a186bace21031bf543b37d958f50bcd67f18",
+      "hash_normalizado": "2c6f613844b13e097ecc499114eaf3b1a5f09ae1cb0338f2b1e0d122cb61a961",
+      "canonica": "0185_05_MAY_MIGHT_Talvez_Possibilidade.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0185-01",
+        "B2-L6-0185-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 728,
+      "nome": "0728_QW_GRAM_G3_05_WOULD_GOSTARIA___COSTUMAVA___SERIA.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4195,
+      "hash_bruto": "cb4397e66f522854abbd13110bc46e87101efcd74aba5493b03f73ba882906be",
+      "hash_normalizado": "e509651c28e23d898640699d2eba6da1172713c72b223fe5672dca6f73e8a8bc",
+      "canonica": "0230_06_WOULD_Gostaria_Condicional.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0230-01",
+        "B2-L6-0230-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 729,
+      "nome": "0729_QW_GRAM_G3_05_WOULD_GOSTARIA___COSTUMAVA___SERIA_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4210,
+      "hash_bruto": "b01b3381ef4e7c60999cbb2a5062240bb8f7bbc36821410ce202aff2a201269e",
+      "hash_normalizado": "e509651c28e23d898640699d2eba6da1172713c72b223fe5672dca6f73e8a8bc",
+      "canonica": "0230_06_WOULD_Gostaria_Condicional.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0230-01",
+        "B2-L6-0230-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 730,
+      "nome": "0730_QW_GRAM_G3_06_WILL_SHALL_WILL_=_FUTURO___DECISAO___PROMESSA_ÔÇö_SHA.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4610,
+      "hash_bruto": "1a50fdb26aa577d5d35771b1a94234824653026d7f92eee1c63cc5cef3cf51e5",
+      "hash_normalizado": "d46458327cc92adcfd914d570e148d847c95de014d628fa8a7f9403e3e388d66",
+      "canonica": "0055_01_WILL_SHALL_Futuro_Decisao_Promessa.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L3-0055-01",
+        "B1-L3-0055-02",
+        "B1-L3-0055-03",
+        "B1-L3-0055-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 731,
+      "nome": "0731_QW_GRAM_G3_06_WILL_SHALL_WILL_=_FUTURO___DECISAO___PROMESSA_ÔÇö_SHA_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4625,
+      "hash_bruto": "bb2fcace0dabc81bfc83dee01b60839a2582a26514ced80f31209bbddc430d81",
+      "hash_normalizado": "d46458327cc92adcfd914d570e148d847c95de014d628fa8a7f9403e3e388d66",
+      "canonica": "0055_01_WILL_SHALL_Futuro_Decisao_Promessa.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L3-0055-01",
+        "B1-L3-0055-02",
+        "B1-L3-0055-03",
+        "B1-L3-0055-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 732,
+      "nome": "0732_QW_GRAM_G4_01_AT_TEMPO_AT_HORAS_MOMENTOS.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4008,
+      "hash_bruto": "6635b7aca00e9e61a2cd6b8d9b1ee6e399e0e5afabcd773884d823bc11ef8905",
+      "hash_normalizado": "7b19aea70b3a05ff71e548564b635325b023e99a8ae46ffa42d571285a3719eb",
+      "canonica": "0024_01_AT_Horas_Momentos.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0005",
+        "A1-GRAM-0006",
+        "A1-GRAM-0010"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 733,
+      "nome": "0733_QW_GRAM_G4_01_AT_TEMPO_AT_HORAS_MOMENTOS_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4023,
+      "hash_bruto": "fca56abe7092446ef82f5bfdfa962bfd2415169af8d2bf2d3954d6d0157cc558",
+      "hash_normalizado": "7b19aea70b3a05ff71e548564b635325b023e99a8ae46ffa42d571285a3719eb",
+      "canonica": "0024_01_AT_Horas_Momentos.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0005",
+        "A1-GRAM-0006",
+        "A1-GRAM-0010"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 734,
+      "nome": "0734_QW_GRAM_G4_02_ON_TEMPO_ON_DIAS_DATAS.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3140,
+      "hash_bruto": "b2bdbd1254cfa1cfc0b9b9b273d58142da3f97b892733ec3f2be642b17423a23",
+      "hash_normalizado": "384d2b93968565992601f5275f72dbc33ed0aff6c7e9e529a36d367eaf4a31de",
+      "canonica": "0076_02_ON_Dias_Datas.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0015",
+        "A1-GRAM-0016",
+        "A2-GRAM-0007"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 735,
+      "nome": "0735_QW_GRAM_G4_02_ON_TEMPO_ON_DIAS_DATAS_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3155,
+      "hash_bruto": "e9eaaca6c41e0c03fc4720316b8bdada9b988dd1880e9d368980f8f4355fc1ba",
+      "hash_normalizado": "384d2b93968565992601f5275f72dbc33ed0aff6c7e9e529a36d367eaf4a31de",
+      "canonica": "0076_02_ON_Dias_Datas.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0015",
+        "A1-GRAM-0016",
+        "A2-GRAM-0007"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 736,
+      "nome": "0736_QW_GRAM_G4_03_IN_TEMPO_IN_MESES_ANOS_PERIODOS.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3302,
+      "hash_bruto": "6bb9da472f508ba781b35cabf35281c72562e9c5930e53a63bb05dfbfc60515d",
+      "hash_normalizado": "05ddff8683b37a721ec628c3a603a53192e15fc473e7fbf10a981250033153ee",
+      "canonica": "0106_03_IN_Meses_Anos_Periodos.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0018",
+        "A1-GRAM-0019",
+        "A2-GRAM-0009"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 737,
+      "nome": "0737_QW_GRAM_G4_03_IN_TEMPO_IN_MESES_ANOS_PERIODOS_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3317,
+      "hash_bruto": "530f868a58f9414ad76e097ece6bfb45846e51d1b15856dec40bee7d92c244f0",
+      "hash_normalizado": "05ddff8683b37a721ec628c3a603a53192e15fc473e7fbf10a981250033153ee",
+      "canonica": "0106_03_IN_Meses_Anos_Periodos.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0018",
+        "A1-GRAM-0019",
+        "A2-GRAM-0009"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 738,
+      "nome": "0738_QW_GRAM_G4_04_FOR_SINCE_DURING_DURACAO_E_PRAZO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3874,
+      "hash_bruto": "af85b374ff0e828935b14330d9df441515a463716532815f6d78a785c9b9a5e2",
+      "hash_normalizado": "d81addc65d363f8236912694b5e9eaafd96ec6e5aedd0d0edbcd452b5196dca2",
+      "canonica": "0140_04_FOR_SINCE_DURING_Duracao_Prazo.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0140-01",
+        "B1-L5-0140-02",
+        "B2-L5-0140-03",
+        "B2-L5-0140-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 739,
+      "nome": "0739_QW_GRAM_G4_04_FOR_SINCE_DURING_DURACAO_E_PRAZO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3889,
+      "hash_bruto": "1c68682d8bfe50dd1157c0eb9431e8877f8a665cff6f40f47c40e12bd75ec45c",
+      "hash_normalizado": "d81addc65d363f8236912694b5e9eaafd96ec6e5aedd0d0edbcd452b5196dca2",
+      "canonica": "0140_04_FOR_SINCE_DURING_Duracao_Prazo.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0140-01",
+        "B1-L5-0140-02",
+        "B2-L5-0140-03",
+        "B2-L5-0140-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 740,
+      "nome": "0740_QW_GRAM_G5_01_IN_ON_AT_LUGAR_IN_ON_AT_DENTRO_SOBRE_EM.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4377,
+      "hash_bruto": "92b661937e7001dea455922e1fe2fdc3a49ad40fbf04026d5d5f0b668c23494a",
+      "hash_normalizado": "f1884dd435f12ecfb8d67b0e75d1d48ff3a55d87419dfe18f2857a64ad02e8d9",
+      "canonica": "0031_01_IN_ON_AT_Lugar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0007",
+        "A1-GRAM-0008"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 741,
+      "nome": "0741_QW_GRAM_G5_01_IN_ON_AT_LUGAR_IN_ON_AT_DENTRO_SOBRE_EM_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4392,
+      "hash_bruto": "0f2920d8c5a210436831bdf5ed0609fca1a36ddd187aedbbb70f34ac9c4c0730",
+      "hash_normalizado": "f1884dd435f12ecfb8d67b0e75d1d48ff3a55d87419dfe18f2857a64ad02e8d9",
+      "canonica": "0031_01_IN_ON_AT_Lugar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0007",
+        "A1-GRAM-0008"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 742,
+      "nome": "0742_QW_GRAM_G5_02_POSICAO_EMBAIXO_ACIMA_AO_LADO_ENTRE_ATRAS.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4258,
+      "hash_bruto": "c2610ac5502cc656ff84ed7873233e850fd07f48e8afd856ea23eaa594d3c773",
+      "hash_normalizado": "b664b3c78c4a4ce553d1dd2b655860047e1f329ff77e54e9878e66d344e3690f",
+      "canonica": "0742_QW_GRAM_G5_02_POSICAO_EMBAIXO_ACIMA_AO_LADO_ENTRE_ATRAS.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "contrastes e exemplos integralmente classificados",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0742-01"
+      ],
+      "acao": "publicar ou consolidar em unidade temática",
+      "status": "integralmente classificada",
+      "justificativa": "Fonte lida integralmente e destinada por função pedagógica."
+    },
+    {
+      "numero": 743,
+      "nome": "0743_QW_GRAM_G5_02_POSICAO_EMBAIXO_ACIMA_AO_LADO_ENTRE_ATRAS_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4489,
+      "hash_bruto": "d72f63ef9ddf54c744452e7c10c65bc4ad0d3b43ec5b3e83ffc400c718d37201",
+      "hash_normalizado": "b664b3c78c4a4ce553d1dd2b655860047e1f329ff77e54e9878e66d344e3690f",
+      "canonica": "0742_QW_GRAM_G5_02_POSICAO_EMBAIXO_ACIMA_AO_LADO_ENTRE_ATRAS.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0742-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 744,
+      "nome": "0744_QW_GRAM_G5_03_NEAR_THROUGH_PERTO_LONGE_AO_REDOR_ATRAVES.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3511,
+      "hash_bruto": "5ce9fc0e314b76b3f72feaa27f671d619101353a3ff74eb0a240730287063ec4",
+      "hash_normalizado": "0647053c2cad017118675097b3e74cabcb6296ecf58d5ace6ba3d13302daf32e",
+      "canonica": "0111_03_Near_Far_Through_Along.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L4-0111-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 745,
+      "nome": "0745_QW_GRAM_G5_03_NEAR_THROUGH_PERTO_LONGE_AO_REDOR_ATRAVES_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3526,
+      "hash_bruto": "c8d0c5be63d8ab01a98e0c0f0c9b89c31ff493a296124a96dfa1868f90f0fc54",
+      "hash_normalizado": "0647053c2cad017118675097b3e74cabcb6296ecf58d5ace6ba3d13302daf32e",
+      "canonica": "0111_03_Near_Far_Through_Along.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L4-0111-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 746,
+      "nome": "0746_QW_GRAM_G6_01_TO_INTO_TOWARD_PARA_DENTRO_EM_DIRECAO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3635,
+      "hash_bruto": "53ede2c78ae12c31fad7f3dce3d7d6a83bffd3e51ed3fcc85dd379c58252af84",
+      "hash_normalizado": "13fc0ec359c43dfa5f3a9d212c5d69db4385b3084d659ce265a8f59b290f26f8",
+      "canonica": "0746_QW_GRAM_G6_01_TO_INTO_TOWARD_PARA_DENTRO_EM_DIRECAO.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "contrastes e exemplos integralmente classificados",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0746-01"
+      ],
+      "acao": "publicar ou consolidar em unidade temática",
+      "status": "integralmente classificada",
+      "justificativa": "Fonte lida integralmente e destinada por função pedagógica."
+    },
+    {
+      "numero": 747,
+      "nome": "0747_QW_GRAM_G6_01_TO_INTO_TOWARD_PARA_DENTRO_EM_DIRECAO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3862,
+      "hash_bruto": "a1c265a92c9942b92a78752c186165ff31cde0c0e9184972b623e8d2d16c62b2",
+      "hash_normalizado": "13fc0ec359c43dfa5f3a9d212c5d69db4385b3084d659ce265a8f59b290f26f8",
+      "canonica": "0746_QW_GRAM_G6_01_TO_INTO_TOWARD_PARA_DENTRO_EM_DIRECAO.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0746-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 748,
+      "nome": "0748_QW_GRAM_G6_02_FROM_OUT_OF_DE_PARA_FORA_LONGE.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3773,
+      "hash_bruto": "f44d45a6377cfe4b9d8f4829f858182536136f71493e637418227744a5a74b54",
+      "hash_normalizado": "0bde2c82b0d6ae9989e51a05168f84dea86a24712a8c5e557b2dd0429cbe8275",
+      "canonica": "0175_05_FROM_OUT_OF_Origem_Saida.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0175-01",
+        "B1-L6-0175-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 749,
+      "nome": "0749_QW_GRAM_G6_02_FROM_OUT_OF_DE_PARA_FORA_LONGE_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3788,
+      "hash_bruto": "4f81da0f8b5c3ee0d2ba341d89e15316991e73b0a243b2329591ed0d23041349",
+      "hash_normalizado": "0bde2c82b0d6ae9989e51a05168f84dea86a24712a8c5e557b2dd0429cbe8275",
+      "canonica": "0175_05_FROM_OUT_OF_Origem_Saida.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0175-01",
+        "B1-L6-0175-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 750,
+      "nome": "0750_QW_GRAM_G6_03_THROUGH_ACROSS_PELO_INTERIOR_ATRAVESSANDO_AO_LONGO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4377,
+      "hash_bruto": "8c798e533ddef92419101e532d67588d85e85a33394954a2bbbb7d66522dead5",
+      "hash_normalizado": "f2ecdc13be49e2aef02a3776bd483ae9a6c91ed3b604a8c41c820e5266fe6b72",
+      "canonica": "0226_06_THROUGH_ACROSS_Percurso.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0226-01",
+        "B1-L6-0226-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 751,
+      "nome": "0751_QW_GRAM_G6_03_THROUGH_ACROSS_PELO_INTERIOR_ATRAVESSANDO_AO_LONGO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4392,
+      "hash_bruto": "862201c8b0d2fa4aef9460d8ab0894b93fe3bb146a757d98b644d1738245084b",
+      "hash_normalizado": "f2ecdc13be49e2aef02a3776bd483ae9a6c91ed3b604a8c41c820e5266fe6b72",
+      "canonica": "0226_06_THROUGH_ACROSS_Percurso.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0226-01",
+        "B1-L6-0226-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 752,
+      "nome": "0752_QW_GRAM_G7_01_FREQUENCY_ADV_SEMPRE_NORMALMENTE_AS_VEZES_RARAMENTE_NUNCA.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4551,
+      "hash_bruto": "2c72d4b7089d725c42dfe44a5fe7eb2817cce302bcf44b6685aade1f5cd82059",
+      "hash_normalizado": "8c477b4713af11e54ba236f13b076ee358cf9f031d29dd34dbd5e92e37f7f2d0",
+      "canonica": "0752_QW_GRAM_G7_01_FREQUENCY_ADV_SEMPRE_NORMALMENTE_AS_VEZES_RARAMENTE_NUNCA.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "contrastes e exemplos integralmente classificados",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0752-01"
+      ],
+      "acao": "publicar ou consolidar em unidade temática",
+      "status": "integralmente classificada",
+      "justificativa": "Fonte lida integralmente e destinada por função pedagógica."
+    },
+    {
+      "numero": 753,
+      "nome": "0753_QW_GRAM_G7_01_FREQUENCY_ADV_SEMPRE_NORMALMENTE_AS_VEZES_RARAMENTE_NUNCA_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4798,
+      "hash_bruto": "4a85e33630787fd78f1ebc0c662a59faa4c191926116d9456c14de42cfc75acd",
+      "hash_normalizado": "8c477b4713af11e54ba236f13b076ee358cf9f031d29dd34dbd5e92e37f7f2d0",
+      "canonica": "0752_QW_GRAM_G7_01_FREQUENCY_ADV_SEMPRE_NORMALMENTE_AS_VEZES_RARAMENTE_NUNCA.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0752-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 754,
+      "nome": "0754_QW_GRAM_G7_02_EVERY_ONCE_TWICE_TODO_DIA_UMA_VEZ_DUAS_VEZES.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4478,
+      "hash_bruto": "7b09afc46eb8ca4dc441b040f894cbf40ef69e0e848120b52cb41c013ee81277",
+      "hash_normalizado": "48371f243621e31a502d62b65f18cb1d0799abd40534e1ecee667e2a46ec78b3",
+      "canonica": "0754_QW_GRAM_G7_02_EVERY_ONCE_TWICE_TODO_DIA_UMA_VEZ_DUAS_VEZES.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "contrastes e exemplos integralmente classificados",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0754-01"
+      ],
+      "acao": "publicar ou consolidar em unidade temática",
+      "status": "integralmente classificada",
+      "justificativa": "Fonte lida integralmente e destinada por função pedagógica."
+    },
+    {
+      "numero": 755,
+      "nome": "0755_QW_GRAM_G7_02_EVERY_ONCE_TWICE_TODO_DIA_UMA_VEZ_DUAS_VEZES_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4712,
+      "hash_bruto": "0108ce066768f88823e00ed73f18142d5058538e50eb8533e3ecda0a9b673205",
+      "hash_normalizado": "48371f243621e31a502d62b65f18cb1d0799abd40534e1ecee667e2a46ec78b3",
+      "canonica": "0754_QW_GRAM_G7_02_EVERY_ONCE_TWICE_TODO_DIA_UMA_VEZ_DUAS_VEZES.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0754-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 756,
+      "nome": "0756_QW_GRAM_G8_01_SOME_ANY_ALGUM_ALGUMA_NENHUM.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4675,
+      "hash_bruto": "d66fcbaaf6d7b6302beba434309b592a6b94e0203942c1abf8ab96dd94fe681c",
+      "hash_normalizado": "98eb60713605755c03527325c9fd046661cacc4c42c597557e17314f923f8f3f",
+      "canonica": "0122_03_SOME_ANY_Algum_Nenhum.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0021",
+        "A2-GRAM-0011",
+        "A2-VOC-0001",
+        "A2-L5-0122-01",
+        "A2-L5-0122-02",
+        "A2-L5-0122-03",
+        "A2-L5-0122-04",
+        "B1-GRAM-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 757,
+      "nome": "0757_QW_GRAM_G8_01_SOME_ANY_ALGUM_ALGUMA_NENHUM_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4690,
+      "hash_bruto": "fbad366909467bd1f63dd886e4c41314248e57e2dbfa6499d9ec1f4741b52ac6",
+      "hash_normalizado": "98eb60713605755c03527325c9fd046661cacc4c42c597557e17314f923f8f3f",
+      "canonica": "0122_03_SOME_ANY_Algum_Nenhum.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0021",
+        "A2-GRAM-0011",
+        "A2-VOC-0001",
+        "A2-L5-0122-01",
+        "A2-L5-0122-02",
+        "A2-L5-0122-03",
+        "A2-L5-0122-04",
+        "B1-GRAM-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 758,
+      "nome": "0758_QW_GRAM_G8_02_MUCH_MANY_MUITO_MUITOS_MUITAS.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4255,
+      "hash_bruto": "ef959d3fc41cc24d27775f720aee7ac0065a52547c44e452c177b3a626bbb40c",
+      "hash_normalizado": "268a36aa317f2385b7f8e3306c6c28aabdf7e42c866f548894813968416e7940",
+      "canonica": "0151_04_MUCH_MANY_A_LOT_OF_Muito.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0022",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "A2-L5-0151-01",
+        "A2-L5-0151-02",
+        "A2-L5-0151-03",
+        "A2-L5-0151-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 759,
+      "nome": "0759_QW_GRAM_G8_02_MUCH_MANY_MUITO_MUITOS_MUITAS_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4270,
+      "hash_bruto": "8f3707e20d166c1a3dabe8912cb2d8e651abe16f308f5b76d3dd9a9b276cfd44",
+      "hash_normalizado": "268a36aa317f2385b7f8e3306c6c28aabdf7e42c866f548894813968416e7940",
+      "canonica": "0151_04_MUCH_MANY_A_LOT_OF_Muito.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0022",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "A2-L5-0151-01",
+        "A2-L5-0151-02",
+        "A2-L5-0151-03",
+        "A2-L5-0151-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 760,
+      "nome": "0760_QW_GRAM_G8_03_A_FEW_A_LITTLE_ALGUNS_POUCOS_UM_POUCO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4655,
+      "hash_bruto": "d51f4d59b2e6657d20f462227922bd043f90b2978c7d3ad8ee3c5cc5258ea957",
+      "hash_normalizado": "4ab2dd8348bd1fb98f5c2a0042dec0ab6df30e787d0d2f870a7a02cb6d9b225e",
+      "canonica": "0760_QW_GRAM_G8_03_A_FEW_A_LITTLE_ALGUNS_POUCOS_UM_POUCO.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "contrastes e exemplos integralmente classificados",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0760-01"
+      ],
+      "acao": "publicar ou consolidar em unidade temática",
+      "status": "integralmente classificada",
+      "justificativa": "Fonte lida integralmente e destinada por função pedagógica."
+    },
+    {
+      "numero": 761,
+      "nome": "0761_QW_GRAM_G8_03_A_FEW_A_LITTLE_ALGUNS_POUCOS_UM_POUCO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4882,
+      "hash_bruto": "c6c83aad6ec84298cce6cfe9c093cbb120fbb6e67fa8d54fa869154575a31c63",
+      "hash_normalizado": "4ab2dd8348bd1fb98f5c2a0042dec0ab6df30e787d0d2f870a7a02cb6d9b225e",
+      "canonica": "0760_QW_GRAM_G8_03_A_FEW_A_LITTLE_ALGUNS_POUCOS_UM_POUCO.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0760-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 762,
+      "nome": "0762_QW_GRAM_G8_04_ENOUGH_TOO_SUFICIENTE_DEMAIS.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4028,
+      "hash_bruto": "c0bfab2672bcff46bec80ed7810dca40d222e560989fa2ef957f42b62b72670e",
+      "hash_normalizado": "a89c5ddd1e2037fae1bea8a88fe08562d0ccac093e822ec03c7335c81107702a",
+      "canonica": "0762_QW_GRAM_G8_04_ENOUGH_TOO_SUFICIENTE_DEMAIS.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "contrastes e exemplos integralmente classificados",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0762-01"
+      ],
+      "acao": "publicar ou consolidar em unidade temática",
+      "status": "integralmente classificada",
+      "justificativa": "Fonte lida integralmente e destinada por função pedagógica."
+    },
+    {
+      "numero": 763,
+      "nome": "0763_QW_GRAM_G8_04_ENOUGH_TOO_SUFICIENTE_DEMAIS_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4246,
+      "hash_bruto": "ad2a51349331e38a3e5db90321f811947155134ede3f103018cdd4bbd1865db9",
+      "hash_normalizado": "a89c5ddd1e2037fae1bea8a88fe08562d0ccac093e822ec03c7335c81107702a",
+      "canonica": "0762_QW_GRAM_G8_04_ENOUGH_TOO_SUFICIENTE_DEMAIS.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L14-0762-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 764,
+      "nome": "0764_QW_GRAM_G8_05_ALL_BOTH_NONE_TODOS_AMBOS_NENHUM_CADA.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4770,
+      "hash_bruto": "aa917aa6e300df66405d5dc006a0056f47fb4eb14b5910cef93d50cad2253472",
+      "hash_normalizado": "d75ef71c73cd9a83dccf3b79ea8b5090773cb0a70c8cb078b4e212da4f1c5d59",
+      "canonica": "0233_07_ALL_BOTH_NONE_EACH_EVERY.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0233-01",
+        "B1-L6-0233-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 765,
+      "nome": "0765_QW_GRAM_G8_05_ALL_BOTH_NONE_TODOS_AMBOS_NENHUM_CADA_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4785,
+      "hash_bruto": "1fb253792dce0987bc603fff540b851574af80902b02988e7f21ae8b2c9d36ae",
+      "hash_normalizado": "d75ef71c73cd9a83dccf3b79ea8b5090773cb0a70c8cb078b4e212da4f1c5d59",
+      "canonica": "0233_07_ALL_BOTH_NONE_EACH_EVERY.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0233-01",
+        "B1-L6-0233-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 766,
+      "nome": "0766_QW_GRAM_G9_01_PHRASAL_GET_PHRASAL_VERBS_COM_GET.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4479,
+      "hash_bruto": "8da42125080689b8649615ebcbc63859dc78d61829609fd82fa8caef6df92bbe",
+      "hash_normalizado": "ddda1612db0a485f9a24a51eb173468531348ecf2cff86ff42912aa6dacc20b6",
+      "canonica": "0037_01_Phrasal_GET_up_out_back_over.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L3-0037-01",
+        "B1-L3-0037-02",
+        "B1-L3-0037-03",
+        "B1-L3-0037-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 767,
+      "nome": "0767_QW_GRAM_G9_01_PHRASAL_GET_PHRASAL_VERBS_COM_GET_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4494,
+      "hash_bruto": "538f315c7f61cb7f321a6c651f4b952189ddc164cf1d4dddff9f3ee7f0be2065",
+      "hash_normalizado": "ddda1612db0a485f9a24a51eb173468531348ecf2cff86ff42912aa6dacc20b6",
+      "canonica": "0037_01_Phrasal_GET_up_out_back_over.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L3-0037-01",
+        "B1-L3-0037-02",
+        "B1-L3-0037-03",
+        "B1-L3-0037-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 768,
+      "nome": "0768_QW_GRAM_G9_02_PHRASAL_GO_PHRASAL_VERBS_COM_GO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4482,
+      "hash_bruto": "f918057d3f2668502043e173d000fee2d15a6d0b9d787cc0a6da4023f9df7260",
+      "hash_normalizado": "80c42cd9f1e96f1eda61bff763f33504cf7018134618092a93179cdcd46588ac",
+      "canonica": "0078_02_Phrasal_GO_on_out_back_through.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L4-0078-01",
+        "B1-L4-0078-02",
+        "B1-L4-0078-03",
+        "B1-L4-0078-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 769,
+      "nome": "0769_QW_GRAM_G9_02_PHRASAL_GO_PHRASAL_VERBS_COM_GO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4497,
+      "hash_bruto": "d603f0e050062a77e07da881b3c266033c333e79583479e1bc679b8b4ea31d6d",
+      "hash_normalizado": "80c42cd9f1e96f1eda61bff763f33504cf7018134618092a93179cdcd46588ac",
+      "canonica": "0078_02_Phrasal_GO_on_out_back_through.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L4-0078-01",
+        "B1-L4-0078-02",
+        "B1-L4-0078-03",
+        "B1-L4-0078-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 770,
+      "nome": "0770_QW_GRAM_G9_03_PHRASAL_TURN_PUT_TAKE_PHRASAL_TURN_PUT_TAKE.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4219,
+      "hash_bruto": "9dddee67b87f26a6059d14d023e53a6648f2ce7085638f7d2dfd659fc1724a73",
+      "hash_normalizado": "976673d38a968d60c92cef10494964af2a65a91860b2ba3d4e07173f2234921b",
+      "canonica": "0119_03_Phrasal_TURN_PUT_TAKE.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0119-01",
+        "A2-L5-0119-02",
+        "A2-L5-0119-03"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 771,
+      "nome": "0771_QW_GRAM_G9_03_PHRASAL_TURN_PUT_TAKE_PHRASAL_TURN_PUT_TAKE_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4234,
+      "hash_bruto": "8070e1270c32dfecf24ff3a266bd9512e2ae1989cabbf20bcdfe1bfb364906d9",
+      "hash_normalizado": "976673d38a968d60c92cef10494964af2a65a91860b2ba3d4e07173f2234921b",
+      "canonica": "0119_03_Phrasal_TURN_PUT_TAKE.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0119-01",
+        "A2-L5-0119-02",
+        "A2-L5-0119-03"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 772,
+      "nome": "0772_QW_GRAM_G9_04_PHRASAL_LOOK_FIND_RUN_PHRASAL_LOOK_FIND_RUN.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3905,
+      "hash_bruto": "8b604750a61d40663b700f6ee8b071db3303bb60d7965a5a722e0e04d8009d98",
+      "hash_normalizado": "4b28380ab638a20909279cda77fce66383d50773cd29e786785679b583695beb",
+      "canonica": "0155_04_Phrasal_LOOK_FIND_RUN.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0155-01",
+        "B1-L5-0155-02",
+        "B1-L5-0155-03"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 773,
+      "nome": "0773_QW_GRAM_G9_04_PHRASAL_LOOK_FIND_RUN_PHRASAL_LOOK_FIND_RUN_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 3920,
+      "hash_bruto": "8e71175e600d0e5288c905b2d81457bcee0f94efe0715576774d06dec8a775a8",
+      "hash_normalizado": "4b28380ab638a20909279cda77fce66383d50773cd29e786785679b583695beb",
+      "canonica": "0155_04_Phrasal_LOOK_FIND_RUN.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0155-01",
+        "B1-L5-0155-02",
+        "B1-L5-0155-03"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 774,
+      "nome": "0774_QW_GRAM_G9_05_PHRASAL_GIVE_COME_MAKE_PHRASAL_GIVE_COME_MAKE_BREAK_SET.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4773,
+      "hash_bruto": "e45082f9ac101254ccdfb3ae6c8975c9986b07522ce16bc08b0abe629bf56d67",
+      "hash_normalizado": "a1419a1118fd55c3038153971bfd813eafa1ea687a5e41c28db3479323c16355",
+      "canonica": "0188_05_Phrasal_GIVE_COME_MAKE_BREAK.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0188-01",
+        "B2-L6-0188-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 775,
+      "nome": "0775_QW_GRAM_G9_05_PHRASAL_GIVE_COME_MAKE_PHRASAL_GIVE_COME_MAKE_BREAK_SET_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 4788,
+      "hash_bruto": "2c50aef56c8d696706787bbe4790cd5965b45a77beb84315ad8e66d55c4806ee",
+      "hash_normalizado": "a1419a1118fd55c3038153971bfd813eafa1ea687a5e41c28db3479323c16355",
+      "canonica": "0188_05_Phrasal_GIVE_COME_MAKE_BREAK.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0188-01",
+        "B2-L6-0188-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 776,
+      "nome": "0776_QW_HOW_COMO_QUANTO_QUAO.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 7576,
+      "hash_bruto": "f186fcc48e3b278cdfa97e5ed7704dc32ade970536ccf880fa14a18a539197b1",
+      "hash_normalizado": "9353ed810d19acf1b05fabbb3bb61e83dbae28d08a9565692094bf36268b6f4d",
+      "canonica": "0216_06_HOW_Como_Quanto.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-L6-0216-01",
+        "A2-L6-0216-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 777,
+      "nome": "0777_QW_HOW_COMO_QUANTO_QUAO_S001.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 7591,
+      "hash_bruto": "f5038dd26e43051f1391e87f6858785053742286be2529f34c826a0b5a575810",
+      "hash_normalizado": "9353ed810d19acf1b05fabbb3bb61e83dbae28d08a9565692094bf36268b6f4d",
+      "canonica": "0216_06_HOW_Como_Quanto.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-L6-0216-01",
+        "A2-L6-0216-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 778,
+      "nome": "0778_QW_SALA04_PDF1_CONNECTED_SPEECH_CONNECTED_SPEECH_FLAP_T.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 6315,
+      "hash_bruto": "a7d21f37a37c5dd7c858d634261d158826ee2c0c68dbc3352b26c672899aa37a",
+      "hash_normalizado": "37f00af2c7453e439a3da004dd3594d117a051d9ebd4c5efdedbdefa09edfaf3",
+      "canonica": "0028_01_Connected_Speech_Flap_T.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 779,
+      "nome": "0779_QW_SALA04_PDF2_CONTENT_FUNCTION_CONTENT_WORDS_FUNCTION_WORDS_STRESS.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 6645,
+      "hash_bruto": "32872742ae73b6e3db9b016a69b001e5785b1ef862c003f218462ec46385fdba",
+      "hash_normalizado": "be346e5a01f33a02d422597951fb7ff3b126f8708dbdf7a525f3a1c68bdf48ac",
+      "canonica": "0065_02_Content_vs_Function_Words_Stress.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    },
+    {
+      "numero": 780,
+      "nome": "0780_QW_SALA04_PDF3_CONTRACTIONS_CONTRACOES_ESSENCIAIS_FALA_NATURAL.md",
+      "sistema": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
+      "tipo": "pdf",
+      "tamanho_bytes": 7403,
+      "hash_bruto": "2b07778ef1d618248c874754a456db72af81640d276b4b494a0e625501b51516",
+      "hash_normalizado": "12b2f6a7d8f21c8d9f3758499270f0177dc0192dd9d9fefa993d1071102d09c1",
+      "canonica": "0097_03_Contractions_Im_Youre_Dont_Wont.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "idêntico à canônica",
+      "unidades_canonicas_relacionadas": [
+        "A1-PRON-0001",
+        "A1-PRON-0002",
+        "A2-PRON-0001",
+        "B1-PRON-0001",
+        "B2-PRON-0001"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado integralmente idêntico."
+    }
+  ],
+  "direcionadas": [
+    {
+      "numero": 885,
+      "nome": "0885_04_Grammar_And_Usage_For_Better_Writing.md",
+      "sistema": "N1 · Sistema 04 — Gramática Básica",
+      "tipo": "markdown",
+      "tamanho_bytes": 315653,
+      "hash_bruto": "5d3b39adee07b21aba8d9b61451d3d16205f5bde10217b9c9d0f60fc28ab13ef",
+      "hash_normalizado": "f3f6f28deb2cde338bf9b3839f674f363b8a7aa531d85707226e5cbb72f16533",
+      "canonica": "0885_04_Grammar_And_Usage_For_Better_Writing.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "B1-L14-0885-01"
+      ],
+      "acao": "publicar ou consolidar recorte funcional",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Fonte integralmente lida e selecionada pela matriz."
+    },
+    {
+      "numero": 1203,
+      "nome": "1203_03_English_Pronunciation_Made_Simple.md",
+      "sistema": "N3 · Sistema 10 — Reduções e Pronúncia",
+      "tipo": "markdown",
+      "tamanho_bytes": 426381,
+      "hash_bruto": "77edc6ca28d0daa74c7cc9f4c20f0584598005e41a91b9539e75472903fb59fc",
+      "hash_normalizado": "480e2321cdd608aca7a10d9888c41663700b9846b85a4aa93401e7bf9720a67f",
+      "canonica": "1203_03_English_Pronunciation_Made_Simple.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "B1-L14-1203-01"
+      ],
+      "acao": "publicar ou consolidar recorte funcional",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Fonte integralmente lida e selecionada pela matriz."
+    },
+    {
+      "numero": 1213,
+      "nome": "1213_E29CFFA1-923C-4363-9DBF-C2D88DC28A01.md",
+      "sistema": "N3 · Sistema 10 — Reduções e Pronúncia",
+      "tipo": "imagem",
+      "tamanho_bytes": 857,
+      "hash_bruto": "4d7d149a76b71462586aa7fb66008700566abfe164db6e5a819a9069a9c85356",
+      "hash_normalizado": "680d6f63cef373e4c30cc65f3b42fabc116f357cd834d1198c84f5bb6d5a256b",
+      "canonica": "1213_E29CFFA1-923C-4363-9DBF-C2D88DC28A01.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "nenhum material linguístico suficiente",
+      "unidades_canonicas_relacionadas": [],
+      "acao": "não publicar",
+      "status": "sem conteúdo didático",
+      "justificativa": "Fragmento insuficiente."
+    },
+    {
+      "numero": 1253,
+      "nome": "1253_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition_2.md",
+      "sistema": "N3 · Sistema 12 — Exercícios e Vocabulário",
+      "tipo": "pdf",
+      "tamanho_bytes": 255534,
+      "hash_bruto": "3d73370830079fc9293e5e2fae37e16083ae0cb7b539f13018033d22e9049052",
+      "hash_normalizado": "1c9e690dfb0a7deca0252865635c3b46ab82b5e1b94c65be49bf95c16196bd3c",
+      "canonica": "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "B2-L11-1252-01"
+      ],
+      "acao": "anexar procedência",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado idêntico à canônica."
+    },
+    {
+      "numero": 1279,
+      "nome": "1279_03_English_Pronunciation_in_Use_Elementary_2.md",
+      "sistema": "N3 · Sistema 14 — In Use Series",
+      "tipo": "pdf",
+      "tamanho_bytes": 255444,
+      "hash_bruto": "d3e87fc5c3995365f0cc4809a742c7875345d5dd28130212836cc09325524064",
+      "hash_normalizado": "ef434c82ac4773bf7d5bd5050356ec10c67c6ddfdc30892ee93cff9336d2b972",
+      "canonica": "1278_03_English_Pronunciation_in_Use_Elementary.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "A2-L11-1278-01"
+      ],
+      "acao": "anexar procedência",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado idêntico à canônica."
+    },
+    {
+      "numero": 1315,
+      "nome": "1315_03_b_dialogues_everyday_conversations_english_lo_0_2.md",
+      "sistema": "N3 · Sistema 21 — Pronúncia & Conversação",
+      "tipo": "pdf",
+      "tamanho_bytes": 50908,
+      "hash_bruto": "9895fcce67763c0cca9b832362f1efdb0d183a19c31c88680c000654b0cf4ba2",
+      "hash_normalizado": "10055d1cb7ec095eaf86d07a640a9a60f314632c5f49738e3f57e827f8d52e9a",
+      "canonica": "1314_03_b_dialogues_everyday_conversations_english_lo_0.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "A2-L10-1314-01"
+      ],
+      "acao": "anexar procedência",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado idêntico à canônica."
+    },
+    {
+      "numero": 1396,
+      "nome": "1396_03_Perfecting_your_english_pronunciation_Susan_Cameron.md",
+      "sistema": "N4 · Sistema 18 — Accent Training",
+      "tipo": "markdown",
+      "tamanho_bytes": 297364,
+      "hash_bruto": "2021c85112808325d85ae3b2370ce7be1a11eec704ca5a6195586a0b6ce73754",
+      "hash_normalizado": "83a632974d955478276180c58c8897fec023c4c64f55901c0708fa354889c72d",
+      "canonica": "1396_03_Perfecting_your_english_pronunciation_Susan_Cameron.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "C1-L14-1396-01"
+      ],
+      "acao": "publicar ou consolidar recorte funcional",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Fonte integralmente lida e selecionada pela matriz."
+    },
+    {
+      "numero": 1403,
+      "nome": "1403_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program_2.md",
+      "sistema": "N4 · Sistema 19 — Business & Avançado",
+      "tipo": "pdf",
+      "tamanho_bytes": 255636,
+      "hash_bruto": "b9035b65e71ff3a31b7ffe1c9d6cd428fb7a901bdf663566682389faddbbcee7",
+      "hash_normalizado": "9a15842a536b3816acff0b212fe0dfd57e69f07b0df339c447978d34ffae0612",
+      "canonica": "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "A2-L11-1402-01"
+      ],
+      "acao": "anexar procedência",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado idêntico à canônica."
+    },
+    {
+      "numero": 1405,
+      "nome": "1405_02_English_for_Everyone_Business_English_Course_Book_Level_2_A_Complete_Self-Study_Programme_2.md",
+      "sistema": "N4 · Sistema 19 — Business & Avançado",
+      "tipo": "pdf",
+      "tamanho_bytes": 262535,
+      "hash_bruto": "be274e95b9423dd5b8f111840c79d86b8c11ae926bc4bc612c9ea2545867cb60",
+      "hash_normalizado": "bf405efd58255a45b45884ead39788b9f67cfbf2da9f5790bc10849c3e1b0bc3",
+      "canonica": "1404_02_English_for_Everyone_Business_English_Course_Book_Level_2_A_Complete_Self-Study_Programme.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "B1-L11-1404-01"
+      ],
+      "acao": "anexar procedência",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado idêntico à canônica."
+    },
+    {
+      "numero": 1432,
+      "nome": "1432_01_Objective_Proficiency_Student's_Book_with_Answers_with_Downloadable_Software_2.md",
+      "sistema": "N5 · Sistema 22 — Gramática Avançada · Proficiency",
+      "tipo": "pdf",
+      "tamanho_bytes": 924002,
+      "hash_bruto": "91ce4e9e17e77311bd5b93b466e3b6aab4142309385791ec8e3cdb15ccffc9ad",
+      "hash_normalizado": "53ef5585707b078b7ea3a35904856402b50b95ad3fa2fb746a599c3d9e8b4098",
+      "canonica": "1431_01_Objective_Proficiency_Student's_Book_with_Answers_with_Downloadable_Software.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "C2-L12-1431-01"
+      ],
+      "acao": "anexar procedência",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado idêntico à canônica."
+    },
+    {
+      "numero": 1462,
+      "nome": "1462_03_Grammar_and_Vocabulary_for_Cambridge_Advanced_and_Proficiency.md",
+      "sistema": "N5 · Sistema 23 — Gramática Avançada · Oxford",
+      "tipo": "markdown",
+      "tamanho_bytes": 966053,
+      "hash_bruto": "8eba823ee9643d2761c55c907f82acb8aa85062c57d25e5d6a146c66e568dfe0",
+      "hash_normalizado": "a0cb6655d8b5b99f604b5577ce0fd6b2b77c2565065cc6c198804679e8ec0cd2",
+      "canonica": "1462_03_Grammar_and_Vocabulary_for_Cambridge_Advanced_and_Proficiency.md",
+      "duplicidade": "não duplicada",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "C2-L14-1462-01"
+      ],
+      "acao": "publicar ou consolidar recorte funcional",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Fonte integralmente lida e selecionada pela matriz."
+    },
+    {
+      "numero": 1509,
+      "nome": "1509_03_Grammar_For_Young_Learners_2.md",
+      "sistema": "N6 · Sistema 01 — Crianças · Kids Box",
+      "tipo": "pdf",
+      "tamanho_bytes": 247911,
+      "hash_bruto": "7e167030783246ab401463928d4c49e7aa58e8eadd06d42ce96bd756a5d42738",
+      "hash_normalizado": "f91918ba1230b0627fe93aa4423b1725a193fc884de96e39714977bd74fd9d8f",
+      "canonica": "1508_03_Grammar_For_Young_Learners.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "habilidade curricular dirigida",
+      "unidades_canonicas_relacionadas": [
+        "KIDS-L12-1508-01"
+      ],
+      "acao": "anexar procedência",
+      "status": "duplicata",
+      "justificativa": "Corpo normalizado idêntico à canônica."
+    }
+  ],
+  "antecipadas_ja_concluidas": [],
+  "revisoes_do_lote_013": [
+    {
+      "numero": 601,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 602,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 603,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 604,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 605,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 606,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 607,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 608,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 609,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 610,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 611,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 612,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 613,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 614,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 615,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 616,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 617,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 618,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 619,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 620,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 621,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 622,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 623,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 624,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 625,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 626,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 627,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 628,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 629,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 630,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 631,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 632,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 633,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 634,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 635,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 636,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 637,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 638,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 639,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 640,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 641,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 642,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 643,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 644,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 645,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 646,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 647,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 648,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 649,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 650,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 651,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 652,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 653,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 654,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 655,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 656,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 657,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 658,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 659,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 660,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 661,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 662,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 663,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 664,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 665,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 666,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 667,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 668,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 669,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 670,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 671,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 672,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 673,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 674,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 675,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 676,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 677,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 678,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 679,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 680,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 796,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 874,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1409,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1440,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1359,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1361,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1362,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1363,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1443,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1445,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1468,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1514,
+      "decisao": "mantida"
+    }
+  ]
+}

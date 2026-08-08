@@ -1,0 +1,106 @@
+{
+  "total": 20,
+  "aprovados": 20,
+  "resultados": [
+    {
+      "teste": "JSONs obrigatórios válidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs de unidade únicos",
+      "resultado": "APROVADO",
+      "detalhe": "777"
+    },
+    {
+      "teste": "IDs de atividade únicos",
+      "resultado": "APROVADO",
+      "detalhe": "1942"
+    },
+    {
+      "teste": "fontes sequenciais completas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "amostragem dirigida completa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "antecipadas não duplicadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "nenhuma lacuna ambígua publicada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "pareamentos um a um",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "reordenações não triviais",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "reordenações preservam tokens e contrações",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "contrastes sem distrator inventado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "distribuição de atividades calculável",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "jornada estável",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Kids com CEFR obrigatório",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "C2 com justificativa obrigatória",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "todas as rotas HTTP 200",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "console sem erros",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "progresso anterior continua por ID",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "hashes das fontes preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "estados da revisão refletidos no mapa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

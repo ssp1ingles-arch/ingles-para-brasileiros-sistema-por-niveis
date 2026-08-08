@@ -1,0 +1,572 @@
+[
+  {
+    "id": "a1-fundamentos--conteudo-integrado",
+    "painel": "a1-fundamentos",
+    "nivel": "A1",
+    "titulo": "Conteúdo integrado"
+  },
+  {
+    "id": "a1-situar--conteudo-integrado",
+    "painel": "a1-situar",
+    "nivel": "A1",
+    "titulo": "Conteúdo integrado"
+  },
+  {
+    "id": "a1-gramatica--fundamentos-e-ampliacao-gramatical",
+    "painel": "a1-gramatica",
+    "nivel": "A1",
+    "titulo": "Fundamentos e ampliação gramatical"
+  },
+  {
+    "id": "a1-gramatica--sujeito-e-pronomes",
+    "painel": "a1-gramatica",
+    "nivel": "A1",
+    "titulo": "Sujeito e pronomes"
+  },
+  {
+    "id": "a1-verbos--rotina-e-acoes-frequentes",
+    "painel": "a1-verbos",
+    "nivel": "A1",
+    "titulo": "Rotina e ações frequentes"
+  },
+  {
+    "id": "a1-conversacao--interacao-e-pratica-integrada",
+    "painel": "a1-conversacao",
+    "nivel": "A1",
+    "titulo": "Interação e prática integrada"
+  },
+  {
+    "id": "a1-pronuncia--contracoes",
+    "painel": "a1-pronuncia",
+    "nivel": "A1",
+    "titulo": "Contrações"
+  },
+  {
+    "id": "a1-verbos--pensamento-e-percepcao",
+    "painel": "a1-verbos",
+    "nivel": "A1",
+    "titulo": "Pensamento e percepção"
+  },
+  {
+    "id": "a1-verbos--fundamentos-e-ampliacao-verbal",
+    "painel": "a1-verbos",
+    "nivel": "A1",
+    "titulo": "Fundamentos e ampliação verbal"
+  },
+  {
+    "id": "a1-gramatica--perguntas-e-negativas",
+    "painel": "a1-gramatica",
+    "nivel": "A1",
+    "titulo": "Perguntas e negativas"
+  },
+  {
+    "id": "a1-conversacao--rotinas-e-situacoes-cotidianas",
+    "painel": "a1-conversacao",
+    "nivel": "A1",
+    "titulo": "Rotinas e situações cotidianas"
+  },
+  {
+    "id": "a1-verbos--ser-estar-e-existir",
+    "painel": "a1-verbos",
+    "nivel": "A1",
+    "titulo": "Ser, estar e existir"
+  },
+  {
+    "id": "a1-verbos--necessidade-desejo-e-preferencia",
+    "painel": "a1-verbos",
+    "nivel": "A1",
+    "titulo": "Necessidade, desejo e preferência"
+  },
+  {
+    "id": "a1-verbos--movimento-e-mudanca",
+    "painel": "a1-verbos",
+    "nivel": "A1",
+    "titulo": "Movimento e mudança"
+  },
+  {
+    "id": "a2-gramatica--artigos-e-substantivos",
+    "painel": "a2-gramatica",
+    "nivel": "A2",
+    "titulo": "Artigos e substantivos"
+  },
+  {
+    "id": "a2-gramatica--sujeito-e-pronomes",
+    "painel": "a2-gramatica",
+    "nivel": "A2",
+    "titulo": "Sujeito e pronomes"
+  },
+  {
+    "id": "a2-gramatica--fundamentos-e-ampliacao-gramatical",
+    "painel": "a2-gramatica",
+    "nivel": "A2",
+    "titulo": "Fundamentos e ampliação gramatical"
+  },
+  {
+    "id": "a2-gramatica--tempo-e-lugar",
+    "painel": "a2-gramatica",
+    "nivel": "A2",
+    "titulo": "Tempo e lugar"
+  },
+  {
+    "id": "a2-pronuncia--contracoes",
+    "painel": "a2-pronuncia",
+    "nivel": "A2",
+    "titulo": "Contrações"
+  },
+  {
+    "id": "a2-conversacao--perguntas-e-respostas",
+    "painel": "a2-conversacao",
+    "nivel": "A2",
+    "titulo": "Perguntas e respostas"
+  },
+  {
+    "id": "a2-gramatica--perguntas-e-negativas",
+    "painel": "a2-gramatica",
+    "nivel": "A2",
+    "titulo": "Perguntas e negativas"
+  },
+  {
+    "id": "a2-vocabulario--vocabulario-integrado",
+    "painel": "a2-vocabulario",
+    "nivel": "A2",
+    "titulo": "Vocabulário integrado"
+  },
+  {
+    "id": "a2-conversacao--expressoes-e-dialogos-cotidianos",
+    "painel": "a2-conversacao",
+    "nivel": "A2",
+    "titulo": "Expressões e diálogos cotidianos"
+  },
+  {
+    "id": "a2-verbos--pensamento-e-percepcao",
+    "painel": "a2-verbos",
+    "nivel": "A2",
+    "titulo": "Pensamento e percepção"
+  },
+  {
+    "id": "a2-vocabulario--phrasal-verbs-e-combinacoes",
+    "painel": "a2-vocabulario",
+    "nivel": "A2",
+    "titulo": "Phrasal verbs e combinações"
+  },
+  {
+    "id": "a2-verbos--comunicacao-e-informacao",
+    "painel": "a2-verbos",
+    "nivel": "A2",
+    "titulo": "Comunicação e informação"
+  },
+  {
+    "id": "a2-verbos--movimento-e-mudanca",
+    "painel": "a2-verbos",
+    "nivel": "A2",
+    "titulo": "Movimento e mudança"
+  },
+  {
+    "id": "a2-verbos--rotina-e-acoes-frequentes",
+    "painel": "a2-verbos",
+    "nivel": "A2",
+    "titulo": "Rotina e ações frequentes"
+  },
+  {
+    "id": "a2-gramatica--conectores-e-relacoes-logicas",
+    "painel": "a2-gramatica",
+    "nivel": "A2",
+    "titulo": "Conectores e relações lógicas"
+  },
+  {
+    "id": "a2-verbos--verbos-com-mais-de-um-padrao",
+    "painel": "a2-verbos",
+    "nivel": "A2",
+    "titulo": "Verbos com mais de um padrão"
+  },
+  {
+    "id": "a2-conversacao--rotinas-e-situacoes-cotidianas",
+    "painel": "a2-conversacao",
+    "nivel": "A2",
+    "titulo": "Rotinas e situações cotidianas"
+  },
+  {
+    "id": "a2-verbos--ser-estar-e-existir",
+    "painel": "a2-verbos",
+    "nivel": "A2",
+    "titulo": "Ser, estar e existir"
+  },
+  {
+    "id": "a2-verbos--necessidade-desejo-e-preferencia",
+    "painel": "a2-verbos",
+    "nivel": "A2",
+    "titulo": "Necessidade, desejo e preferência"
+  },
+  {
+    "id": "a2-conversacao--interacao-e-pratica-integrada",
+    "painel": "a2-conversacao",
+    "nivel": "A2",
+    "titulo": "Interação e prática integrada"
+  },
+  {
+    "id": "a2-leitura--textos-e-estrategias-de-leitura",
+    "painel": "a2-leitura",
+    "nivel": "A2",
+    "titulo": "Textos e estratégias de leitura"
+  },
+  {
+    "id": "a2-verbos--fundamentos-e-ampliacao-verbal",
+    "painel": "a2-verbos",
+    "nivel": "A2",
+    "titulo": "Fundamentos e ampliação verbal"
+  },
+  {
+    "id": "a2-escrita--producao-escrita-integrada",
+    "painel": "a2-escrita",
+    "nivel": "A2",
+    "titulo": "Produção escrita integrada"
+  },
+  {
+    "id": "a2-pronuncia--fala-conectada-e-producao-oral",
+    "painel": "a2-pronuncia",
+    "nivel": "A2",
+    "titulo": "Fala conectada e produção oral"
+  },
+  {
+    "id": "a2-escuta--compreensao-oral-por-transcricoes",
+    "painel": "a2-escuta",
+    "nivel": "A2",
+    "titulo": "Compreensão oral por transcrições"
+  },
+  {
+    "id": "a2-ingles-profissional--comunicacao-profissional-integrada",
+    "painel": "a2-ingles-profissional",
+    "nivel": "A2",
+    "titulo": "Comunicação profissional integrada"
+  },
+  {
+    "id": "b1-conversacao--interacao-e-pratica-integrada",
+    "painel": "b1-conversacao",
+    "nivel": "B1",
+    "titulo": "Interação e prática integrada"
+  },
+  {
+    "id": "b1-vocabulario--vocabulario-integrado",
+    "painel": "b1-vocabulario",
+    "nivel": "B1",
+    "titulo": "Vocabulário integrado"
+  },
+  {
+    "id": "b1-gramatica--tempo-e-lugar",
+    "painel": "b1-gramatica",
+    "nivel": "B1",
+    "titulo": "Tempo e lugar"
+  },
+  {
+    "id": "b1-pronuncia--contracoes",
+    "painel": "b1-pronuncia",
+    "nivel": "B1",
+    "titulo": "Contrações"
+  },
+  {
+    "id": "b1-gramatica--quantidade-e-comparacao",
+    "painel": "b1-gramatica",
+    "nivel": "B1",
+    "titulo": "Quantidade e comparação"
+  },
+  {
+    "id": "b1-vocabulario--phrasal-verbs-e-combinacoes",
+    "painel": "b1-vocabulario",
+    "nivel": "B1",
+    "titulo": "Phrasal verbs e combinações"
+  },
+  {
+    "id": "b1-verbos--movimento-e-mudanca",
+    "painel": "b1-verbos",
+    "nivel": "B1",
+    "titulo": "Movimento e mudança"
+  },
+  {
+    "id": "b1-verbos--pensamento-e-percepcao",
+    "painel": "b1-verbos",
+    "nivel": "B1",
+    "titulo": "Pensamento e percepção"
+  },
+  {
+    "id": "b1-gramatica--perguntas-e-negativas",
+    "painel": "b1-gramatica",
+    "nivel": "B1",
+    "titulo": "Perguntas e negativas"
+  },
+  {
+    "id": "b1-verbos--rotina-e-acoes-frequentes",
+    "painel": "b1-verbos",
+    "nivel": "B1",
+    "titulo": "Rotina e ações frequentes"
+  },
+  {
+    "id": "b1-gramatica--conectores-e-relacoes-logicas",
+    "painel": "b1-gramatica",
+    "nivel": "B1",
+    "titulo": "Conectores e relações lógicas"
+  },
+  {
+    "id": "b1-gramatica--artigos-e-substantivos",
+    "painel": "b1-gramatica",
+    "nivel": "B1",
+    "titulo": "Artigos e substantivos"
+  },
+  {
+    "id": "b1-conversacao--opiniao-e-posicionamento",
+    "painel": "b1-conversacao",
+    "nivel": "B1",
+    "titulo": "Opinião e posicionamento"
+  },
+  {
+    "id": "b1-verbos--fundamentos-e-ampliacao-verbal",
+    "painel": "b1-verbos",
+    "nivel": "B1",
+    "titulo": "Fundamentos e ampliação verbal"
+  },
+  {
+    "id": "b1-verbos--necessidade-desejo-e-preferencia",
+    "painel": "b1-verbos",
+    "nivel": "B1",
+    "titulo": "Necessidade, desejo e preferência"
+  },
+  {
+    "id": "b1-leitura--textos-e-estrategias-de-leitura",
+    "painel": "b1-leitura",
+    "nivel": "B1",
+    "titulo": "Textos e estratégias de leitura"
+  },
+  {
+    "id": "b1-ingles-academico--conectores-e-organizacao-academica",
+    "painel": "b1-ingles-academico",
+    "nivel": "B1",
+    "titulo": "Conectores e organização acadêmica"
+  },
+  {
+    "id": "b1-escrita--producao-escrita-integrada",
+    "painel": "b1-escrita",
+    "nivel": "B1",
+    "titulo": "Produção escrita integrada"
+  },
+  {
+    "id": "b1-pronuncia--fala-conectada-e-producao-oral",
+    "painel": "b1-pronuncia",
+    "nivel": "B1",
+    "titulo": "Fala conectada e produção oral"
+  },
+  {
+    "id": "b1-gramatica--fundamentos-e-ampliacao-gramatical",
+    "painel": "b1-gramatica",
+    "nivel": "B1",
+    "titulo": "Fundamentos e ampliação gramatical"
+  },
+  {
+    "id": "b1-escuta--compreensao-oral-por-transcricoes",
+    "painel": "b1-escuta",
+    "nivel": "B1",
+    "titulo": "Compreensão oral por transcrições"
+  },
+  {
+    "id": "b1-ingles-profissional--comunicacao-profissional-integrada",
+    "painel": "b1-ingles-profissional",
+    "nivel": "B1",
+    "titulo": "Comunicação profissional integrada"
+  },
+  {
+    "id": "b1-vocabulario--precisao-lexical-e-contrastes-de-sentido",
+    "painel": "b1-vocabulario",
+    "nivel": "B1",
+    "titulo": "Precisão lexical e contrastes de sentido"
+  },
+  {
+    "id": "b2-pronuncia--contracoes",
+    "painel": "b2-pronuncia",
+    "nivel": "B2",
+    "titulo": "Contrações"
+  },
+  {
+    "id": "b2-gramatica--passado-e-experiencia",
+    "painel": "b2-gramatica",
+    "nivel": "B2",
+    "titulo": "Passado e experiência"
+  },
+  {
+    "id": "b2-verbos--movimento-e-mudanca",
+    "painel": "b2-verbos",
+    "nivel": "B2",
+    "titulo": "Movimento e mudança"
+  },
+  {
+    "id": "b2-verbos--pensamento-e-percepcao",
+    "painel": "b2-verbos",
+    "nivel": "B2",
+    "titulo": "Pensamento e percepção"
+  },
+  {
+    "id": "b2-gramatica--fundamentos-e-ampliacao-gramatical",
+    "painel": "b2-gramatica",
+    "nivel": "B2",
+    "titulo": "Fundamentos e ampliação gramatical"
+  },
+  {
+    "id": "b2-verbos--fundamentos-e-ampliacao-verbal",
+    "painel": "b2-verbos",
+    "nivel": "B2",
+    "titulo": "Fundamentos e ampliação verbal"
+  },
+  {
+    "id": "b2-gramatica--conectores-e-relacoes-logicas",
+    "painel": "b2-gramatica",
+    "nivel": "B2",
+    "titulo": "Conectores e relações lógicas"
+  },
+  {
+    "id": "b2-gramatica--tempo-e-lugar",
+    "painel": "b2-gramatica",
+    "nivel": "B2",
+    "titulo": "Tempo e lugar"
+  },
+  {
+    "id": "b2-conversacao--pedidos-e-interacao-social",
+    "painel": "b2-conversacao",
+    "nivel": "B2",
+    "titulo": "Pedidos e interação social"
+  },
+  {
+    "id": "b2-vocabulario--phrasal-verbs-e-combinacoes",
+    "painel": "b2-vocabulario",
+    "nivel": "B2",
+    "titulo": "Phrasal verbs e combinações"
+  },
+  {
+    "id": "b2-ingles-academico--conectores-e-organizacao-academica",
+    "painel": "b2-ingles-academico",
+    "nivel": "B2",
+    "titulo": "Conectores e organização acadêmica"
+  },
+  {
+    "id": "b2-conversacao--interacao-e-pratica-integrada",
+    "painel": "b2-conversacao",
+    "nivel": "B2",
+    "titulo": "Interação e prática integrada"
+  },
+  {
+    "id": "b2-gramatica--perguntas-e-negativas",
+    "painel": "b2-gramatica",
+    "nivel": "B2",
+    "titulo": "Perguntas e negativas"
+  },
+  {
+    "id": "b2-vocabulario--vocabulario-integrado",
+    "painel": "b2-vocabulario",
+    "nivel": "B2",
+    "titulo": "Vocabulário integrado"
+  },
+  {
+    "id": "b2-pronuncia--fala-conectada-e-producao-oral",
+    "painel": "b2-pronuncia",
+    "nivel": "B2",
+    "titulo": "Fala conectada e produção oral"
+  },
+  {
+    "id": "b2-leitura--textos-e-estrategias-de-leitura",
+    "painel": "b2-leitura",
+    "nivel": "B2",
+    "titulo": "Textos e estratégias de leitura"
+  },
+  {
+    "id": "b2-escuta--compreensao-oral-por-transcricoes",
+    "painel": "b2-escuta",
+    "nivel": "B2",
+    "titulo": "Compreensão oral por transcrições"
+  },
+  {
+    "id": "b2-escuta--compreensao-oral-e-shadowing",
+    "painel": "b2-escuta",
+    "nivel": "B2",
+    "titulo": "Compreensão oral e shadowing"
+  },
+  {
+    "id": "c1-gramatica--perguntas-e-negativas",
+    "painel": "c1-gramatica",
+    "nivel": "C1",
+    "titulo": "Perguntas e negativas"
+  },
+  {
+    "id": "c1-gramatica--tempo-e-lugar",
+    "painel": "c1-gramatica",
+    "nivel": "C1",
+    "titulo": "Tempo e lugar"
+  },
+  {
+    "id": "c1-ingles-academico--conectores-e-organizacao-academica",
+    "painel": "c1-ingles-academico",
+    "nivel": "C1",
+    "titulo": "Conectores e organização acadêmica"
+  },
+  {
+    "id": "c1-gramatica--gramatica-avancada-integrada",
+    "painel": "c1-gramatica",
+    "nivel": "C1",
+    "titulo": "Gramática avançada integrada"
+  },
+  {
+    "id": "c1-escrita--escrita-avancada-e-controle-de-registro",
+    "painel": "c1-escrita",
+    "nivel": "C1",
+    "titulo": "Escrita avançada e controle de registro"
+  },
+  {
+    "id": "c1-ingles-profissional--comunicacao-profissional-avancada",
+    "painel": "c1-ingles-profissional",
+    "nivel": "C1",
+    "titulo": "Comunicação profissional avançada"
+  },
+  {
+    "id": "c1-pronuncia--pronuncia-avancada-e-discurso",
+    "painel": "c1-pronuncia",
+    "nivel": "C1",
+    "titulo": "Pronúncia avançada e discurso"
+  },
+  {
+    "id": "c2-ingles-academico--sintese-e-proficiencia-academica",
+    "painel": "c2-ingles-academico",
+    "nivel": "C2",
+    "titulo": "Síntese e proficiência acadêmica"
+  },
+  {
+    "id": "c2-escrita--estilo-registro-e-reformulacao",
+    "painel": "c2-escrita",
+    "nivel": "C2",
+    "titulo": "Estilo, registro e reformulação"
+  },
+  {
+    "id": "c2-gramatica--proficiencia-precisao-e-exames",
+    "painel": "c2-gramatica",
+    "nivel": "C2",
+    "titulo": "Proficiência, precisão e exames"
+  },
+  {
+    "id": "c2-leitura--leitura-critica-e-resposta-de-proficiencia",
+    "painel": "c2-leitura",
+    "nivel": "C2",
+    "titulo": "Leitura crítica e resposta de proficiência"
+  },
+  {
+    "id": "kids-leitura--historias-e-leitura-infantil",
+    "painel": "kids-leitura",
+    "nivel": "KIDS",
+    "titulo": "Histórias e leitura infantil"
+  },
+  {
+    "id": "kids-gramatica--gramatica-em-contexto-infantil",
+    "painel": "kids-gramatica",
+    "nivel": "KIDS",
+    "titulo": "Gramática em contexto infantil"
+  },
+  {
+    "id": "kids-conversacao--interacao-infantil",
+    "painel": "kids-conversacao",
+    "nivel": "KIDS",
+    "titulo": "Interação infantil"
+  }
+]

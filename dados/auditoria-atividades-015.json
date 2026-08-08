@@ -1,0 +1,283 @@
+{
+  "lote": "015",
+  "base_preservada": 1958,
+  "unidades_novas": 24,
+  "elegiveis": 16,
+  "inelegiveis": 8,
+  "atividades_novas": 16,
+  "total": 1974,
+  "unidades": [
+    {
+      "unidade_nova": "A2-L15-0822-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1959"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L15-0823-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1960"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L15-0824-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1961"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L15-0828-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1962"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L15-0829-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1963"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L15-0832-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1964"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L15-0862-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1965"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B1-L15-0817-01",
+      "elegivel": false,
+      "tipos_possiveis": [],
+      "atividades_criadas": [],
+      "motivo_exclusao": "Tarefa de leitura, escrita ou precisão avançada admite múltiplas respostas naturais; não há gabarito único seguro.",
+      "ambiguidades_detectadas": [
+        "produção aberta sem resposta única"
+      ]
+    },
+    {
+      "unidade_nova": "B1-L15-0826-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1966"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B1-L15-0827-01",
+      "elegivel": false,
+      "tipos_possiveis": [],
+      "atividades_criadas": [],
+      "motivo_exclusao": "Tarefa de leitura, escrita ou precisão avançada admite múltiplas respostas naturais; não há gabarito único seguro.",
+      "ambiguidades_detectadas": [
+        "produção aberta sem resposta única"
+      ]
+    },
+    {
+      "unidade_nova": "B1-L15-0830-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1967"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B1-L15-0831-01",
+      "elegivel": false,
+      "tipos_possiveis": [],
+      "atividades_criadas": [],
+      "motivo_exclusao": "Tarefa de leitura, escrita ou precisão avançada admite múltiplas respostas naturais; não há gabarito único seguro.",
+      "ambiguidades_detectadas": [
+        "produção aberta sem resposta única"
+      ]
+    },
+    {
+      "unidade_nova": "B1-L15-0835-01",
+      "elegivel": false,
+      "tipos_possiveis": [],
+      "atividades_criadas": [],
+      "motivo_exclusao": "Tarefa de leitura, escrita ou precisão avançada admite múltiplas respostas naturais; não há gabarito único seguro.",
+      "ambiguidades_detectadas": [
+        "produção aberta sem resposta única"
+      ]
+    },
+    {
+      "unidade_nova": "B1-L15-0836-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1968"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B1-L15-0840-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1969"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B1-L15-0841-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1970"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B1-L15-0842-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1971"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B1-L15-0844-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1972"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B1-L15-0887-01",
+      "elegivel": false,
+      "tipos_possiveis": [],
+      "atividades_criadas": [],
+      "motivo_exclusao": "Tarefa de leitura, escrita ou precisão avançada admite múltiplas respostas naturais; não há gabarito único seguro.",
+      "ambiguidades_detectadas": [
+        "produção aberta sem resposta única"
+      ]
+    },
+    {
+      "unidade_nova": "B2-L15-0825-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1973"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B2-L15-0843-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao"
+      ],
+      "atividades_criadas": [
+        "ATV-L15-1974"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "C1-L15-1441-01",
+      "elegivel": false,
+      "tipos_possiveis": [],
+      "atividades_criadas": [],
+      "motivo_exclusao": "Tarefa de leitura, escrita ou precisão avançada admite múltiplas respostas naturais; não há gabarito único seguro.",
+      "ambiguidades_detectadas": [
+        "produção aberta sem resposta única"
+      ]
+    },
+    {
+      "unidade_nova": "C1-L15-1458-01",
+      "elegivel": false,
+      "tipos_possiveis": [],
+      "atividades_criadas": [],
+      "motivo_exclusao": "Tarefa de leitura, escrita ou precisão avançada admite múltiplas respostas naturais; não há gabarito único seguro.",
+      "ambiguidades_detectadas": [
+        "produção aberta sem resposta única"
+      ]
+    },
+    {
+      "unidade_nova": "C1-L15-1460-01",
+      "elegivel": false,
+      "tipos_possiveis": [],
+      "atividades_criadas": [],
+      "motivo_exclusao": "Tarefa de leitura, escrita ou precisão avançada admite múltiplas respostas naturais; não há gabarito único seguro.",
+      "ambiguidades_detectadas": [
+        "produção aberta sem resposta única"
+      ]
+    }
+  ]
+}

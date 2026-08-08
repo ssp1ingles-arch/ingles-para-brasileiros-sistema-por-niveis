@@ -1,0 +1,26 @@
+{
+  "total": 5,
+  "aprovados": 5,
+  "resultados": [
+    {
+      "teste": "11 rotas enumeradas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "HTTP 200",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "console sem erros",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem rolagem horizontal",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem texto corrompido",
+      "resultado": "APROVADO"
+    }
+  ]
+}

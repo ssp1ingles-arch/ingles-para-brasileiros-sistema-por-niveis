@@ -1,0 +1,99 @@
+{
+  "lote": "022",
+  "intervalo": [
+    1177,
+    1182
+  ],
+  "sequenciais": [
+    {
+      "numero": 1177,
+      "status": "duplicata consolidada",
+      "de": 1176,
+      "nome": "1177_LIVRO_01_1000_melhores_dicas_para_aprender_inglês_2.md",
+      "tamanho_bytes": 377691,
+      "hash_bruto": "facb348c97e4a0d44b8023f1c9a8de6fa1859052e175db8c5387e1fb39bf3010",
+      "hash_normalizado": "927a332a5412578014120384b1bd7ea1de49d9c43e43caedd51e15f167211904",
+      "leitura_integral": true,
+      "paginas": 367,
+      "sem_destino_util": 0,
+      "justificativa": "Corpo integral idêntico a 1176; procedência preservada sem republicação."
+    },
+    {
+      "numero": 1178,
+      "status": "integralmente classificada antecipadamente",
+      "de": null,
+      "nome": "1178_LIVRO_02_Livro_Inglês_Conversação_para_viagem-Michaelis_tour_Completo.md",
+      "tamanho_bytes": 134663,
+      "hash_bruto": "7df137dfe05fd998108f609a24853b4e43bd3234983b09deeb8b52d0559fe8b6",
+      "hash_normalizado": "c100e2ee1e61922ebe399fa4d82d4e85f4d713d5c598e4f929444bc80c19c101",
+      "leitura_integral": true,
+      "paginas": 164,
+      "sem_destino_util": 0,
+      "justificativa": "Estado antecipado reconhecido e preservado; nenhuma republicação."
+    },
+    {
+      "numero": 1179,
+      "status": "duplicata consolidada",
+      "de": 1178,
+      "nome": "1179_LIVRO_02_Livro_Inglês_Conversação_para_viagem-Michaelis_tour_Completo_2.md",
+      "tamanho_bytes": 134893,
+      "hash_bruto": "14c2025ccb86a88cb16c6529b64fe164575957559c08890aaa599c794835e167",
+      "hash_normalizado": "c100e2ee1e61922ebe399fa4d82d4e85f4d713d5c598e4f929444bc80c19c101",
+      "leitura_integral": true,
+      "paginas": 164,
+      "sem_destino_util": 0,
+      "justificativa": "Corpo integral idêntico a 1178; procedência preservada sem republicação."
+    },
+    {
+      "numero": 1180,
+      "status": "integralmente classificada antecipadamente",
+      "de": null,
+      "nome": "1180_LIVRO_03_120_frases_para_uma_conversa_em_inglês_(LM10-Livro_digital).md",
+      "tamanho_bytes": 19786,
+      "hash_bruto": "d9418c0e66cd6d7b43de2375c1f2581abd379502e444e16ac8b10853e173ffb4",
+      "hash_normalizado": "c1b15318b71f4629a5007f38ce8704cbfbd2fb07823c9c4b300a82fb47622c3d",
+      "leitura_integral": true,
+      "paginas": 61,
+      "sem_destino_util": 0,
+      "justificativa": "Estado antecipado reconhecido e preservado; nenhuma republicação."
+    },
+    {
+      "numero": 1181,
+      "status": "duplicata consolidada",
+      "de": 1180,
+      "nome": "1181_LIVRO_03_120_frases_para_uma_conversa_em_inglês_(LM10-Livro_digital)_2.md",
+      "tamanho_bytes": 20013,
+      "hash_bruto": "a291309c691b01137cd7302ff065f6a5b1e2fac43d9f956dba9d633c83c42b91",
+      "hash_normalizado": "c1b15318b71f4629a5007f38ce8704cbfbd2fb07823c9c4b300a82fb47622c3d",
+      "leitura_integral": true,
+      "paginas": 61,
+      "sem_destino_util": 0,
+      "justificativa": "Corpo integral idêntico a 1180; procedência preservada sem republicação."
+    },
+    {
+      "numero": 1182,
+      "status": "integralmente classificada",
+      "de": null,
+      "nome": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+      "tamanho_bytes": 189971,
+      "hash_bruto": "25a1c3b0df1f645445af97115d0dfbaae9d408d57f66de5391b1bd94d3b6055e",
+      "hash_normalizado": "b730f776994dac82e167236f8839cffca5daa8ad6ceac605db61219c7faec90c",
+      "leitura_integral": true,
+      "paginas": 201,
+      "sem_destino_util": 0,
+      "justificativa": "201 páginas decididas individualmente; conteúdo útil consolidado e demais páginas descartadas com motivo."
+    }
+  ],
+  "direcionadas": [],
+  "antecipadas": [
+    1178,
+    1180
+  ],
+  "duplicatas": [
+    1177,
+    1179,
+    1181
+  ],
+  "parciais": [],
+  "observacao": "Encerrado em 1182 após validação intermediária; 1183 não foi aberto neste lote."
+}

@@ -1,0 +1,123 @@
+{
+  "gerado_em": "2026-08-07T19:48:31.873Z",
+  "intervalo": "0034–0067 + amostras 1447 e 1521",
+  "canonicas": [
+    35,
+    37,
+    39,
+    41,
+    43,
+    45,
+    47,
+    49,
+    51,
+    53,
+    55,
+    58,
+    60,
+    63,
+    66
+  ],
+  "duplicatas": [
+    {
+      "id": 34,
+      "duplicata_normalizada_de": 33
+    },
+    {
+      "id": 36,
+      "duplicata_normalizada_de": 35
+    },
+    {
+      "id": 40,
+      "duplicata_normalizada_de": 39
+    },
+    {
+      "id": 42,
+      "duplicata_normalizada_de": 41
+    },
+    {
+      "id": 44,
+      "duplicata_normalizada_de": 43
+    },
+    {
+      "id": 46,
+      "duplicata_normalizada_de": 45
+    },
+    {
+      "id": 48,
+      "duplicata_normalizada_de": 47
+    },
+    {
+      "id": 50,
+      "duplicata_normalizada_de": 49
+    },
+    {
+      "id": 52,
+      "duplicata_normalizada_de": 51
+    },
+    {
+      "id": 54,
+      "duplicata_normalizada_de": 53
+    },
+    {
+      "id": 59,
+      "duplicata_normalizada_de": 58
+    },
+    {
+      "id": 61,
+      "duplicata_normalizada_de": 60
+    },
+    {
+      "id": 64,
+      "duplicata_normalizada_de": 63
+    },
+    {
+      "id": 67,
+      "duplicata_normalizada_de": 66
+    }
+  ],
+  "amostras": [
+    {
+      "id": 1447,
+      "resultado": "sem conteúdo didático; hub avançado"
+    },
+    {
+      "id": 1521,
+      "resultado": "parcial; OCR requer inspeção visual"
+    }
+  ],
+  "metodo": "SHA-256 de arquivo e SHA-256 do corpo sem frontmatter e espaços",
+  "hashes": {
+    "1447": "03376cd3fd975c3e6e58cd7be3faeed1625856d624e43625c6434542401b2835",
+    "1521": "63e4b58a5a6e55cde5e016566fec6d362fc24dca0da376ba3e61e229a1080fc0",
+    "0035": "120ec023b80d5c2752424d0e87fad40f73a31de9070330b129423cd91a6d9b1a",
+    "0037": "f9569782f830eb2c7d7847aa8e91d4134bd769c700f0e6a264825afd5c78ce93",
+    "0039": "d627e6c8196b016b701bc270f6ed22046f3e54179f60b6a5db3e9347cc72a58a",
+    "0041": "fb95c4bfe8c06cf45523c16e073c3558b678d4af558a4ad1ee284ceb90774988",
+    "0043": "a15771ed1e0b60aeb05fc7fbd86504dc32773838bce4bf6f62a300301ab11d5b",
+    "0045": "f430542432df261061880baec637d3384c3611e455bbf58be5e5f2c667a402a9",
+    "0047": "e238105a4f2e70e77e6779ecdeb489a11b13471176e80ddfe2741bf83658096e",
+    "0049": "e5e2a7f2e35f1f7fbb9684410e21e904ae4b6bb2a7afe2c6588cdcfffa786ad3",
+    "0051": "d85e11c65f010ae1c74d0bcf11030a918605587a4fa4709ed16341b5a073a710",
+    "0053": "ef109c46bad103d204b8f588dc26ba9bff159280b5c6eaf7c06177bf4466758e",
+    "0055": "52d44b379183d30f2e34c76775dd88644e3b05f53ab50012877a2b40645351b1",
+    "0058": "80cf30f013a3f7b08a7db212798b2ec3e3bbc2edb008b27b00d5b187a4b11a62",
+    "0060": "3d391cce7ba694545a62a44553269f1115bd327fda04a139072497212322df90",
+    "0063": "4fe7d3e28a75588d1e1413d8bce33ec846780ab6717e31d81025bb37858c68b2",
+    "0066": "93d83e946d888baa28640a7fb86ad236193216142f8701dfef2a6cde9f6fd728",
+    "0034": "3330c9c5589ba87d2cce7d2785e11efb988f73f70b38654394b56cd23fb89b6f",
+    "0036": "4df9088312e9e604f692ded9cafc8b49d73de013abe0fd9e75d404f5bc220913",
+    "0040": "98923596ecfc96022773b91e192528c2cc3192a12db42071a83a1fbfa835709c",
+    "0042": "cd029e97b7e4bcb1bb33b9c2a320ecc78d95143325c87ce251c908fd3585b655",
+    "0044": "91a1f3438bd27ecf6a2f0144eb9e4e6b79f1eebee30de663328827c2333f769f",
+    "0046": "d1cd492d526bc75b4a26daa9fc1ab81353c6997605e5c63fe6f5d390291b68ed",
+    "0048": "d0821ecffa477d6da5326298e88a07b45e402ca2fb01e61f6ea5f114160832cf",
+    "0050": "6cabc4e11b4160fc9ea5dafce38d18d96b5cb1ed780ad359d2b3b1fcf09b8f5c",
+    "0052": "163abab0e427605e0ede9d45fafdccb9e75755a69933e514a8eb9e5571d38ff3",
+    "0054": "536bbed1f8ddeeba80ddd9aeab630275161f84dfe160837252f17a401d61c876",
+    "0059": "0da02fae0310bf90515fee7201d9c7ece8c9363c43863ca9c8516548a00fbf9a",
+    "0061": "76a94d7c84c90e5d8c87d2b40e7394ec483ada0671502aff5c32f71dc7c42de0",
+    "0064": "882e6b38f80d9b0fe805d6bf32b626e6e6cd904d2f7a7aae124764ec5dddacde",
+    "0067": "c83755cd64ccdb26206875990c3e7b520d05379fca30ea639b5bc248fbc94e1f"
+  }
+}

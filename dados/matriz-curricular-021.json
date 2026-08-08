@@ -1,0 +1,47 @@
+{
+  "versao": "021",
+  "gerado_em": "2026-08-08T14:06:38.506Z",
+  "comparacao": {
+    "antes": {
+      "tratadas": 1222,
+      "pendentes": 325,
+      "cobertura": 78.99
+    },
+    "depois": {
+      "tratadas": 1228,
+      "pendentes": 319,
+      "cobertura": 79.38
+    }
+  },
+  "unidades": 834,
+  "atividades": 1977,
+  "subpaineis": 95,
+  "por_nivel": {
+    "A1": 80,
+    "A2": 360,
+    "B1": 270,
+    "B2": 95,
+    "C1": 18,
+    "C2": 5,
+    "KIDS": 6
+  },
+  "por_habilidade": {
+    "Conversação": 103,
+    "Escrita": 7,
+    "Escuta": 15,
+    "Gramática": 282,
+    "Inglês acadêmico": 15,
+    "Inglês profissional": 5,
+    "Leitura": 13,
+    "Pronúncia": 21,
+    "Verbos": 339,
+    "Vocabulário": 34
+  },
+  "impacto": "Auditoria 1170 corrigida; fontes 1171–1176 integralmente mapeadas; matriz e unidades preservadas.",
+  "lacunas_abertas": [
+    "escuta objetiva",
+    "inglês profissional",
+    "Kids legítimo",
+    "C2 comprovado"
+  ]
+}

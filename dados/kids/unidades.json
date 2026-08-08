@@ -1,0 +1,348 @@
+[
+  {
+    "id": "KIDS-L12-1504-01",
+    "titulo": "história, rotina e perguntas para crianças",
+    "nivel": "KIDS",
+    "nivel_cefr": "A1",
+    "nivel_secundario": "A1",
+    "tema": "história, rotina e perguntas para crianças",
+    "subpainel": "Histórias e leitura infantil",
+    "habilidade_principal": "Leitura",
+    "habilidades_secundarias": [
+      "Conversação"
+    ],
+    "habilidades": [
+      "Leitura",
+      "Conversação"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de história, rotina e perguntas para crianças sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "A story",
+      "Where are the children?",
+      "Which children are happy?"
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "infantil",
+    "fonte": {
+      "arquivo": "1504_01_Kid's_Box_New_Generation_Level_3_Student's_Book_with_eBook_American_English.md",
+      "arquivo_original": "01_Kid's Box New Generation Level 3 Student's Book with eBook American English.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1504_01_Kid's_Box_New_Generation_Level_3_Student's_Book_with_eBook_American_English.md",
+        "arquivo_original": "01_Kid's Box New Generation Level 3 Student's Book with eBook American English.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Livro infantil com personagens, história e perguntas concretas para young learners.",
+    "paineis": [
+      "kids-leitura"
+    ],
+    "ordem_global": 819,
+    "ordem_nivel": 1,
+    "ordem_pedagogica": 1,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "KIDS-L12-1506-01",
+    "titulo": "família e comparações para crianças",
+    "nivel": "KIDS",
+    "nivel_cefr": "A2",
+    "nivel_secundario": "A2",
+    "tema": "família e comparações para crianças",
+    "subpainel": "Gramática em contexto infantil",
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Gramática"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de família e comparações para crianças sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Simon's younger cousin",
+      "Aunt May's younger than Suzy.",
+      "She's got short brown hair."
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "infantil",
+    "fonte": {
+      "arquivo": "1506_02_Kid's_Box_American_English_4_-_Student's_Book_-_Updated_Second_Edition.md",
+      "arquivo_original": "02_Kid's Box American English 4 - Student's Book - Updated Second Edition.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1506_02_Kid's_Box_American_English_4_-_Student's_Book_-_Updated_Second_Edition.md",
+        "arquivo_original": "02_Kid's Box American English 4 - Student's Book - Updated Second Edition.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Material infantil ilustrado com família, descrição e comparativos.",
+    "paineis": [
+      "kids-gramatica"
+    ],
+    "ordem_global": 820,
+    "ordem_nivel": 2,
+    "ordem_pedagogica": 2,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "KIDS-L12-1508-01",
+    "titulo": "gramática contextualizada para young learners",
+    "nivel": "KIDS",
+    "nivel_cefr": "A2",
+    "nivel_secundario": "A2",
+    "tema": "gramática contextualizada para young learners",
+    "subpainel": "Gramática em contexto infantil",
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Gramática"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de gramática contextualizada para young learners sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Grammar for Young Learners",
+      "Teaching Grammar to Young Learners"
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "infantil",
+    "fonte": {
+      "arquivo": "1508_03_Grammar_For_Young_Learners.md",
+      "arquivo_original": "03_Grammar For Young Learners.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1508_03_Grammar_For_Young_Learners.md",
+        "arquivo_original": "03_Grammar For Young Learners.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      },
+      {
+        "arquivo": "1509_03_Grammar_For_Young_Learners_2.md",
+        "arquivo_original": "03_Grammar For Young Learners.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata dirigida de 1508"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Material explicitamente destinado a crianças e young learners.",
+    "paineis": [
+      "kids-gramatica"
+    ],
+    "ordem_global": 821,
+    "ordem_nivel": 3,
+    "ordem_pedagogica": 3,
+    "ordem_painel": 2,
+    "ordem_subpainel": 2
+  },
+  {
+    "id": "KIDS-L12-1510-01",
+    "titulo": "diálogos iniciais para crianças",
+    "nivel": "KIDS",
+    "nivel_cefr": "A1",
+    "nivel_secundario": "A1",
+    "tema": "diálogos iniciais para crianças",
+    "subpainel": "Interação infantil",
+    "habilidade_principal": "Conversação",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Conversação"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de diálogos iniciais para crianças sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Alphabet and handwriting guide",
+      "New grammar is explained with a simple dialogue.",
+      "English course for children."
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "infantil",
+    "fonte": {
+      "arquivo": "1510_04_English_for_Everyone_Junior_Beginner's_Course.md",
+      "arquivo_original": "04_English for Everyone Junior Beginner's Course.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1510_04_English_for_Everyone_Junior_Beginner's_Course.md",
+        "arquivo_original": "04_English for Everyone Junior Beginner's Course.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Curso Junior Beginner explicitamente infantil, com diálogos simples.",
+    "paineis": [
+      "kids-conversacao"
+    ],
+    "ordem_global": 822,
+    "ordem_nivel": 4,
+    "ordem_pedagogica": 4,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "KIDS-L12-1513-01",
+    "titulo": "histórias e descrições infantis bilíngues",
+    "nivel": "KIDS",
+    "nivel_cefr": "A2",
+    "nivel_secundario": "A2",
+    "tema": "histórias e descrições infantis bilíngues",
+    "subpainel": "Histórias e leitura infantil",
+    "habilidade_principal": "Leitura",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Leitura"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de histórias e descrições infantis bilíngues sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "A horse reading a story at four in the morning.",
+      "There weren't many children.",
+      "The books and toys are for children in the park."
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "infantil",
+    "fonte": {
+      "arquivo": "1513_livro01_17.md",
+      "arquivo_original": "livro01.html",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1513_livro01_17.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Histórias, crianças, brinquedos e pares bilíngues sustentam trilha infantil.",
+    "paineis": [
+      "kids-leitura"
+    ],
+    "ordem_global": 823,
+    "ordem_nivel": 5,
+    "ordem_pedagogica": 5,
+    "ordem_painel": 2,
+    "ordem_subpainel": 2
+  },
+  {
+    "id": "KIDS-L13-1514-01",
+    "titulo": "história e atividades contextualizadas para crianças",
+    "nivel": "KIDS",
+    "nivel_secundario": "KIDS",
+    "tema": "história e atividades contextualizadas para crianças",
+    "subpainel": "Histórias e leitura infantil",
+    "habilidade_principal": "Leitura",
+    "habilidades_secundarias": [
+      "Conversação"
+    ],
+    "habilidades": [
+      "Leitura",
+      "Conversação"
+    ],
+    "tipo": "prática integrada baseada em fonte",
+    "explicacao_pt": "A unidade integra história e atividades contextualizadas para crianças com tarefas verificáveis, sem reproduzir o livro inteiro em um único painel.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Read the story and identify the characters.",
+      "Put the events in order.",
+      "Tell a partner your favourite part."
+    ],
+    "traducoes": [
+      "Produção e compreensão com autorrevisão contextual.",
+      "Produção e compreensão com autorrevisão contextual.",
+      "Produção e compreensão com autorrevisão contextual."
+    ],
+    "origem_traducoes": "editorial identificada",
+    "observacao_uso": "Todas as fontes foram lidas; apenas evidência representativa é renderizada para evitar um livro inteiro em um painel.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "infantil",
+    "fonte": {
+      "arquivo": "1514_livro02_16.md",
+      "arquivo_original": "livro02.html",
+      "pagina": "texto integral extraído para Markdown",
+      "secao": "conteúdo integral dirigido e consolidado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1514_livro02_16.md",
+        "arquivo_original": "livro02.html",
+        "pagina": "texto integral extraído para Markdown",
+        "secao": "conteúdo integral dirigido e consolidado"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Narrativa e tarefas concretas destinadas a crianças sustentam a trilha Kids.",
+    "paineis": [
+      "kids-leitura"
+    ],
+    "ordem_global": 824,
+    "ordem_nivel": 6,
+    "ordem_pedagogica": 6,
+    "ordem_painel": 3,
+    "ordem_subpainel": 3,
+    "nivel_cefr": "A2"
+  }
+]

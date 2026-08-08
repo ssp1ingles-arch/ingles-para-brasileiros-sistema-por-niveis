@@ -1,0 +1,247 @@
+[
+  {
+    "id": "a1-fundamentos",
+    "nivel": "A1",
+    "titulo": "Comece aqui"
+  },
+  {
+    "id": "a1-gramatica",
+    "nivel": "A1",
+    "titulo": "Gramática essencial"
+  },
+  {
+    "id": "a1-verbos",
+    "nivel": "A1",
+    "titulo": "Verbos essenciais"
+  },
+  {
+    "id": "a1-conversacao",
+    "nivel": "A1",
+    "titulo": "Conversação"
+  },
+  {
+    "id": "a1-pronuncia",
+    "nivel": "A1",
+    "titulo": "Pronúncia e escuta"
+  },
+  {
+    "id": "a1-situar",
+    "nivel": "A1",
+    "titulo": "Situar a frase"
+  },
+  {
+    "id": "a2-gramatica",
+    "nivel": "A2",
+    "titulo": "Gramática"
+  },
+  {
+    "id": "a2-conversacao",
+    "nivel": "A2",
+    "titulo": "Conversação"
+  },
+  {
+    "id": "a2-vocabulario",
+    "nivel": "A2",
+    "titulo": "Vocabulário"
+  },
+  {
+    "id": "a2-pronuncia",
+    "nivel": "A2",
+    "titulo": "Pronúncia"
+  },
+  {
+    "id": "b1-conversacao",
+    "nivel": "B1",
+    "titulo": "Conversação"
+  },
+  {
+    "id": "b1-vocabulario",
+    "nivel": "B1",
+    "titulo": "Vocabulário"
+  },
+  {
+    "id": "b1-gramatica",
+    "nivel": "B1",
+    "titulo": "Gramática"
+  },
+  {
+    "id": "b1-pronuncia",
+    "nivel": "B1",
+    "titulo": "Pronúncia"
+  },
+  {
+    "id": "b2-pronuncia",
+    "nivel": "B2",
+    "titulo": "Pronúncia"
+  },
+  {
+    "id": "a2-verbos",
+    "nivel": "A2",
+    "titulo": "Verbos"
+  },
+  {
+    "id": "b1-verbos",
+    "nivel": "B1",
+    "titulo": "Verbos"
+  },
+  {
+    "id": "b2-verbos",
+    "nivel": "B2",
+    "titulo": "Verbos"
+  },
+  {
+    "id": "b2-vocabulario",
+    "nivel": "B2",
+    "titulo": "Vocabulario"
+  },
+  {
+    "id": "b2-gramatica",
+    "nivel": "B2",
+    "titulo": "Gramatica"
+  },
+  {
+    "id": "c1-verbos",
+    "nivel": "C1",
+    "titulo": "Verbos"
+  },
+  {
+    "id": "c1-vocabulario",
+    "nivel": "C1",
+    "titulo": "Vocabulario"
+  },
+  {
+    "id": "c1-gramatica",
+    "nivel": "C1",
+    "titulo": "Gramatica"
+  },
+  {
+    "id": "a1-vocabulario",
+    "nivel": "A1",
+    "titulo": "vocabulario"
+  },
+  {
+    "id": "b2-conversacao",
+    "nivel": "B2",
+    "titulo": "conversacao"
+  },
+  {
+    "id": "c1-conversacao",
+    "nivel": "C1",
+    "titulo": "conversacao"
+  },
+  {
+    "id": "c1-pronuncia",
+    "nivel": "C1",
+    "titulo": "pronuncia"
+  },
+  {
+    "id": "a2-leitura",
+    "nivel": "A2",
+    "titulo": "Leitura"
+  },
+  {
+    "id": "b1-leitura",
+    "nivel": "B1",
+    "titulo": "Leitura"
+  },
+  {
+    "id": "b2-ingles-academico",
+    "nivel": "B2",
+    "titulo": "Inglês acadêmico"
+  },
+  {
+    "id": "c1-ingles-academico",
+    "nivel": "C1",
+    "titulo": "Inglês acadêmico"
+  },
+  {
+    "id": "a2-escrita",
+    "nivel": "A2",
+    "titulo": "Escrita"
+  },
+  {
+    "id": "b1-ingles-academico",
+    "nivel": "B1",
+    "titulo": "Inglês acadêmico"
+  },
+  {
+    "id": "b1-escrita",
+    "nivel": "B1",
+    "titulo": "Escrita"
+  },
+  {
+    "id": "a2-escuta",
+    "nivel": "A2",
+    "titulo": "Escuta"
+  },
+  {
+    "id": "b1-escuta",
+    "nivel": "B1",
+    "titulo": "Escuta"
+  },
+  {
+    "id": "b2-leitura",
+    "nivel": "B2",
+    "titulo": "Leitura"
+  },
+  {
+    "id": "a2-ingles-profissional",
+    "nivel": "A2",
+    "titulo": "Inglês profissional"
+  },
+  {
+    "id": "b1-ingles-profissional",
+    "nivel": "B1",
+    "titulo": "Inglês profissional"
+  },
+  {
+    "id": "b2-escuta",
+    "nivel": "B2",
+    "titulo": "Escuta"
+  },
+  {
+    "id": "c1-escrita",
+    "nivel": "C1",
+    "titulo": "Escrita"
+  },
+  {
+    "id": "c1-ingles-profissional",
+    "nivel": "C1",
+    "titulo": "Inglês profissional"
+  },
+  {
+    "id": "c2-ingles-academico",
+    "nivel": "C2",
+    "titulo": "Inglês acadêmico"
+  },
+  {
+    "id": "c2-escrita",
+    "nivel": "C2",
+    "titulo": "Escrita"
+  },
+  {
+    "id": "kids-leitura",
+    "nivel": "KIDS",
+    "titulo": "Leitura"
+  },
+  {
+    "id": "kids-gramatica",
+    "nivel": "KIDS",
+    "titulo": "Gramática"
+  },
+  {
+    "id": "kids-conversacao",
+    "nivel": "KIDS",
+    "titulo": "Conversação"
+  },
+  {
+    "id": "c2-gramatica",
+    "nivel": "C2",
+    "titulo": "Gramática"
+  },
+  {
+    "id": "c2-leitura",
+    "nivel": "C2",
+    "titulo": "Leitura"
+  }
+]

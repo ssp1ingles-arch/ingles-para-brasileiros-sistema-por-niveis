@@ -1,0 +1,11 @@
+{
+  "gerado_em": "2026-08-08T01:24:04.071Z",
+  "unidades_auditadas": 751,
+  "dependencias": 78,
+  "ciclos": [],
+  "cadeias_longas": [],
+  "pre_requisitos_excessivos": [],
+  "dependencias_posteriores_ou_avancadas": [],
+  "correcoes": [],
+  "conclusao": "As dependências existentes são válidas, anteriores e acíclicas. Nenhuma dependência artificial foi adicionada para montar as jornadas."
+}

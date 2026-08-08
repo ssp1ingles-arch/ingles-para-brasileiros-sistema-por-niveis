@@ -1,0 +1,3184 @@
+{
+  "gerado_em": "2026-08-08T11:56:04.058Z",
+  "nota": "Indicadores internos de construção curricular; não certificam domínio CEFR.",
+  "por_habilidade": [
+    {
+      "nivel": "A1",
+      "habilidade": "Gramática",
+      "quantidade_unidades": 34,
+      "quantidade_fontes": 30,
+      "paineis": [
+        "a1-fundamentos",
+        "a1-situar",
+        "a1-gramatica",
+        "a1-verbos"
+      ],
+      "subpaineis": [
+        "Conteúdo integrado",
+        "Fundamentos e ampliação gramatical",
+        "Sujeito e pronomes",
+        "Rotina e ações frequentes",
+        "Perguntas e negativas"
+      ],
+      "etapas_jornada": [
+        "a1-etapa-01",
+        "a1-etapa-03"
+      ],
+      "situacao": "Substancial",
+      "lacunas": "Ampliar prática e diversidade de fontes.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A1",
+      "habilidade": "Verbos",
+      "quantidade_unidades": 32,
+      "quantidade_fontes": 60,
+      "paineis": [
+        "a1-verbos"
+      ],
+      "subpaineis": [
+        "Pensamento e percepção",
+        "Fundamentos e ampliação verbal",
+        "Rotina e ações frequentes",
+        "Ser, estar e existir",
+        "Necessidade, desejo e preferência",
+        "Movimento e mudança"
+      ],
+      "etapas_jornada": [
+        "a1-etapa-01",
+        "a1-etapa-02",
+        "a1-etapa-04"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A1",
+      "habilidade": "Vocabulário",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A1",
+      "habilidade": "Conversação",
+      "quantidade_unidades": 11,
+      "quantidade_fontes": 15,
+      "paineis": [
+        "a1-conversacao",
+        "a1-verbos"
+      ],
+      "subpaineis": [
+        "Interação e prática integrada",
+        "Fundamentos e ampliação verbal",
+        "Rotinas e situações cotidianas"
+      ],
+      "etapas_jornada": [
+        "a1-etapa-05"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A1",
+      "habilidade": "Pronúncia",
+      "quantidade_unidades": 3,
+      "quantidade_fontes": 4,
+      "paineis": [
+        "a1-fundamentos",
+        "a1-pronuncia"
+      ],
+      "subpaineis": [
+        "Conteúdo integrado",
+        "Contrações"
+      ],
+      "etapas_jornada": [
+        "a1-etapa-06"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A1",
+      "habilidade": "Escuta",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A1",
+      "habilidade": "Leitura",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A1",
+      "habilidade": "Escrita",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A1",
+      "habilidade": "Inglês profissional",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A1",
+      "habilidade": "Inglês acadêmico",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A1",
+      "habilidade": "Prática e revisão",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Gramática",
+      "quantidade_unidades": 102,
+      "quantidade_fontes": 86,
+      "paineis": [
+        "a2-gramatica"
+      ],
+      "subpaineis": [
+        "Artigos e substantivos",
+        "Sujeito e pronomes",
+        "Fundamentos e ampliação gramatical",
+        "Tempo e lugar",
+        "Perguntas e negativas",
+        "Conectores e relações lógicas",
+        "passado de be em contexto",
+        "should para conselhos pessoais",
+        "simple: presente, passado e futuro"
+      ],
+      "etapas_jornada": [
+        "a2-etapa-01",
+        "a2-etapa-02",
+        "a2-etapa-03",
+        "a2-etapa-04",
+        "a2-etapa-08"
+      ],
+      "situacao": "Substancial",
+      "lacunas": "Ampliar prática e diversidade de fontes.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Verbos",
+      "quantidade_unidades": 163,
+      "quantidade_fontes": 233,
+      "paineis": [
+        "a2-verbos"
+      ],
+      "subpaineis": [
+        "Pensamento e percepção",
+        "Comunicação e informação",
+        "Movimento e mudança",
+        "Rotina e ações frequentes",
+        "Verbos com mais de um padrão",
+        "Ser, estar e existir",
+        "Necessidade, desejo e preferência",
+        "Fundamentos e ampliação verbal"
+      ],
+      "etapas_jornada": [
+        "a2-etapa-01",
+        "a2-etapa-02",
+        "a2-etapa-03",
+        "a2-etapa-04",
+        "a2-etapa-06"
+      ],
+      "situacao": "Substancial",
+      "lacunas": "Ampliar prática e diversidade de fontes.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Vocabulário",
+      "quantidade_unidades": 9,
+      "quantidade_fontes": 11,
+      "paineis": [
+        "a2-vocabulario"
+      ],
+      "subpaineis": [
+        "Vocabulário integrado",
+        "Phrasal verbs e combinações"
+      ],
+      "etapas_jornada": [
+        "a2-etapa-06"
+      ],
+      "situacao": "Em construção",
+      "lacunas": "Ampliar prática e diversidade de fontes.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Conversação",
+      "quantidade_unidades": 62,
+      "quantidade_fontes": 19,
+      "paineis": [
+        "a2-conversacao",
+        "a2-verbos"
+      ],
+      "subpaineis": [
+        "Perguntas e respostas",
+        "Expressões e diálogos cotidianos",
+        "Comunicação e informação",
+        "Rotinas e situações cotidianas",
+        "Interação e prática integrada",
+        "can't wait — expectativa",
+        "I'd like — pedidos e desejos",
+        "May I...? — pedir permissão"
+      ],
+      "etapas_jornada": [
+        "a2-etapa-07"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Pronúncia",
+      "quantidade_unidades": 3,
+      "quantidade_fontes": 5,
+      "paineis": [
+        "a2-pronuncia"
+      ],
+      "subpaineis": [
+        "Contrações",
+        "Fala conectada e produção oral"
+      ],
+      "etapas_jornada": [
+        "a2-etapa-08"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Escuta",
+      "quantidade_unidades": 4,
+      "quantidade_fontes": 4,
+      "paineis": [
+        "a2-escuta"
+      ],
+      "subpaineis": [
+        "Compreensão oral por transcrições"
+      ],
+      "etapas_jornada": [
+        "a2-etapa-04",
+        "a2-etapa-05"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Leitura",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 2,
+      "paineis": [
+        "a2-leitura"
+      ],
+      "subpaineis": [
+        "Textos e estratégias de leitura"
+      ],
+      "etapas_jornada": [
+        "a2-etapa-03"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Escrita",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 2,
+      "paineis": [
+        "a2-escrita"
+      ],
+      "subpaineis": [
+        "Produção escrita integrada"
+      ],
+      "etapas_jornada": [
+        "a2-etapa-04"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Inglês profissional",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "paineis": [
+        "a2-ingles-profissional"
+      ],
+      "subpaineis": [
+        "Comunicação profissional integrada"
+      ],
+      "etapas_jornada": [
+        "a2-etapa-05"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Inglês acadêmico",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "A2",
+      "habilidade": "Prática e revisão",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Gramática",
+      "quantidade_unidades": 80,
+      "quantidade_fontes": 91,
+      "paineis": [
+        "b1-gramatica"
+      ],
+      "subpaineis": [
+        "Tempo e lugar",
+        "Quantidade e comparação",
+        "Perguntas e negativas",
+        "Conectores e relações lógicas",
+        "Artigos e substantivos",
+        "Fundamentos e ampliação gramatical",
+        "continuous: presente, passado e futuro",
+        "perfect: presente, passado e futuro"
+      ],
+      "etapas_jornada": [
+        "b1-etapa-01",
+        "b1-etapa-02",
+        "b1-etapa-03",
+        "b1-etapa-04",
+        "b1-etapa-07"
+      ],
+      "situacao": "Substancial",
+      "lacunas": "Ampliar prática e diversidade de fontes.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Verbos",
+      "quantidade_unidades": 119,
+      "quantidade_fontes": 203,
+      "paineis": [
+        "b1-verbos"
+      ],
+      "subpaineis": [
+        "Movimento e mudança",
+        "Pensamento e percepção",
+        "Rotina e ações frequentes",
+        "Fundamentos e ampliação verbal",
+        "Necessidade, desejo e preferência"
+      ],
+      "etapas_jornada": [
+        "b1-etapa-01",
+        "b1-etapa-02",
+        "b1-etapa-03",
+        "b1-etapa-04",
+        "b1-etapa-06"
+      ],
+      "situacao": "Em construção",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Vocabulário",
+      "quantidade_unidades": 14,
+      "quantidade_fontes": 12,
+      "paineis": [
+        "b1-vocabulario"
+      ],
+      "subpaineis": [
+        "Vocabulário integrado",
+        "Phrasal verbs e combinações"
+      ],
+      "etapas_jornada": [
+        "b1-etapa-05"
+      ],
+      "situacao": "Em construção",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Conversação",
+      "quantidade_unidades": 11,
+      "quantidade_fontes": 15,
+      "paineis": [
+        "b1-conversacao"
+      ],
+      "subpaineis": [
+        "Interação e prática integrada",
+        "Opinião e posicionamento",
+        "respostas básicas e naturais em conversa"
+      ],
+      "etapas_jornada": [
+        "b1-etapa-06"
+      ],
+      "situacao": "Em construção",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Pronúncia",
+      "quantidade_unidades": 6,
+      "quantidade_fontes": 7,
+      "paineis": [
+        "b1-pronuncia",
+        "b1-gramatica"
+      ],
+      "subpaineis": [
+        "Contrações",
+        "Tempo e lugar",
+        "Fala conectada e produção oral"
+      ],
+      "etapas_jornada": [
+        "b1-etapa-07"
+      ],
+      "situacao": "Em construção",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Escuta",
+      "quantidade_unidades": 9,
+      "quantidade_fontes": 9,
+      "paineis": [
+        "b1-escuta"
+      ],
+      "subpaineis": [
+        "Compreensão oral por transcrições",
+        "transcrição: contar uma história e expressões",
+        "transcrição: iniciar conversa naturalmente",
+        "transcrição de filme: reconstruir uma história",
+        "transcrição: meeting someone e seeing anyone"
+      ],
+      "etapas_jornada": [
+        "b1-etapa-03",
+        "b1-etapa-06"
+      ],
+      "situacao": "Em construção",
+      "lacunas": "Ampliar prática e diversidade de fontes.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Leitura",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 2,
+      "paineis": [
+        "b1-leitura"
+      ],
+      "subpaineis": [
+        "Textos e estratégias de leitura"
+      ],
+      "etapas_jornada": [
+        "b1-etapa-02"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Escrita",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 2,
+      "paineis": [
+        "b1-escrita"
+      ],
+      "subpaineis": [
+        "Produção escrita integrada"
+      ],
+      "etapas_jornada": [
+        "b1-etapa-02"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Inglês profissional",
+      "quantidade_unidades": 3,
+      "quantidade_fontes": 3,
+      "paineis": [
+        "b1-ingles-profissional"
+      ],
+      "subpaineis": [
+        "Comunicação profissional integrada",
+        "reuniões, conversa e storytelling profissional"
+      ],
+      "etapas_jornada": [
+        "b1-etapa-03",
+        "b1-etapa-07"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Inglês acadêmico",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 4,
+      "paineis": [
+        "b1-ingles-academico"
+      ],
+      "subpaineis": [
+        "Conectores e organização acadêmica"
+      ],
+      "etapas_jornada": [
+        "b1-etapa-01"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B1",
+      "habilidade": "Prática e revisão",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Gramática",
+      "quantidade_unidades": 39,
+      "quantidade_fontes": 45,
+      "paineis": [
+        "b2-gramatica"
+      ],
+      "subpaineis": [
+        "Passado e experiência",
+        "Fundamentos e ampliação gramatical",
+        "Conectores e relações lógicas",
+        "Tempo e lugar",
+        "Perguntas e negativas"
+      ],
+      "etapas_jornada": [
+        "b2-etapa-01",
+        "b2-etapa-02",
+        "b2-etapa-04"
+      ],
+      "situacao": "Substancial",
+      "lacunas": "Ampliar prática e diversidade de fontes.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Verbos",
+      "quantidade_unidades": 25,
+      "quantidade_fontes": 27,
+      "paineis": [
+        "b2-verbos"
+      ],
+      "subpaineis": [
+        "Movimento e mudança",
+        "Pensamento e percepção",
+        "Fundamentos e ampliação verbal"
+      ],
+      "etapas_jornada": [
+        "b2-etapa-01",
+        "b2-etapa-05"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Vocabulário",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 3,
+      "paineis": [
+        "b2-vocabulario"
+      ],
+      "subpaineis": [
+        "Phrasal verbs e combinações",
+        "Vocabulário integrado"
+      ],
+      "etapas_jornada": [
+        "b2-etapa-03"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Conversação",
+      "quantidade_unidades": 4,
+      "quantidade_fontes": 8,
+      "paineis": [
+        "b2-conversacao",
+        "b2-gramatica"
+      ],
+      "subpaineis": [
+        "Pedidos e interação social",
+        "Interação e prática integrada",
+        "Perguntas e negativas"
+      ],
+      "etapas_jornada": [
+        "b2-etapa-04"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Pronúncia",
+      "quantidade_unidades": 5,
+      "quantidade_fontes": 5,
+      "paineis": [
+        "b2-pronuncia"
+      ],
+      "subpaineis": [
+        "Contrações",
+        "Fala conectada e produção oral"
+      ],
+      "etapas_jornada": [
+        "b2-etapa-05"
+      ],
+      "situacao": "Em construção",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Escuta",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "paineis": [
+        "b2-escuta"
+      ],
+      "subpaineis": [
+        "transcrição: aprendizagem e conexão intercultural"
+      ],
+      "etapas_jornada": [
+        "b2-etapa-04"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Leitura",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "paineis": [
+        "b2-leitura"
+      ],
+      "subpaineis": [
+        "Textos e estratégias de leitura"
+      ],
+      "etapas_jornada": [
+        "b2-etapa-01"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Escrita",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Inglês profissional",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Inglês acadêmico",
+      "quantidade_unidades": 9,
+      "quantidade_fontes": 12,
+      "paineis": [
+        "b2-ingles-academico"
+      ],
+      "subpaineis": [
+        "Conectores e organização acadêmica"
+      ],
+      "etapas_jornada": [
+        "b2-etapa-01"
+      ],
+      "situacao": "Em construção",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "B2",
+      "habilidade": "Prática e revisão",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Gramática",
+      "quantidade_unidades": 8,
+      "quantidade_fontes": 7,
+      "paineis": [
+        "c1-gramatica"
+      ],
+      "subpaineis": [
+        "Perguntas e negativas",
+        "Tempo e lugar",
+        "aspecto verbal e efeitos pragmáticos avançados"
+      ],
+      "etapas_jornada": [
+        "c1-etapa-01",
+        "c1-etapa-02"
+      ],
+      "situacao": "Em construção",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Verbos",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Vocabulário",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "paineis": [
+        "c1-gramatica"
+      ],
+      "subpaineis": [
+        "colocações, idioms e vocabulário avançado"
+      ],
+      "etapas_jornada": [
+        "c1-etapa-02"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Conversação",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Pronúncia",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Escuta",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Leitura",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Escrita",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "paineis": [
+        "c1-escrita"
+      ],
+      "subpaineis": [
+        "escrita avançada e linguagem idiomática"
+      ],
+      "etapas_jornada": [
+        "c1-etapa-02"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Inglês profissional",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "paineis": [
+        "c1-ingles-profissional"
+      ],
+      "subpaineis": [
+        "currículo, carta de apresentação e idioms profissionais"
+      ],
+      "etapas_jornada": [
+        "c1-etapa-02"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Inglês acadêmico",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 2,
+      "paineis": [
+        "c1-ingles-academico"
+      ],
+      "subpaineis": [
+        "Conectores e organização acadêmica"
+      ],
+      "etapas_jornada": [
+        "c1-etapa-01"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C1",
+      "habilidade": "Prática e revisão",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Gramática",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Verbos",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Vocabulário",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Conversação",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Pronúncia",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Escuta",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Leitura",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Escrita",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "paineis": [
+        "c2-escrita"
+      ],
+      "subpaineis": [
+        "transferência de registro e linguagem idiomática"
+      ],
+      "etapas_jornada": [
+        "c2-etapa-01"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Inglês profissional",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Inglês acadêmico",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "paineis": [
+        "c2-ingles-academico"
+      ],
+      "subpaineis": [
+        "reformulação, síntese e idiomaticidade de proficiência"
+      ],
+      "etapas_jornada": [
+        "c2-etapa-01"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "C2",
+      "habilidade": "Prática e revisão",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Gramática",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 2,
+      "paineis": [
+        "kids-gramatica"
+      ],
+      "subpaineis": [
+        "família e comparações para crianças",
+        "gramática contextualizada para young learners"
+      ],
+      "etapas_jornada": [
+        "kids-etapa-02"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Verbos",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Vocabulário",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Conversação",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "paineis": [
+        "kids-conversacao"
+      ],
+      "subpaineis": [
+        "diálogos iniciais para crianças"
+      ],
+      "etapas_jornada": [
+        "kids-etapa-01"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Pronúncia",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Escuta",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Leitura",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 2,
+      "paineis": [
+        "kids-leitura"
+      ],
+      "subpaineis": [
+        "história, rotina e perguntas para crianças",
+        "histórias e descrições infantis bilíngues"
+      ],
+      "etapas_jornada": [
+        "kids-etapa-01"
+      ],
+      "situacao": "Muito limitado",
+      "lacunas": "Baixa variedade de funções e contextos.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Escrita",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Inglês profissional",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Inglês acadêmico",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    },
+    {
+      "nivel": "KIDS",
+      "habilidade": "Prática e revisão",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "paineis": [],
+      "subpaineis": [],
+      "etapas_jornada": [],
+      "situacao": "Não iniciado",
+      "lacunas": "Sem unidade principal publicada.",
+      "fontes_candidatas_ainda_nao_analisadas": [
+        "1202_01_American_English_Pronunciation_Rachels.md",
+        "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+        "1278_03_English_Pronunciation_in_Use_Elementary.md",
+        "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+      ]
+    }
+  ],
+  "por_tema": [
+    {
+      "nivel": "A1",
+      "tema": "Fundamentos",
+      "quantidade_unidades": 45,
+      "quantidade_fontes": 71,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Tempos verbais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Perguntas e negativas",
+      "quantidade_unidades": 6,
+      "quantidade_fontes": 9,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Artigos e substantivos",
+      "quantidade_unidades": 3,
+      "quantidade_fontes": 3,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Pronomes",
+      "quantidade_unidades": 9,
+      "quantidade_fontes": 6,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Quantidade",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 4,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Tempo e lugar",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Modais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Condicionais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Passiva",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Discurso indireto",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Conectores",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Phrasal verbs",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Collocations",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Idioms",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Pronúncia",
+      "quantidade_unidades": 3,
+      "quantidade_fontes": 4,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Fala conectada",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Conversação cotidiana",
+      "quantidade_unidades": 11,
+      "quantidade_fontes": 15,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Viagem",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Trabalho",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Leitura",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Escrita",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Argumentação",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Registro",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Retórica",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A1",
+      "tema": "Conteúdo infantil",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Fundamentos",
+      "quantidade_unidades": 173,
+      "quantidade_fontes": 245,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Tempos verbais",
+      "quantidade_unidades": 3,
+      "quantidade_fontes": 3,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Perguntas e negativas",
+      "quantidade_unidades": 29,
+      "quantidade_fontes": 28,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Artigos e substantivos",
+      "quantidade_unidades": 14,
+      "quantidade_fontes": 6,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Pronomes",
+      "quantidade_unidades": 9,
+      "quantidade_fontes": 7,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Quantidade",
+      "quantidade_unidades": 4,
+      "quantidade_fontes": 4,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Tempo e lugar",
+      "quantidade_unidades": 20,
+      "quantidade_fontes": 18,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Modais",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Condicionais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Passiva",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Discurso indireto",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Conectores",
+      "quantidade_unidades": 9,
+      "quantidade_fontes": 13,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Phrasal verbs",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Collocations",
+      "quantidade_unidades": 6,
+      "quantidade_fontes": 4,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Idioms",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Pronúncia",
+      "quantidade_unidades": 5,
+      "quantidade_fontes": 4,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Fala conectada",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 3,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Conversação cotidiana",
+      "quantidade_unidades": 67,
+      "quantidade_fontes": 24,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Viagem",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Trabalho",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Leitura",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 3,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Escrita",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 2,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Argumentação",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Registro",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Retórica",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "A2",
+      "tema": "Conteúdo infantil",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Fundamentos",
+      "quantidade_unidades": 136,
+      "quantidade_fontes": 221,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Tempos verbais",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 2,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Perguntas e negativas",
+      "quantidade_unidades": 19,
+      "quantidade_fontes": 23,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Artigos e substantivos",
+      "quantidade_unidades": 6,
+      "quantidade_fontes": 5,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Pronomes",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Quantidade",
+      "quantidade_unidades": 6,
+      "quantidade_fontes": 7,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Tempo e lugar",
+      "quantidade_unidades": 20,
+      "quantidade_fontes": 23,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Modais",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Condicionais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Passiva",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Discurso indireto",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Conectores",
+      "quantidade_unidades": 19,
+      "quantidade_fontes": 29,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Phrasal verbs",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Collocations",
+      "quantidade_unidades": 10,
+      "quantidade_fontes": 4,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Idioms",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Pronúncia",
+      "quantidade_unidades": 4,
+      "quantidade_fontes": 4,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Fala conectada",
+      "quantidade_unidades": 3,
+      "quantidade_fontes": 4,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Conversação cotidiana",
+      "quantidade_unidades": 9,
+      "quantidade_fontes": 16,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Viagem",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Trabalho",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 2,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Leitura",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 3,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Escrita",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 2,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Argumentação",
+      "quantidade_unidades": 5,
+      "quantidade_fontes": 2,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Registro",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Retórica",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B1",
+      "tema": "Conteúdo infantil",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Fundamentos",
+      "quantidade_unidades": 32,
+      "quantidade_fontes": 35,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Tempos verbais",
+      "quantidade_unidades": 3,
+      "quantidade_fontes": 2,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Perguntas e negativas",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 2,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Artigos e substantivos",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Pronomes",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Quantidade",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Tempo e lugar",
+      "quantidade_unidades": 14,
+      "quantidade_fontes": 16,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Modais",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Condicionais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Passiva",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Discurso indireto",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Conectores",
+      "quantidade_unidades": 16,
+      "quantidade_fontes": 25,
+      "situacao": "Substancial"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Phrasal verbs",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Collocations",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Idioms",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Pronúncia",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 2,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Fala conectada",
+      "quantidade_unidades": 4,
+      "quantidade_fontes": 3,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Conversação cotidiana",
+      "quantidade_unidades": 4,
+      "quantidade_fontes": 8,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Viagem",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Trabalho",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Leitura",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Escrita",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Argumentação",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Registro",
+      "quantidade_unidades": 6,
+      "quantidade_fontes": 6,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Retórica",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "B2",
+      "tema": "Conteúdo infantil",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Fundamentos",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Tempos verbais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Perguntas e negativas",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Artigos e substantivos",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Pronomes",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Quantidade",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Tempo e lugar",
+      "quantidade_unidades": 7,
+      "quantidade_fontes": 6,
+      "situacao": "Em construção"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Modais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Condicionais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Passiva",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Discurso indireto",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Conectores",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 2,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Phrasal verbs",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Collocations",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Idioms",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Pronúncia",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Fala conectada",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Conversação cotidiana",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Viagem",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Trabalho",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Leitura",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Escrita",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Argumentação",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Registro",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Retórica",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C1",
+      "tema": "Conteúdo infantil",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Fundamentos",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Tempos verbais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Perguntas e negativas",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Artigos e substantivos",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Pronomes",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Quantidade",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Tempo e lugar",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Modais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Condicionais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Passiva",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Discurso indireto",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Conectores",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Phrasal verbs",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Collocations",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Idioms",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Pronúncia",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Fala conectada",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Conversação cotidiana",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Viagem",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Trabalho",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Leitura",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Escrita",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Argumentação",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Registro",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Retórica",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "C2",
+      "tema": "Conteúdo infantil",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Fundamentos",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 2,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Tempos verbais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Perguntas e negativas",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Artigos e substantivos",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Pronomes",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Quantidade",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Tempo e lugar",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Modais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Condicionais",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Passiva",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Discurso indireto",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Conectores",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Phrasal verbs",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Collocations",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Idioms",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Pronúncia",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Fala conectada",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Conversação cotidiana",
+      "quantidade_unidades": 1,
+      "quantidade_fontes": 1,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Viagem",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Trabalho",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Leitura",
+      "quantidade_unidades": 2,
+      "quantidade_fontes": 2,
+      "situacao": "Muito limitado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Escrita",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Argumentação",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Registro",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Retórica",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    },
+    {
+      "nivel": "KIDS",
+      "tema": "Conteúdo infantil",
+      "quantidade_unidades": 0,
+      "quantidade_fontes": 0,
+      "situacao": "Não iniciado"
+    }
+  ],
+  "principais_lacunas": [
+    "A1 — Verbos",
+    "A1 — Vocabulário",
+    "A1 — Conversação",
+    "A1 — Pronúncia",
+    "A1 — Escuta",
+    "A1 — Leitura",
+    "A1 — Escrita",
+    "A1 — Inglês profissional",
+    "A1 — Inglês acadêmico",
+    "A1 — Prática e revisão",
+    "A2 — Conversação",
+    "A2 — Pronúncia",
+    "A2 — Escuta",
+    "A2 — Leitura",
+    "A2 — Escrita",
+    "A2 — Inglês profissional",
+    "A2 — Inglês acadêmico",
+    "A2 — Prática e revisão",
+    "B1 — Leitura",
+    "B1 — Escrita",
+    "B1 — Inglês profissional",
+    "B1 — Inglês acadêmico",
+    "B1 — Prática e revisão",
+    "B2 — Verbos",
+    "B2 — Vocabulário",
+    "B2 — Conversação",
+    "B2 — Escuta",
+    "B2 — Leitura",
+    "B2 — Escrita",
+    "B2 — Inglês profissional",
+    "B2 — Prática e revisão",
+    "C1 — Verbos",
+    "C1 — Vocabulário",
+    "C1 — Conversação",
+    "C1 — Pronúncia",
+    "C1 — Escuta",
+    "C1 — Leitura",
+    "C1 — Escrita",
+    "C1 — Inglês profissional",
+    "C1 — Inglês acadêmico",
+    "C1 — Prática e revisão",
+    "C2 — Gramática",
+    "C2 — Verbos",
+    "C2 — Vocabulário",
+    "C2 — Conversação",
+    "C2 — Pronúncia",
+    "C2 — Escuta",
+    "C2 — Leitura",
+    "C2 — Escrita",
+    "C2 — Inglês profissional",
+    "C2 — Inglês acadêmico",
+    "C2 — Prática e revisão",
+    "KIDS — Gramática",
+    "KIDS — Verbos",
+    "KIDS — Vocabulário",
+    "KIDS — Conversação",
+    "KIDS — Pronúncia",
+    "KIDS — Escuta",
+    "KIDS — Leitura",
+    "KIDS — Escrita",
+    "KIDS — Inglês profissional",
+    "KIDS — Inglês acadêmico",
+    "KIDS — Prática e revisão"
+  ],
+  "fontes_candidatas": [
+    "1202_01_American_English_Pronunciation_Rachels.md",
+    "1252_06_Practice_Makes_Perfect_English_Conversation,_Premium_Fourth_Edition.md",
+    "1278_03_English_Pronunciation_in_Use_Elementary.md",
+    "1402_01_English_for_Everyone_Business_English_Course_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+    "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md"
+  ],
+  "versao": "012",
+  "lacunas_reduzidas": [
+    "Kids ativado com cinco unidades e CEFR",
+    "C2 ativado com duas unidades justificadas",
+    "Escuta, leitura, escrita e inglês profissional ampliados"
+  ],
+  "lacunas_abertas": [
+    "Ampliar produção escrita",
+    "Diversificar leitura longa",
+    "Aumentar prática profissional",
+    "Expandir C2 e Kids somente com nova evidência"
+  ],
+  "novas_fontes": [
+    "0541_HAVE_Sentido_09_JANTAR.md",
+    "0542_HAVE_Sentido_10_CEIA.md",
+    "0543_HAVE_Sentido_11_SENTIR.md",
+    "0544_HAVE_Sentido_12_ESTAR_COM.md",
+    "0545_HAVE_Sentido_13_PRECISAR.md",
+    "0546_HAVE_Sentido_14_TER_QUE.md",
+    "0547_HAVE_Sentido_15_RECEBER.md",
+    "0548_HAVE_Sentido_16_PASSAR_POR.md",
+    "0549_HAVE_Sentido_17_FAZER.md",
+    "0550_HEAR_Sentido_01_OUVIR.md",
+    "0551_HELP_Sentido_01_AJUDAR.md",
+    "0552_HOLD_Sentido_01_SEGURAR___REALIZAR.md",
+    "0553_IMAGINE_Sentido_01_IMAGINAR.md",
+    "0554_IMG_5716.md",
+    "0555_INCLUDE_Sentido_01_INCLUIR.md",
+    "0556_index.md",
+    "0557_input1a.md",
+    "0558_input1a_S001.md",
+    "0559_input1aa.md",
+    "0560_input1aa_S001.md",
+    "0561_input1b.md",
+    "0562_input1b_S001.md",
+    "0563_input1bb.md",
+    "0564_input1bb_S001.md",
+    "0565_input1c.md",
+    "0566_input1c_S001.md",
+    "0567_input1cc.md",
+    "0568_input1cc_S001.md",
+    "0569_input1d.md",
+    "0570_input1d_S001.md",
+    "0571_input1dd.md",
+    "0572_input1dd_S001.md",
+    "0573_input1e.md",
+    "0574_input1e_S001.md",
+    "0575_input1ee.md",
+    "0576_input1ee_S001.md",
+    "0577_input2a.md",
+    "0578_input2a_S001.md",
+    "0579_input2b.md",
+    "0580_input2b_S001.md",
+    "0581_input2c.md",
+    "0582_input2c_S001.md",
+    "0583_input3a.md",
+    "0584_input3a_S001.md",
+    "0585_input3b.md",
+    "0586_input3b_S001.md",
+    "0587_input3c.md",
+    "0588_input3c_S001.md",
+    "0589_input4a.md",
+    "0590_input4a_S001.md",
+    "0591_input4b.md",
+    "0592_input4b_S001.md",
+    "0593_input4c.md",
+    "0594_input4c_S001.md",
+    "0595_input4d.md",
+    "0596_input4d_S001.md",
+    "0597_JOIN_Sentido_01_ENTRAR___PARTICIPAR.md",
+    "0598_jornada_completa.md",
+    "0599_KEEP_Sentido_01_GUARDAR_MANTER_CONTINUAR.md",
+    "0600_KNOW_Sentido_01_SABER.md",
+    "1504_01_Kid's_Box_New_Generation_Level_3_Student's_Book_with_eBook_American_English.md",
+    "1506_02_Kid's_Box_American_English_4_-_Student's_Book_-_Updated_Second_Edition.md",
+    "1508_03_Grammar_For_Young_Learners.md",
+    "1510_04_English_for_Everyone_Junior_Beginner's_Course.md",
+    "1513_livro01_17.md",
+    "1431_01_Objective_Proficiency_Student's_Book_with_Answers_with_Downloadable_Software.md",
+    "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md",
+    "1435_03_Grammar_and_Vocabulary_for_Advanced_Book_with_Answers.md",
+    "1437_04_Advanced_Language_Practice_with_Key_-_MIchael_Vince.md",
+    "1439_05_Complete_Advanced_Student's_Book_with_Answers_with_Digital_Pack.md",
+    "1329_All_Ears_English___2519_-_Não_leve_ao_pé_da_letra!_Quatro_novas_expressões_em_inglês.md",
+    "1330_All_Ears_English___2630_-_Não_tem_coragem_de_fazer_isso__O_que_dizer_em_inglês.md",
+    "1332_All_Ears_English___AEE_-_Will_Learning_Another_Language_Ruin_Your_English_.md",
+    "1335_Aprenda_Inglês_com_Kendry___Aprenda_Inglês_com_Trechos_de_Filmes___Frases_Reais.md",
+    "1340_canal-daily-american-english.md",
+    "1406_03_English_for_Everyone_Course_Book_Level_3_Intermediate_A_Complete_Self-Study_Programme.md",
+    "1408_04_English_for_Everyone_Practice_Book_Level_4_Advanced_A_Complete_Self-Study_Programme.md"
+  ],
+  "situacao_c2": "2 unidades com justificativa obrigatória",
+  "situacao_kids": "5 unidades infantis com nivel_cefr"
+}

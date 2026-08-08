@@ -1,0 +1,131 @@
+{
+  "total": 25,
+  "aprovados": 25,
+  "resultados": [
+    {
+      "teste": "JSONs obrigatórios válidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "100 sequenciais completos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "12 dirigidas únicas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "auditoria do lote 013 completa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "canônicas sem unidade justificadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "procedências anexadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs de unidade únicos",
+      "resultado": "APROVADO",
+      "detalhe": "793"
+    },
+    {
+      "teste": "IDs de atividade únicos",
+      "resultado": "APROVADO",
+      "detalhe": "1958"
+    },
+    {
+      "teste": "nenhuma unidade vazia",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "nenhum exemplo L14 exato duplicado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "painéis válidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "95 subpainéis mantidos",
+      "resultado": "APROVADO",
+      "detalhe": "95"
+    },
+    {
+      "teste": "subpainéis novos usam agrupamentos existentes",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "pré-requisitos sem autorreferência",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "jornada estável",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sete níveis na jornada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "atividades novas auditadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "atividades novas inequívocas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem completar lacuna",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Kids com CEFR",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "C2 com justificativa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "hashes das fontes preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "mapa reflete revisão",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "antecipadas não reprocessadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "progresso automático único",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

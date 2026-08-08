@@ -1,0 +1,146 @@
+{
+  "total": 28,
+  "aprovados": 28,
+  "resultados": [
+    {
+      "teste": "100 sequenciais",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "12 dirigidas únicas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "0781 consolidada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs unidades únicos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs atividades únicos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "unidades não vazias",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "fontes páginas seções",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "painéis válidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "95 subpainéis preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "subpainéis das novas válidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Kids CEFR",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "C2 justificado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "pré-requisitos existentes",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem autorreferência",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "jornada cobertura completa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "complementares justificadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs anteriores preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem órfãos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem repetidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "localStorage estável",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "base de atividades preservada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "atividades inelegíveis justificadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "atividades elegíveis inequívocas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem lacuna trivial",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem exemplo L15 exato repetido",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "hashes preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "mapa reflete revisão",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "progresso automático único",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

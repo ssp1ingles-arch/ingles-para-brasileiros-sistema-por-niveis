@@ -1,0 +1,270 @@
+{
+  "lote": "013",
+  "antes": 108,
+  "depois": 91,
+  "subpaineis_removidos": 17,
+  "estado_final_apos_novas_habilidades": 95,
+  "escopo": "subpainéis introduzidos no lote 012",
+  "decisoes": [
+    {
+      "unidade": "A2-L12-0559-01",
+      "painel": "a2-gramatica",
+      "subpainel_anterior": "passado de be em contexto",
+      "id_anterior": "a2-gramatica--passado-de-be-em-contexto",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "id_destino": "a2-gramatica--fundamentos-e-ampliacao-gramatical",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "A2-L12-0563-01",
+      "painel": "a2-conversacao",
+      "subpainel_anterior": "can't wait — expectativa",
+      "id_anterior": "a2-conversacao--can-t-wait-expectativa",
+      "subpainel_destino": "Expressões e diálogos cotidianos",
+      "id_destino": "a2-conversacao--expressoes-e-dialogos-cotidianos",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "A2-L12-0567-01",
+      "painel": "a2-gramatica",
+      "subpainel_anterior": "should para conselhos pessoais",
+      "id_anterior": "a2-gramatica--should-para-conselhos-pessoais",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "id_destino": "a2-gramatica--fundamentos-e-ampliacao-gramatical",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "A2-L12-0571-01",
+      "painel": "a2-conversacao",
+      "subpainel_anterior": "I'd like — pedidos e desejos",
+      "id_anterior": "a2-conversacao--i-d-like-pedidos-e-desejos",
+      "subpainel_destino": "Expressões e diálogos cotidianos",
+      "id_destino": "a2-conversacao--expressoes-e-dialogos-cotidianos",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "A2-L12-0575-01",
+      "painel": "a2-conversacao",
+      "subpainel_anterior": "May I...? — pedir permissão",
+      "id_anterior": "a2-conversacao--may-i-pedir-permissao",
+      "subpainel_destino": "Expressões e diálogos cotidianos",
+      "id_destino": "a2-conversacao--expressoes-e-dialogos-cotidianos",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "A2-L12-0579-01",
+      "painel": "a2-gramatica",
+      "subpainel_anterior": "simple: presente, passado e futuro",
+      "id_anterior": "a2-gramatica--simple-presente-passado-e-futuro",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "id_destino": "a2-gramatica--fundamentos-e-ampliacao-gramatical",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "B1-L12-0577-01",
+      "painel": "b1-gramatica",
+      "subpainel_anterior": "continuous: presente, passado e futuro",
+      "id_anterior": "b1-gramatica--continuous-presente-passado-e-futuro",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "id_destino": "b1-gramatica--fundamentos-e-ampliacao-gramatical",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "B1-L12-0581-01",
+      "painel": "b1-gramatica",
+      "subpainel_anterior": "perfect: presente, passado e futuro",
+      "id_anterior": "b1-gramatica--perfect-presente-passado-e-futuro",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "id_destino": "b1-gramatica--fundamentos-e-ampliacao-gramatical",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "B1-L12-0589-01",
+      "painel": "b1-conversacao",
+      "subpainel_anterior": "respostas básicas e naturais em conversa",
+      "id_anterior": "b1-conversacao--respostas-basicas-e-naturais-em-conversa",
+      "subpainel_destino": "Interação e prática integrada",
+      "id_destino": "b1-conversacao--interacao-e-pratica-integrada",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "B1-L12-1329-01",
+      "painel": "b1-escuta",
+      "subpainel_anterior": "transcrição: contar uma história e expressões",
+      "id_anterior": "b1-escuta--transcricao-contar-uma-historia-e-expressoes",
+      "subpainel_destino": "Compreensão oral por transcrições",
+      "id_destino": "b1-escuta--compreensao-oral-por-transcricoes",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "B1-L12-1330-01",
+      "painel": "b1-escuta",
+      "subpainel_anterior": "transcrição: iniciar conversa naturalmente",
+      "id_anterior": "b1-escuta--transcricao-iniciar-conversa-naturalmente",
+      "subpainel_destino": "Compreensão oral por transcrições",
+      "id_destino": "b1-escuta--compreensao-oral-por-transcricoes",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "B1-L12-1335-01",
+      "painel": "b1-escuta",
+      "subpainel_anterior": "transcrição de filme: reconstruir uma história",
+      "id_anterior": "b1-escuta--transcricao-de-filme-reconstruir-uma-historia",
+      "subpainel_destino": "Compreensão oral por transcrições",
+      "id_destino": "b1-escuta--compreensao-oral-por-transcricoes",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "B1-L12-1340-01",
+      "painel": "b1-escuta",
+      "subpainel_anterior": "transcrição: meeting someone e seeing anyone",
+      "id_anterior": "b1-escuta--transcricao-meeting-someone-e-seeing-anyone",
+      "subpainel_destino": "Compreensão oral por transcrições",
+      "id_destino": "b1-escuta--compreensao-oral-por-transcricoes",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "B1-L12-1406-01",
+      "painel": "b1-ingles-profissional",
+      "subpainel_anterior": "reuniões, conversa e storytelling profissional",
+      "id_anterior": "b1-ingles-profissional--reunioes-conversa-e-storytelling-profissional",
+      "subpainel_destino": "Comunicação profissional integrada",
+      "id_destino": "b1-ingles-profissional--comunicacao-profissional-integrada",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "B2-L12-1332-01",
+      "painel": "b2-escuta",
+      "subpainel_anterior": "transcrição: aprendizagem e conexão intercultural",
+      "id_anterior": "b2-escuta--transcricao-aprendizagem-e-conexao-intercultural",
+      "subpainel_destino": "Compreensão oral por transcrições",
+      "id_destino": "b2-escuta--compreensao-oral-por-transcricoes",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "C1-L12-1433-01",
+      "painel": "c1-gramatica",
+      "subpainel_anterior": "aspecto verbal e efeitos pragmáticos avançados",
+      "id_anterior": "c1-gramatica--aspecto-verbal-e-efeitos-pragmaticos-avancados",
+      "subpainel_destino": "Gramática avançada integrada",
+      "id_destino": "c1-gramatica--gramatica-avancada-integrada",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "C1-L12-1435-01",
+      "painel": "c1-gramatica",
+      "subpainel_anterior": "colocações, idioms e vocabulário avançado",
+      "id_anterior": "c1-gramatica--colocacoes-idioms-e-vocabulario-avancado",
+      "subpainel_destino": "Gramática avançada integrada",
+      "id_destino": "c1-gramatica--gramatica-avancada-integrada",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "C1-L12-1439-01",
+      "painel": "c1-escrita",
+      "subpainel_anterior": "escrita avançada e linguagem idiomática",
+      "id_anterior": "c1-escrita--escrita-avancada-e-linguagem-idiomatica",
+      "subpainel_destino": "Escrita avançada e controle de registro",
+      "id_destino": "c1-escrita--escrita-avancada-e-controle-de-registro",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "C1-L12-1408-01",
+      "painel": "c1-ingles-profissional",
+      "subpainel_anterior": "currículo, carta de apresentação e idioms profissionais",
+      "id_anterior": "c1-ingles-profissional--curriculo-carta-de-apresentacao-e-idioms-profissionais",
+      "subpainel_destino": "Comunicação profissional avançada",
+      "id_destino": "c1-ingles-profissional--comunicacao-profissional-avancada",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "C2-L12-1431-01",
+      "painel": "c2-ingles-academico",
+      "subpainel_anterior": "reformulação, síntese e idiomaticidade de proficiência",
+      "id_anterior": "c2-ingles-academico--reformulacao-sintese-e-idiomaticidade-de-proficiencia",
+      "subpainel_destino": "Síntese e proficiência acadêmica",
+      "id_destino": "c2-ingles-academico--sintese-e-proficiencia-academica",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "C2-L12-1437-01",
+      "painel": "c2-escrita",
+      "subpainel_anterior": "transferência de registro e linguagem idiomática",
+      "id_anterior": "c2-escrita--transferencia-de-registro-e-linguagem-idiomatica",
+      "subpainel_destino": "Estilo, registro e reformulação",
+      "id_destino": "c2-escrita--estilo-registro-e-reformulacao",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "KIDS-L12-1504-01",
+      "painel": "kids-leitura",
+      "subpainel_anterior": "história, rotina e perguntas para crianças",
+      "id_anterior": "kids-leitura--historia-rotina-e-perguntas-para-criancas",
+      "subpainel_destino": "Histórias e leitura infantil",
+      "id_destino": "kids-leitura--historias-e-leitura-infantil",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "KIDS-L12-1506-01",
+      "painel": "kids-gramatica",
+      "subpainel_anterior": "família e comparações para crianças",
+      "id_anterior": "kids-gramatica--familia-e-comparacoes-para-criancas",
+      "subpainel_destino": "Gramática em contexto infantil",
+      "id_destino": "kids-gramatica--gramatica-em-contexto-infantil",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "KIDS-L12-1508-01",
+      "painel": "kids-gramatica",
+      "subpainel_anterior": "gramática contextualizada para young learners",
+      "id_anterior": "kids-gramatica--gramatica-contextualizada-para-young-learners",
+      "subpainel_destino": "Gramática em contexto infantil",
+      "id_destino": "kids-gramatica--gramatica-em-contexto-infantil",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "KIDS-L12-1510-01",
+      "painel": "kids-conversacao",
+      "subpainel_anterior": "diálogos iniciais para crianças",
+      "id_anterior": "kids-conversacao--dialogos-iniciais-para-criancas",
+      "subpainel_destino": "Interação infantil",
+      "id_destino": "kids-conversacao--interacao-infantil",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    },
+    {
+      "unidade": "KIDS-L12-1513-01",
+      "painel": "kids-leitura",
+      "subpainel_anterior": "histórias e descrições infantis bilíngues",
+      "id_anterior": "kids-leitura--historias-e-descricoes-infantis-bilingues",
+      "subpainel_destino": "Histórias e leitura infantil",
+      "id_destino": "kids-leitura--historias-e-leitura-infantil",
+      "decisao": "consolidar",
+      "conteudo_alterado": false
+    }
+  ]
+}

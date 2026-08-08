@@ -1,0 +1,121 @@
+{
+  "total": 23,
+  "aprovados": 23,
+  "resultados": [
+    {
+      "teste": "100 sequenciais",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "todas duplicatas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem dirigidas justificadamente",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "duas extensas mapeadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs unidades únicos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs atividades únicos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "procedências completas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "painéis válidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Kids CEFR",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "C2 justificado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "pré-requisitos válidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Jornada fechada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs anteriores preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem órfãos/repetidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "complementares justificadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "localStorage estável",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "atividades preservadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem lacunas triviais",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "hashes preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "hash normalizado corresponde à canônica",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "mapa reflete revisão",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "progresso automático único",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

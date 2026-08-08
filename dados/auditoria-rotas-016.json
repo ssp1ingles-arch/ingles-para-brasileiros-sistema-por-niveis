@@ -1,0 +1,79 @@
+[
+  {
+    "caminho": "estudar.html",
+    "http_status": 200,
+    "titulo": "Estudar e revisar",
+    "erros_console": [],
+    "desktop_celular": true
+  },
+  {
+    "caminho": "index.html",
+    "http_status": 200,
+    "titulo": "Inglês por Níveis",
+    "erros_console": [],
+    "desktop_celular": true
+  },
+  {
+    "caminho": "jornada.html",
+    "http_status": 200,
+    "titulo": "Jornada Guiada",
+    "erros_console": [],
+    "desktop_celular": true
+  },
+  {
+    "caminho": "niveis/a1/index.html",
+    "http_status": 200,
+    "titulo": "A1 — Iniciante",
+    "erros_console": [],
+    "desktop_celular": false
+  },
+  {
+    "caminho": "niveis/a2/index.html",
+    "http_status": 200,
+    "titulo": "A2 — Básico consolidado",
+    "erros_console": [],
+    "desktop_celular": true
+  },
+  {
+    "caminho": "niveis/b1/index.html",
+    "http_status": 200,
+    "titulo": "B1 — Intermediário",
+    "erros_console": [],
+    "desktop_celular": true
+  },
+  {
+    "caminho": "niveis/b2/index.html",
+    "http_status": 200,
+    "titulo": "B2 — Intermediário avançado",
+    "erros_console": [],
+    "desktop_celular": false
+  },
+  {
+    "caminho": "niveis/c1/index.html",
+    "http_status": 200,
+    "titulo": "C1 — Avançado",
+    "erros_console": [],
+    "desktop_celular": true
+  },
+  {
+    "caminho": "niveis/c2/index.html",
+    "http_status": 200,
+    "titulo": "C2 — Proficiência",
+    "erros_console": [],
+    "desktop_celular": true
+  },
+  {
+    "caminho": "niveis/kids/index.html",
+    "http_status": 200,
+    "titulo": "Kids — Trilha infantil",
+    "erros_console": [],
+    "desktop_celular": true
+  },
+  {
+    "caminho": "praticar.html",
+    "http_status": 200,
+    "titulo": "Praticar",
+    "erros_console": [],
+    "desktop_celular": true
+  }
+]

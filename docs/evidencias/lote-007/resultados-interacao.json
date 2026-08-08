@@ -1,0 +1,147 @@
+{
+  "gerado_em": "2026-08-07T22:39:43.986Z",
+  "total": 28,
+  "aprovados": 28,
+  "resultados": [
+    {
+      "teste": "abrir subpainel",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "aria-expanded aberto",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "região controlada visível",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "fechar subpainel",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "aria-expanded fechado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "persistência do recolhível",
+      "resultado": "APROVADO",
+      "detalhe": "a2-gramatica|Artigos e substantivos"
+    },
+    {
+      "teste": "busca encontra unidade",
+      "resultado": "APROVADO",
+      "detalhe": "Quando não usar A/AN"
+    },
+    {
+      "teste": "busca abre grupo",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "limpar busca restaura interface",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "filtro por habilidade principal",
+      "resultado": "APROVADO",
+      "detalhe": "107 unidades"
+    },
+    {
+      "teste": "contagens após filtro",
+      "resultado": "APROVADO",
+      "detalhe": "107/107"
+    },
+    {
+      "teste": "combinar nível painel habilidade",
+      "resultado": "APROVADO",
+      "detalhe": "a2-verbos"
+    },
+    {
+      "teste": "grupos vazios desaparecem",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "filtro inclui habilidade secundária",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "favorito persiste após recarga",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "conclusão persiste",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "progresso atualizado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "remover favorito",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "primeira unidade sem anterior",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "última unidade sem próxima",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "próxima respeita filtro",
+      "resultado": "APROVADO",
+      "detalhe": "107 resultados"
+    },
+    {
+      "teste": "anterior respeita filtro",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "teclado Enter alterna subpainel",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "teclado Espaço alterna subpainel",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "aria-controls associado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "foco visível",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "interativos acessíveis",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "mobile sem rolagem horizontal",
+      "resultado": "APROVADO",
+      "detalhe": "390px"
+    }
+  ]
+}

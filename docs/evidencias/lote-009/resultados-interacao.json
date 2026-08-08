@@ -1,0 +1,352 @@
+{
+  "gerado_em": "2026-08-08T11:57:03.774Z",
+  "total": 69,
+  "aprovados": 69,
+  "resultados": [
+    {
+      "teste": "abrir subpainel",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "aria-expanded aberto",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "região controlada visível",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "fechar subpainel",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "aria-expanded fechado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "persistência do recolhível",
+      "resultado": "APROVADO",
+      "detalhe": "a2-gramatica|Artigos e substantivos"
+    },
+    {
+      "teste": "busca encontra unidade",
+      "resultado": "APROVADO",
+      "detalhe": "Quando não usar A/AN"
+    },
+    {
+      "teste": "busca abre grupo",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "limpar busca restaura interface",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "filtro por habilidade principal",
+      "resultado": "APROVADO",
+      "detalhe": "166 unidades"
+    },
+    {
+      "teste": "contagens após filtro",
+      "resultado": "APROVADO",
+      "detalhe": "166/166"
+    },
+    {
+      "teste": "combinar nível painel habilidade",
+      "resultado": "APROVADO",
+      "detalhe": "a2-verbos"
+    },
+    {
+      "teste": "grupos vazios desaparecem",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "filtro inclui habilidade secundária",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "favorito persiste após recarga",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "conclusão persiste",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "progresso atualizado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "remover favorito",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "primeira unidade sem anterior",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "última unidade sem próxima",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "próxima respeita filtro",
+      "resultado": "APROVADO",
+      "detalhe": "166 resultados"
+    },
+    {
+      "teste": "anterior respeita filtro",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "teclado Enter alterna subpainel",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "teclado Espaço alterna subpainel",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "aria-controls associado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "foco visível",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "interativos acessíveis",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "mobile sem rolagem horizontal",
+      "resultado": "APROVADO",
+      "detalhe": "390px"
+    },
+    {
+      "teste": "abrir modo de estudo",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "criar sessão filtrada por nível",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sessão iniciada em A2",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "revelar cartão",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "marcar Repetir",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "confirmar reapresentação agendada",
+      "resultado": "APROVADO",
+      "detalhe": "Quando não usar A/AN"
+    },
+    {
+      "teste": "marcar Difícil",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "próxima revisão Difícil",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "marcar Bom",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "marcar Fácil",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "persistência após recarga",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "encerrar e retomar sessão",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "modo inglês para português",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "modo português para inglês elegível",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "unidades sem par excluídas",
+      "resultado": "APROVADO",
+      "detalhe": "770/777"
+    },
+    {
+      "teste": "abrir unidade completa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "progresso da sessão",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "teclado no modo estudo",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "foco no modo estudo",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "modo estudo em celular",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "abrir jornada.html",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "selecionar A1",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "abrir e fechar etapa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "abrir e fechar módulo",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "contagens da jornada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "estado de progresso",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "continuar jornada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "unidade recomendada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "marcar unidade concluída",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "atualização após voltar",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "pré-requisito pendente",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "unidade pendente acessível",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "revisar etapa abre estudo",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "filtro da etapa integrado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "persistência da jornada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "jornada em celular",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "teclado da jornada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "foco da jornada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "primeiro e último módulo",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "C2 ativado somente com conteúdo legítimo",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "compatibilidade busca e filtros",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

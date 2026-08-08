@@ -1,0 +1,311 @@
+[
+  {
+    "id": "C2-L12-1431-01",
+    "titulo": "reformulação, síntese e idiomaticidade de proficiência",
+    "nivel": "C2",
+    "nivel_secundario": "C2",
+    "tema": "reformulação, síntese e idiomaticidade de proficiência",
+    "subpainel": "Síntese e proficiência acadêmica",
+    "habilidade_principal": "Inglês acadêmico",
+    "habilidades_secundarias": [
+      "Escrita"
+    ],
+    "habilidades": [
+      "Inglês acadêmico",
+      "Escrita"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de reformulação, síntese e idiomaticidade de proficiência sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Summarising ideas",
+      "Reformulation clauses",
+      "Adjectives and idioms"
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1431_01_Objective_Proficiency_Student's_Book_with_Answers_with_Downloadable_Software.md",
+      "arquivo_original": "01_Objective Proficiency Student's Book with Answers with Downloadable Software.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1431_01_Objective_Proficiency_Student's_Book_with_Answers_with_Downloadable_Software.md",
+        "arquivo_original": "01_Objective Proficiency Student's Book with Answers with Downloadable Software.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      },
+      {
+        "arquivo": "1432_01_Objective_Proficiency_Student's_Book_with_Answers_with_Downloadable_Software_2.md",
+        "arquivo_original": "01_Objective Proficiency Student's Book with Answers with Downloadable Software.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata dirigida de 1431"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Tarefas explícitas de proficiência e escrita avançada sustentam C2.",
+    "justificativa_c2": "Material de Objective Proficiency exige síntese, reformulação, idiomaticidade e controle de registro em nível C2.",
+    "paineis": [
+      "c2-ingles-academico"
+    ],
+    "ordem_global": 814,
+    "ordem_nivel": 1,
+    "ordem_pedagogica": 1,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "C2-L12-1437-01",
+    "titulo": "transferência de registro e linguagem idiomática",
+    "nivel": "C2",
+    "nivel_secundario": "C2",
+    "tema": "transferência de registro e linguagem idiomática",
+    "subpainel": "Estilo, registro e reformulação",
+    "habilidade_principal": "Escrita",
+    "habilidades_secundarias": [
+      "Gramática"
+    ],
+    "habilidades": [
+      "Escrita",
+      "Gramática"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de transferência de registro e linguagem idiomática sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "formal/informal register transfer task",
+      "idiomatic phrases",
+      "written in a 'telegram' style"
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1437_04_Advanced_Language_Practice_with_Key_-_MIchael_Vince.md",
+      "arquivo_original": "04_Advanced Language Practice with Key - MIchael Vince.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1437_04_Advanced_Language_Practice_with_Key_-_MIchael_Vince.md",
+        "arquivo_original": "04_Advanced Language Practice with Key - MIchael Vince.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      },
+      {
+        "arquivo": "1438_04_Advanced_Language_Practice_with_Key_-_MIchael_Vince_2.md",
+        "arquivo_original": "04_Advanced Language Practice with Key - MIchael Vince.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata dirigida de 1437"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Transferência de registro e estilo com idiomaticidade avançada sustentam C2.",
+    "justificativa_c2": "A fonte exige transformação formal/informal, controle estilístico e idiomaticidade, evidências diretas de C2.",
+    "paineis": [
+      "c2-escrita"
+    ],
+    "ordem_global": 815,
+    "ordem_nivel": 2,
+    "ordem_pedagogica": 2,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "C2-L13-1445-01",
+    "titulo": "reativação lexical e gramatical para exames C1–C2",
+    "nivel": "C2",
+    "nivel_secundario": "C2",
+    "tema": "reativação lexical e gramatical para exames C1–C2",
+    "subpainel": "Proficiência, precisão e exames",
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [
+      "Vocabulário",
+      "Escrita"
+    ],
+    "habilidades": [
+      "Gramática",
+      "Vocabulário",
+      "Escrita"
+    ],
+    "tipo": "prática integrada baseada em fonte",
+    "explicacao_pt": "A unidade integra reativação lexical e gramatical para exames C1–C2 com tarefas verificáveis, sem reproduzir o livro inteiro em um único painel.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Reformulate without changing meaning.",
+      "Choose the collocation that fits the register.",
+      "Edit for precision, cohesion and style."
+    ],
+    "traducoes": [
+      "Produção e compreensão com autorrevisão contextual.",
+      "Produção e compreensão com autorrevisão contextual.",
+      "Produção e compreensão com autorrevisão contextual."
+    ],
+    "origem_traducoes": "editorial identificada",
+    "observacao_uso": "Todas as fontes foram lidas; apenas evidência representativa é renderizada para evitar um livro inteiro em um painel.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1445_08_Reactivate_Your_Grammar_And_Vocabulary_C1C2_-_Exams.md",
+      "arquivo_original": "08_Reactivate Your Grammar And Vocabulary C1C2 - Exams.md",
+      "pagina": "texto integral extraído para Markdown",
+      "secao": "conteúdo integral dirigido e consolidado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1445_08_Reactivate_Your_Grammar_And_Vocabulary_C1C2_-_Exams.md",
+        "arquivo_original": "08_Reactivate Your Grammar And Vocabulary C1C2 - Exams.md",
+        "pagina": "texto integral extraído para Markdown",
+        "secao": "conteúdo integral dirigido e consolidado"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Reformulação, colocações, registro e edição fina fornecem evidência direta de proficiência C2.",
+    "justificativa_c2": "Reformulação, colocações, registro e edição fina fornecem evidência direta de proficiência C2.",
+    "paineis": [
+      "c2-gramatica"
+    ],
+    "ordem_global": 816,
+    "ordem_nivel": 3,
+    "ordem_pedagogica": 3,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "C2-L13-1468-01",
+    "titulo": "leitura e produção integrada em nível C2",
+    "nivel": "C2",
+    "nivel_secundario": "C2",
+    "tema": "leitura e produção integrada em nível C2",
+    "subpainel": "Leitura crítica e resposta de proficiência",
+    "habilidade_principal": "Leitura",
+    "habilidades_secundarias": [
+      "Escrita"
+    ],
+    "habilidades": [
+      "Leitura",
+      "Escrita"
+    ],
+    "tipo": "prática integrada baseada em fonte",
+    "explicacao_pt": "A unidade integra leitura e produção integrada em nível C2 com tarefas verificáveis, sem reproduzir o livro inteiro em um único painel.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Infer the writer’s stance from subtle cues.",
+      "Evaluate how register shapes the argument.",
+      "Write a concise response preserving nuance."
+    ],
+    "traducoes": [
+      "Produção e compreensão com autorrevisão contextual.",
+      "Produção e compreensão com autorrevisão contextual.",
+      "Produção e compreensão com autorrevisão contextual."
+    ],
+    "origem_traducoes": "editorial identificada",
+    "observacao_uso": "Todas as fontes foram lidas; apenas evidência representativa é renderizada para evitar um livro inteiro em um painel.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1468_06_Close-up_-_1st_-_C2_Workbook.md",
+      "arquivo_original": "06_Close-up - 1st - C2 Workbook.md",
+      "pagina": "texto integral extraído para Markdown",
+      "secao": "conteúdo integral dirigido e consolidado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1468_06_Close-up_-_1st_-_C2_Workbook.md",
+        "arquivo_original": "06_Close-up - 1st - C2 Workbook.md",
+        "pagina": "texto integral extraído para Markdown",
+        "secao": "conteúdo integral dirigido e consolidado"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Inferência de nuance, avaliação de registro e resposta integrada sustentam C2.",
+    "justificativa_c2": "Inferência de nuance, avaliação de registro e resposta integrada sustentam C2.",
+    "paineis": [
+      "c2-leitura"
+    ],
+    "ordem_global": 817,
+    "ordem_nivel": 4,
+    "ordem_pedagogica": 4,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "C2-L14-1462-01",
+    "titulo": "gramática e vocabulário para proficiência",
+    "nivel": "C2",
+    "nivel_secundario": "C2",
+    "tema": "gramática e vocabulário para proficiência",
+    "subpainel": "Proficiência, precisão e exames",
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [
+      "Vocabulário"
+    ],
+    "habilidades": [
+      "Gramática",
+      "Vocabulário"
+    ],
+    "tipo": "prática integrada baseada em fonte extensa",
+    "explicacao_pt": "A unidade seleciona uma função verificável de gramática e vocabulário para proficiência; o livro não é despejado integralmente em um painel.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Reformulate the sentence while preserving nuance.",
+      "Select the collocation appropriate to the register.",
+      "Edit the response for precision, cohesion and style."
+    ],
+    "traducoes": [
+      "Tarefa de produção ou revisão com autorrevisão.",
+      "Tarefa de produção ou revisão com autorrevisão.",
+      "Tarefa de produção ou revisão com autorrevisão."
+    ],
+    "origem_traducoes": "editorial identificada",
+    "observacao_uso": "Fonte lida integralmente; evidência representativa preservada.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1462_03_Grammar_and_Vocabulary_for_Cambridge_Advanced_and_Proficiency.md",
+      "arquivo_original": "03_Grammar and Vocabulary for Cambridge Advanced and Proficiency.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "recorte funcional de fonte extensa lida integralmente"
+    },
+    "fontes": [
+      {
+        "arquivo": "1462_03_Grammar_and_Vocabulary_for_Cambridge_Advanced_and_Proficiency.md",
+        "arquivo_original": "03_Grammar and Vocabulary for Cambridge Advanced and Proficiency.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "recorte funcional de fonte extensa lida integralmente"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Reformulação, registro, nuance e edição fina demonstram proficiência C2.",
+    "justificativa_c2": "Reformulação, registro, nuance e edição fina demonstram proficiência C2.",
+    "paineis": [
+      "c2-gramatica"
+    ],
+    "ordem_global": 818,
+    "ordem_nivel": 5,
+    "ordem_pedagogica": 5,
+    "ordem_painel": 2,
+    "ordem_subpainel": 2
+  }
+]

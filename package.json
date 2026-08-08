@@ -1,0 +1,12 @@
+{
+  "name": "ingles-para-brasileiros-sistema-por-niveis",
+  "private": true,
+  "scripts": {
+    "test:interface": "node scripts/testar-interface.mjs",
+    "evidence:lote-007": "node scripts/capturar-evidencias-007.mjs",
+    "evidence:lote-008": "node scripts/capturar-evidencias-008.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "1.62.1"
+  }
+}

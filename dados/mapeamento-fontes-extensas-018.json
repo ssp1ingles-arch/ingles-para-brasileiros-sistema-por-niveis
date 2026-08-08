@@ -1,0 +1,469 @@
+{
+  "lote": "018",
+  "fontes": [
+    {
+      "numero": 1096,
+      "fonte": "1096_estruturas-fixas.md",
+      "leitura_integral": true,
+      "caracteres": 27936,
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Estruturas *Fixas*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Estruturas fixas: oito blocos HOW/WHAT/IT/TIME/OPINION/POLITE/COMPARISON/CAUSE, consolidados nas unidades atômicas existentes."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Estruturas Fixas · chunks que montam a frase",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Estruturas fixas: oito blocos HOW/WHAT/IT/TIME/OPINION/POLITE/COMPARISON/CAUSE, consolidados nas unidades atômicas existentes."
+        }
+      ]
+    },
+    {
+      "numero": 1097,
+      "fonte": "1097_in-on-at-e-quantificadores.md",
+      "leitura_integral": true,
+      "caracteres": 17261,
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "*In*, *on*, *at* e os quantificadores",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Onde a coisa está",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Quando a coisa acontece",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 4,
+          "titulo": "Dentro do carro, em cima do ônibus",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 5,
+          "titulo": "A pirâmide invertida: do amplo ao exato",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 6,
+          "titulo": "Os usos completos de *at*, *in* e *on*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 7,
+          "titulo": "O que está acontecendo agora",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 8,
+          "titulo": "*Some*, *many*, *few*, *little*, *each*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 9,
+          "titulo": "*Very*, *too*, *enough* — e a linha do problema",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 10,
+          "titulo": "Entrar, sair, encostar e buscar alguém",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 11,
+          "titulo": "Hotel, reserva e passeio — a palavra certa",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 12,
+          "titulo": "Pares que o português junta e o inglês separa",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 13,
+          "titulo": "Cinco palavras para \"velho\"",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        },
+        {
+          "ordem": 14,
+          "titulo": "Descrever a estrada · e a palavra *vocation*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica."
+        }
+      ]
+    },
+    {
+      "numero": 1099,
+      "fonte": "1099_ingles-do-zero.md",
+      "leitura_integral": true,
+      "caracteres": 10586,
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "SISTEMA 06 — INGLÊS DO ZERO: VERBOS, TEMPOS E FRASES REAIS A1→A2",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Percurso introdutório de inglês do zero; conteúdo distribuído entre fundamentos existentes."
+        },
+        {
+          "ordem": 2,
+          "titulo": "ESTRUTURA — 5 MÓDULOS",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Percurso introdutório de inglês do zero; conteúdo distribuído entre fundamentos existentes."
+        },
+        {
+          "ordem": 3,
+          "titulo": "CONTEÚDO PRINCIPAL",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Percurso introdutório de inglês do zero; conteúdo distribuído entre fundamentos existentes."
+        },
+        {
+          "ordem": 4,
+          "titulo": "MÓDULO 1 — TEMPOS VERBAIS: 3 TEMPOS, 40 VERBOS",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Percurso introdutório de inglês do zero; conteúdo distribuído entre fundamentos existentes."
+        },
+        {
+          "ordem": 5,
+          "titulo": "MÓDULO 2 — VERBOS COM PRONOMES (A1)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Percurso introdutório de inglês do zero; conteúdo distribuído entre fundamentos existentes."
+        },
+        {
+          "ordem": 6,
+          "titulo": "MÓDULO 3 — FRASES PROGRESSIVAS A1→A2 (50 pares)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Percurso introdutório de inglês do zero; conteúdo distribuído entre fundamentos existentes."
+        },
+        {
+          "ordem": 7,
+          "titulo": "MÓDULO 4 — PREPOSIÇÕES NO CONTEXTO (A1)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Percurso introdutório de inglês do zero; conteúdo distribuído entre fundamentos existentes."
+        },
+        {
+          "ordem": 8,
+          "titulo": "MÓDULO 5 — TRANSPORTES EM INGLÊS",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Percurso introdutório de inglês do zero; conteúdo distribuído entre fundamentos existentes."
+        }
+      ]
+    },
+    {
+      "numero": 1100,
+      "fonte": "1100_preposicoes-mapas.md",
+      "leitura_integral": true,
+      "caracteres": 16082,
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Preposições em *Mapa*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados."
+        },
+        {
+          "ordem": 2,
+          "titulo": "IN, ON, AT — lugar",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados."
+        },
+        {
+          "ordem": 3,
+          "titulo": "IN, ON, AT — tempo",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados."
+        },
+        {
+          "ordem": 4,
+          "titulo": "Preposições de posição no espaço",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados."
+        },
+        {
+          "ordem": 5,
+          "titulo": "TO x FOR — o par que ninguém acerta de primeira",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados."
+        },
+        {
+          "ordem": 6,
+          "titulo": "Preposições fixas — adjetivo + preposição",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados."
+        },
+        {
+          "ordem": 7,
+          "titulo": "As preposições em bloco",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados."
+        },
+        {
+          "ordem": 8,
+          "titulo": "Quantificadores — some, any, much, many, few, little",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados."
+        },
+        {
+          "ordem": 9,
+          "titulo": "A família SOME — someone, somewhere, sometime, somehow",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados."
+        },
+        {
+          "ordem": 10,
+          "titulo": "Os pares que se confundem",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados."
+        }
+      ]
+    },
+    {
+      "numero": 1101,
+      "fonte": "1101_preposicoes-quantificadores.md",
+      "leitura_integral": true,
+      "caracteres": 37720,
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Preposições e *Quantificadores*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Compilação extensa de preposições e quantificadores, mapeada por seção."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Preposições, Quantificadores e Frequência",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "consolidar",
+          "justificativa": "Compilação extensa de preposições e quantificadores, mapeada por seção."
+        }
+      ]
+    },
+    {
+      "numero": 1120,
+      "fonte": "1120_teste-seu-nivel.md",
+      "leitura_integral": true,
+      "caracteres": 11621,
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "SISTEMA 06 — TESTE SEU NÍVEL",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 2,
+          "titulo": "ESTRUTURA DE MÓDULOS (6 NÍVEIS)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 3,
+          "titulo": "NÍVEL A1 — Iniciante (Questões 1–5)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 4,
+          "titulo": "NÍVEL A2 — Pré-Intermediário (Questões 6–10)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 5,
+          "titulo": "NÍVEL B1 — Intermediário (Questões 11–15)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 6,
+          "titulo": "NÍVEL B2 — Intermediário Superior (Questões 16–20)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 7,
+          "titulo": "NÍVEL C1 — Avançado (Questões 21–25)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 8,
+          "titulo": "NÍVEL C2 — Proficiência / Nativo (Questões 26–30)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 9,
+          "titulo": "CONTEÚDO COMPLETO — 30 QUESTÕES",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 10,
+          "titulo": "NÍVEL A1 — INICIANTE",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 11,
+          "titulo": "NÍVEL A2 — PRÉ-INTERMEDIÁRIO",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 12,
+          "titulo": "NÍVEL B1 — INTERMEDIÁRIO",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 13,
+          "titulo": "NÍVEL B2 — INTERMEDIÁRIO SUPERIOR",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 14,
+          "titulo": "NÍVEL C1 — AVANÇADO",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 15,
+          "titulo": "NÍVEL C2 — PROFICIÊNCIA",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        },
+        {
+          "ordem": 16,
+          "titulo": "TABELA DE PONTUAÇÃO",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada",
+          "destino": "unidades existentes ou descarte pedagógico documentado",
+          "decisao": "não converter teste em lição",
+          "justificativa": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis."
+        }
+      ]
+    }
+  ]
+}

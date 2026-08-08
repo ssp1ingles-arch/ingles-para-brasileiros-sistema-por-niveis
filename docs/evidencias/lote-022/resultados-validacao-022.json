@@ -1,0 +1,126 @@
+{
+  "total": 24,
+  "aprovados": 24,
+  "resultados": [
+    {
+      "teste": "intervalo 1177-1182",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "três duplicatas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "duas antecipadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "comparações integrais",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1182 201 páginas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1182 integralmente decidida",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem página útil sem destino",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "destinos existentes",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1170 fecha 1006",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1170 zero sem destino",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "1170 numeração única",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs unidades únicos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs atividades únicos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Kids CEFR",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "C2 justificado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Jornada fechada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "806 IDs preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem órfãos/repetidos",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "atividades preservadas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem exemplo exato republicado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "hashes das fontes preservados",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "localStorage estável",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "nenhuma unidade ou atividade nova",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "lote": "023",
+  "intervalo": [
+    1183,
+    1185
+  ],
+  "sequenciais": [
+    {
+      "numero": 1183,
+      "status": "duplicata consolidada",
+      "de": 1182,
+      "nome": "1183_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016)_2.md",
+      "tamanho_bytes": 190216,
+      "hash_bruto": "a44c527973b6135b728f5608165c1a608783c66bac7f29ffd684e7f368a8a9bb",
+      "hash_normalizado": "b730f776994dac82e167236f8839cffca5daa8ad6ceac605db61219c7faec90c",
+      "leitura_integral": true,
+      "secoes": 201,
+      "sem_destino_util": 0,
+      "justificativa": "Corpo integral e hash normalizado idênticos à fonte 1182; procedência preservada."
+    },
+    {
+      "numero": 1184,
+      "status": "integralmente classificada",
+      "de": null,
+      "nome": "1184_LIVRO_05_Livro_Memorização_para_aprender_idiomas_-_Marcos_da_Costa_Gois-1.md",
+      "tamanho_bytes": 199292,
+      "hash_bruto": "1801faa69dc56f31e57bc6dd086986335587bce4998d61b2a5f02f5412372d61",
+      "hash_normalizado": "ed86cd1c07a572b65e5167eb38860fa7127066dbbda24bae24421ddd1911a972",
+      "leitura_integral": true,
+      "secoes": 121,
+      "sem_destino_util": 0,
+      "justificativa": "121 seções textuais decididas; páginas úteis consolidadas e demais descartadas com motivo."
+    },
+    {
+      "numero": 1185,
+      "status": "duplicata consolidada",
+      "de": 1184,
+      "nome": "1185_LIVRO_05_Livro_Memorização_para_aprender_idiomas_-_Marcos_da_Costa_Gois-1_2.md",
+      "tamanho_bytes": 199520,
+      "hash_bruto": "eb978647ea1a62a5a6e74159453b834d8df25f9284ad777ae5a447de67287446",
+      "hash_normalizado": "ed86cd1c07a572b65e5167eb38860fa7127066dbbda24bae24421ddd1911a972",
+      "leitura_integral": true,
+      "secoes": 121,
+      "sem_destino_util": 0,
+      "justificativa": "Corpo integral e hash normalizado idênticos à fonte 1184; procedência preservada."
+    }
+  ],
+  "direcionadas": [],
+  "duplicatas": [
+    1183,
+    1185
+  ],
+  "parciais": [],
+  "inventario_seguinte": [
+    1186,
+    1187,
+    1188,
+    1189,
+    1190,
+    1191,
+    1192,
+    1193,
+    1194,
+    1195,
+    1196
+  ],
+  "validacao_intermediaria": {
+    "encerrada_em": 1184,
+    "testes": "25/25",
+    "aprovada": true
+  },
+  "observacao": "Encerrado em 1185; 1186 é a próxima obra extensa."
+}

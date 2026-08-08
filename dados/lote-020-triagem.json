@@ -1,0 +1,112 @@
+{
+  "lote": "020",
+  "sequenciais": [
+    {
+      "numero": 1163,
+      "nome": "1163_conversas-question-words.md",
+      "tamanho_bytes": 24947,
+      "hash_bruto": "f27f09b199a5e5d2da47a5507aff6c873a78cb083ab66a148b558917ba4e3a5f",
+      "hash_normalizado": "7026104a389a2023908842c3bdae9203775569d523bae493758e2367eb27b2b8",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "unidades_destino": [
+        "A2-L20-1163-01",
+        "B1-L20-1163-02"
+      ],
+      "justificativa": "Objetivos pedagógicos independentes agrupados por função, nível e registro."
+    },
+    {
+      "numero": 1164,
+      "nome": "1164_even-so-conectores.md",
+      "tamanho_bytes": 7952,
+      "hash_bruto": "2bdd85676ec1fc82b0faa403155e2ea3569ffc7b7a9dd67d69ab406aa2c59d51",
+      "hash_normalizado": "8a424652729ee8c7a8de5e07e6d0b4dd9623a2f87cb0b04c2138b9d258b6f8f9",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "unidades_destino": [
+        "B1-L20-1164-01",
+        "B2-L20-1164-02"
+      ],
+      "justificativa": "Objetivos pedagógicos independentes agrupados por função, nível e registro."
+    },
+    {
+      "numero": 1165,
+      "nome": "1165_index_5.md",
+      "tamanho_bytes": 1562,
+      "hash_bruto": "427c4f250394a3821c854ddd7accd908f6f6e9174c64dfdb1fdd003d2768c0a3",
+      "hash_normalizado": "d65abad380a1556da39220d0ecc33f2a7eca4588991185324b7a9757f02df425",
+      "leitura_integral": true,
+      "status": "sem conteúdo didático",
+      "unidades_destino": [],
+      "justificativa": "Índice de navegação; links apontam para 1162–1166."
+    },
+    {
+      "numero": 1166,
+      "nome": "1166_palavra-exata.md",
+      "tamanho_bytes": 3288,
+      "hash_bruto": "df9460174da6afe7db75d9b97d519bd1f24e63d7c3c489250528988278b2ff07",
+      "hash_normalizado": "244eefe178742afe3e2cfa4940015906e3cb831fb6b7b04e2783f5add566c643",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "unidades_destino": [
+        "B1-L20-1166-01",
+        "B2-L20-1166-02"
+      ],
+      "justificativa": "Objetivos pedagógicos independentes agrupados por função, nível e registro."
+    },
+    {
+      "numero": 1167,
+      "nome": "1167_REGRAS_5.md",
+      "tamanho_bytes": 1869,
+      "hash_bruto": "f07ade6c2441a7dfa7163c72616a9b770b7ccf97520fc5abe30b2a1f109319d3",
+      "hash_normalizado": "5637201763b03cbedb5058a17f4e2ef53e6120ab0e5f9559f3f9c0cc2e87114a",
+      "leitura_integral": true,
+      "status": "sem conteúdo didático",
+      "unidades_destino": [],
+      "justificativa": "Regras administrativas/editoriais; exemplos apenas delimitam escopo."
+    },
+    {
+      "numero": 1168,
+      "nome": "1168_expressoes-idiomaticas.md",
+      "tamanho_bytes": 10533,
+      "hash_bruto": "b7bb4c7d454c9e686ed22c9a647a101a159ab6aa59c2f7853ff6ac68c492254e",
+      "hash_normalizado": "2e133cc6902826f7b7ce8c4e6447cd2d13ba0bcd65ed47cb67ef00491b73031b",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "unidades_destino": [
+        "B1-L20-1168-01",
+        "B2-L20-1168-02"
+      ],
+      "justificativa": "Objetivos pedagógicos independentes agrupados por função, nível e registro."
+    },
+    {
+      "numero": 1169,
+      "nome": "1169_index_6.md",
+      "tamanho_bytes": 2857,
+      "hash_bruto": "1443342287f8644693698226d48c909bd957614afa12355a337c1c8b686c1c14",
+      "hash_normalizado": "2e6dbc2296ec22839a7b2886b6b2c7ac82e6678c20fc16ad08afb5c9ddd5f8d9",
+      "leitura_integral": true,
+      "status": "sem conteúdo didático",
+      "unidades_destino": [],
+      "justificativa": "Índice de livros; referências serão processadas sequencialmente."
+    },
+    {
+      "numero": 1170,
+      "nome": "1170_livro01_2.md",
+      "tamanho_bytes": 306888,
+      "hash_bruto": "b87ae97a7381dce395d5b4812c3d59075e9893672ca9a596e917ede6001d3ccf",
+      "hash_normalizado": "0a333609eb578c3dd77996a01e58abc1d4d9a25a9aa6bb526b46a9fb918aa1f8",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "unidades_destino": [
+        "B1-L20-1170-01",
+        "B2-L20-1170-02"
+      ],
+      "justificativa": "Objetivos pedagógicos independentes agrupados por função, nível e registro."
+    }
+  ],
+  "direcionadas": [],
+  "antecipadas": [],
+  "parciais": [],
+  "observacao": "Lote encerrado em 1170 após leitura e mapeamento integral de 1.006 dicas; 1171 não foi aberto para evitar processamento superficial de nova fonte extensa."
+}

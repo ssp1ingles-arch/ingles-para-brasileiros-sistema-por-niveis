@@ -1,0 +1,254 @@
+{
+  "lote": "016",
+  "fontes": [
+    {
+      "numero": 881,
+      "fonte": "0881_02_Everything_You_Need_to_Ace_English_Language_Arts_in_One_Big_Fat_Notebook,_2nd_Edition.md",
+      "tamanho_bytes": 470228,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "gramática e estrutura da frase",
+          "destino": "unidades gramaticais existentes",
+          "decisao": "publicar ou consolidar"
+        },
+        {
+          "secao": "leitura, ideia central, evidência e inferência",
+          "destino": "B1-L16-0881-01",
+          "decisao": "publicar ou consolidar"
+        },
+        {
+          "secao": "escrita, revisão e argumentação",
+          "destino": "B2-L16-0881-02",
+          "decisao": "publicar ou consolidar"
+        },
+        {
+          "secao": "retórica, pesquisa e avaliação de fontes",
+          "destino": "C1-L16-0881-03",
+          "decisao": "publicar ou consolidar"
+        },
+        {
+          "secao": "literatura escolar específica",
+          "destino": "não publicada: ELA não é automaticamente ensino de inglês",
+          "decisao": "não publicar"
+        }
+      ]
+    },
+    {
+      "numero": 882,
+      "fonte": "0882_02_Everything_You_Need_to_Ace_English_Language_Arts_in_One_Big_Fat_Notebook,_2nd_Edition_2.md",
+      "tamanho_bytes": 521972,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "B1-L16-0881-01; B2-L16-0881-02; C1-L16-0881-03",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 883,
+      "fonte": "0883_03_English_Grammar_For_Dummies.md",
+      "tamanho_bytes": 641238,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 886,
+      "fonte": "0886_05_The_Infographic_Guide_to_Grammar.md",
+      "tamanho_bytes": 82722,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 887,
+      "fonte": "0887_06_Grammar_And_Usage_For_Better_Writing.md",
+      "tamanho_bytes": 411756,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 888,
+      "fonte": "0888_07_The_Infographic_Guide_to_Grammar.md",
+      "tamanho_bytes": 156949,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 890,
+      "fonte": "0890_livro01.md",
+      "tamanho_bytes": 188954,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 891,
+      "fonte": "0891_livro02.md",
+      "tamanho_bytes": 37650,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 892,
+      "fonte": "0892_livro03.md",
+      "tamanho_bytes": 46908,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 893,
+      "fonte": "0893_livro04.md",
+      "tamanho_bytes": 26957,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 894,
+      "fonte": "0894_livro05.md",
+      "tamanho_bytes": 20049,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 898,
+      "fonte": "0898_colocacoes-verbais.md",
+      "tamanho_bytes": 59516,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    },
+    {
+      "numero": 899,
+      "fonte": "0899_dicionario-de-verbos.md",
+      "tamanho_bytes": 1459314,
+      "leitura_integral": true,
+      "secoes": [
+        {
+          "secao": "capítulos e objetivos integralmente enumerados",
+          "destino": "unidades canônicas temáticas existentes",
+          "decisao": "consolidar sem aplicar o livro inteiro em um painel"
+        },
+        {
+          "secao": "índices, créditos, instruções editoriais e testes administrativos",
+          "destino": "não publicar",
+          "decisao": "material não didático independente"
+        }
+      ]
+    }
+  ]
+}

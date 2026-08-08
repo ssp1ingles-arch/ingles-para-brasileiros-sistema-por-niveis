@@ -1,0 +1,74 @@
+{
+  "lote": "016",
+  "base_preservada": 1974,
+  "novas": 7,
+  "elegiveis": 3,
+  "inelegiveis": 4,
+  "atividades_novas": 3,
+  "total": 1977,
+  "unidades": [
+    {
+      "unidade": "B1-L16-0881-01",
+      "elegivel": false,
+      "atividades_criadas": [],
+      "motivo_exclusao": "Leitura, escrita, retórica ou exame exige resposta aberta e admite múltiplas soluções naturais.",
+      "ambiguidades": [
+        "resposta aberta"
+      ]
+    },
+    {
+      "unidade": "B1-L16-0896-01",
+      "elegivel": true,
+      "atividades_criadas": [
+        "ATV-L16-1975"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades": []
+    },
+    {
+      "unidade": "B1-L16-0901-01",
+      "elegivel": true,
+      "atividades_criadas": [
+        "ATV-L16-1976"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades": []
+    },
+    {
+      "unidade": "B1-L16-0917-01",
+      "elegivel": true,
+      "atividades_criadas": [
+        "ATV-L16-1977"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades": []
+    },
+    {
+      "unidade": "B2-L16-0881-02",
+      "elegivel": false,
+      "atividades_criadas": [],
+      "motivo_exclusao": "Leitura, escrita, retórica ou exame exige resposta aberta e admite múltiplas soluções naturais.",
+      "ambiguidades": [
+        "resposta aberta"
+      ]
+    },
+    {
+      "unidade": "B2-L16-1415-01",
+      "elegivel": false,
+      "atividades_criadas": [],
+      "motivo_exclusao": "Leitura, escrita, retórica ou exame exige resposta aberta e admite múltiplas soluções naturais.",
+      "ambiguidades": [
+        "resposta aberta"
+      ]
+    },
+    {
+      "unidade": "C1-L16-0881-03",
+      "elegivel": false,
+      "atividades_criadas": [],
+      "motivo_exclusao": "Leitura, escrita, retórica ou exame exige resposta aberta e admite múltiplas soluções naturais.",
+      "ambiguidades": [
+        "resposta aberta"
+      ]
+    }
+  ]
+}

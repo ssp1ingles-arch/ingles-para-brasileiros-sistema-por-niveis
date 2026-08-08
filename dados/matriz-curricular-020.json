@@ -1,0 +1,47 @@
+{
+  "versao": "020",
+  "gerado_em": "2026-08-08T13:53:38.746Z",
+  "comparacao": {
+    "antes": {
+      "tratadas": 1214,
+      "pendentes": 333,
+      "cobertura": 78.47
+    },
+    "depois": {
+      "tratadas": 1222,
+      "pendentes": 325,
+      "cobertura": 78.99
+    }
+  },
+  "unidades": 834,
+  "atividades": 1977,
+  "subpaineis": 95,
+  "por_nivel": {
+    "A1": 80,
+    "A2": 360,
+    "B1": 270,
+    "B2": 95,
+    "C1": 18,
+    "C2": 5,
+    "KIDS": 6
+  },
+  "por_habilidade": {
+    "Conversação": 103,
+    "Escrita": 7,
+    "Escuta": 15,
+    "Gramática": 282,
+    "Inglês acadêmico": 15,
+    "Inglês profissional": 5,
+    "Leitura": 13,
+    "Pronúncia": 21,
+    "Verbos": 339,
+    "Vocabulário": 34
+  },
+  "impacto": "Oito fontes integrais; dez unidades temáticas novas; 1.006 dicas da fonte 1170 mapeadas individualmente.",
+  "lacunas_abertas": [
+    "escuta objetiva",
+    "inglês profissional",
+    "Kids legítimo",
+    "C2 comprovado"
+  ]
+}

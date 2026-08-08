@@ -1,0 +1,43 @@
+{
+  "lote": "017",
+  "fontes": [
+    {
+      "numero": 927,
+      "fonte": "0927_BE_Verbo_Completo_v3.md",
+      "leitura_integral": true,
+      "canonica": "0003_#_BE_Completo.md",
+      "secoes": [
+        {
+          "capitulo_ou_secao": "todas as seções e sentidos",
+          "paginas": "integral",
+          "conteudo_identificado": "conteúdo integral idêntico",
+          "nivel_sustentado": "conforme unidades canônicas",
+          "habilidade": "Verbos e Gramática",
+          "destino": "unidades canônicas existentes",
+          "unidade_canonica_relacionada": [],
+          "decisao": "consolidar",
+          "justificativa": "Hash do corpo normalizado idêntico; nenhuma seção exclusiva."
+        }
+      ]
+    },
+    {
+      "numero": 974,
+      "fonte": "0974_HAVE_Completo_17_Sentidos.md",
+      "leitura_integral": true,
+      "canonica": "0009_#_HAVE_Completo.md",
+      "secoes": [
+        {
+          "capitulo_ou_secao": "todas as seções e sentidos",
+          "paginas": "integral",
+          "conteudo_identificado": "conteúdo integral idêntico",
+          "nivel_sustentado": "conforme unidades canônicas",
+          "habilidade": "Verbos e Gramática",
+          "destino": "unidades canônicas existentes",
+          "unidade_canonica_relacionada": [],
+          "decisao": "consolidar",
+          "justificativa": "Hash do corpo normalizado idêntico; nenhuma seção exclusiva."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "lote": "013",
+  "regra": "IDs antigos redirecionam semanticamente ao destino; IDs de unidade e progresso persistido não mudam.",
+  "aliases": {
+    "a2-gramatica--passado-de-be-em-contexto": "a2-gramatica--fundamentos-e-ampliacao-gramatical",
+    "a2-conversacao--can-t-wait-expectativa": "a2-conversacao--expressoes-e-dialogos-cotidianos",
+    "a2-gramatica--should-para-conselhos-pessoais": "a2-gramatica--fundamentos-e-ampliacao-gramatical",
+    "a2-conversacao--i-d-like-pedidos-e-desejos": "a2-conversacao--expressoes-e-dialogos-cotidianos",
+    "a2-conversacao--may-i-pedir-permissao": "a2-conversacao--expressoes-e-dialogos-cotidianos",
+    "a2-gramatica--simple-presente-passado-e-futuro": "a2-gramatica--fundamentos-e-ampliacao-gramatical",
+    "b1-gramatica--continuous-presente-passado-e-futuro": "b1-gramatica--fundamentos-e-ampliacao-gramatical",
+    "b1-gramatica--perfect-presente-passado-e-futuro": "b1-gramatica--fundamentos-e-ampliacao-gramatical",
+    "b1-conversacao--respostas-basicas-e-naturais-em-conversa": "b1-conversacao--interacao-e-pratica-integrada",
+    "b1-escuta--transcricao-contar-uma-historia-e-expressoes": "b1-escuta--compreensao-oral-por-transcricoes",
+    "b1-escuta--transcricao-iniciar-conversa-naturalmente": "b1-escuta--compreensao-oral-por-transcricoes",
+    "b1-escuta--transcricao-de-filme-reconstruir-uma-historia": "b1-escuta--compreensao-oral-por-transcricoes",
+    "b1-escuta--transcricao-meeting-someone-e-seeing-anyone": "b1-escuta--compreensao-oral-por-transcricoes",
+    "b1-ingles-profissional--reunioes-conversa-e-storytelling-profissional": "b1-ingles-profissional--comunicacao-profissional-integrada",
+    "b2-escuta--transcricao-aprendizagem-e-conexao-intercultural": "b2-escuta--compreensao-oral-por-transcricoes",
+    "c1-gramatica--aspecto-verbal-e-efeitos-pragmaticos-avancados": "c1-gramatica--gramatica-avancada-integrada",
+    "c1-gramatica--colocacoes-idioms-e-vocabulario-avancado": "c1-gramatica--gramatica-avancada-integrada",
+    "c1-escrita--escrita-avancada-e-linguagem-idiomatica": "c1-escrita--escrita-avancada-e-controle-de-registro",
+    "c1-ingles-profissional--curriculo-carta-de-apresentacao-e-idioms-profissionais": "c1-ingles-profissional--comunicacao-profissional-avancada",
+    "c2-ingles-academico--reformulacao-sintese-e-idiomaticidade-de-proficiencia": "c2-ingles-academico--sintese-e-proficiencia-academica",
+    "c2-escrita--transferencia-de-registro-e-linguagem-idiomatica": "c2-escrita--estilo-registro-e-reformulacao",
+    "kids-leitura--historia-rotina-e-perguntas-para-criancas": "kids-leitura--historias-e-leitura-infantil",
+    "kids-gramatica--familia-e-comparacoes-para-criancas": "kids-gramatica--gramatica-em-contexto-infantil",
+    "kids-gramatica--gramatica-contextualizada-para-young-learners": "kids-gramatica--gramatica-em-contexto-infantil",
+    "kids-conversacao--dialogos-iniciais-para-criancas": "kids-conversacao--interacao-infantil",
+    "kids-leitura--historias-e-descricoes-infantis-bilingues": "kids-leitura--historias-e-leitura-infantil"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "lote": "013",
+  "metodo": "inspeção visual direta dos pixels originais",
+  "ordem_confirmada": [
+    "input3a.jpeg",
+    "input3b.jpeg",
+    "input3c.jpeg"
+  ],
+  "imagens": [
+    {
+      "fonte": 583,
+      "arquivo_original": "C:\\Users\\Samukk99\\Documents\\Claude Code Projetos\\Inglês para Brasileiros - Escolha seu Caminho\\N1 · Sistema 03 — Inglês do Zero · Base Completa\\input3a.jpeg",
+      "sha256": "9ffe1d5f7ec0a1686e14bb4545f5eb2afe31207604f128394732016e886bcd0",
+      "dimensoes": "1280x1280",
+      "ordem_carrossel": 1,
+      "pares_confirmados": [
+        "GO/WENT",
+        "HAVE/HAD",
+        "DO/DID",
+        "SPEAK/SPOKE",
+        "COME/CAME",
+        "TAKE/TOOK"
+      ],
+      "texto_ilegivel": [
+        "pronúncia de TAKE/TOOK parcialmente encoberta"
+      ],
+      "decisao": "consolidado em A2-L9-0440-01",
+      "particípio_inferido": false
+    },
+    {
+      "fonte": 585,
+      "arquivo_original": "C:\\Users\\Samukk99\\Documents\\Claude Code Projetos\\Inglês para Brasileiros - Escolha seu Caminho\\N1 · Sistema 03 — Inglês do Zero · Base Completa\\input3b.jpeg",
+      "sha256": "89ec12868ea9aa278844417cdf55987388496257476b42f3228207c20aad7f05",
+      "dimensoes": "1280x1280",
+      "ordem_carrossel": 2,
+      "pares_confirmados": [
+        "TELL/TOLD",
+        "EAT/ATE",
+        "DRINK/DRANK",
+        "MAKE/MADE",
+        "SEE/SAW",
+        "SAY/SAID",
+        "THINK/THOUGHT"
+      ],
+      "texto_ilegivel": [],
+      "decisao": "consolidado em A2-L9-0440-01",
+      "particípio_inferido": false
+    },
+    {
+      "fonte": 587,
+      "arquivo_original": "C:\\Users\\Samukk99\\Documents\\Claude Code Projetos\\Inglês para Brasileiros - Escolha seu Caminho\\N1 · Sistema 03 — Inglês do Zero · Base Completa\\input3c.jpeg",
+      "sha256": "2a0f89af7e3dd67ca89f6d368b270a45ca80b91b83a97a12ada6be95e1f03c",
+      "dimensoes": "1280x1280",
+      "ordem_carrossel": 3,
+      "pares_confirmados": [
+        "GET/GOT",
+        "KNOW/KNEW",
+        "FEEL/FELT",
+        "CAN/COULD",
+        "BUY/BOUGHT",
+        "SELL/SOLD",
+        "FIND/FOUND"
+      ],
+      "texto_ilegivel": [],
+      "decisao": "consolidado em A2-L9-0440-01",
+      "particípio_inferido": false
+    }
+  ]
+}

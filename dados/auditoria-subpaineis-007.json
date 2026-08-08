@@ -1,0 +1,3891 @@
+{
+  "gerado_em": "2026-08-07T22:28:34.383Z",
+  "antes": 203,
+  "depois": 56,
+  "media_antes": 2.29064039408867,
+  "media_depois": 8.303571428571429,
+  "registros": [
+    {
+      "id": "a1-fundamentos--pronomes",
+      "nivel": "A1",
+      "painel": "a1-fundamentos",
+      "titulo": "pronomes",
+      "quantidade_unidades": 2,
+      "temas": [
+        "pronomes"
+      ],
+      "intervalo_ordem_pedagogica": [
+        1,
+        2
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Conteúdo integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-fundamentos--artigos",
+      "nivel": "A1",
+      "painel": "a1-fundamentos",
+      "titulo": "artigos",
+      "quantidade_unidades": 2,
+      "temas": [
+        "artigos"
+      ],
+      "intervalo_ordem_pedagogica": [
+        3,
+        4
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0003"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Conteúdo integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-situar--tempo",
+      "nivel": "A1",
+      "painel": "a1-situar",
+      "titulo": "tempo",
+      "quantidade_unidades": 6,
+      "temas": [
+        "tempo"
+      ],
+      "intervalo_ordem_pedagogica": [
+        5,
+        24
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0005",
+        "A1-GRAM-0015",
+        "A1-GRAM-0016",
+        "A1-GRAM-0018"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Conteúdo integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-situar--lugar",
+      "nivel": "A1",
+      "painel": "a1-situar",
+      "titulo": "lugar",
+      "quantidade_unidades": 2,
+      "temas": [
+        "lugar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        7,
+        8
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0007"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Conteúdo integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--artigos",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "artigos",
+      "quantidade_unidades": 2,
+      "temas": [
+        "artigos"
+      ],
+      "intervalo_ordem_pedagogica": [
+        9,
+        14
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0003",
+        "A1-GRAM-0009"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-situar--tempo-e-lugar",
+      "nivel": "A1",
+      "painel": "a1-situar",
+      "titulo": "tempo e lugar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "tempo e lugar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        10,
+        10
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0005"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Conteúdo integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--pronomes",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "pronomes",
+      "quantidade_unidades": 2,
+      "temas": [
+        "pronomes"
+      ],
+      "intervalo_ordem_pedagogica": [
+        11,
+        19
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Sujeito e pronomes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--existencia",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "existência",
+      "quantidade_unidades": 2,
+      "temas": [
+        "existência"
+      ],
+      "intervalo_ordem_pedagogica": [
+        12,
+        13
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0012"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--verbos-modais",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "verbos modais",
+      "quantidade_unidades": 2,
+      "temas": [
+        "verbos modais"
+      ],
+      "intervalo_ordem_pedagogica": [
+        15,
+        16
+      ],
+      "pre_requisitos": [
+        "A1-VERB-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-conversacao--pronomes",
+      "nivel": "A1",
+      "painel": "a1-conversacao",
+      "titulo": "pronomes",
+      "quantidade_unidades": 1,
+      "temas": [
+        "pronomes"
+      ],
+      "intervalo_ordem_pedagogica": [
+        20,
+        20
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0017"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Interação e prática integrada",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-pronuncia--contracoes",
+      "nivel": "A1",
+      "painel": "a1-pronuncia",
+      "titulo": "contrações",
+      "quantidade_unidades": 2,
+      "temas": [
+        "contrações"
+      ],
+      "intervalo_ordem_pedagogica": [
+        21,
+        22
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001",
+        "A1-PRON-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Contrações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--possessivos",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "possessivos",
+      "quantidade_unidades": 1,
+      "temas": [
+        "possessivos"
+      ],
+      "intervalo_ordem_pedagogica": [
+        25,
+        25
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Sujeito e pronomes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--quantificadores",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "quantificadores",
+      "quantidade_unidades": 2,
+      "temas": [
+        "quantificadores"
+      ],
+      "intervalo_ordem_pedagogica": [
+        26,
+        27
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--know-saber",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "know — saber",
+      "quantidade_unidades": 1,
+      "temas": [
+        "know — saber"
+      ],
+      "intervalo_ordem_pedagogica": [
+        28,
+        28
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--speak-falar",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "speak — falar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "speak — falar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        29,
+        29
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--start-comecar",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "start — começar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "start — começar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        30,
+        30
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--wake-acordar",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "wake — acordar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "wake — acordar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        31,
+        31
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--but",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "but",
+      "quantidade_unidades": 1,
+      "temas": [
+        "but"
+      ],
+      "intervalo_ordem_pedagogica": [
+        32,
+        32
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--have-possuir",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "have — possuir",
+      "quantidade_unidades": 1,
+      "temas": [
+        "have — possuir"
+      ],
+      "intervalo_ordem_pedagogica": [
+        33,
+        33
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--medidas-com-how",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "medidas com how",
+      "quantidade_unidades": 1,
+      "temas": [
+        "medidas com how"
+      ],
+      "intervalo_ordem_pedagogica": [
+        34,
+        34
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--know-conhecer",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "know — conhecer",
+      "quantidade_unidades": 1,
+      "temas": [
+        "know — conhecer"
+      ],
+      "intervalo_ordem_pedagogica": [
+        35,
+        35
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--sell-vender",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "sell — vender",
+      "quantidade_unidades": 1,
+      "temas": [
+        "sell — vender"
+      ],
+      "intervalo_ordem_pedagogica": [
+        36,
+        36
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--sleep-dormir",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "sleep — dormir",
+      "quantidade_unidades": 1,
+      "temas": [
+        "sleep — dormir"
+      ],
+      "intervalo_ordem_pedagogica": [
+        37,
+        37
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--talk-conversar",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "talk — conversar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "talk — conversar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        38,
+        38
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--what",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "what",
+      "quantidade_unidades": 1,
+      "temas": [
+        "what"
+      ],
+      "intervalo_ordem_pedagogica": [
+        39,
+        39
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-conversacao--frases-de-conversacao",
+      "nivel": "A1",
+      "painel": "a1-conversacao",
+      "titulo": "frases de conversação",
+      "quantidade_unidades": 1,
+      "temas": [
+        "frases de conversação"
+      ],
+      "intervalo_ordem_pedagogica": [
+        40,
+        40
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Interação e prática integrada",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--believe-acreditar",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "believe — acreditar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "believe — acreditar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        41,
+        41
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--have-breakfast",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "have breakfast",
+      "quantidade_unidades": 1,
+      "temas": [
+        "have breakfast"
+      ],
+      "intervalo_ordem_pedagogica": [
+        42,
+        42
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--have-tomar",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "have — tomar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "have — tomar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        43,
+        43
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--hear-ouvir",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "hear — ouvir",
+      "quantidade_unidades": 1,
+      "temas": [
+        "hear — ouvir"
+      ],
+      "intervalo_ordem_pedagogica": [
+        44,
+        44
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--question-words",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "question words",
+      "quantidade_unidades": 2,
+      "temas": [
+        "question words"
+      ],
+      "intervalo_ordem_pedagogica": [
+        45,
+        46
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--pronomes-e-determinantes",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "pronomes e determinantes",
+      "quantidade_unidades": 4,
+      "temas": [
+        "possessivos"
+      ],
+      "intervalo_ordem_pedagogica": [
+        47,
+        50
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Sujeito e pronomes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-conversacao--rotina-e-alimentacao",
+      "nivel": "A1",
+      "painel": "a1-conversacao",
+      "titulo": "rotina e alimentação",
+      "quantidade_unidades": 4,
+      "temas": [
+        "have lunch"
+      ],
+      "intervalo_ordem_pedagogica": [
+        51,
+        54
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotinas e situações cotidianas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--verbo-be",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "verbo be",
+      "quantidade_unidades": 4,
+      "temas": [
+        "be — ser"
+      ],
+      "intervalo_ordem_pedagogica": [
+        55,
+        58
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Ser, estar e existir",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-conversacao--have-dinner",
+      "nivel": "A1",
+      "painel": "a1-conversacao",
+      "titulo": "have dinner",
+      "quantidade_unidades": 1,
+      "temas": [
+        "have dinner"
+      ],
+      "intervalo_ordem_pedagogica": [
+        59,
+        59
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotinas e situações cotidianas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--see-ver",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "see — ver",
+      "quantidade_unidades": 1,
+      "temas": [
+        "see — ver"
+      ],
+      "intervalo_ordem_pedagogica": [
+        60,
+        60
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-conversacao--why",
+      "nivel": "A1",
+      "painel": "a1-conversacao",
+      "titulo": "why",
+      "quantidade_unidades": 1,
+      "temas": [
+        "why"
+      ],
+      "intervalo_ordem_pedagogica": [
+        61,
+        61
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Interação e prática integrada",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--be-estar",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "be — estar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "be — estar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        62,
+        62
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Ser, estar e existir",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--cook-cozinhar",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "cook — cozinhar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "cook — cozinhar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        63,
+        63
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-conversacao--have-a-snack",
+      "nivel": "A1",
+      "painel": "a1-conversacao",
+      "titulo": "have a snack",
+      "quantidade_unidades": 1,
+      "temas": [
+        "have a snack"
+      ],
+      "intervalo_ordem_pedagogica": [
+        64,
+        64
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotinas e situações cotidianas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-verbos--help-ajudar",
+      "nivel": "A1",
+      "painel": "a1-verbos",
+      "titulo": "help — ajudar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "help — ajudar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        65,
+        65
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a1-gramatica--how",
+      "nivel": "A1",
+      "painel": "a1-gramatica",
+      "titulo": "how",
+      "quantidade_unidades": 1,
+      "temas": [
+        "how"
+      ],
+      "intervalo_ordem_pedagogica": [
+        66,
+        66
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--artigos",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "artigos",
+      "quantidade_unidades": 8,
+      "temas": [
+        "artigos",
+        "ausência de artigo"
+      ],
+      "intervalo_ordem_pedagogica": [
+        1,
+        139
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0003",
+        "A1-GRAM-0014",
+        "A2-GRAM-0015"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Artigos e substantivos",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--pronomes",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "pronomes",
+      "quantidade_unidades": 7,
+      "temas": [
+        "pronomes",
+        "pronomes reflexivos"
+      ],
+      "intervalo_ordem_pedagogica": [
+        2,
+        181
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0017"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Sujeito e pronomes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--duracao",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "duração",
+      "quantidade_unidades": 1,
+      "temas": [
+        "duração"
+      ],
+      "intervalo_ordem_pedagogica": [
+        3,
+        3
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0002"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--existencia",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "existência",
+      "quantidade_unidades": 1,
+      "temas": [
+        "existência"
+      ],
+      "intervalo_ordem_pedagogica": [
+        4,
+        4
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0012"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--verbos-modais",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "verbos modais",
+      "quantidade_unidades": 1,
+      "temas": [
+        "verbos modais"
+      ],
+      "intervalo_ordem_pedagogica": [
+        7,
+        7
+      ],
+      "pre_requisitos": [
+        "A1-VERB-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--tempo",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "tempo",
+      "quantidade_unidades": 2,
+      "temas": [
+        "tempo"
+      ],
+      "intervalo_ordem_pedagogica": [
+        8,
+        11
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0015",
+        "A1-GRAM-0018"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-pronuncia--contracoes",
+      "nivel": "A2",
+      "painel": "a2-pronuncia",
+      "titulo": "contrações",
+      "quantidade_unidades": 1,
+      "temas": [
+        "contrações"
+      ],
+      "intervalo_ordem_pedagogica": [
+        10,
+        10
+      ],
+      "pre_requisitos": [
+        "A1-PRON-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Contrações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--possessivos",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "possessivos",
+      "quantidade_unidades": 1,
+      "temas": [
+        "possessivos"
+      ],
+      "intervalo_ordem_pedagogica": [
+        12,
+        12
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0020"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Sujeito e pronomes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-conversacao--possessivos",
+      "nivel": "A2",
+      "painel": "a2-conversacao",
+      "titulo": "possessivos",
+      "quantidade_unidades": 1,
+      "temas": [
+        "possessivos"
+      ],
+      "intervalo_ordem_pedagogica": [
+        13,
+        13
+      ],
+      "pre_requisitos": [
+        "A2-GRAM-0010"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e respostas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--quantificadores",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "quantificadores",
+      "quantidade_unidades": 11,
+      "temas": [
+        "quantificadores",
+        "some e any",
+        "much, many e a lot of"
+      ],
+      "intervalo_ordem_pedagogica": [
+        14,
+        177
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0021",
+        "A2-GRAM-0011",
+        "A1-GRAM-0022"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-vocabulario--quantificadores",
+      "nivel": "A2",
+      "painel": "a2-vocabulario",
+      "titulo": "quantificadores",
+      "quantidade_unidades": 1,
+      "temas": [
+        "quantificadores"
+      ],
+      "intervalo_ordem_pedagogica": [
+        15,
+        15
+      ],
+      "pre_requisitos": [
+        "A2-GRAM-0011"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Vocabulário integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-conversacao--pronomes",
+      "nivel": "A2",
+      "painel": "a2-conversacao",
+      "titulo": "pronomes",
+      "quantidade_unidades": 1,
+      "temas": [
+        "pronomes"
+      ],
+      "intervalo_ordem_pedagogica": [
+        19,
+        19
+      ],
+      "pre_requisitos": [
+        "A2-GRAM-0014"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Expressões e diálogos cotidianos",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--know-saber",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "know — saber",
+      "quantidade_unidades": 3,
+      "temas": [
+        "know — saber"
+      ],
+      "intervalo_ordem_pedagogica": [
+        22,
+        24
+      ],
+      "pre_requisitos": [
+        "A1-VERB-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-vocabulario--phrasal-verbs-com-get",
+      "nivel": "A2",
+      "painel": "a2-vocabulario",
+      "titulo": "phrasal verbs com get",
+      "quantidade_unidades": 1,
+      "temas": [
+        "phrasal verbs com get"
+      ],
+      "intervalo_ordem_pedagogica": [
+        25,
+        25
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Phrasal verbs e combinações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--speak-falar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "speak — falar",
+      "quantidade_unidades": 3,
+      "temas": [
+        "speak — falar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        26,
+        28
+      ],
+      "pre_requisitos": [
+        "A1-VERB-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Comunicação e informação",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--start-comecar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "start — começar",
+      "quantidade_unidades": 3,
+      "temas": [
+        "start — começar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        29,
+        31
+      ],
+      "pre_requisitos": [
+        "A1-VERB-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--wake-acordar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "wake — acordar",
+      "quantidade_unidades": 3,
+      "temas": [
+        "wake — acordar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        32,
+        34
+      ],
+      "pre_requisitos": [
+        "A1-VERB-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--who-whom-e-whose",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "who, whom e whose",
+      "quantidade_unidades": 1,
+      "temas": [
+        "who, whom e whose"
+      ],
+      "intervalo_ordem_pedagogica": [
+        35,
+        35
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Sujeito e pronomes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--will-e-shall",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "will e shall",
+      "quantidade_unidades": 1,
+      "temas": [
+        "will e shall"
+      ],
+      "intervalo_ordem_pedagogica": [
+        36,
+        36
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--begin-comecar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "begin — começar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "begin — começar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        37,
+        37
+      ],
+      "pre_requisitos": [
+        "A1-VERB-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--but",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "but",
+      "quantidade_unidades": 3,
+      "temas": [
+        "but"
+      ],
+      "intervalo_ordem_pedagogica": [
+        38,
+        40
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--have-possuir",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "have — possuir",
+      "quantidade_unidades": 3,
+      "temas": [
+        "have — possuir"
+      ],
+      "intervalo_ordem_pedagogica": [
+        41,
+        43
+      ],
+      "pre_requisitos": [
+        "A1-VERB-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--medidas-com-how",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "medidas com how",
+      "quantidade_unidades": 2,
+      "temas": [
+        "medidas com how"
+      ],
+      "intervalo_ordem_pedagogica": [
+        44,
+        45
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--know-conhecer",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "know — conhecer",
+      "quantidade_unidades": 3,
+      "temas": [
+        "know — conhecer"
+      ],
+      "intervalo_ordem_pedagogica": [
+        46,
+        48
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-vocabulario--phrasal-verbs-com-go",
+      "nivel": "A2",
+      "painel": "a2-vocabulario",
+      "titulo": "phrasal verbs com go",
+      "quantidade_unidades": 1,
+      "temas": [
+        "phrasal verbs com go"
+      ],
+      "intervalo_ordem_pedagogica": [
+        49,
+        49
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Phrasal verbs e combinações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--see-encontrar-e-ver",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "see — encontrar e ver",
+      "quantidade_unidades": 1,
+      "temas": [
+        "see — encontrar e ver"
+      ],
+      "intervalo_ordem_pedagogica": [
+        50,
+        50
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--sell-vender",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "sell — vender",
+      "quantidade_unidades": 3,
+      "temas": [
+        "sell — vender"
+      ],
+      "intervalo_ordem_pedagogica": [
+        51,
+        53
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--sleep-dormir",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "sleep — dormir",
+      "quantidade_unidades": 3,
+      "temas": [
+        "sleep — dormir"
+      ],
+      "intervalo_ordem_pedagogica": [
+        54,
+        56
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--talk-conversar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "talk — conversar",
+      "quantidade_unidades": 3,
+      "temas": [
+        "talk — conversar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        57,
+        59
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Comunicação e informação",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--until",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "until",
+      "quantidade_unidades": 1,
+      "temas": [
+        "until"
+      ],
+      "intervalo_ordem_pedagogica": [
+        60,
+        60
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--what",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "what",
+      "quantidade_unidades": 6,
+      "temas": [
+        "what"
+      ],
+      "intervalo_ordem_pedagogica": [
+        61,
+        66
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Artigos e substantivos",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-conversacao--frases-de-conversacao",
+      "nivel": "A2",
+      "painel": "a2-conversacao",
+      "titulo": "frases de conversação",
+      "quantidade_unidades": 44,
+      "temas": [
+        "frases de conversação"
+      ],
+      "intervalo_ordem_pedagogica": [
+        67,
+        110
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Expressões e diálogos cotidianos",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--as-soon-as",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "as soon as",
+      "quantidade_unidades": 1,
+      "temas": [
+        "as soon as"
+      ],
+      "intervalo_ordem_pedagogica": [
+        111,
+        111
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--believe-acreditar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "believe — acreditar",
+      "quantidade_unidades": 3,
+      "temas": [
+        "believe — acreditar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        112,
+        114
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--have-breakfast",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "have breakfast",
+      "quantidade_unidades": 3,
+      "temas": [
+        "have breakfast"
+      ],
+      "intervalo_ordem_pedagogica": [
+        115,
+        117
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Verbos com mais de um padrão",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--have-tomar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "have — tomar",
+      "quantidade_unidades": 3,
+      "temas": [
+        "have — tomar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        118,
+        120
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--hear-ouvir",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "hear — ouvir",
+      "quantidade_unidades": 3,
+      "temas": [
+        "hear — ouvir"
+      ],
+      "intervalo_ordem_pedagogica": [
+        121,
+        123
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Comunicação e informação",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--must-e-have-to",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "must e have to",
+      "quantidade_unidades": 1,
+      "temas": [
+        "must e have to"
+      ],
+      "intervalo_ordem_pedagogica": [
+        124,
+        124
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-vocabulario--near-far-through-e-along",
+      "nivel": "A2",
+      "painel": "a2-vocabulario",
+      "titulo": "near, far, through e along",
+      "quantidade_unidades": 1,
+      "temas": [
+        "near, far, through e along"
+      ],
+      "intervalo_ordem_pedagogica": [
+        125,
+        125
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Vocabulário integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--question-words",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "question words",
+      "quantidade_unidades": 1,
+      "temas": [
+        "question words"
+      ],
+      "intervalo_ordem_pedagogica": [
+        126,
+        126
+      ],
+      "pre_requisitos": [
+        "A1-GRAM-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--coordenacao",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "coordenação",
+      "quantidade_unidades": 2,
+      "temas": [
+        "or, either...or e neither...nor"
+      ],
+      "intervalo_ordem_pedagogica": [
+        127,
+        128
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--verbos-de-uso-frequente",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "verbos de uso frequente",
+      "quantidade_unidades": 25,
+      "temas": [
+        "pay — pagar",
+        "stop — parar",
+        "bring — trazer",
+        "finish — terminar",
+        "show — mostrar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        129,
+        191
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-vocabulario--phrasal-verbs",
+      "nivel": "A2",
+      "painel": "a2-vocabulario",
+      "titulo": "phrasal verbs",
+      "quantidade_unidades": 3,
+      "temas": [
+        "phrasal verbs com turn, put e take"
+      ],
+      "intervalo_ordem_pedagogica": [
+        134,
+        136
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Phrasal verbs e combinações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-conversacao--perguntas",
+      "nivel": "A2",
+      "painel": "a2-conversacao",
+      "titulo": "perguntas",
+      "quantidade_unidades": 5,
+      "temas": [
+        "perguntas com what"
+      ],
+      "intervalo_ordem_pedagogica": [
+        149,
+        153
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e respostas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--perguntas-e-conectores",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "perguntas e conectores",
+      "quantidade_unidades": 12,
+      "temas": [
+        "when e whenever",
+        "where e wherever"
+      ],
+      "intervalo_ordem_pedagogica": [
+        154,
+        197
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--alimentacao",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "alimentação",
+      "quantidade_unidades": 4,
+      "temas": [
+        "have — beber"
+      ],
+      "intervalo_ordem_pedagogica": [
+        170,
+        173
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--usos-polissemicos",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "usos polissêmicos",
+      "quantidade_unidades": 5,
+      "temas": [
+        "save — salvar e economizar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        182,
+        186
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--causa",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "causa",
+      "quantidade_unidades": 6,
+      "temas": [
+        "because, because of, since e as"
+      ],
+      "intervalo_ordem_pedagogica": [
+        198,
+        203
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--continue-continuar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "continue — continuar",
+      "quantidade_unidades": 2,
+      "temas": [
+        "continue — continuar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        204,
+        205
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Verbos com mais de um padrão",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--from-e-out-of",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "from e out of",
+      "quantidade_unidades": 1,
+      "temas": [
+        "from e out of"
+      ],
+      "intervalo_ordem_pedagogica": [
+        206,
+        206
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-conversacao--have-dinner",
+      "nivel": "A2",
+      "painel": "a2-conversacao",
+      "titulo": "have dinner",
+      "quantidade_unidades": 1,
+      "temas": [
+        "have dinner"
+      ],
+      "intervalo_ordem_pedagogica": [
+        207,
+        207
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotinas e situações cotidianas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--have-comer",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "have — comer",
+      "quantidade_unidades": 2,
+      "temas": [
+        "have — comer"
+      ],
+      "intervalo_ordem_pedagogica": [
+        208,
+        209
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--meet-conhecer-e-encontrar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "meet — conhecer e encontrar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "meet — conhecer e encontrar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        210,
+        210
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--see-ver",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "see — ver",
+      "quantidade_unidades": 1,
+      "temas": [
+        "see — ver"
+      ],
+      "intervalo_ordem_pedagogica": [
+        211,
+        211
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-conversacao--why",
+      "nivel": "A2",
+      "painel": "a2-conversacao",
+      "titulo": "why",
+      "quantidade_unidades": 1,
+      "temas": [
+        "why"
+      ],
+      "intervalo_ordem_pedagogica": [
+        212,
+        212
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e respostas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-vocabulario--expressoes-de-tempo",
+      "nivel": "A2",
+      "painel": "a2-vocabulario",
+      "titulo": "expressões de tempo",
+      "quantidade_unidades": 1,
+      "temas": [
+        "expressões de tempo"
+      ],
+      "intervalo_ordem_pedagogica": [
+        213,
+        213
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Vocabulário integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--be-estar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "be — estar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "be — estar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        214,
+        214
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Ser, estar e existir",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--catch-pegar-e-apanhar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "catch — pegar e apanhar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "catch — pegar e apanhar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        215,
+        215
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--cook-cozinhar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "cook — cozinhar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "cook — cozinhar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        216,
+        216
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--decide-decidir",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "decide — decidir",
+      "quantidade_unidades": 1,
+      "temas": [
+        "decide — decidir"
+      ],
+      "intervalo_ordem_pedagogica": [
+        217,
+        217
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Verbos com mais de um padrão",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-conversacao--have-a-snack",
+      "nivel": "A2",
+      "painel": "a2-conversacao",
+      "titulo": "have a snack",
+      "quantidade_unidades": 1,
+      "temas": [
+        "have a snack"
+      ],
+      "intervalo_ordem_pedagogica": [
+        218,
+        218
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotinas e situações cotidianas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--help-ajudar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "help — ajudar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "help — ajudar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        219,
+        219
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--how",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "how",
+      "quantidade_unidades": 1,
+      "temas": [
+        "how"
+      ],
+      "intervalo_ordem_pedagogica": [
+        220,
+        220
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--send-enviar-e-mandar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "send — enviar e mandar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "send — enviar e mandar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        221,
+        221
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Comunicação e informação",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-vocabulario--through-e-across",
+      "nivel": "A2",
+      "painel": "a2-vocabulario",
+      "titulo": "through e across",
+      "quantidade_unidades": 1,
+      "temas": [
+        "through e across"
+      ],
+      "intervalo_ordem_pedagogica": [
+        222,
+        222
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Vocabulário integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--all-both-none-each-e-every",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "all, both, none, each e every",
+      "quantidade_unidades": 1,
+      "temas": [
+        "all, both, none, each e every"
+      ],
+      "intervalo_ordem_pedagogica": [
+        223,
+        223
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-gramatica--also-e-too",
+      "nivel": "A2",
+      "painel": "a2-gramatica",
+      "titulo": "also e too",
+      "quantidade_unidades": 1,
+      "temas": [
+        "also e too"
+      ],
+      "intervalo_ordem_pedagogica": [
+        224,
+        224
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "a2-verbos--be-ficar",
+      "nivel": "A2",
+      "painel": "a2-verbos",
+      "titulo": "be — ficar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "be — ficar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        225,
+        225
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Ser, estar e existir",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-conversacao--expressoes",
+      "nivel": "B1",
+      "painel": "b1-conversacao",
+      "titulo": "expressões",
+      "quantidade_unidades": 1,
+      "temas": [
+        "expressões"
+      ],
+      "intervalo_ordem_pedagogica": [
+        1,
+        1
+      ],
+      "pre_requisitos": [
+        "A2-GRAM-0003"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Interação e prática integrada",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-vocabulario--expressoes",
+      "nivel": "B1",
+      "painel": "b1-vocabulario",
+      "titulo": "expressões",
+      "quantidade_unidades": 1,
+      "temas": [
+        "expressões"
+      ],
+      "intervalo_ordem_pedagogica": [
+        2,
+        2
+      ],
+      "pre_requisitos": [
+        "A2-GRAM-0006"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Vocabulário integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--verbos-modais",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "verbos modais",
+      "quantidade_unidades": 1,
+      "temas": [
+        "verbos modais"
+      ],
+      "intervalo_ordem_pedagogica": [
+        3,
+        3
+      ],
+      "pre_requisitos": [
+        "A2-VERB-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-pronuncia--contracoes",
+      "nivel": "B1",
+      "painel": "b1-pronuncia",
+      "titulo": "contrações",
+      "quantidade_unidades": 1,
+      "temas": [
+        "contrações"
+      ],
+      "intervalo_ordem_pedagogica": [
+        4,
+        4
+      ],
+      "pre_requisitos": [
+        "A2-PRON-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Contrações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--quantificadores",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "quantificadores",
+      "quantidade_unidades": 1,
+      "temas": [
+        "quantificadores"
+      ],
+      "intervalo_ordem_pedagogica": [
+        5,
+        5
+      ],
+      "pre_requisitos": [
+        "A2-GRAM-0011"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Quantidade e comparação",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-vocabulario--phrasal-verbs-com-get",
+      "nivel": "B1",
+      "painel": "b1-vocabulario",
+      "titulo": "phrasal verbs com get",
+      "quantidade_unidades": 3,
+      "temas": [
+        "phrasal verbs com get"
+      ],
+      "intervalo_ordem_pedagogica": [
+        6,
+        8
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Phrasal verbs e combinações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--since",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "since",
+      "quantidade_unidades": 1,
+      "temas": [
+        "since"
+      ],
+      "intervalo_ordem_pedagogica": [
+        9,
+        9
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--take-aceitar-assumir-e-cuidar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "take — aceitar, assumir e cuidar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "take — aceitar, assumir e cuidar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        10,
+        10
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--think-lembrar-e-imaginar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "think — lembrar e imaginar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "think — lembrar e imaginar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        11,
+        11
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--who-whom-e-whose",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "who, whom e whose",
+      "quantidade_unidades": 3,
+      "temas": [
+        "who, whom e whose"
+      ],
+      "intervalo_ordem_pedagogica": [
+        12,
+        14
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--will-e-shall",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "will e shall",
+      "quantidade_unidades": 3,
+      "temas": [
+        "will e shall"
+      ],
+      "intervalo_ordem_pedagogica": [
+        15,
+        17
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Quantidade e comparação",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--begin-comecar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "begin — começar",
+      "quantidade_unidades": 3,
+      "temas": [
+        "begin — começar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        18,
+        20
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--come-tornar-se",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "come — tornar-se",
+      "quantidade_unidades": 1,
+      "temas": [
+        "come — tornar-se"
+      ],
+      "intervalo_ordem_pedagogica": [
+        21,
+        21
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--make-ganhar-e-render",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "make — ganhar e render",
+      "quantidade_unidades": 1,
+      "temas": [
+        "make — ganhar e render"
+      ],
+      "intervalo_ordem_pedagogica": [
+        22,
+        22
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-vocabulario--phrasal-verbs-com-go",
+      "nivel": "B1",
+      "painel": "b1-vocabulario",
+      "titulo": "phrasal verbs com go",
+      "quantidade_unidades": 3,
+      "temas": [
+        "phrasal verbs com go"
+      ],
+      "intervalo_ordem_pedagogica": [
+        23,
+        25
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Phrasal verbs e combinações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--see-encontrar-e-ver",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "see — encontrar e ver",
+      "quantidade_unidades": 3,
+      "temas": [
+        "see — encontrar e ver"
+      ],
+      "intervalo_ordem_pedagogica": [
+        26,
+        28
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--until",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "until",
+      "quantidade_unidades": 3,
+      "temas": [
+        "until"
+      ],
+      "intervalo_ordem_pedagogica": [
+        29,
+        31
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--as-soon-as",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "as soon as",
+      "quantidade_unidades": 3,
+      "temas": [
+        "as soon as"
+      ],
+      "intervalo_ordem_pedagogica": [
+        32,
+        34
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--go-passar-por",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "go — passar por",
+      "quantidade_unidades": 1,
+      "temas": [
+        "go — passar por"
+      ],
+      "intervalo_ordem_pedagogica": [
+        35,
+        35
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--make-tomar-e-cometer",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "make — tomar e cometer",
+      "quantidade_unidades": 1,
+      "temas": [
+        "make — tomar e cometer"
+      ],
+      "intervalo_ordem_pedagogica": [
+        36,
+        36
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--must-e-have-to",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "must e have to",
+      "quantidade_unidades": 3,
+      "temas": [
+        "must e have to"
+      ],
+      "intervalo_ordem_pedagogica": [
+        37,
+        39
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--conectores-e-foco",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "conectores e foco",
+      "quantidade_unidades": 1,
+      "temas": [
+        "not only ... but also"
+      ],
+      "intervalo_ordem_pedagogica": [
+        40,
+        40
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Artigos e substantivos",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--coordenacao",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "coordenação",
+      "quantidade_unidades": 2,
+      "temas": [
+        "or, either...or e neither...nor"
+      ],
+      "intervalo_ordem_pedagogica": [
+        41,
+        42
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--artigos",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "artigos",
+      "quantidade_unidades": 2,
+      "temas": [
+        "ausência de artigo"
+      ],
+      "intervalo_ordem_pedagogica": [
+        43,
+        44
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Artigos e substantivos",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--opiniao",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "opinião",
+      "quantidade_unidades": 5,
+      "temas": [
+        "think — achar e acreditar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        45,
+        49
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--contraste",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "contraste",
+      "quantidade_unidades": 3,
+      "temas": [
+        "despite e in spite of"
+      ],
+      "intervalo_ordem_pedagogica": [
+        50,
+        52
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Artigos e substantivos",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--causa",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "causa",
+      "quantidade_unidades": 2,
+      "temas": [
+        "due to, because of e thanks to"
+      ],
+      "intervalo_ordem_pedagogica": [
+        53,
+        54
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--tempo-e-duracao",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "tempo e duração",
+      "quantidade_unidades": 2,
+      "temas": [
+        "for, since e during"
+      ],
+      "intervalo_ordem_pedagogica": [
+        55,
+        56
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--usos-polissemicos",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "usos polissêmicos",
+      "quantidade_unidades": 4,
+      "temas": [
+        "go — sair e apagar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        57,
+        60
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--fala-conectada",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "fala conectada",
+      "quantidade_unidades": 2,
+      "temas": [
+        "gonna, wanna, gotta e kinda"
+      ],
+      "intervalo_ordem_pedagogica": [
+        61,
+        62
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-conversacao--opiniao",
+      "nivel": "B1",
+      "painel": "b1-conversacao",
+      "titulo": "opinião",
+      "quantidade_unidades": 5,
+      "temas": [
+        "formas de expressar opinião"
+      ],
+      "intervalo_ordem_pedagogica": [
+        63,
+        67
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Opinião e posicionamento",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--percepcao",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "percepção",
+      "quantidade_unidades": 5,
+      "temas": [
+        "notice — notar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        68,
+        72
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-vocabulario--phrasal-verbs",
+      "nivel": "B1",
+      "painel": "b1-vocabulario",
+      "titulo": "phrasal verbs",
+      "quantidade_unidades": 3,
+      "temas": [
+        "phrasal verbs com look, find e run"
+      ],
+      "intervalo_ordem_pedagogica": [
+        73,
+        75
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Phrasal verbs e combinações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--modais",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "modais",
+      "quantidade_unidades": 2,
+      "temas": [
+        "should, should have e ought to"
+      ],
+      "intervalo_ordem_pedagogica": [
+        76,
+        77
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--conectores",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "conectores",
+      "quantidade_unidades": 2,
+      "temas": [
+        "so — consequência, intensidade e propósito"
+      ],
+      "intervalo_ordem_pedagogica": [
+        78,
+        79
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--cognicao",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "cognição",
+      "quantidade_unidades": 4,
+      "temas": [
+        "think — pensar e refletir"
+      ],
+      "intervalo_ordem_pedagogica": [
+        80,
+        83
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--continue-continuar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "continue — continuar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "continue — continuar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        84,
+        84
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-conversacao--pedidos-educados",
+      "nivel": "B1",
+      "painel": "b1-conversacao",
+      "titulo": "pedidos educados",
+      "quantidade_unidades": 1,
+      "temas": [
+        "pedidos educados"
+      ],
+      "intervalo_ordem_pedagogica": [
+        85,
+        85
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Interação e prática integrada",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--from-e-out-of",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "from e out of",
+      "quantidade_unidades": 1,
+      "temas": [
+        "from e out of"
+      ],
+      "intervalo_ordem_pedagogica": [
+        86,
+        86
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--go-combinar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "go — combinar",
+      "quantidade_unidades": 2,
+      "temas": [
+        "go — combinar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        87,
+        88
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--hold-segurar-e-realizar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "hold — segurar e realizar",
+      "quantidade_unidades": 2,
+      "temas": [
+        "hold — segurar e realizar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        89,
+        90
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--may-e-might",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "may e might",
+      "quantidade_unidades": 1,
+      "temas": [
+        "may e might"
+      ],
+      "intervalo_ordem_pedagogica": [
+        91,
+        91
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--meet-conhecer-e-encontrar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "meet — conhecer e encontrar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "meet — conhecer e encontrar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        92,
+        92
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-vocabulario--phrasal-verbs-com-give-come-make-e-break",
+      "nivel": "B1",
+      "painel": "b1-vocabulario",
+      "titulo": "phrasal verbs com give, come, make e break",
+      "quantidade_unidades": 1,
+      "temas": [
+        "phrasal verbs com give, come, make e break"
+      ],
+      "intervalo_ordem_pedagogica": [
+        93,
+        93
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Phrasal verbs e combinações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--realize-perceber",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "realize — perceber",
+      "quantidade_unidades": 2,
+      "temas": [
+        "realize — perceber"
+      ],
+      "intervalo_ordem_pedagogica": [
+        94,
+        95
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--spend-gastar-e-passar-tempo",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "spend — gastar e passar tempo",
+      "quantidade_unidades": 2,
+      "temas": [
+        "spend — gastar e passar tempo"
+      ],
+      "intervalo_ordem_pedagogica": [
+        96,
+        97
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--unless",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "unless",
+      "quantidade_unidades": 1,
+      "temas": [
+        "unless"
+      ],
+      "intervalo_ordem_pedagogica": [
+        98,
+        98
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-vocabulario--expressoes-de-tempo",
+      "nivel": "B1",
+      "painel": "b1-vocabulario",
+      "titulo": "expressões de tempo",
+      "quantidade_unidades": 1,
+      "temas": [
+        "expressões de tempo"
+      ],
+      "intervalo_ordem_pedagogica": [
+        99,
+        99
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Vocabulário integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--catch-pegar-e-apanhar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "catch — pegar e apanhar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "catch — pegar e apanhar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        100,
+        100
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--decide-decidir",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "decide — decidir",
+      "quantidade_unidades": 1,
+      "temas": [
+        "decide — decidir"
+      ],
+      "intervalo_ordem_pedagogica": [
+        101,
+        101
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--have-sentir",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "have — sentir",
+      "quantidade_unidades": 2,
+      "temas": [
+        "have — sentir"
+      ],
+      "intervalo_ordem_pedagogica": [
+        102,
+        103
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Rotina e ações frequentes",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--if-e-condicao",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "if e condição",
+      "quantidade_unidades": 2,
+      "temas": [
+        "if e condição"
+      ],
+      "intervalo_ordem_pedagogica": [
+        104,
+        105
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--see-entender-e-perceber",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "see — entender e perceber",
+      "quantidade_unidades": 2,
+      "temas": [
+        "see — entender e perceber"
+      ],
+      "intervalo_ordem_pedagogica": [
+        106,
+        107
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--send-enviar-e-mandar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "send — enviar e mandar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "send — enviar e mandar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        108,
+        108
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-vocabulario--through-e-across",
+      "nivel": "B1",
+      "painel": "b1-vocabulario",
+      "titulo": "through e across",
+      "quantidade_unidades": 1,
+      "temas": [
+        "through e across"
+      ],
+      "intervalo_ordem_pedagogica": [
+        109,
+        109
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Vocabulário integrado",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--wonder",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "wonder",
+      "quantidade_unidades": 1,
+      "temas": [
+        "wonder"
+      ],
+      "intervalo_ordem_pedagogica": [
+        110,
+        110
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--would",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "would",
+      "quantidade_unidades": 1,
+      "temas": [
+        "would"
+      ],
+      "intervalo_ordem_pedagogica": [
+        111,
+        111
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--yet",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "yet",
+      "quantidade_unidades": 1,
+      "temas": [
+        "yet"
+      ],
+      "intervalo_ordem_pedagogica": [
+        112,
+        112
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--all-both-none-each-e-every",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "all, both, none, each e every",
+      "quantidade_unidades": 1,
+      "temas": [
+        "all, both, none, each e every"
+      ],
+      "intervalo_ordem_pedagogica": [
+        113,
+        113
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Quantidade e comparação",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--also-e-too",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "also e too",
+      "quantidade_unidades": 1,
+      "temas": [
+        "also e too"
+      ],
+      "intervalo_ordem_pedagogica": [
+        114,
+        114
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-gramatica--comparacoes-correlativas",
+      "nivel": "B1",
+      "painel": "b1-gramatica",
+      "titulo": "comparações correlativas",
+      "quantidade_unidades": 1,
+      "temas": [
+        "comparações correlativas"
+      ],
+      "intervalo_ordem_pedagogica": [
+        115,
+        115
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Quantidade e comparação",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--be-ficar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "be — ficar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "be — ficar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        116,
+        116
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b1-verbos--break-quebrar-e-violar",
+      "nivel": "B1",
+      "painel": "b1-verbos",
+      "titulo": "break — quebrar e violar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "break — quebrar e violar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        117,
+        117
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-pronuncia--contracoes",
+      "nivel": "B2",
+      "painel": "b2-pronuncia",
+      "titulo": "contrações",
+      "quantidade_unidades": 1,
+      "temas": [
+        "contrações"
+      ],
+      "intervalo_ordem_pedagogica": [
+        1,
+        1
+      ],
+      "pre_requisitos": [
+        "B1-PRON-0001"
+      ],
+      "decisao": "fundir",
+      "subpainel_destino": "Contrações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--since",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "since",
+      "quantidade_unidades": 3,
+      "temas": [
+        "since"
+      ],
+      "intervalo_ordem_pedagogica": [
+        2,
+        4
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Passado e experiência",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-verbos--take-aceitar-assumir-e-cuidar",
+      "nivel": "B2",
+      "painel": "b2-verbos",
+      "titulo": "take — aceitar, assumir e cuidar",
+      "quantidade_unidades": 3,
+      "temas": [
+        "take — aceitar, assumir e cuidar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        5,
+        7
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-verbos--think-lembrar-e-imaginar",
+      "nivel": "B2",
+      "painel": "b2-verbos",
+      "titulo": "think — lembrar e imaginar",
+      "quantidade_unidades": 3,
+      "temas": [
+        "think — lembrar e imaginar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        8,
+        10
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--whereas-e-while",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "whereas e while",
+      "quantidade_unidades": 1,
+      "temas": [
+        "whereas e while"
+      ],
+      "intervalo_ordem_pedagogica": [
+        11,
+        11
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-verbos--come-tornar-se",
+      "nivel": "B2",
+      "painel": "b2-verbos",
+      "titulo": "come — tornar-se",
+      "quantidade_unidades": 3,
+      "temas": [
+        "come — tornar-se"
+      ],
+      "intervalo_ordem_pedagogica": [
+        12,
+        14
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-verbos--make-ganhar-e-render",
+      "nivel": "B2",
+      "painel": "b2-verbos",
+      "titulo": "make — ganhar e render",
+      "quantidade_unidades": 3,
+      "temas": [
+        "make — ganhar e render"
+      ],
+      "intervalo_ordem_pedagogica": [
+        15,
+        17
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--nevertheless",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "nevertheless",
+      "quantidade_unidades": 1,
+      "temas": [
+        "nevertheless"
+      ],
+      "intervalo_ordem_pedagogica": [
+        18,
+        18
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-verbos--go-passar-por",
+      "nivel": "B2",
+      "painel": "b2-verbos",
+      "titulo": "go — passar por",
+      "quantidade_unidades": 3,
+      "temas": [
+        "go — passar por"
+      ],
+      "intervalo_ordem_pedagogica": [
+        19,
+        21
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-verbos--make-tomar-e-cometer",
+      "nivel": "B2",
+      "painel": "b2-verbos",
+      "titulo": "make — tomar e cometer",
+      "quantidade_unidades": 3,
+      "temas": [
+        "make — tomar e cometer"
+      ],
+      "intervalo_ordem_pedagogica": [
+        22,
+        24
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Movimento e mudança",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--conectores-e-foco",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "conectores e foco",
+      "quantidade_unidades": 2,
+      "temas": [
+        "not only ... but also"
+      ],
+      "intervalo_ordem_pedagogica": [
+        25,
+        26
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--contraste",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "contraste",
+      "quantidade_unidades": 2,
+      "temas": [
+        "despite e in spite of"
+      ],
+      "intervalo_ordem_pedagogica": [
+        27,
+        28
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--causa",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "causa",
+      "quantidade_unidades": 3,
+      "temas": [
+        "due to, because of e thanks to"
+      ],
+      "intervalo_ordem_pedagogica": [
+        29,
+        31
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--tempo-e-duracao",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "tempo e duração",
+      "quantidade_unidades": 2,
+      "temas": [
+        "for, since e during"
+      ],
+      "intervalo_ordem_pedagogica": [
+        32,
+        33
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--modais",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "modais",
+      "quantidade_unidades": 2,
+      "temas": [
+        "should, should have e ought to"
+      ],
+      "intervalo_ordem_pedagogica": [
+        34,
+        35
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Passado e experiência",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--conectores",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "conectores",
+      "quantidade_unidades": 2,
+      "temas": [
+        "so — consequência, intensidade e propósito"
+      ],
+      "intervalo_ordem_pedagogica": [
+        36,
+        37
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-conversacao--pedidos-educados",
+      "nivel": "B2",
+      "painel": "b2-conversacao",
+      "titulo": "pedidos educados",
+      "quantidade_unidades": 1,
+      "temas": [
+        "pedidos educados"
+      ],
+      "intervalo_ordem_pedagogica": [
+        38,
+        38
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pedidos e interação social",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--may-e-might",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "may e might",
+      "quantidade_unidades": 1,
+      "temas": [
+        "may e might"
+      ],
+      "intervalo_ordem_pedagogica": [
+        39,
+        39
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-vocabulario--phrasal-verbs-com-give-come-make-e-break",
+      "nivel": "B2",
+      "painel": "b2-vocabulario",
+      "titulo": "phrasal verbs com give, come, make e break",
+      "quantidade_unidades": 1,
+      "temas": [
+        "phrasal verbs com give, come, make e break"
+      ],
+      "intervalo_ordem_pedagogica": [
+        40,
+        40
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Phrasal verbs e combinações",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--provided-e-in-case",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "provided e in case",
+      "quantidade_unidades": 2,
+      "temas": [
+        "provided e in case"
+      ],
+      "intervalo_ordem_pedagogica": [
+        41,
+        42
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--unless",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "unless",
+      "quantidade_unidades": 1,
+      "temas": [
+        "unless"
+      ],
+      "intervalo_ordem_pedagogica": [
+        43,
+        43
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--therefore",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "therefore",
+      "quantidade_unidades": 2,
+      "temas": [
+        "therefore"
+      ],
+      "intervalo_ordem_pedagogica": [
+        44,
+        45
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-verbos--wonder",
+      "nivel": "B2",
+      "painel": "b2-verbos",
+      "titulo": "wonder",
+      "quantidade_unidades": 1,
+      "temas": [
+        "wonder"
+      ],
+      "intervalo_ordem_pedagogica": [
+        46,
+        46
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Pensamento e percepção",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--would",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "would",
+      "quantidade_unidades": 1,
+      "temas": [
+        "would"
+      ],
+      "intervalo_ordem_pedagogica": [
+        47,
+        47
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--yet",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "yet",
+      "quantidade_unidades": 1,
+      "temas": [
+        "yet"
+      ],
+      "intervalo_ordem_pedagogica": [
+        48,
+        48
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Conectores e relações lógicas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-gramatica--comparacoes-correlativas",
+      "nivel": "B2",
+      "painel": "b2-gramatica",
+      "titulo": "comparações correlativas",
+      "quantidade_unidades": 1,
+      "temas": [
+        "comparações correlativas"
+      ],
+      "intervalo_ordem_pedagogica": [
+        49,
+        49
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação gramatical",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "b2-verbos--break-quebrar-e-violar",
+      "nivel": "B2",
+      "painel": "b2-verbos",
+      "titulo": "break — quebrar e violar",
+      "quantidade_unidades": 1,
+      "temas": [
+        "break — quebrar e violar"
+      ],
+      "intervalo_ordem_pedagogica": [
+        50,
+        50
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Fundamentos e ampliação verbal",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "c1-gramatica--whereas-e-while",
+      "nivel": "C1",
+      "painel": "c1-gramatica",
+      "titulo": "whereas e while",
+      "quantidade_unidades": 3,
+      "temas": [
+        "whereas e while"
+      ],
+      "intervalo_ordem_pedagogica": [
+        1,
+        3
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Perguntas e negativas",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "c1-gramatica--nevertheless",
+      "nivel": "C1",
+      "painel": "c1-gramatica",
+      "titulo": "nevertheless",
+      "quantidade_unidades": 3,
+      "temas": [
+        "nevertheless"
+      ],
+      "intervalo_ordem_pedagogica": [
+        4,
+        6
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    },
+    {
+      "id": "c1-gramatica--conectores-e-foco",
+      "nivel": "C1",
+      "painel": "c1-gramatica",
+      "titulo": "conectores e foco",
+      "quantidade_unidades": 1,
+      "temas": [
+        "not only ... but also"
+      ],
+      "intervalo_ordem_pedagogica": [
+        7,
+        7
+      ],
+      "pre_requisitos": [],
+      "decisao": "fundir",
+      "subpainel_destino": "Tempo e lugar",
+      "justificativa": "Tema isolado incorporado a um bloco pedagógico reconhecível do mesmo nível e painel."
+    }
+  ],
+  "excecoes_apos_consolidacao": [
+    {
+      "id": "a1-conversacao--interacao-e-pratica-integrada",
+      "painel": "a1-conversacao",
+      "nivel": "A1",
+      "titulo": "Interação e prática integrada",
+      "quantidade": 3,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "a1-pronuncia--contracoes",
+      "painel": "a1-pronuncia",
+      "nivel": "A1",
+      "titulo": "Contrações",
+      "quantidade": 2,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "a2-pronuncia--contracoes",
+      "painel": "a2-pronuncia",
+      "nivel": "A2",
+      "titulo": "Contrações",
+      "quantidade": 1,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "a2-conversacao--rotinas-e-situacoes-cotidianas",
+      "painel": "a2-conversacao",
+      "nivel": "A2",
+      "titulo": "Rotinas e situações cotidianas",
+      "quantidade": 2,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "a2-verbos--ser-estar-e-existir",
+      "painel": "a2-verbos",
+      "nivel": "A2",
+      "titulo": "Ser, estar e existir",
+      "quantidade": 2,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "b1-conversacao--interacao-e-pratica-integrada",
+      "painel": "b1-conversacao",
+      "nivel": "B1",
+      "titulo": "Interação e prática integrada",
+      "quantidade": 2,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "b1-vocabulario--vocabulario-integrado",
+      "painel": "b1-vocabulario",
+      "nivel": "B1",
+      "titulo": "Vocabulário integrado",
+      "quantidade": 3,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "b1-pronuncia--contracoes",
+      "painel": "b1-pronuncia",
+      "nivel": "B1",
+      "titulo": "Contrações",
+      "quantidade": 1,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "b1-gramatica--perguntas-e-negativas",
+      "painel": "b1-gramatica",
+      "nivel": "B1",
+      "titulo": "Perguntas e negativas",
+      "quantidade": 3,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "b2-pronuncia--contracoes",
+      "painel": "b2-pronuncia",
+      "nivel": "B2",
+      "titulo": "Contrações",
+      "quantidade": 1,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "b2-conversacao--pedidos-e-interacao-social",
+      "painel": "b2-conversacao",
+      "nivel": "B2",
+      "titulo": "Pedidos e interação social",
+      "quantidade": 1,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "b2-vocabulario--phrasal-verbs-e-combinacoes",
+      "painel": "b2-vocabulario",
+      "nivel": "B2",
+      "titulo": "Phrasal verbs e combinações",
+      "quantidade": 1,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    },
+    {
+      "id": "c1-gramatica--perguntas-e-negativas",
+      "painel": "c1-gramatica",
+      "nivel": "C1",
+      "titulo": "Perguntas e negativas",
+      "quantidade": 3,
+      "justificativa": "O painel inteiro ainda possui menos de quatro unidades ou representa habilidade avançada independente."
+    }
+  ],
+  "estado_final_apos_lote": {
+    "quantidade_subpaineis": 65,
+    "novos_agrupamentos_lote_007": 9,
+    "excecoes_com_menos_de_4_unidades": 17,
+    "observacao": "A consolidação auditou a base anterior de 203 para 56. O conteúdo legítimo do lote 007 acrescentou nove agrupamentos; exceções pequenas permanecem apenas em painéis pequenos ou habilidades independentes."
+  }
+}

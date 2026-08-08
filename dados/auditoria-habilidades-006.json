@@ -1,0 +1,172 @@
+{
+  "gerado_em": "2026-08-07T22:11:05.677Z",
+  "unidades_auditadas": 388,
+  "criterio": "objetivo didático, tipo, tema, explicação, habilidades anteriores e amostragem de fonte/painel",
+  "antes_principal_inferida": {
+    "Gramática": 161,
+    "Conversação": 63,
+    "Pronúncia": 7,
+    "Verbos": 140,
+    "Vocabulário": 17
+  },
+  "depois_principal": {
+    "Gramática": 160,
+    "Pronúncia": 8,
+    "Conversação": 67,
+    "Verbos": 136,
+    "Vocabulário": 17
+  },
+  "habilidades_secundarias": {
+    "Conversação": 23,
+    "Pronúncia": 1,
+    "Gramática": 102,
+    "Vocabulário": 120,
+    "Leitura": 24,
+    "Verbos": 4,
+    "Escuta": 2
+  },
+  "alteradas": 5,
+  "mudancas": [
+    {
+      "id": "A1-GRAM-0004",
+      "de": "Gramática",
+      "para": "Pronúncia"
+    },
+    {
+      "id": "A1-L4-0086-01",
+      "de": "Verbos",
+      "para": "Conversação"
+    },
+    {
+      "id": "A2-L4-0086-02",
+      "de": "Verbos",
+      "para": "Conversação"
+    },
+    {
+      "id": "A2-L4-0086-03",
+      "de": "Verbos",
+      "para": "Conversação"
+    },
+    {
+      "id": "A2-L4-0086-04",
+      "de": "Verbos",
+      "para": "Conversação"
+    }
+  ],
+  "amostra": [
+    {
+      "id": "A1-GRAM-0001",
+      "tipo": "estrutura com exemplos",
+      "tema": "pronomes",
+      "principal": "Gramática",
+      "secundarias": [
+        "Conversação"
+      ],
+      "painel": "a1-fundamentos",
+      "fonte": "0038_01_Pronomes_Sujeito_EU_VOCE_ELE_ELA.md"
+    },
+    {
+      "id": "A1-L4-0086-01",
+      "tipo": "estrutura com exemplos",
+      "tema": "talk — conversar",
+      "principal": "Conversação",
+      "secundarias": [
+        "Verbos",
+        "Gramática"
+      ],
+      "painel": "a1-verbos",
+      "fonte": "0086_02_TALK_Conversar.md"
+    },
+    {
+      "id": "A2-GRAM-0013",
+      "tipo": "contraste",
+      "tema": "quantificadores",
+      "principal": "Gramática",
+      "secundarias": [],
+      "painel": "a2-gramatica",
+      "fonte": "0151_04_MUCH_MANY_A_LOT_OF_Muito.md"
+    },
+    {
+      "id": "A2-L4-0084-02",
+      "tipo": "estrutura com exemplos",
+      "tema": "sleep — dormir",
+      "principal": "Verbos",
+      "secundarias": [
+        "Gramática"
+      ],
+      "painel": "a2-verbos",
+      "fonte": "0084_02_SLEEP_Dormir.md"
+    },
+    {
+      "id": "A2-L4-0092-26",
+      "tipo": "estrutura com exemplos",
+      "tema": "frases de conversação",
+      "principal": "Conversação",
+      "secundarias": [
+        "Vocabulário"
+      ],
+      "painel": "a2-conversacao",
+      "fonte": "0092_03___120_frases_para_uma_conversa_em_inglês_(LM10-Livro_digital).md"
+    },
+    {
+      "id": "A2-L5-0115-02",
+      "tipo": "conceito ensinável com exemplos",
+      "tema": "or, either...or e neither...nor",
+      "principal": "Gramática",
+      "secundarias": [],
+      "painel": "a2-gramatica",
+      "fonte": "0115_03_OR_Ou_Alternativa.md"
+    },
+    {
+      "id": "A2-L5-0138-01",
+      "tipo": "conceito ensinável com exemplos",
+      "tema": "finish — terminar",
+      "principal": "Verbos",
+      "secundarias": [
+        "Vocabulário"
+      ],
+      "painel": "a2-verbos",
+      "fonte": "0138_04_FINISH_Terminar.md"
+    },
+    {
+      "id": "A2-L5-0169-05",
+      "tipo": "conceito ensinável com exemplos",
+      "tema": "because, because of, since e as",
+      "principal": "Gramática",
+      "secundarias": [],
+      "painel": "a2-gramatica",
+      "fonte": "0169_05_BECAUSE_Porque.md"
+    },
+    {
+      "id": "B1-L4-0108-01",
+      "tipo": "estrutura com exemplos",
+      "tema": "make — tomar e cometer",
+      "principal": "Verbos",
+      "secundarias": [
+        "Gramática"
+      ],
+      "painel": "b1-verbos",
+      "fonte": "0108_03_MAKE_Tomar_Cometer.md"
+    },
+    {
+      "id": "B1-L5-0155-01",
+      "tipo": "conceito ensinável com exemplos",
+      "tema": "phrasal verbs com look, find e run",
+      "principal": "Vocabulário",
+      "secundarias": [
+        "Gramática"
+      ],
+      "painel": "b1-vocabulario",
+      "fonte": "0155_04_Phrasal_LOOK_FIND_RUN.md"
+    },
+    {
+      "id": "B2-L5-0134-04",
+      "tipo": "conceito ensinável com exemplos",
+      "tema": "despite e in spite of",
+      "principal": "Gramática",
+      "secundarias": [],
+      "painel": "b2-gramatica",
+      "fonte": "0134_04_DESPITE_Apesar_De.md"
+    }
+  ]
+}

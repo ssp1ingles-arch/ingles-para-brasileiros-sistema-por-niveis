@@ -1,0 +1,19 @@
+{
+  "lote": "018",
+  "base_preservada": 1977,
+  "unidades_novas": 0,
+  "atividades_novas": 0,
+  "total": 1977,
+  "unidades_sem_atividade_novas": [],
+  "correcoes": [
+    {
+      "tipo": "deduplicação objetiva de exemplos em unidades existentes",
+      "itens": [
+        "How often do you exercise? removido de A2-L15-0824-01; preservado em A2-L14-0752-01",
+        "I got it. removido de A2-L9-0424-01; preservado em B1-L16-0901-01"
+      ],
+      "impacto_atividades": "nenhum"
+    }
+  ],
+  "justificativa": "As fontes canônicas consolidam conteúdo já ensinado; o teste multinível não foi republicado como atividade. Base preservada integralmente."
+}

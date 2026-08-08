@@ -1,0 +1,15 @@
+import{chromium}from'playwright-core';import fs from'node:fs';import path from'node:path';
+const root=path.resolve(import.meta.dirname,'..'),out=path.join(root,'docs/evidencias/lote-008');fs.mkdirSync(out,{recursive:true});
+const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});
+const shot=async(name,url,setup=async()=>{},viewport={width:1440,height:1100})=>{const p=await browser.newPage({viewport});await p.goto(url);await setup(p);await p.screenshot({path:path.join(out,name),fullPage:false});await p.close()};
+await shot('fonte-0318-publicada.png','http://127.0.0.1:8000/niveis/a2/#A2-L8-0318-01',async p=>{await p.waitForSelector('#A2-L8-0318-01');await p.locator('#A2-L8-0318-01').scrollIntoViewIfNeeded()});
+await shot('a2-agrupamentos.png','http://127.0.0.1:8000/niveis/a2/',async p=>p.waitForSelector('.unit-group'));
+await shot('modo-estudo-configuracao.png','http://127.0.0.1:8000/estudar.html',async p=>p.waitForSelector('#studySetup'));
+const seed=async p=>{await p.waitForSelector('#studySetup');await p.locator('#studyLevel').selectOption('A2');await p.locator('#startStudy').click();await p.locator('#revealStudy').click()};
+await shot('cartao-revelado.png','http://127.0.0.1:8000/estudar.html',seed);
+const seedProgress=async p=>{await p.waitForSelector('#studySummary');await p.evaluate(()=>localStorage.setItem('studyProgressV1',JSON.stringify({'A2-L8-0318-01':{firstStudy:new Date().toISOString(),lastReview:new Date().toISOString(),nextReview:new Date(Date.now()-1000).toISOString(),reviews:2,lastRating:'hard',streak:1,state:'review'}})));await p.reload();await p.waitForSelector('#studySummary')};
+await shot('painel-progresso.png','http://127.0.0.1:8000/estudar.html',seedProgress);
+await shot('sessao-mobile.png','http://127.0.0.1:8000/estudar.html',seed,{width:390,height:844});
+await shot('estado-revisao.png','http://127.0.0.1:8000/estudar.html',async p=>{await seedProgress(p);await p.locator('#studySource').selectOption('due')});
+await shot('painel-filtro-ativo.png','http://127.0.0.1:8000/niveis/a2/',async p=>{await p.waitForFunction(()=>document.querySelectorAll('#painel option').length>1);await p.locator('#painel').selectOption({index:1});await p.waitForTimeout(100)});
+console.log('EVIDÊNCIAS 008 OK: 8 capturas.');await browser.close();

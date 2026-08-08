@@ -1,0 +1,282 @@
+[
+  {
+    "caminho": "estudar.html",
+    "tipo": "ferramenta de aprendizagem",
+    "nivel_relacionado": null,
+    "http_status": 200,
+    "titulo": "Estudar e revisar",
+    "javascript_carregado": [
+      "js/estudo.js"
+    ],
+    "dados_carregados": [
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json",
+      "/dados/c2/unidades.json",
+      "/dados/kids/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  },
+  {
+    "caminho": "index.html",
+    "tipo": "página inicial",
+    "nivel_relacionado": null,
+    "http_status": 200,
+    "titulo": "Inglês por Níveis",
+    "javascript_carregado": [
+      "js/app.js"
+    ],
+    "dados_carregados": [
+      "/dados/niveis.json",
+      "/dados/compatibilidade-subpaineis.json",
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json",
+      "/dados/c2/unidades.json",
+      "/dados/kids/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  },
+  {
+    "caminho": "jornada.html",
+    "tipo": "ferramenta de aprendizagem",
+    "nivel_relacionado": null,
+    "http_status": 200,
+    "titulo": "Jornada Guiada",
+    "javascript_carregado": [
+      "js/jornada.js"
+    ],
+    "dados_carregados": [
+      "/dados/jornadas.json",
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json",
+      "/dados/c2/unidades.json",
+      "/dados/kids/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  },
+  {
+    "caminho": "niveis/a1/index.html",
+    "tipo": "página de nível",
+    "nivel_relacionado": "A1",
+    "http_status": 200,
+    "titulo": "A1 — Iniciante",
+    "javascript_carregado": [
+      "../../js/app.js"
+    ],
+    "dados_carregados": [
+      "/dados/niveis.json",
+      "/dados/compatibilidade-subpaineis.json",
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json",
+      "/dados/c2/unidades.json",
+      "/dados/kids/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  },
+  {
+    "caminho": "niveis/a2/index.html",
+    "tipo": "página de nível",
+    "nivel_relacionado": "A2",
+    "http_status": 200,
+    "titulo": "A2 — Básico consolidado",
+    "javascript_carregado": [
+      "../../js/app.js"
+    ],
+    "dados_carregados": [
+      "/dados/niveis.json",
+      "/dados/compatibilidade-subpaineis.json",
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json",
+      "/dados/c2/unidades.json",
+      "/dados/kids/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  },
+  {
+    "caminho": "niveis/b1/index.html",
+    "tipo": "página de nível",
+    "nivel_relacionado": "B1",
+    "http_status": 200,
+    "titulo": "B1 — Intermediário",
+    "javascript_carregado": [
+      "../../js/app.js"
+    ],
+    "dados_carregados": [
+      "/dados/niveis.json",
+      "/dados/compatibilidade-subpaineis.json",
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json",
+      "/dados/c2/unidades.json",
+      "/dados/kids/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  },
+  {
+    "caminho": "niveis/b2/index.html",
+    "tipo": "página de nível",
+    "nivel_relacionado": "B2",
+    "http_status": 200,
+    "titulo": "B2 — Intermediário avançado",
+    "javascript_carregado": [
+      "../../js/app.js"
+    ],
+    "dados_carregados": [
+      "/dados/niveis.json",
+      "/dados/compatibilidade-subpaineis.json",
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json",
+      "/dados/c2/unidades.json",
+      "/dados/kids/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  },
+  {
+    "caminho": "niveis/c1/index.html",
+    "tipo": "página de nível",
+    "nivel_relacionado": "C1",
+    "http_status": 200,
+    "titulo": "C1 — Avançado",
+    "javascript_carregado": [
+      "../../js/app.js"
+    ],
+    "dados_carregados": [
+      "/dados/niveis.json",
+      "/dados/compatibilidade-subpaineis.json",
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json",
+      "/dados/c2/unidades.json",
+      "/dados/kids/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  },
+  {
+    "caminho": "niveis/c2/index.html",
+    "tipo": "página de nível",
+    "nivel_relacionado": "C2",
+    "http_status": 200,
+    "titulo": "C2 — Proficiência",
+    "javascript_carregado": [
+      "../../js/app.js"
+    ],
+    "dados_carregados": [
+      "/dados/niveis.json",
+      "/dados/compatibilidade-subpaineis.json",
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json",
+      "/dados/c2/unidades.json",
+      "/dados/kids/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  },
+  {
+    "caminho": "niveis/kids/index.html",
+    "tipo": "página de nível",
+    "nivel_relacionado": "KIDS",
+    "http_status": 200,
+    "titulo": "Kids — Trilha infantil",
+    "javascript_carregado": [
+      "../../js/app.js"
+    ],
+    "dados_carregados": [
+      "/dados/niveis.json",
+      "/dados/compatibilidade-subpaineis.json",
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json",
+      "/dados/c2/unidades.json",
+      "/dados/kids/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  },
+  {
+    "caminho": "praticar.html",
+    "tipo": "ferramenta de aprendizagem",
+    "nivel_relacionado": null,
+    "http_status": 200,
+    "titulo": "Praticar",
+    "javascript_carregado": [
+      "js/pratica.js"
+    ],
+    "dados_carregados": [
+      "/dados/atividades.json",
+      "/dados/a1/unidades.json",
+      "/dados/a2/unidades.json",
+      "/dados/b1/unidades.json",
+      "/dados/b2/unidades.json",
+      "/dados/c1/unidades.json"
+    ],
+    "erros_console": [],
+    "estado_visual_testado": [
+      "desktop 1440x1000",
+      "celular 390x844"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "lote": "013",
+  "fontes": [
+    {
+      "numero": 796,
+      "nome": "0796_READ_Sentido_LER.md",
+      "hash_bruto": "626494b9db0f50c24e01f2800544f94297983fafd2fdb849d503d9f3045493c6",
+      "acao": "não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo integral idêntico à fonte 0314."
+    },
+    {
+      "numero": 874,
+      "nome": "0874_WRITE_Sentido_01_ESCREVER.md",
+      "hash_bruto": "bcf3f2075265689db5b356b5d79bc1b3ae7d000991d81982914cc68ecf81703d",
+      "acao": "não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo integral idêntico à fonte 0342."
+    },
+    {
+      "numero": 1409,
+      "nome": "1409_04_English_for_Everyone_Practice_Book_Level_4_Advanced_A_Complete_Self-Study_Programme_2.md",
+      "hash_bruto": "50b578e1060d31bee7e72ea1c39c1d108f2a329a8c6a9a34c0c7dff55b275f98",
+      "acao": "não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo integral idêntico à fonte 1408."
+    },
+    {
+      "numero": 1440,
+      "nome": "1440_05_Complete_Advanced_Student's_Book_with_Answers_with_Digital_Pack_2.md",
+      "hash_bruto": "34bbe0d5277d394f5c0b5633ab5e7690ea3714ee749a14c36963d2bab18fcdf1",
+      "acao": "não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo integral idêntico à fonte 1439."
+    },
+    {
+      "numero": 1359,
+      "nome": "1359_English_Coach_Chad___Listening,_Learning,_Repeating,_and_Shadowing__English_Speaking_Skills.md",
+      "hash_bruto": "47d9dc0cf90e7d742c174cd84ace8defc9cd9c4e2ae3fce5c8f5fc1c3c1f1880",
+      "acao": "integrar em B2-L13-1359-01",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Combinar escuta detalhada, ritmo e produção contínua sustenta B2."
+    },
+    {
+      "numero": 1361,
+      "nome": "1361_English_Coach_Chad___English_SHADOWING_Practice__Listen,_Learn,_Repeat_&_Shadow__Repeat_After_Me.md",
+      "hash_bruto": "5944bdc0c3a0d3de39fc6ac1592af810d7ba8d2043f7a33c771141dfec567602",
+      "acao": "integrar em B2-L13-1359-01",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Combinar escuta detalhada, ritmo e produção contínua sustenta B2."
+    },
+    {
+      "numero": 1362,
+      "nome": "1362_English_Coach_Chad___Just_LISTEN_or_SHADOW__Repeat_after_me_or_Say_it_with_me__Practice_Speaking_English.md",
+      "hash_bruto": "796b28c6a3a40be709173bb0a69452fcc8db87e44fdbe652cc541066bf021181",
+      "acao": "integrar em B2-L13-1359-01",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Combinar escuta detalhada, ritmo e produção contínua sustenta B2."
+    },
+    {
+      "numero": 1363,
+      "nome": "1363_English_Coach_Chad___Repeat-After-Me_or_just_LISTEN_or_for_English_Speaking_Fluency_SHADOWING_Practice.md",
+      "hash_bruto": "a7e1b69a07908a4237ca6280fba7ceaa61b5e17175aceeb862acd3c07508e66e",
+      "acao": "integrar em B2-L13-1359-01",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Combinar escuta detalhada, ritmo e produção contínua sustenta B2."
+    },
+    {
+      "numero": 1443,
+      "nome": "1443_07_English_Pronunciation_in_Use._Advanced.md",
+      "hash_bruto": "6d2d052b3fcaf75467009508beccd25000ff7c128412de68567c85b9e362ceaf",
+      "acao": "integrar em C1-L13-1443-01",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Controle discursivo de proeminência e atitude exige percepção e produção de C1."
+    },
+    {
+      "numero": 1445,
+      "nome": "1445_08_Reactivate_Your_Grammar_And_Vocabulary_C1C2_-_Exams.md",
+      "hash_bruto": "9218ccb95474ab443017a6366554e6f94bdad44becce7de673a5174e5c64567d",
+      "acao": "integrar em C2-L13-1445-01",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Reformulação, colocações, registro e edição fina fornecem evidência direta de proficiência C2."
+    },
+    {
+      "numero": 1468,
+      "nome": "1468_06_Close-up_-_1st_-_C2_Workbook.md",
+      "hash_bruto": "21d7dc803441f486a0cbd2ec53f65682639072fd6adf976090bd6013462f513d",
+      "acao": "integrar em C2-L13-1468-01",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Inferência de nuance, avaliação de registro e resposta integrada sustentam C2."
+    },
+    {
+      "numero": 1514,
+      "nome": "1514_livro02_16.md",
+      "hash_bruto": "8ccb6a89475dfade4e4716848d899202bfe2f9cc084f2a63b7beb93df26584e4",
+      "acao": "integrar em KIDS-L13-1514-01",
+      "status": "integralmente classificada antecipadamente",
+      "justificativa": "Narrativa e tarefas concretas destinadas a crianças sustentam a trilha Kids."
+    }
+  ],
+  "quantidade": 12,
+  "lacunas": [
+    "escrita",
+    "leitura",
+    "escuta",
+    "pronúncia",
+    "C1",
+    "C2",
+    "Kids"
+  ],
+  "observacao": "Duplicatas dirigidas foram registradas sem republicação; livros extensos foram divididos por função, não despejados integralmente em um painel."
+}

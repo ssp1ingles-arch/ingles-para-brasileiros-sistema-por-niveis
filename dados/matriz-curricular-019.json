@@ -1,0 +1,47 @@
+{
+  "versao": "019",
+  "gerado_em": "2026-08-08T13:33:53.334Z",
+  "comparacao": {
+    "antes": {
+      "tratadas": 1172,
+      "pendentes": 375,
+      "cobertura": 75.76
+    },
+    "depois": {
+      "tratadas": 1214,
+      "pendentes": 333,
+      "cobertura": 78.47
+    }
+  },
+  "unidades": 824,
+  "atividades": 1977,
+  "subpaineis": 95,
+  "por_nivel": {
+    "A1": 80,
+    "A2": 359,
+    "B1": 265,
+    "B2": 91,
+    "C1": 18,
+    "C2": 5,
+    "KIDS": 6
+  },
+  "por_habilidade": {
+    "Conversação": 99,
+    "Escrita": 7,
+    "Escuta": 15,
+    "Gramática": 281,
+    "Inglês acadêmico": 14,
+    "Inglês profissional": 5,
+    "Leitura": 13,
+    "Pronúncia": 21,
+    "Verbos": 339,
+    "Vocabulário": 30
+  },
+  "impacto": "41 duplicatas consolidadas e uma referência extensa distribuída em 104 destinos; matriz pedagógica preservada.",
+  "lacunas_abertas": [
+    "escuta objetiva",
+    "inglês profissional",
+    "Kids legítimo",
+    "C2 comprovado"
+  ]
+}

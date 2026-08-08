@@ -1,0 +1,60 @@
+{
+  "lote": "020",
+  "base_preservada": 1977,
+  "unidades_novas": 10,
+  "atividades_novas": 0,
+  "total": 1977,
+  "unidades_sem_atividade": 66,
+  "avaliacao_unidades_novas": [
+    {
+      "id": "A2-L20-1163-01",
+      "elegivel": false,
+      "motivo": "Contraste, conversa ou referência admite produção aberta e múltiplas respostas naturais; não automatizar."
+    },
+    {
+      "id": "B1-L20-1163-02",
+      "elegivel": false,
+      "motivo": "Contraste, conversa ou referência admite produção aberta e múltiplas respostas naturais; não automatizar."
+    },
+    {
+      "id": "B1-L20-1164-01",
+      "elegivel": false,
+      "motivo": "Contraste, conversa ou referência admite produção aberta e múltiplas respostas naturais; não automatizar."
+    },
+    {
+      "id": "B1-L20-1166-01",
+      "elegivel": false,
+      "motivo": "Contraste, conversa ou referência admite produção aberta e múltiplas respostas naturais; não automatizar."
+    },
+    {
+      "id": "B1-L20-1168-01",
+      "elegivel": false,
+      "motivo": "Contraste, conversa ou referência admite produção aberta e múltiplas respostas naturais; não automatizar."
+    },
+    {
+      "id": "B1-L20-1170-01",
+      "elegivel": false,
+      "motivo": "Contraste, conversa ou referência admite produção aberta e múltiplas respostas naturais; não automatizar."
+    },
+    {
+      "id": "B2-L20-1164-02",
+      "elegivel": false,
+      "motivo": "Contraste, conversa ou referência admite produção aberta e múltiplas respostas naturais; não automatizar."
+    },
+    {
+      "id": "B2-L20-1166-02",
+      "elegivel": false,
+      "motivo": "Contraste, conversa ou referência admite produção aberta e múltiplas respostas naturais; não automatizar."
+    },
+    {
+      "id": "B2-L20-1168-02",
+      "elegivel": false,
+      "motivo": "Contraste, conversa ou referência admite produção aberta e múltiplas respostas naturais; não automatizar."
+    },
+    {
+      "id": "B2-L20-1170-02",
+      "elegivel": false,
+      "motivo": "Contraste, conversa ou referência admite produção aberta e múltiplas respostas naturais; não automatizar."
+    }
+  ]
+}

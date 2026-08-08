@@ -1,0 +1,91 @@
+{
+  "total": 17,
+  "aprovados": 17,
+  "resultados": [
+    {
+      "teste": "80 fontes sequenciais",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "12 fontes dirigidas únicas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "visual completo e em ordem",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "parciais visuais resolvidas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "IDs de unidade únicos",
+      "resultado": "APROVADO",
+      "detalhe": "783"
+    },
+    {
+      "teste": "IDs de atividade únicos",
+      "resultado": "APROVADO",
+      "detalhe": "1948"
+    },
+    {
+      "teste": "todas as unidades apontam para painel existente",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "subpainéis consolidados",
+      "resultado": "APROVADO",
+      "detalhe": "95"
+    },
+    {
+      "teste": "compatibilidade registrada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "novas unidades têm atividade",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "sem lacuna ambígua",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Kids tem CEFR",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "C2 tem justificativa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "fontes originais preservadas por hash",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "mapa reflete revisão",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "um bloco atual automático",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Retomada manual removida",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

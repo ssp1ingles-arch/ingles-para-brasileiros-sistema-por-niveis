@@ -1,0 +1,114 @@
+{
+  "total": 27,
+  "aprovados": 27,
+  "resultados": [
+    {
+      "teste": "tipo reordenar",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "tipo parear",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "tipo producao_autorrevisao",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "tipo identificar_contraste",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "lacunas triviais removidas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem múltipla escolha inventada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "origem correta",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "respostas não vazias",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "ambíguas excluídas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "antecipadas sem duplicação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "jornada estável",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "abrir praticar.html",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "filtrar A1",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "iniciar sessão",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "reordenar corretamente",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "retomar sessão",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "feedback de erro",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "erro enviado à revisão",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "persistência métricas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "acerto não domina",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "pareamento renderizado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "revelar resposta",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "abrir unidade original",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "praticar etapa pela jornada",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "filtro de etapa na prática",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "prática celular",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "foco teclado",
+      "resultado": "APROVADO"
+    }
+  ]
+}

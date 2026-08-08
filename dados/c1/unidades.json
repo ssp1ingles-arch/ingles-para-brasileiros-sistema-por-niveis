@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "C1-L3-0051-02",
+    "titulo": "whereas e while — USO 2 — WHILE = ENQUANTO (tempo) e ENQUANTO QUE (contraste)",
+    "nivel": "C1",
+    "nivel_secundario": null,
+    "tema": "whereas e while",
+    "habilidades": [
+      "Gramática",
+      "Leitura"
+    ],
+    "tipo": "estrutura com exemplos",
+    "explicacao_pt": "Organização editorial da seção “USO 2 — WHILE = ENQUANTO (tempo) e ENQUANTO QUE (contraste)”.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "tempo                 I listened to music while I cooked.               Eu ouvi música enquanto cozinhava.",
+      "tempo        She called me while I was sleeping.                 Ela me ligou enquanto eu estava dormindo.",
+      "contraste            I like summer, while he prefers winter.            Eu gosto do verão, enquanto que ele prefere o inverno.",
+      "contraste      She talks a lot, while he is very quiet.                Ela fala muito, enquanto que ele é muito quieto."
+    ],
+    "traducoes": [
+      "tempo        She called me while I was sleeping.                 Ela me ligou enquanto eu estava dormindo.",
+      "contraste            I like summer, while he prefers winter.            Eu gosto do verão, enquanto que ele prefere o inverno.",
+      "contraste      She talks a lot, while he is very quiet.                Ela fala muito, enquanto que ele é muito quieto.",
+      "⚠️ WHILE tem DOIS usos: tempo (enquanto = ao mesmo tempo) e contraste (enquanto que = diferença). O contexto define."
+    ],
+    "origem_traducoes": "fonte",
+    "observacao_uso": "O texto-fonte integral não integra a publicação; título, agrupamento e classificação são editoriais.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "0051_01_WHEREAS_Enquanto_Que.md",
+      "arquivo_original": "01_WHEREAS_Enquanto_Que.pdf",
+      "pagina": "seção no Markdown",
+      "secao": "USO 2 — WHILE = ENQUANTO (tempo) e ENQUANTO QUE (contraste)"
+    },
+    "confianca_classificacao": "média",
+    "justificativa_nivel": "A função, os tempos verbais, a carga lexical e a autonomia exigida nesta seção sustentam C1.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "fontes": [
+      {
+        "arquivo": "0051_01_WHEREAS_Enquanto_Que.md",
+        "arquivo_original": "01_WHEREAS_Enquanto_Que.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "USO 2 — WHILE = ENQUANTO (tempo) e ENQUANTO QUE (contraste)"
+      },
+      {
+        "arquivo": "0052_01_WHEREAS_Enquanto_Que_S001.md",
+        "arquivo_original": "01_WHEREAS_Enquanto_Que_S001.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "corpo textual normalizado idêntico ao canônico"
+      },
+      {
+        "arquivo": "0702_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE.md",
+        "arquivo_original": "QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0051"
+      },
+      {
+        "arquivo": "0703_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE_S001.md",
+        "arquivo_original": "QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE_S001.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0051"
+      },
+      {
+        "arquivo": "1152_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE_2.md",
+        "arquivo_original": "QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE.pdf",
+        "pagina": "mesmas páginas/seções da canônica normalizada",
+        "secao": "duplicata textual de 0051"
+      }
+    ],
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [
+      "Leitura"
+    ],
+    "ordem_global": 796,
+    "ordem_nivel": 1,
+    "ordem_painel": 1,
+    "subpainel": "Perguntas e negativas",
+    "ordem_subpainel": 1,
+    "ordem_pedagogica": 1,
+    "subpainel_anterior": "whereas e while"
+  },
+  {
+    "id": "C1-L3-0051-03",
+    "titulo": "whereas e while — USO 3 — WHEREAS vs WHILE vs BUT (comparação)",
+    "nivel": "C1",
+    "nivel_secundario": null,
+    "tema": "whereas e while",
+    "habilidades": [
+      "Gramática",
+      "Leitura"
+    ],
+    "tipo": "estrutura com exemplos",
+    "explicacao_pt": "Organização editorial da seção “USO 3 — WHEREAS vs WHILE vs BUT (comparação)”.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "BUT              contraste casual                         I like coffee, but she likes tea.             Gosto de café, mas ela gosta de chá.",
+      "WHILE           contraste + tempo          She talks while he listens.                  Ela fala enquanto ele escuta.",
+      "WHEREAS       contraste formal            She is fast, whereas he is slow.             Ela é rápida, enquanto que ele é lento.",
+      "HOWEVER       contraste entre frases       She is fast. However, he is slow.            Ela é rápida. No entanto, ele é lento."
+    ],
+    "traducoes": [
+      "WHILE           contraste + tempo          She talks while he listens.                  Ela fala enquanto ele escuta.",
+      "WHEREAS       contraste formal            She is fast, whereas he is slow.             Ela é rápida, enquanto que ele é lento.",
+      "HOWEVER       contraste entre frases       She is fast. However, he is slow.            Ela é rápida. No entanto, ele é lento.",
+      "💡 Para contraste direto entre DUAS PESSOAS ou COISAS: WHEREAS é a escolha mais precisa e formal."
+    ],
+    "origem_traducoes": "fonte",
+    "observacao_uso": "O texto-fonte integral não integra a publicação; título, agrupamento e classificação são editoriais.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "0051_01_WHEREAS_Enquanto_Que.md",
+      "arquivo_original": "01_WHEREAS_Enquanto_Que.pdf",
+      "pagina": "seção no Markdown",
+      "secao": "USO 3 — WHEREAS vs WHILE vs BUT (comparação)"
+    },
+    "confianca_classificacao": "média",
+    "justificativa_nivel": "A função, os tempos verbais, a carga lexical e a autonomia exigida nesta seção sustentam C1.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "fontes": [
+      {
+        "arquivo": "0051_01_WHEREAS_Enquanto_Que.md",
+        "arquivo_original": "01_WHEREAS_Enquanto_Que.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "USO 3 — WHEREAS vs WHILE vs BUT (comparação)"
+      },
+      {
+        "arquivo": "0052_01_WHEREAS_Enquanto_Que_S001.md",
+        "arquivo_original": "01_WHEREAS_Enquanto_Que_S001.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "corpo textual normalizado idêntico ao canônico"
+      },
+      {
+        "arquivo": "0702_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE.md",
+        "arquivo_original": "QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0051"
+      },
+      {
+        "arquivo": "0703_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE_S001.md",
+        "arquivo_original": "QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE_S001.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0051"
+      },
+      {
+        "arquivo": "1152_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE_2.md",
+        "arquivo_original": "QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE.pdf",
+        "pagina": "mesmas páginas/seções da canônica normalizada",
+        "secao": "duplicata textual de 0051"
+      }
+    ],
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [
+      "Leitura"
+    ],
+    "ordem_global": 797,
+    "ordem_nivel": 2,
+    "ordem_painel": 2,
+    "subpainel": "Perguntas e negativas",
+    "ordem_subpainel": 2,
+    "ordem_pedagogica": 2,
+    "subpainel_anterior": "whereas e while"
+  },
+  {
+    "id": "C1-L3-0051-04",
+    "titulo": "whereas e while — USO 4 — WHILE no início da frase",
+    "nivel": "C1",
+    "nivel_secundario": null,
+    "tema": "whereas e while",
+    "habilidades": [
+      "Gramática",
+      "Leitura"
+    ],
+    "tipo": "estrutura com exemplos",
+    "explicacao_pt": "Organização editorial da seção “USO 4 — WHILE no início da frase”.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "início tempo         While I was cooking, the phone rang.             Enquanto eu cozinhava, o telefone tocou.",
+      "início contraste       While some love it, others hate it.                Enquanto alguns amam, outros odeiam.",
+      "início tempo         While she slept, he cleaned the house.           Enquanto ela dormia, ele limpou a casa.",
+      "início contraste       While I prefer the city, he loves nature.            Enquanto que eu prefiro a cidade, ele ama a natureza."
+    ],
+    "traducoes": [
+      "início contraste       While some love it, others hate it.                Enquanto alguns amam, outros odeiam.",
+      "início tempo         While she slept, he cleaned the house.           Enquanto ela dormia, ele limpou a casa.",
+      "início contraste       While I prefer the city, he loves nature.            Enquanto que eu prefiro a cidade, ele ama a natureza.",
+      "💡 WHILE no início da frase sempre tem vírgula depois da primeira oração."
+    ],
+    "origem_traducoes": "fonte",
+    "observacao_uso": "O texto-fonte integral não integra a publicação; título, agrupamento e classificação são editoriais.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "0051_01_WHEREAS_Enquanto_Que.md",
+      "arquivo_original": "01_WHEREAS_Enquanto_Que.pdf",
+      "pagina": "seção no Markdown",
+      "secao": "USO 4 — WHILE no início da frase"
+    },
+    "confianca_classificacao": "média",
+    "justificativa_nivel": "A função, os tempos verbais, a carga lexical e a autonomia exigida nesta seção sustentam C1.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "fontes": [
+      {
+        "arquivo": "0051_01_WHEREAS_Enquanto_Que.md",
+        "arquivo_original": "01_WHEREAS_Enquanto_Que.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "USO 4 — WHILE no início da frase"
+      },
+      {
+        "arquivo": "0052_01_WHEREAS_Enquanto_Que_S001.md",
+        "arquivo_original": "01_WHEREAS_Enquanto_Que_S001.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "corpo textual normalizado idêntico ao canônico"
+      },
+      {
+        "arquivo": "0702_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE.md",
+        "arquivo_original": "QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0051"
+      },
+      {
+        "arquivo": "0703_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE_S001.md",
+        "arquivo_original": "QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE_S001.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0051"
+      },
+      {
+        "arquivo": "1152_QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE_2.md",
+        "arquivo_original": "QW_CONJ_WHEREAS_ENQUANTO_QUE_CONTRASTE.pdf",
+        "pagina": "mesmas páginas/seções da canônica normalizada",
+        "secao": "duplicata textual de 0051"
+      }
+    ],
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [
+      "Leitura"
+    ],
+    "ordem_global": 798,
+    "ordem_nivel": 3,
+    "ordem_painel": 3,
+    "subpainel": "Perguntas e negativas",
+    "ordem_subpainel": 3,
+    "ordem_pedagogica": 3,
+    "subpainel_anterior": "whereas e while"
+  },
+  {
+    "id": "C1-L4-0074-02",
+    "titulo": "nevertheless — USO 2 — NONETHELESS = MESMO ASSIM / AINDA ASSIM (sinônimo formal)",
+    "nivel": "C1",
+    "nivel_secundario": null,
+    "tema": "nevertheless",
+    "habilidades": [
+      "Gramática"
+    ],
+    "tipo": "estrutura com exemplos",
+    "explicacao_pt": "Organização editorial da seção “USO 2 — NONETHELESS = MESMO ASSIM / AINDA ASSIM (sinônimo formal)”.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "contraste    The results were poor. Nonetheless, they continued.       Os resultados foram ruins. Mesmo assim, eles continuaram.",
+      "contraste        It was expensive. Nonetheless, she bought it.              Era caro. Mesmo assim, ela comprou.",
+      "contraste   He disagreed. Nonetheless, he supported the team.          Ele discordou. Mesmo assim, apoiou a equipe."
+    ],
+    "traducoes": [
+      "contraste        It was expensive. Nonetheless, she bought it.              Era caro. Mesmo assim, ela comprou.",
+      "contraste   He disagreed. Nonetheless, he supported the team.          Ele discordou. Mesmo assim, apoiou a equipe.",
+      "💡 NONETHELESS = NEVERTHELESS. São intercambiáveis. NONETHELESS é ligeiramente mais comum em inglês americano."
+    ],
+    "origem_traducoes": "fonte",
+    "observacao_uso": "O texto-fonte integral não integra a publicação.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "0074_02_NEVERTHELESS_Mesmo_Assim.md",
+      "arquivo_original": "02_NEVERTHELESS_Mesmo_Assim.pdf",
+      "pagina": "seção no Markdown",
+      "secao": "USO 2 — NONETHELESS = MESMO ASSIM / AINDA ASSIM (sinônimo formal)"
+    },
+    "confianca_classificacao": "média",
+    "justificativa_nivel": "Função, carga lexical, ritmo e estruturas desta seção sustentam C1.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "fontes": [
+      {
+        "arquivo": "0074_02_NEVERTHELESS_Mesmo_Assim.md",
+        "arquivo_original": "02_NEVERTHELESS_Mesmo_Assim.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "USO 2 — NONETHELESS = MESMO ASSIM / AINDA ASSIM (sinônimo formal)"
+      },
+      {
+        "arquivo": "0075_02_NEVERTHELESS_Mesmo_Assim_S001.md",
+        "arquivo_original": "02_NEVERTHELESS_Mesmo_Assim_S001.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "texto normalizado idêntico ao canônico"
+      },
+      {
+        "arquivo": "0682_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO.md",
+        "arquivo_original": "QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0074"
+      },
+      {
+        "arquivo": "0683_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO_S001.md",
+        "arquivo_original": "QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO_S001.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0074"
+      },
+      {
+        "arquivo": "1141_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO_2.md",
+        "arquivo_original": "QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO.pdf",
+        "pagina": "mesmas páginas/seções da canônica normalizada",
+        "secao": "duplicata textual de 0074"
+      }
+    ],
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [],
+    "ordem_global": 799,
+    "ordem_nivel": 4,
+    "ordem_painel": 4,
+    "subpainel": "Tempo e lugar",
+    "ordem_subpainel": 1,
+    "ordem_pedagogica": 4,
+    "subpainel_anterior": "nevertheless"
+  },
+  {
+    "id": "C1-L4-0074-03",
+    "titulo": "nevertheless — USO 3 — STILL = AINDA ASSIM / MESMO ASSIM (informal, meio da frase)",
+    "nivel": "C1",
+    "nivel_secundario": null,
+    "tema": "nevertheless",
+    "habilidades": [
+      "Gramática"
+    ],
+    "tipo": "estrutura com exemplos",
+    "explicacao_pt": "Organização editorial da seção “USO 3 — STILL = AINDA ASSIM / MESMO ASSIM (informal, meio da frase)”.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "meio        The food was bad. I still ate it.                   A comida estava ruim. Mesmo assim, eu comi.",
+      "meio        She was tired. She still went to the gym.                 Ela estava cansada. Mesmo assim, foi à academia.",
+      "meio                It was late. We still decided to go.                      Estava tarde. Mesmo assim, decidimos ir."
+    ],
+    "traducoes": [
+      "meio        She was tired. She still went to the gym.                 Ela estava cansada. Mesmo assim, foi à academia.",
+      "meio       He didn't study. He still passed.                         Ele não estudou. Mesmo assim, passou.",
+      "⚠️ STILL (contraste) fica no MEIO da frase, antes do verbo principal. Diferente de STILL = 'ainda' (continuidade)."
+    ],
+    "origem_traducoes": "fonte",
+    "observacao_uso": "O texto-fonte integral não integra a publicação.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "0074_02_NEVERTHELESS_Mesmo_Assim.md",
+      "arquivo_original": "02_NEVERTHELESS_Mesmo_Assim.pdf",
+      "pagina": "seção no Markdown",
+      "secao": "USO 3 — STILL = AINDA ASSIM / MESMO ASSIM (informal, meio da frase)"
+    },
+    "confianca_classificacao": "média",
+    "justificativa_nivel": "Função, carga lexical, ritmo e estruturas desta seção sustentam C1.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "fontes": [
+      {
+        "arquivo": "0074_02_NEVERTHELESS_Mesmo_Assim.md",
+        "arquivo_original": "02_NEVERTHELESS_Mesmo_Assim.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "USO 3 — STILL = AINDA ASSIM / MESMO ASSIM (informal, meio da frase)"
+      },
+      {
+        "arquivo": "0075_02_NEVERTHELESS_Mesmo_Assim_S001.md",
+        "arquivo_original": "02_NEVERTHELESS_Mesmo_Assim_S001.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "texto normalizado idêntico ao canônico"
+      },
+      {
+        "arquivo": "0682_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO.md",
+        "arquivo_original": "QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0074"
+      },
+      {
+        "arquivo": "0683_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO_S001.md",
+        "arquivo_original": "QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO_S001.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0074"
+      },
+      {
+        "arquivo": "1141_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO_2.md",
+        "arquivo_original": "QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO.pdf",
+        "pagina": "mesmas páginas/seções da canônica normalizada",
+        "secao": "duplicata textual de 0074"
+      }
+    ],
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [],
+    "ordem_global": 800,
+    "ordem_nivel": 5,
+    "ordem_painel": 5,
+    "subpainel": "Tempo e lugar",
+    "ordem_subpainel": 2,
+    "ordem_pedagogica": 5,
+    "subpainel_anterior": "nevertheless"
+  },
+  {
+    "id": "C1-L4-0074-04",
+    "titulo": "nevertheless — USO 4 — Comparação: HOWEVER / NEVERTHELESS / NONETHELESS / STILL",
+    "nivel": "C1",
+    "nivel_secundario": null,
+    "tema": "nevertheless",
+    "habilidades": [
+      "Gramática"
+    ],
+    "tipo": "estrutura com exemplos",
+    "explicacao_pt": "Organização editorial da seção “USO 4 — Comparação: HOWEVER / NEVERTHELESS / NONETHELESS / STILL”.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "STILL                            informal              meio da frase                      It was hard. She still did it.",
+      "HOWEVER                     formal                     início ou meio                     It was hard. However, she did it.",
+      "NEVERTHELESS              muito formal              início da frase                     It was hard. Nevertheless, she did it.",
+      "NONETHELESS               muito formal              início da frase                     It was hard. Nonetheless, she did it.",
+      "continuidade              I still live here. (= continuo morando)                      Eu ainda moro aqui.",
+      "contraste                    It was late. I still went. (= mesmo assim)                       Estava tarde. Mesmo assim fui."
+    ],
+    "traducoes": [
+      "HOWEVER                     formal                     início ou meio                     It was hard. However, she did it.",
+      "NEVERTHELESS              muito formal              início da frase                     It was hard. Nevertheless, she did it.",
+      "NONETHELESS               muito formal              início da frase                     It was hard. Nonetheless, she did it.",
+      "💡 Todos têm o mesmo significado central. A diferença é o nível de formalidade. Na fala: STILL ou BUT. Em textos: HOWEVER ou NEVERTHELESS.",
+      "continuidade       She still loves him. (= continua amando)                        Ela ainda o ama.",
+      "contraste         He failed. He still tried again. (= mesmo assim)                  Ele falhou. Mesmo assim tentou de novo."
+    ],
+    "origem_traducoes": "fonte",
+    "observacao_uso": "O texto-fonte integral não integra a publicação.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "0074_02_NEVERTHELESS_Mesmo_Assim.md",
+      "arquivo_original": "02_NEVERTHELESS_Mesmo_Assim.pdf",
+      "pagina": "seção no Markdown",
+      "secao": "USO 4 — Comparação: HOWEVER / NEVERTHELESS / NONETHELESS / STILL"
+    },
+    "confianca_classificacao": "média",
+    "justificativa_nivel": "Função, carga lexical, ritmo e estruturas desta seção sustentam C1.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "fontes": [
+      {
+        "arquivo": "0074_02_NEVERTHELESS_Mesmo_Assim.md",
+        "arquivo_original": "02_NEVERTHELESS_Mesmo_Assim.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "USO 4 — Comparação: HOWEVER / NEVERTHELESS / NONETHELESS / STILL"
+      },
+      {
+        "arquivo": "0075_02_NEVERTHELESS_Mesmo_Assim_S001.md",
+        "arquivo_original": "02_NEVERTHELESS_Mesmo_Assim_S001.pdf",
+        "pagina": "seção no Markdown",
+        "secao": "texto normalizado idêntico ao canônico"
+      },
+      {
+        "arquivo": "0682_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO.md",
+        "arquivo_original": "QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0074"
+      },
+      {
+        "arquivo": "0683_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO_S001.md",
+        "arquivo_original": "QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO_S001.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0074"
+      },
+      {
+        "arquivo": "1141_QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO_2.md",
+        "arquivo_original": "QW_CONJ_NEVERTHELESS_MESMO_ASSIM_NO_ENTANTO.pdf",
+        "pagina": "mesmas páginas/seções da canônica normalizada",
+        "secao": "duplicata textual de 0074"
+      }
+    ],
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [],
+    "ordem_global": 801,
+    "ordem_nivel": 6,
+    "ordem_painel": 6,
+    "subpainel": "Tempo e lugar",
+    "ordem_subpainel": 3,
+    "ordem_pedagogica": 6,
+    "subpainel_anterior": "nevertheless"
+  },
+  {
+    "id": "C1-L5-0113-02",
+    "titulo": "not only ... but also — NOT ONLY…BUT ALSO com orações completas",
+    "nivel": "C1",
+    "nivel_secundario": "B1",
+    "tema": "not only ... but also",
+    "subpainel": "Tempo e lugar",
+    "ordem_pedagogica": 7,
+    "habilidades": [
+      "Gramática"
+    ],
+    "tipo": "conceito ensinável com exemplos",
+    "explicacao_pt": "A seção reúne regra, contraste, exemplos, observações e traduções sobre not only ... but also.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Not only did she pass, but she also got the best grade.",
+      "Not only does he cook, but he also bakes.",
+      "Not only was she late, but she also forgot her keys."
+    ],
+    "traducoes": [
+      "Não só ela passou, como também tirou a melhor nota.",
+      "Não só ele cozinha, como também faz bolos.",
+      "Não só ela se atrasou, como também esqueceu as chaves."
+    ],
+    "origem_traducoes": "fonte",
+    "observacao_uso": "O texto-fonte integral não integra a publicação; síntese editorial identificada.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "0113_03_NOT_ONLY_BUT_ALSO.md",
+      "arquivo_original": "03_NOT_ONLY_BUT_ALSO.pdf",
+      "pagina": "páginas indicadas no Markdown",
+      "secao": "USO 2 — NOT ONLY…BUT ALSO com orações completas"
+    },
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "A função comunicativa, a complexidade sintática e os contrastes desta seção sustentam C1.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "fontes": [
+      {
+        "arquivo": "0113_03_NOT_ONLY_BUT_ALSO.md",
+        "arquivo_original": "03_NOT_ONLY_BUT_ALSO.pdf",
+        "pagina": "páginas indicadas no Markdown",
+        "secao": "USO 2 — NOT ONLY…BUT ALSO com orações completas"
+      },
+      {
+        "arquivo": "0114_03_NOT_ONLY_BUT_ALSO_S001.md",
+        "arquivo_original": "03_NOT_ONLY_BUT_ALSO_S001.pdf",
+        "pagina": "páginas indicadas no Markdown",
+        "secao": "corpo normalizado idêntico ao canônico"
+      },
+      {
+        "arquivo": "0686_QW_CONJ_NOT_ONLY_NAO_SO_MAS_TAMBEM.md",
+        "arquivo_original": "QW_CONJ_NOT_ONLY_NAO_SO_MAS_TAMBEM.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0113"
+      },
+      {
+        "arquivo": "0687_QW_CONJ_NOT_ONLY_NAO_SO_MAS_TAMBEM_S001.md",
+        "arquivo_original": "QW_CONJ_NOT_ONLY_NAO_SO_MAS_TAMBEM_S001.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0113"
+      },
+      {
+        "arquivo": "1143_QW_CONJ_NOT_ONLY_NAO_SO_MAS_TAMBEM_2.md",
+        "arquivo_original": "QW_CONJ_NOT_ONLY_NAO_SO_MAS_TAMBEM.pdf",
+        "pagina": "mesmas páginas/seções da canônica normalizada",
+        "secao": "duplicata textual de 0113"
+      },
+      {
+        "arquivo": "1162_conectivos-question-words.md",
+        "arquivo_original": "conectivos-question-words.html",
+        "pagina": "documento HTML/Markdown integral",
+        "secao": "conectivo ou question word correspondente"
+      }
+    ],
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [],
+    "ordem_global": 802,
+    "ordem_nivel": 7,
+    "ordem_painel": 7,
+    "ordem_subpainel": 4,
+    "subpainel_anterior": "conectores e foco"
+  },
+  {
+    "id": "C1-L7-0308-02",
+    "titulo": "reformulação e exemplificação — contrastes e ampliação",
+    "nivel": "C1",
+    "nivel_secundario": "B2",
+    "tema": "reformulação e exemplificação",
+    "subpainel": "Conectores e organização acadêmica",
+    "habilidade_principal": "Inglês acadêmico",
+    "habilidades_secundarias": [
+      "Escrita"
+    ],
+    "habilidades": [
+      "Inglês acadêmico",
+      "Escrita"
+    ],
+    "tipo": "conceito integrado com exemplos",
+    "explicacao_pt": "Formas, contextos e contrastes de reformulação e exemplificação reunidos sem microfragmentar variações da mesma regra.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "for example (p.ex.)",
+      "et cetera (etc.)",
+      "She's shy. In other words, she's quiet.",
+      "She's introverted, i.e., prefers alone."
+    ],
+    "traducoes": [
+      "dá exemplos",
+      "lista não exaustiva",
+      "Ela é tímida. Ou seja, é quieta.",
+      "Ela é introvertida, ou seja, prefere ficar sozinha."
+    ],
+    "origem_traducoes": "fonte",
+    "observacao_uso": "Seção integral preservada; síntese editorial identificada.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "0308_09_IN_OTHER_WORDS_Ou_Seja.md",
+      "arquivo_original": "09_IN_OTHER_WORDS_Ou_Seja.pdf",
+      "pagina": "## Página 2",
+      "secao": "contrastes e ampliação"
+    },
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Função, carga lexical, complementação e registro sustentam C1.",
+    "paineis": [
+      "c1-ingles-academico"
+    ],
+    "fontes": [
+      {
+        "arquivo": "0308_09_IN_OTHER_WORDS_Ou_Seja.md",
+        "arquivo_original": "09_IN_OTHER_WORDS_Ou_Seja.pdf",
+        "pagina": "## Página 2",
+        "secao": "contrastes e ampliação"
+      },
+      {
+        "arquivo": "0309_09_IN_OTHER_WORDS_Ou_Seja_S001.md",
+        "arquivo_original": "09_IN_OTHER_WORDS_Ou_Seja_S001.pdf",
+        "pagina": "## Página 2",
+        "secao": "corpo normalizado idêntico ao canônico"
+      },
+      {
+        "arquivo": "0681_QW_CONJ_IN_OTHER_WORDS_OU_SEJA_ISTO_E.md",
+        "arquivo_original": "QW_CONJ_IN_OTHER_WORDS_OU_SEJA_ISTO_E.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata textual de 0308"
+      },
+      {
+        "arquivo": "1140_QW_CONJ_IN_OTHER_WORDS_OU_SEJA_ISTO_E_2.md",
+        "arquivo_original": "QW_CONJ_IN_OTHER_WORDS_OU_SEJA_ISTO_E.pdf",
+        "pagina": "mesmas páginas/seções da canônica normalizada",
+        "secao": "duplicata textual de 0308"
+      },
+      {
+        "arquivo": "1162_conectivos-question-words.md",
+        "arquivo_original": "conectivos-question-words.html",
+        "pagina": "documento HTML/Markdown integral",
+        "secao": "conectivo ou question word correspondente"
+      }
+    ],
+    "ordem_global": 803,
+    "ordem_nivel": 8,
+    "ordem_pedagogica": 8,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "C1-L12-1433-01",
+    "titulo": "aspecto verbal e efeitos pragmáticos avançados",
+    "nivel": "C1",
+    "nivel_secundario": "C2",
+    "tema": "aspecto verbal e efeitos pragmáticos avançados",
+    "subpainel": "Gramática avançada integrada",
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Gramática"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de aspecto verbal e efeitos pragmáticos avançados sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Ella stays with us quite often.",
+      "Ella's with us at the moment.",
+      "You're always complaining about my handwriting."
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md",
+      "arquivo_original": "02_Grammar - Advanced Grammar in Use Book with Answers and eBook and Online Test.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1433_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test.md",
+        "arquivo_original": "02_Grammar - Advanced Grammar in Use Book with Answers and eBook and Online Test.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      },
+      {
+        "arquivo": "1434_02_Grammar_-_Advanced_Grammar_in_Use_Book_with_Answers_and_eBook_and_Online_Test_2.md",
+        "arquivo_original": "02_Grammar - Advanced Grammar in Use Book with Answers and eBook and Online Test.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata dirigida de 1433"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Contrastes aspectuais e uso pragmático avançado sustentam C1, sem forçar C2.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "ordem_global": 804,
+    "ordem_nivel": 9,
+    "ordem_pedagogica": 9,
+    "ordem_painel": 8,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "C1-L12-1435-01",
+    "titulo": "colocações, idioms e vocabulário avançado",
+    "nivel": "C1",
+    "nivel_secundario": "C2",
+    "tema": "colocações, idioms e vocabulário avançado",
+    "subpainel": "Gramática avançada integrada",
+    "habilidade_principal": "Vocabulário",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Vocabulário"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de colocações, idioms e vocabulário avançado sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "collocations and idioms",
+      "Economics and business",
+      "Personal history"
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1435_03_Grammar_and_Vocabulary_for_Advanced_Book_with_Answers.md",
+      "arquivo_original": "03_Grammar and Vocabulary for Advanced Book with Answers.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1435_03_Grammar_and_Vocabulary_for_Advanced_Book_with_Answers.md",
+        "arquivo_original": "03_Grammar and Vocabulary for Advanced Book with Answers.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      },
+      {
+        "arquivo": "1436_03_Grammar_and_Vocabulary_for_Advanced_Book_with_Answers_2.md",
+        "arquivo_original": "03_Grammar and Vocabulary for Advanced Book with Answers.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata dirigida de 1435"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Combina vocabulário avançado, colocações e idiomaticidade em múltiplos registros.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "ordem_global": 805,
+    "ordem_nivel": 10,
+    "ordem_pedagogica": 10,
+    "ordem_painel": 9,
+    "ordem_subpainel": 2
+  },
+  {
+    "id": "C1-L12-1439-01",
+    "titulo": "escrita avançada e linguagem idiomática",
+    "nivel": "C1",
+    "nivel_secundario": "C2",
+    "tema": "escrita avançada e linguagem idiomática",
+    "subpainel": "Escrita avançada e controle de registro",
+    "habilidade_principal": "Escrita",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Escrita"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de escrita avançada e linguagem idiomática sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Idiomatic language",
+      "A letter of complaint",
+      "Dramatic past"
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1439_05_Complete_Advanced_Student's_Book_with_Answers_with_Digital_Pack.md",
+      "arquivo_original": "05_Complete Advanced Student's Book with Answers with Digital Pack.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1439_05_Complete_Advanced_Student's_Book_with_Answers_with_Digital_Pack.md",
+        "arquivo_original": "05_Complete Advanced Student's Book with Answers with Digital Pack.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Produção avançada, reclamação formal e recursos narrativos sustentam C1.",
+    "paineis": [
+      "c1-escrita"
+    ],
+    "ordem_global": 806,
+    "ordem_nivel": 11,
+    "ordem_pedagogica": 11,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "C1-L12-1408-01",
+    "titulo": "currículo, carta de apresentação e idioms profissionais",
+    "nivel": "C1",
+    "nivel_secundario": "C1",
+    "tema": "currículo, carta de apresentação e idioms profissionais",
+    "subpainel": "Comunicação profissional avançada",
+    "habilidade_principal": "Inglês profissional",
+    "habilidades_secundarias": [
+      "Escrita"
+    ],
+    "habilidades": [
+      "Inglês profissional",
+      "Escrita"
+    ],
+    "tipo": "conceito, texto ou diálogo integrado",
+    "explicacao_pt": "A unidade reúne o uso verificável de currículo, carta de apresentação e idioms profissionais sem transformar pequenas variações em unidades isoladas.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Writing a resume and cover letter",
+      "Travel adjectives and idioms",
+      "Idioms about time"
+    ],
+    "traducoes": [
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade.",
+      "Consulte o contexto bilíngue ou a autorrevisão da unidade."
+    ],
+    "origem_traducoes": "editorial identificada quando a fonte não fornece par direto",
+    "observacao_uso": "Fonte lida integralmente; recorte de evidência mantido para renderização segura.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1408_04_English_for_Everyone_Practice_Book_Level_4_Advanced_A_Complete_Self-Study_Programme.md",
+      "arquivo_original": "04_English for Everyone Practice Book Level 4 Advanced A Complete Self-Study Programme.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "conteúdo canônico integrado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1408_04_English_for_Everyone_Practice_Book_Level_4_Advanced_A_Complete_Self-Study_Programme.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 4 Advanced A Complete Self-Study Programme.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo canônico integrado"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "As funções e estruturas observadas sustentam C1.",
+    "paineis": [
+      "c1-ingles-profissional"
+    ],
+    "ordem_global": 807,
+    "ordem_nivel": 12,
+    "ordem_pedagogica": 12,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "C1-L13-1443-01",
+    "titulo": "pronúncia avançada: proeminência, ritmo e atitude",
+    "nivel": "C1",
+    "nivel_secundario": "C1",
+    "tema": "pronúncia avançada: proeminência, ritmo e atitude",
+    "subpainel": "Pronúncia avançada e discurso",
+    "habilidade_principal": "Pronúncia",
+    "habilidades_secundarias": [
+      "Escuta"
+    ],
+    "habilidades": [
+      "Pronúncia",
+      "Escuta"
+    ],
+    "tipo": "prática integrada baseada em fonte",
+    "explicacao_pt": "A unidade integra pronúncia avançada: proeminência, ritmo e atitude com tarefas verificáveis, sem reproduzir o livro inteiro em um único painel.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Contrast neutral and emphatic stress.",
+      "Notice how intonation changes speaker attitude.",
+      "Mark prominence before recording your response."
+    ],
+    "traducoes": [
+      "Produção e compreensão com autorrevisão contextual.",
+      "Produção e compreensão com autorrevisão contextual.",
+      "Produção e compreensão com autorrevisão contextual."
+    ],
+    "origem_traducoes": "editorial identificada",
+    "observacao_uso": "Todas as fontes foram lidas; apenas evidência representativa é renderizada para evitar um livro inteiro em um painel.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1443_07_English_Pronunciation_in_Use._Advanced.md",
+      "arquivo_original": "07_English Pronunciation in Use. Advanced.md",
+      "pagina": "texto integral extraído para Markdown",
+      "secao": "conteúdo integral dirigido e consolidado"
+    },
+    "fontes": [
+      {
+        "arquivo": "1443_07_English_Pronunciation_in_Use._Advanced.md",
+        "arquivo_original": "07_English Pronunciation in Use. Advanced.md",
+        "pagina": "texto integral extraído para Markdown",
+        "secao": "conteúdo integral dirigido e consolidado"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Controle discursivo de proeminência e atitude exige percepção e produção de C1.",
+    "paineis": [
+      "c1-pronuncia"
+    ],
+    "ordem_global": 808,
+    "ordem_nivel": 13,
+    "ordem_pedagogica": 13,
+    "ordem_painel": 1,
+    "ordem_subpainel": 1
+  },
+  {
+    "id": "C1-L14-1396-01",
+    "titulo": "pronúncia avançada e precisão articulatória",
+    "nivel": "C1",
+    "nivel_secundario": "C1",
+    "tema": "pronúncia avançada e precisão articulatória",
+    "subpainel": "Pronúncia avançada e discurso",
+    "habilidade_principal": "Pronúncia",
+    "habilidades_secundarias": [
+      "Vocabulário"
+    ],
+    "habilidades": [
+      "Pronúncia",
+      "Vocabulário"
+    ],
+    "tipo": "prática integrada baseada em fonte extensa",
+    "explicacao_pt": "A unidade seleciona uma função verificável de pronúncia avançada e precisão articulatória; o livro não é despejado integralmente em um painel.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Diagnose the articulatory contrast.",
+      "Maintain intelligibility in connected speech.",
+      "Adjust stress to preserve the intended meaning."
+    ],
+    "traducoes": [
+      "Tarefa de produção ou revisão com autorrevisão.",
+      "Tarefa de produção ou revisão com autorrevisão.",
+      "Tarefa de produção ou revisão com autorrevisão."
+    ],
+    "origem_traducoes": "editorial identificada",
+    "observacao_uso": "Fonte lida integralmente; evidência representativa preservada.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1396_03_Perfecting_your_english_pronunciation_Susan_Cameron.md",
+      "arquivo_original": "03_Perfecting your english pronunciation Susan Cameron.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "recorte funcional de fonte extensa lida integralmente"
+    },
+    "fontes": [
+      {
+        "arquivo": "1396_03_Perfecting_your_english_pronunciation_Susan_Cameron.md",
+        "arquivo_original": "03_Perfecting your english pronunciation Susan Cameron.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "recorte funcional de fonte extensa lida integralmente"
+      },
+      {
+        "arquivo": "1397_03_Perfecting_your_english_pronunciation_Susan_Cameron_2.md",
+        "arquivo_original": "03_Perfecting your english pronunciation Susan Cameron.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata dirigida de 1396"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Complexidade e autonomia sustentam C1.",
+    "paineis": [
+      "c1-pronuncia"
+    ],
+    "ordem_global": 809,
+    "ordem_nivel": 14,
+    "ordem_pedagogica": 14,
+    "ordem_painel": 2,
+    "ordem_subpainel": 2
+  },
+  {
+    "id": "C1-L15-1441-01",
+    "titulo": "vocabulário avançado: precisão, colocação e registro",
+    "nivel": "C1",
+    "nivel_secundario": "C1",
+    "tema": "vocabulário avançado: precisão, colocação e registro",
+    "subpainel": "Gramática avançada integrada",
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Gramática"
+    ],
+    "tipo": "conteúdo integrado",
+    "explicacao_pt": "A unidade organiza vocabulário avançado: precisão, colocação e registro sem aplicar o arquivo inteiro em um painel.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Choose the collocation that fits the context.",
+      "Distinguish neutral, informal and formal alternatives.",
+      "Rephrase the sentence with greater lexical precision."
+    ],
+    "traducoes": [
+      "Compreensão ou produção contextual com autorrevisão.",
+      "Compreensão ou produção contextual com autorrevisão.",
+      "Compreensão ou produção contextual com autorrevisão."
+    ],
+    "origem_traducoes": "editorial identificada",
+    "observacao_uso": "Fonte lida integralmente; recorte funcional representativo.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1441_06_English_Vocabulary_in_Use_Advanced_3rd_Edition.md",
+      "arquivo_original": "06_English Vocabulary in Use Advanced 3rd Edition.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "recorte funcional após leitura integral"
+    },
+    "fontes": [
+      {
+        "arquivo": "1441_06_English_Vocabulary_in_Use_Advanced_3rd_Edition.md",
+        "arquivo_original": "06_English Vocabulary in Use Advanced 3rd Edition.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "recorte funcional após leitura integral"
+      },
+      {
+        "arquivo": "1442_06_English_Vocabulary_in_Use_Advanced_3rd_Edition_2.md",
+        "arquivo_original": "06_English Vocabulary in Use Advanced 3rd Edition.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata dirigida de 1441"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Complexidade e autonomia sustentam C1.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "ordem_global": 810,
+    "ordem_nivel": 15,
+    "ordem_pedagogica": 15,
+    "ordem_painel": 10,
+    "ordem_subpainel": 3
+  },
+  {
+    "id": "C1-L15-1458-01",
+    "titulo": "gramática avançada em contexto e revisão",
+    "nivel": "C1",
+    "nivel_secundario": "C1",
+    "tema": "gramática avançada em contexto e revisão",
+    "subpainel": "Gramática avançada integrada",
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Gramática"
+    ],
+    "tipo": "conteúdo integrado",
+    "explicacao_pt": "A unidade organiza gramática avançada em contexto e revisão sem aplicar o arquivo inteiro em um painel.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Analyse the speaker’s intended emphasis.",
+      "Reformulate the sentence without changing its implication.",
+      "Edit the text for grammatical precision."
+    ],
+    "traducoes": [
+      "Compreensão ou produção contextual com autorrevisão.",
+      "Compreensão ou produção contextual com autorrevisão.",
+      "Compreensão ou produção contextual com autorrevisão."
+    ],
+    "origem_traducoes": "editorial identificada",
+    "observacao_uso": "Fonte lida integralmente; recorte funcional representativo.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1458_01_Oxford_English_Grammar_Course_Advanced_with_Key_(includes_e-book).md",
+      "arquivo_original": "01_Oxford English Grammar Course Advanced with Key (includes e-book).md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "recorte funcional após leitura integral"
+    },
+    "fontes": [
+      {
+        "arquivo": "1458_01_Oxford_English_Grammar_Course_Advanced_with_Key_(includes_e-book).md",
+        "arquivo_original": "01_Oxford English Grammar Course Advanced with Key (includes e-book).md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "recorte funcional após leitura integral"
+      },
+      {
+        "arquivo": "1459_01_Oxford_English_Grammar_Course_Advanced_with_Key_(includes_e-book)_2.md",
+        "arquivo_original": "01_Oxford English Grammar Course Advanced with Key (includes e-book).pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata dirigida de 1458"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Complexidade e autonomia sustentam C1.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "ordem_global": 811,
+    "ordem_nivel": 16,
+    "ordem_pedagogica": 16,
+    "ordem_painel": 11,
+    "ordem_subpainel": 4
+  },
+  {
+    "id": "C1-L15-1460-01",
+    "titulo": "vocabulário avançado em uso",
+    "nivel": "C1",
+    "nivel_secundario": "C1",
+    "tema": "vocabulário avançado em uso",
+    "subpainel": "Gramática avançada integrada",
+    "habilidade_principal": "Gramática",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Gramática"
+    ],
+    "tipo": "conteúdo integrado",
+    "explicacao_pt": "A unidade organiza vocabulário avançado em uso sem aplicar o arquivo inteiro em um painel.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Infer meaning from context and word formation.",
+      "Select the idiomatic collocation.",
+      "Adjust the expression to the required register."
+    ],
+    "traducoes": [
+      "Compreensão ou produção contextual com autorrevisão.",
+      "Compreensão ou produção contextual com autorrevisão.",
+      "Compreensão ou produção contextual com autorrevisão."
+    ],
+    "origem_traducoes": "editorial identificada",
+    "observacao_uso": "Fonte lida integralmente; recorte funcional representativo.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "1460_02_English_Vocabulary_in_Use_Advanced_100_units_of_vocabulary_reference_and_practice.md",
+      "arquivo_original": "02_English Vocabulary in Use Advanced 100 units of vocabulary reference and practice.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "recorte funcional após leitura integral"
+    },
+    "fontes": [
+      {
+        "arquivo": "1460_02_English_Vocabulary_in_Use_Advanced_100_units_of_vocabulary_reference_and_practice.md",
+        "arquivo_original": "02_English Vocabulary in Use Advanced 100 units of vocabulary reference and practice.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "recorte funcional após leitura integral"
+      },
+      {
+        "arquivo": "1461_02_English_Vocabulary_in_Use_Advanced_100_units_of_vocabulary_reference_and_practice_2.md",
+        "arquivo_original": "02_English Vocabulary in Use Advanced 100 units of vocabulary reference and practice.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "duplicata dirigida de 1460"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Complexidade e autonomia sustentam C1.",
+    "paineis": [
+      "c1-gramatica"
+    ],
+    "ordem_global": 812,
+    "ordem_nivel": 17,
+    "ordem_pedagogica": 17,
+    "ordem_painel": 12,
+    "ordem_subpainel": 5
+  },
+  {
+    "id": "C1-L16-0881-03",
+    "titulo": "retórica, fontes e análise textual acadêmica",
+    "nivel": "C1",
+    "nivel_secundario": "C1",
+    "tema": "retórica, fontes e análise textual acadêmica",
+    "subpainel": "Conectores e organização acadêmica",
+    "habilidade_principal": "Inglês acadêmico",
+    "habilidades_secundarias": [],
+    "habilidades": [
+      "Inglês acadêmico"
+    ],
+    "tipo": "objetivo pedagógico extraído de fonte extensa",
+    "explicacao_pt": "A unidade organiza retórica, fontes e análise textual acadêmica sem reproduzir capítulos inteiros.",
+    "origem_explicacao": "editorial",
+    "conteudo_en": [
+      "Evaluate the author’s use of evidence.",
+      "Distinguish credible sources from unsupported claims.",
+      "Analyse how rhetorical choices shape the argument."
+    ],
+    "traducoes": [
+      "Tarefa contextual com autorrevisão.",
+      "Tarefa contextual com autorrevisão.",
+      "Tarefa contextual com autorrevisão."
+    ],
+    "origem_traducoes": "editorial identificada",
+    "observacao_uso": "Fontes lidas integralmente; apenas evidência representativa é exibida.",
+    "variante": "neutra",
+    "pre_requisitos": [],
+    "publico": "geral",
+    "fonte": {
+      "arquivo": "0881_02_Everything_You_Need_to_Ace_English_Language_Arts_in_One_Big_Fat_Notebook,_2nd_Edition.md",
+      "arquivo_original": "02_Everything You Need to Ace English Language Arts in One Big Fat Notebook, 2nd Edition.md",
+      "pagina": "páginas/seções do Markdown",
+      "secao": "objetivo funcional mapeado após leitura integral"
+    },
+    "fontes": [
+      {
+        "arquivo": "0881_02_Everything_You_Need_to_Ace_English_Language_Arts_in_One_Big_Fat_Notebook,_2nd_Edition.md",
+        "arquivo_original": "02_Everything You Need to Ace English Language Arts in One Big Fat Notebook, 2nd Edition.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "objetivo funcional mapeado após leitura integral"
+      },
+      {
+        "arquivo": "0882_02_Everything_You_Need_to_Ace_English_Language_Arts_in_One_Big_Fat_Notebook,_2nd_Edition_2.md",
+        "arquivo_original": "02_Everything You Need to Ace English Language Arts in One Big Fat Notebook, 2nd Edition.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "objetivo funcional mapeado após leitura integral"
+      }
+    ],
+    "confianca_classificacao": "alta",
+    "justificativa_nivel": "Análise retórica, avaliação de fontes e argumentação sustentam C1.",
+    "paineis": [
+      "c1-ingles-academico"
+    ],
+    "ordem_global": 813,
+    "ordem_nivel": 18,
+    "ordem_pedagogica": 18,
+    "ordem_painel": 2,
+    "ordem_subpainel": 2
+  }
+]

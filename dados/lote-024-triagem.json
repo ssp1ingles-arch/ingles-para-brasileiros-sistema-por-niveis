@@ -1,0 +1,47 @@
+{
+  "lote": "024",
+  "intervalo": [
+    1186,
+    1187
+  ],
+  "sequenciais": [
+    {
+      "numero": 1186,
+      "status": "integralmente classificada",
+      "de": null,
+      "nome": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+      "tamanho_bytes": 546526,
+      "hash_bruto": "b2666165da9762839f57667daa169f8574c2acbd10e04825fe685d68e46b86fe",
+      "hash_normalizado": "e2815b2bf8e66f9f4646df78addd7f3ab3ed61a29e7e137debc29a8d5c46faea",
+      "leitura_integral": true,
+      "paginas": 285,
+      "sem_destino_util": 0,
+      "justificativa": "285 páginas lidas e decididas individualmente."
+    },
+    {
+      "numero": 1187,
+      "status": "duplicata consolidada",
+      "de": 1186,
+      "nome": "1187_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_)_2.md",
+      "tamanho_bytes": 546731,
+      "hash_bruto": "b615639cd0027c0d831363583162b1aeba13206ae08c09c94f79091f78e85f0b",
+      "hash_normalizado": "e2815b2bf8e66f9f4646df78addd7f3ab3ed61a29e7e137debc29a8d5c46faea",
+      "leitura_integral": true,
+      "paginas": 285,
+      "sem_destino_util": 0,
+      "justificativa": "Corpo integral, paginação e hash normalizado idênticos a 1186; procedência preservada."
+    }
+  ],
+  "direcionadas": [],
+  "duplicatas": [
+    1187
+  ],
+  "parciais": [],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1186,
+    "testes": "24/24",
+    "aprovada": true
+  },
+  "observacao": "Encerrado antes de 1188; REGRAS_6 deve ser lida no início do próximo lote."
+}

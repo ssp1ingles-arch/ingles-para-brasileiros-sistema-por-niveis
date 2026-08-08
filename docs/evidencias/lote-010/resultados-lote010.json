@@ -1,0 +1,76 @@
+{
+  "total": 14,
+  "aprovados": 14,
+  "resultados": [
+    {
+      "teste": "matriz curricular válida",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "contagens da matriz",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "fontes candidatas existentes",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "amostragem presente",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "jornada com IDs estáveis",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "fontes antecipadas únicas",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "C2 ativado com justificativa",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "Kids ativado com CEFR",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "leitura renderizada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "texto longo sem overflow",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "transcrição renderizada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "modo estudo com texto",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "revisão de etapa atualizada",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    },
+    {
+      "teste": "progresso antigo preservado",
+      "resultado": "APROVADO",
+      "detalhe": ""
+    }
+  ]
+}

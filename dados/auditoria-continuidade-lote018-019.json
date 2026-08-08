@@ -1,0 +1,602 @@
+{
+  "lote": "019",
+  "resultado": "continuidade confirmada; nenhuma correção adicional necessária",
+  "fontes_canonicas": [
+    {
+      "numero": 1096,
+      "fonte": "1096_estruturas-fixas.md",
+      "conteudo_didatico_identificado": "Estruturas fixas: oito blocos HOW/WHAT/IT/TIME/OPINION/POLITE/COMPARISON/CAUSE, consolidados nas unidades atômicas existentes.",
+      "paginas_e_secoes": [
+        {
+          "titulo": "Estruturas *Fixas*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Estruturas Fixas · chunks que montam a frase",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        }
+      ],
+      "niveis": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "habilidades": [
+        "Gramática",
+        "Conversação",
+        "Vocabulário"
+      ],
+      "unidades_destino": [
+        "A1-GRAM-0002",
+        "A1-GRAM-0012",
+        "A1-GRAM-0013",
+        "A1-GRAM-0021",
+        "A1-L4-0068-01",
+        "A1-L4-1521-03",
+        "A1-L6-0216-01",
+        "A2-GRAM-0003",
+        "A2-GRAM-0004",
+        "A2-VERB-0001",
+        "A2-L4-0068-02",
+        "A2-L4-0068-03",
+        "A2-L4-1521-02",
+        "A2-L5-0128-01",
+        "A2-L5-0128-02",
+        "A2-L5-0128-03",
+        "A2-L5-0128-04",
+        "A2-L5-0128-05",
+        "A2-L5-0151-01",
+        "A2-L6-0201-01",
+        "A2-L7-0297-01",
+        "A2-L14-0752-01",
+        "A2-L15-0824-01",
+        "B1-CONV-0001",
+        "B1-L5-0149-01",
+        "B1-L5-0149-02",
+        "B1-L5-0149-03",
+        "B1-L5-0149-04",
+        "B1-L5-0149-05",
+        "B1-L6-0173-01",
+        "B1-L6-0201-02",
+        "B1-L6-0237-01",
+        "B1-L7-0283-01",
+        "B1-L8-0322-02",
+        "B1-L15-0826-01",
+        "B2-L6-0173-02",
+        "B2-L6-0189-02",
+        "B2-L6-0237-02",
+        "B2-L7-0283-02"
+      ],
+      "exemplos_incorporados": [
+        "It is 3 o'clock.",
+        "It is far from here.",
+        "There is a problem.",
+        "There is a café nearby.",
+        "There are many people here.",
+        "Is there a bathroom nearby?",
+        "Are there any tickets left?",
+        "Would you like some coffee?",
+        "How old are you?",
+        "How tall is he?",
+        "It takes 20 minutes by bus.",
+        "It takes time to learn English.",
+        "How long does it take?",
+        "There was a problem yesterday.",
+        "There were many people there.",
+        "There will be a meeting tomorrow.",
+        "Could you help me, please?",
+        "How much is it?",
+        "What kind of music do you like?",
+        "What kind of food is it?"
+      ],
+      "explicacoes_incorporadas": [
+        "IT ocupa a posição de sujeito em expressões impessoais, mesmo quando não tem tradução direta.",
+        "Unidade editorial organizada a partir de uso 4 — there is / there are.",
+        "Unidade editorial organizada a partir de uso 5 — perguntas.",
+        "Unidade editorial organizada a partir de uso 1 — some.",
+        "Organização editorial da seção “USO 1 — HOW LONG = QUANTO TEMPO / QUAL O COMPRIMENTO”.",
+        "Organização editorial de uma tabela conferida visualmente.",
+        "A unidade integra as formas, contrastes e contextos de how sem separar repetições de uma mesma regra.",
+        "Unidade editorial organizada a partir de uso 2 — it takes.",
+        "Unidade editorial organizada a partir de uso 5 — passado e futuro.",
+        "Unidade editorial organizada a partir de uso 3 — could."
+      ],
+      "motivo_sem_unidade_nova": "Compêndio agrega material já distribuído por objetivo pedagógico; nova unidade repetiria exemplos ou criaria agrupamento por fonte.",
+      "diferenca_para_duplicata": "O hash normalizado é único: há recomposição editorial/compilação, não igualdade textual integral com uma única fonte.",
+      "conteudo_util_sem_destino": [],
+      "confirmacao": "Todo conteúdo instrucional útil foi associado a unidades existentes; elementos de navegação ou avaliação não viraram lição."
+    },
+    {
+      "numero": 1097,
+      "fonte": "1097_in-on-at-e-quantificadores.md",
+      "conteudo_didatico_identificado": "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica.",
+      "paginas_e_secoes": [
+        {
+          "titulo": "*In*, *on*, *at* e os quantificadores",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Onde a coisa está",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Quando a coisa acontece",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Dentro do carro, em cima do ônibus",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "A pirâmide invertida: do amplo ao exato",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Os usos completos de *at*, *in* e *on*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "O que está acontecendo agora",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "*Some*, *many*, *few*, *little*, *each*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "*Very*, *too*, *enough* — e a linha do problema",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Entrar, sair, encostar e buscar alguém",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Hotel, reserva e passeio — a palavra certa",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Pares que o português junta e o inglês separa",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Cinco palavras para \"velho\"",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Descrever a estrada · e a palavra *vocation*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        }
+      ],
+      "niveis": [
+        "A1",
+        "A2"
+      ],
+      "habilidades": [
+        "Gramática",
+        "Verbos"
+      ],
+      "unidades_destino": [
+        "A1-GRAM-0006",
+        "A1-GRAM-0019",
+        "A2-GRAM-0007",
+        "A2-L6-0186-01",
+        "A2-L14-0762-01"
+      ],
+      "exemplos_incorporados": [
+        "on Monday",
+        "I study in the morning.",
+        "on my birthday",
+        "I met her at the party.",
+        "There are too many people."
+      ],
+      "explicacoes_incorporadas": [
+        "AT aponta hora; ON, dia ou data; IN, mês, ano ou período.",
+        "Unidade editorial organizada a partir de uso 2 — partes do dia.",
+        "Unidade editorial organizada a partir de uso 3 — ocasiões e partes do dia.",
+        "A unidade integra as formas, contrastes e contextos de meet — conhecer e encontrar sem separar repetições de uma mesma regra.",
+        "A unidade organiza suficiência e excesso: enough e too por função, posição e contraste, preservando as variações úteis da fonte."
+      ],
+      "motivo_sem_unidade_nova": "Compêndio agrega material já distribuído por objetivo pedagógico; nova unidade repetiria exemplos ou criaria agrupamento por fonte.",
+      "diferenca_para_duplicata": "O hash normalizado é único: há recomposição editorial/compilação, não igualdade textual integral com uma única fonte.",
+      "conteudo_util_sem_destino": [],
+      "confirmacao": "Todo conteúdo instrucional útil foi associado a unidades existentes; elementos de navegação ou avaliação não viraram lição."
+    },
+    {
+      "numero": 1099,
+      "fonte": "1099_ingles-do-zero.md",
+      "conteudo_didatico_identificado": "Percurso introdutório de inglês do zero; conteúdo distribuído entre fundamentos existentes.",
+      "paginas_e_secoes": [
+        {
+          "titulo": "SISTEMA 06 — INGLÊS DO ZERO: VERBOS, TEMPOS E FRASES REAIS A1→A2",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "ESTRUTURA — 5 MÓDULOS",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "CONTEÚDO PRINCIPAL",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "MÓDULO 1 — TEMPOS VERBAIS: 3 TEMPOS, 40 VERBOS",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "MÓDULO 2 — VERBOS COM PRONOMES (A1)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "MÓDULO 3 — FRASES PROGRESSIVAS A1→A2 (50 pares)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "MÓDULO 4 — PREPOSIÇÕES NO CONTEXTO (A1)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "MÓDULO 5 — TRANSPORTES EM INGLÊS",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        }
+      ],
+      "niveis": [
+        "A1",
+        "A2",
+        "B1"
+      ],
+      "habilidades": [
+        "Verbos",
+        "Gramática"
+      ],
+      "unidades_destino": [
+        "A1-L8-0392-01",
+        "A2-L10-0466-01",
+        "A2-L15-0862-01",
+        "B1-L16-0917-01"
+      ],
+      "exemplos_incorporados": [
+        "He lives alone.",
+        "QUANDO",
+        "I ask for help when I need it.",
+        "I am ready.",
+        "I work every day."
+      ],
+      "explicacoes_incorporadas": [
+        "Formas, contextos e contrastes de live — morar e viver reunidos sem separar mecanicamente pessoas ou polaridades.",
+        "Objetivo de gramática organizado a partir do conteúdo integral de ask for — pedir algo.",
+        "A unidade organiza be: revisão integrada com exercícios sem aplicar o arquivo inteiro em um painel.",
+        "A unidade organiza tempos verbais e contrastes de uso sem reproduzir capítulos inteiros."
+      ],
+      "motivo_sem_unidade_nova": "Compêndio agrega material já distribuído por objetivo pedagógico; nova unidade repetiria exemplos ou criaria agrupamento por fonte.",
+      "diferenca_para_duplicata": "O hash normalizado é único: há recomposição editorial/compilação, não igualdade textual integral com uma única fonte.",
+      "conteudo_util_sem_destino": [],
+      "confirmacao": "Todo conteúdo instrucional útil foi associado a unidades existentes; elementos de navegação ou avaliação não viraram lição."
+    },
+    {
+      "numero": 1100,
+      "fonte": "1100_preposicoes-mapas.md",
+      "conteudo_didatico_identificado": "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados.",
+      "paginas_e_secoes": [
+        {
+          "titulo": "Preposições em *Mapa*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "IN, ON, AT — lugar",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "IN, ON, AT — tempo",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Preposições de posição no espaço",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "TO x FOR — o par que ninguém acerta de primeira",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Preposições fixas — adjetivo + preposição",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "As preposições em bloco",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Quantificadores — some, any, much, many, few, little",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "A família SOME — someone, somewhere, sometime, somehow",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Os pares que se confundem",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        }
+      ],
+      "niveis": [
+        "A1",
+        "A2",
+        "B2"
+      ],
+      "habilidades": [
+        "Gramática",
+        "Inglês acadêmico",
+        "Conversação"
+      ],
+      "unidades_destino": [
+        "A1-GRAM-0006",
+        "A2-GRAM-0007",
+        "B2-L8-0324-02",
+        "B2-L8-0368-02"
+      ],
+      "exemplos_incorporados": [
+        "in January",
+        "on my birthday",
+        "FOR INSTANCE",
+        "By the way"
+      ],
+      "explicacoes_incorporadas": [
+        "AT aponta hora; ON, dia ou data; IN, mês, ano ou período.",
+        "Unidade editorial organizada a partir de uso 3 — ocasiões e partes do dia.",
+        "Formas, contextos e contrastes de for example — exemplificação reunidos sem separar mecanicamente pessoas ou polaridades.",
+        "Formas, contextos e contrastes de by the way e marcadores de fala reunidos sem separar mecanicamente pessoas ou polaridades."
+      ],
+      "motivo_sem_unidade_nova": "Compêndio agrega material já distribuído por objetivo pedagógico; nova unidade repetiria exemplos ou criaria agrupamento por fonte.",
+      "diferenca_para_duplicata": "O hash normalizado é único: há recomposição editorial/compilação, não igualdade textual integral com uma única fonte.",
+      "conteudo_util_sem_destino": [],
+      "confirmacao": "Todo conteúdo instrucional útil foi associado a unidades existentes; elementos de navegação ou avaliação não viraram lição."
+    },
+    {
+      "numero": 1101,
+      "fonte": "1101_preposicoes-quantificadores.md",
+      "conteudo_didatico_identificado": "Compilação extensa de preposições e quantificadores, mapeada por seção.",
+      "paginas_e_secoes": [
+        {
+          "titulo": "Preposições e *Quantificadores*",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "Preposições, Quantificadores e Frequência",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        }
+      ],
+      "niveis": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "habilidades": [
+        "Gramática",
+        "Vocabulário",
+        "Conversação"
+      ],
+      "unidades_destino": [
+        "A1-GRAM-0005",
+        "A1-GRAM-0006",
+        "A1-GRAM-0007",
+        "A1-GRAM-0008",
+        "A1-GRAM-0010",
+        "A1-GRAM-0015",
+        "A1-GRAM-0016",
+        "A1-GRAM-0018",
+        "A1-GRAM-0019",
+        "A1-GRAM-0021",
+        "A1-GRAM-0022",
+        "A2-GRAM-0007",
+        "A2-GRAM-0009",
+        "A2-GRAM-0011",
+        "A2-VOC-0001",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "A2-L4-0111-01",
+        "A2-L5-0122-01",
+        "A2-L5-0122-02",
+        "A2-L5-0122-03",
+        "A2-L5-0122-04",
+        "A2-L5-0151-01",
+        "A2-L5-0151-02",
+        "A2-L5-0151-03",
+        "A2-L5-0151-04",
+        "A2-L5-0166-04",
+        "A2-L6-0175-01",
+        "A2-L6-0226-01",
+        "A2-L6-0233-01",
+        "A2-L11-0526-01",
+        "A2-L14-0742-01",
+        "A2-L14-0746-01",
+        "A2-L14-0752-01",
+        "A2-L14-0754-01",
+        "A2-L14-0760-01",
+        "A2-L14-0762-01",
+        "A2-L15-0824-01",
+        "B1-GRAM-0001",
+        "B1-L5-0140-01",
+        "B1-L5-0140-02",
+        "B1-L6-0175-02",
+        "B1-L6-0226-02",
+        "B1-L6-0233-02",
+        "B2-L5-0140-03",
+        "B2-L5-0140-04"
+      ],
+      "exemplos_incorporados": [
+        "The meeting is at 3pm.",
+        "I wake up at 6am.",
+        "Class starts at 8:30.",
+        "at 3pm",
+        "on Monday",
+        "in January",
+        "The book is in the bag.",
+        "She is in the room.",
+        "They live in Brazil.",
+        "The phone is on the table.",
+        "She is at the door.",
+        "He is at school.",
+        "at night",
+        "at noon",
+        "She is at school.",
+        "I work on Mondays.",
+        "She has class on Tuesday.",
+        "He rests on Sunday.",
+        "My birthday is on June 5th.",
+        "The meeting is on March 20th."
+      ],
+      "explicacoes_incorporadas": [
+        "AT marca uma hora ou um ponto específico no tempo.",
+        "AT aponta hora; ON, dia ou data; IN, mês, ano ou período.",
+        "IN situa algo dentro de um espaço ou em uma área com limites.",
+        "ON indica superfície ou contato; AT indica um ponto de referência.",
+        "Unidade editorial organizada a partir de usos 2 e 3 — momentos e atividade.",
+        "Unidade editorial organizada a partir de uso 1 — on + dias.",
+        "Unidade editorial organizada a partir de uso 2 — on + datas.",
+        "Unidade editorial organizada a partir de uso 1 — meses, anos e décadas.",
+        "Unidade editorial organizada a partir de uso 2 — partes do dia.",
+        "Unidade editorial organizada a partir de uso 1 — some."
+      ],
+      "motivo_sem_unidade_nova": "Compêndio agrega material já distribuído por objetivo pedagógico; nova unidade repetiria exemplos ou criaria agrupamento por fonte.",
+      "diferenca_para_duplicata": "O hash normalizado é único: há recomposição editorial/compilação, não igualdade textual integral com uma única fonte.",
+      "conteudo_util_sem_destino": [],
+      "confirmacao": "Todo conteúdo instrucional útil foi associado a unidades existentes; elementos de navegação ou avaliação não viraram lição."
+    },
+    {
+      "numero": 1120,
+      "fonte": "1120_teste-seu-nivel.md",
+      "conteudo_didatico_identificado": "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis.",
+      "paginas_e_secoes": [
+        {
+          "titulo": "SISTEMA 06 — TESTE SEU NÍVEL",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "ESTRUTURA DE MÓDULOS (6 NÍVEIS)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL A1 — Iniciante (Questões 1–5)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL A2 — Pré-Intermediário (Questões 6–10)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL B1 — Intermediário (Questões 11–15)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL B2 — Intermediário Superior (Questões 16–20)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL C1 — Avançado (Questões 21–25)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL C2 — Proficiência / Nativo (Questões 26–30)",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "CONTEÚDO COMPLETO — 30 QUESTÕES",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL A1 — INICIANTE",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL A2 — PRÉ-INTERMEDIÁRIO",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL B1 — INTERMEDIÁRIO",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL B2 — INTERMEDIÁRIO SUPERIOR",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL C1 — AVANÇADO",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "NÍVEL C2 — PROFICIÊNCIA",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        },
+        {
+          "titulo": "TABELA DE PONTUAÇÃO",
+          "paginas": "HTML/Markdown sem paginação; ordem textual preservada"
+        }
+      ],
+      "niveis": [
+        "A2"
+      ],
+      "habilidades": [
+        "Gramática"
+      ],
+      "unidades_destino": [
+        "A2-L11-0526-01"
+      ],
+      "exemplos_incorporados": [
+        "Nome",
+        "Sujeito",
+        "Auxiliar",
+        "Verbo"
+      ],
+      "explicacoes_incorporadas": [
+        "Objetivo de gramática derivado do conteúdo integral da fonte."
+      ],
+      "motivo_sem_unidade_nova": "Fonte diagnóstica multinível: os conceitos já possuem unidades; as questões não são republicadas como lições ou atividades.",
+      "diferenca_para_duplicata": "O hash normalizado é único: há recomposição editorial/compilação, não igualdade textual integral com uma única fonte.",
+      "conteudo_util_sem_destino": [],
+      "confirmacao": "Todo conteúdo instrucional útil foi associado a unidades existentes; elementos de navegação ou avaliação não viraram lição."
+    }
+  ],
+  "exemplos_consolidados": [
+    {
+      "texto": "How often do you exercise?",
+      "origem": "A2-L15-0824-01",
+      "canonica": "A2-L14-0752-01",
+      "removido_da_origem": true,
+      "ocorrencia_canonica_preservada": true,
+      "procedencias_origem_preservadas": [
+        "0824_sistema14_conteudo.md",
+        "1096_estruturas-fixas.md",
+        "1101_preposicoes-quantificadores.md"
+      ],
+      "procedencias_canonica_preservadas": [
+        "0752_QW_GRAM_G7_01_FREQUENCY_ADV_SEMPRE_NORMALMENTE_AS_VEZES_RARAMENTE_NUNCA.md",
+        "0753_QW_GRAM_G7_01_FREQUENCY_ADV_SEMPRE_NORMALMENTE_AS_VEZES_RARAMENTE_NUNCA_S001.md",
+        "1096_estruturas-fixas.md",
+        "1101_preposicoes-quantificadores.md",
+        "1112_QW_GRAM_G7_01_FREQUENCY_ADV_SEMPRE_NORMALMENTE_AS_VEZES_RARAMENTE_NUNCA_2.md"
+      ],
+      "traducao_ou_explicacao_exclusiva_perdida": false,
+      "impacto_atividades": "nenhum; 1.977 atividades preservadas"
+    },
+    {
+      "texto": "I got it.",
+      "origem": "A2-L9-0424-01",
+      "canonica": "B1-L16-0901-01",
+      "removido_da_origem": true,
+      "ocorrencia_canonica_preservada": true,
+      "procedencias_origem_preservadas": [
+        "0424_17_GET_Sentido_04_ENTENDER.md",
+        "0425_17_GET_Sentido_04_ENTENDER_S001.md",
+        "0964_GET_Sentido_04_ENTENDER_2.md"
+      ],
+      "procedencias_canonica_preservadas": [
+        "0901_get-coloquial.md"
+      ],
+      "traducao_ou_explicacao_exclusiva_perdida": false,
+      "impacto_atividades": "nenhum; 1.977 atividades preservadas"
+    }
+  ]
+}

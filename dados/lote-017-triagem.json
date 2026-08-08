@@ -1,0 +1,1937 @@
+{
+  "lote": "017",
+  "sequenciais": [
+    {
+      "numero": 921,
+      "nome": "0921_BE_Sentido_01_SER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11178,
+      "hash_bruto": "c21edec2e48dc813242106ae2c9b206a22b5df572faff14675310818efd651ff",
+      "hash_normalizado": "d9594526e1be3e2b173a0d91f2b570a9ba8d3d9db20cdd262dfd3db75baf444c",
+      "canonica": "0168_05_BE_Sentido_01_SER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L5-0168-01",
+        "A1-L5-0168-02",
+        "A1-L5-0168-03",
+        "A1-L5-0168-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 922,
+      "nome": "0922_BE_Sentido_02_ESTAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 10781,
+      "hash_bruto": "302b2f19106dc13c91709a5074ea0aa8a07a27b6aba73db70d90a95ca8fb76ce",
+      "hash_normalizado": "53eb0189969a8a6dcaf53a5eea8811c8331d54c808beb00723fe203eb5878759",
+      "canonica": "0203_06_BE_Sentido_02_ESTAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L6-0203-01",
+        "A2-L6-0203-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 923,
+      "nome": "0923_BE_Sentido_03_FICAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11146,
+      "hash_bruto": "af877b34fbf615e881bddf54dd72b3154dc7e6c6b6658f7e6ad1587d4d6291b2",
+      "hash_normalizado": "cfafa800bca76f239994bc7e856525aa0731c34aca667c7587fae97e6c7fc2a3",
+      "canonica": "0239_07_BE_Sentido_03_FICAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0239-01",
+        "B1-L6-0239-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 924,
+      "nome": "0924_BE_Sentido_04_H├ü___TEM___EXISTE.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 5757,
+      "hash_bruto": "7f42809553638e6ebb87210825fecb3980c686ee75c93fb2eea62d1f93bd1792",
+      "hash_normalizado": "723818ac03b3877173aca6604a9bba141f169d99542e5c82329c1c48c432df47",
+      "canonica": "0264_08_BE_Sentido_04_HA_TEM_EXISTE.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L7-0264-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 925,
+      "nome": "0925_BE_Sentido_05_ESTAR_+_A├ç├âO_(-ing).md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11284,
+      "hash_bruto": "57cbeba1db98a403a2b79f7cfbf09bedc8e9d325d8c6b31161f110b3ea4041c3",
+      "hash_normalizado": "7005a526ec5ff3f6c87ec375ff3b2e27a95554eb4a3d73f535155f1c78c910f5",
+      "canonica": "0297_09_BE_Sentido_05_ESTAR_ACAO_ing.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0297-01",
+        "B1-L7-0297-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 926,
+      "nome": "0926_BE_Sentido_06_J├ü_ESTEVE___TEM_ESTADO.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11976,
+      "hash_bruto": "e0d1313270e627e55ec1e7dc7aee2799e426e2c25843ee0e2ed7ccf28a319b28",
+      "hash_normalizado": "29d0d2810e77240dbb7dc719e3554fedb0537dd7fd4f45465806f5f93488d5e6",
+      "canonica": "0321_10_BE_Sentido_06_JA_ESTEVE.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L8-0321-01",
+        "B2-L8-0321-02",
+        "B2-L8-0321-03"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 927,
+      "nome": "0927_BE_Verbo_Completo_v3.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 50206,
+      "hash_bruto": "bec040bb3a3a861733c64f428c153e7451cc0a3580acc8ede0d8aebc9ac4a218",
+      "hash_normalizado": "2e2f7c0b8fdf26b80d154388b020f8230f133e63aa761303223e38a0ad842e22",
+      "canonica": "0003_#_BE_Completo.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 928,
+      "nome": "0928_BECOME_Sentido_01_TORNAR-SE___VIRAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12033,
+      "hash_bruto": "f7076bcd5027f7c410b5f355a070ce266fdefbbecf1c9505a96778251bed921f",
+      "hash_normalizado": "6dd38ee2f7aa4aae83f2d997991b852b483a62e7dd9eac655aff3dcf26dca5bc",
+      "canonica": "0348_11_BECOME_Tornar_Se.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0348-01",
+        "B1-L8-0348-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 929,
+      "nome": "0929_BEGIN_Sentido_01_COME├çAR.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12011,
+      "hash_bruto": "f6fd256584600a26c224b82e2bb32bffb38301af3d82ed9db51eacdcadd763a8",
+      "hash_normalizado": "37084534ffbb3f60fe06622e72dccd412d57fce5783f53fa5b0e8785a15f4fdd",
+      "canonica": "0058_02_BEGIN_Comecar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L3-0058-01",
+        "B1-L3-0058-02",
+        "B1-L3-0058-03",
+        "B1-L3-0058-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 930,
+      "nome": "0930_BELIEVE_Sentido_01_ACREDITAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11818,
+      "hash_bruto": "3b476d17fd91aea9f7312eb03cf14e1de22ae9d271b71bf2eede00f239e57750",
+      "hash_normalizado": "119a841b8193683e271ada53012563970e6fc05a45df84cb0b390effe740179e",
+      "canonica": "0095_03_BELIEVE_Acreditar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L4-0095-01",
+        "A2-L4-0095-02",
+        "A2-L4-0095-03",
+        "A2-L4-0095-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 931,
+      "nome": "0931_BREAK_Sentido_01_QUEBRAR___VIOLAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11867,
+      "hash_bruto": "dfa216e59597a05f30e59cf069ff31097d9f54017ccca0601cc303d4f68192ea",
+      "hash_normalizado": "38c4212a940aa27686f15071397a1edc8882c107cb1631892ca3d57a78b5a777",
+      "canonica": "0240_07_BREAK_Quebrar_Violar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0240-01",
+        "B2-L6-0240-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 932,
+      "nome": "0932_BRING_Sentido_01_TRAZER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11987,
+      "hash_bruto": "3f5ee782cdaa54c0eb181f0a4f274f707e3fcf56f4778cc06757a264c984cee5",
+      "hash_normalizado": "7e0227849d6de8e6cf2d8256e588d3a40137aeb12283d289764e437d3eca7611",
+      "canonica": "0132_04_BRING_Trazer.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0132-01",
+        "A2-L5-0132-02",
+        "A2-L5-0132-03",
+        "A2-L5-0132-04",
+        "A2-L5-0132-05"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 933,
+      "nome": "0933_BUILD_Sentido_01_CONSTRUIR___CRIAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12241,
+      "hash_bruto": "bf0d952210059bea27dab8d91ec279681c560c8937a4623e3da71a42b5fed8ad",
+      "hash_normalizado": "7890302f6d0965003e3df2b88949abff9e9229a491d38bfd61bad18fe9fccc82",
+      "canonica": "0298_09_BUILD_Construir_Criar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0298-01",
+        "B1-L7-0298-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 934,
+      "nome": "0934_BUY_Sentido_01_COMPRAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11428,
+      "hash_bruto": "9ee023cb42390903c49b01a5702f3550f402b98295b58d63223fe84b3292b972",
+      "hash_normalizado": "290f17caba390ba10c39bd042e33af499a8023d9332187b89920ac0cb21e1810",
+      "canonica": "0026_01_BUY_Comprar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 935,
+      "nome": "0935_CALL_Sentido_01_LIGAR_TELEFONAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11738,
+      "hash_bruto": "f30e1741c75040f6e995a2b9dfd837429385d8c0a4ec5bca235863ded4e2b95a",
+      "hash_normalizado": "3b35a32ea5580cf54331b6b6c044fc253bb041dafaca0a3c524a0eb7cb17c51c",
+      "canonica": "0452_22_CALL_Sentido_01_LIGAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0452-01",
+        "B1-L9-0452-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 936,
+      "nome": "0936_CALL_Sentido_02_CHAMAR_DAR_NOME_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12071,
+      "hash_bruto": "0465950ccdb3ffe475f65be4b63532b0a3c7cf0a92521ba8dc8b10fedf8e5a86",
+      "hash_normalizado": "f70678fd9f8d7fd982dd94ab1be614a0de08baf6713db3bad1d5c145b23e29ae",
+      "canonica": "0454_23_CALL_Sentido_02_CHAMAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0454-01",
+        "B1-L9-0454-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 937,
+      "nome": "0937_CATCH_Sentido_01_PEGAR___APANHAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11841,
+      "hash_bruto": "dea73c61f6b275be9502167f611ab5c9ae545da7fcd196d2b456791285e012f0",
+      "hash_normalizado": "0f721b844720c686d8e1ebb4d498ea5118b8adbbb7826d6060d6cceca7dd2c5b",
+      "canonica": "0204_06_CATCH_Pegar_Apanhar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0204-01",
+        "B1-L6-0204-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 938,
+      "nome": "0938_CHANGE_Sentido_01_MUDAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11885,
+      "hash_bruto": "afde07330b15cc311aa3b7c4def06e2178ca07f4cc3629bcd7246029bf277638",
+      "hash_normalizado": "f4cae84bf4e6c3f9e9ae2875858b4b0cecdedf14539814a911e6a3fc25e2d98e",
+      "canonica": "0267_08_CHANGE_Mudar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0267-01",
+        "B1-L7-0267-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 939,
+      "nome": "0939_CHECK_Sentido_01_VERIFICAR___CHECAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12344,
+      "hash_bruto": "576ae25a32928141e1a9c58f447199cbaf873bd33e1222ff96408fe1b150d8b9",
+      "hash_normalizado": "1382ac71b15a79ac49536f867e47a541c9cca92f5de7422944ef2c0d9e6ac46d",
+      "canonica": "0242_07_CHECK_Verificar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0242-01",
+        "B1-L7-0242-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 940,
+      "nome": "0940_CHOOSE_Sentido_01_ESCOLHER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12110,
+      "hash_bruto": "5b08db262c6ae07e361c5ba81566b14cdea8332e908a483017b0e4216d4f3d1d",
+      "hash_normalizado": "9119c416fd61d41fb1665347cef6e2439004d8a3c034c3f46758b0d5b172f7c6",
+      "canonica": "0244_07_CHOOSE_Escolher.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0244-01",
+        "B1-L7-0244-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 941,
+      "nome": "0941_CLEAN_Sentido_01_LIMPAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11698,
+      "hash_bruto": "aef8aaf927a80b647876d6aa685049f079ca4c1812ee34e39d5407c2e658f999",
+      "hash_normalizado": "ea13eac7aceb1a8dc8e1e20f92bb4c59c67be0b821215034adeda6253c80327a",
+      "canonica": "0246_07_CLEAN_Limpar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L7-0246-01",
+        "A2-L7-0246-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 942,
+      "nome": "0942_COME_Sentido_01_VIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12029,
+      "hash_bruto": "85bb7d6f6b7dc8db0c3820ff865cf80675b13dd751588b3fb8d7ac20985d1d53",
+      "hash_normalizado": "2798068a8b50571f62c16bacbe4d7c78d65b27bd0138d38a9d394075a1124ce9",
+      "canonica": "0444_20_COME_Sentido_01_VIR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0444-01",
+        "B1-L9-0444-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 943,
+      "nome": "0943_COME_Sentido_02_CHEGAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11587,
+      "hash_bruto": "f911b0e9c768b3eb7fc1c0cc210e5c53c2de475eaca97e95e369641a781d9794",
+      "hash_normalizado": "b62f15045e6079245a19424259657aa0e28ddebdeb441cc9f591adba09073f8f",
+      "canonica": "0448_21_COME_Sentido_02_CHEGAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0448-01",
+        "B1-L9-0448-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 944,
+      "nome": "0944_COME_Sentido_03_TORNAR-SE_REALIZAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12137,
+      "hash_bruto": "bafe224ce0d4b3c442cf6c52ebd9dde4e45802c6e11ecc83caa4c4caa4a02502",
+      "hash_normalizado": "07e64060551c2fc27f42ef7891b6c0310b4da86f11e850c150623250e16b4938",
+      "canonica": "0063_02_COME_Tornar_Se.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L3-0063-01",
+        "B2-L3-0063-02",
+        "B2-L3-0063-03",
+        "B2-L3-0063-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 945,
+      "nome": "0945_CONTINUE_Sentido_01_CONTINUAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11937,
+      "hash_bruto": "a6594fdf1fc526b24e1bfd4efa4244d3eb17a9ac8c4f52ed3e7f92a18dcc6163",
+      "hash_normalizado": "5ea11d7b0df7c2be0b9c139a687ac2f4a14775ba9743771e6b4b5ac3464de2bd",
+      "canonica": "0171_05_CONTINUE_Continuar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0171-01",
+        "A2-L6-0171-02",
+        "B1-L6-0171-03"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 946,
+      "nome": "0946_COOK_Sentido_01_COZINHAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11865,
+      "hash_bruto": "dd7da4511110286758368d7b2476e2e3a98fa77d24f62b5ec1b23e85e39d1d24",
+      "hash_normalizado": "346435cc7cd3ad6d84da9c25b423abc1d160144d2eaaa0707044142ea6809e5f",
+      "canonica": "0206_06_COOK_Cozinhar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L6-0206-01",
+        "A2-L6-0206-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 947,
+      "nome": "0947_CUT_Sentido_01_CORTAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11626,
+      "hash_bruto": "cd4e0d11b0eae32129da43e6353c278f72418a29c645108320c221b628643806",
+      "hash_normalizado": "3cb9d258f94b7da6771305ac67e7be9f44551d73bf9e4a2cbdd90d8259cc3cf9",
+      "canonica": "0269_08_CUT_Cortar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0269-01",
+        "B1-L7-0269-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 948,
+      "nome": "0948_DECIDE_Sentido_01_DECIDIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11556,
+      "hash_bruto": "390887374da970bdb60181af182f5795585225872b687276dcb29eb15f5d092f",
+      "hash_normalizado": "d7cbc27af624c268a23b4d73ef15e39300a6afb0ef07b6c86b61f8e4b7fbdaa6",
+      "canonica": "0208_06_DECIDE_Decidir.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0208-01",
+        "B1-L6-0208-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 949,
+      "nome": "0949_DO_Sentido_01_FAZER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11572,
+      "hash_bruto": "985537941ce1691232f070fb9d793fd5694013dc0c65bfa10078a9150f4680bf",
+      "hash_normalizado": "639b970e122e20a58c8d6d92a35d0eeca99fc7ed9c1bea76759f382b4619b24c",
+      "canonica": "0300_09_DO_Sentido_01_FAZER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L7-0300-01",
+        "A2-L7-0300-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 950,
+      "nome": "0950_DO_Sentido_02_AUXILIAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 10881,
+      "hash_bruto": "1d216be384cde28e27674f20a5345fd481b0cb53540fb03309aa49fd1fa2f740",
+      "hash_normalizado": "a2b6c32bbf690730769c4bcab654fe2d1b9af2ba47cbdf3c65a4c41009db1f6b",
+      "canonica": "0322_10_DO_Sentido_02_AUXILIAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0322-01",
+        "B1-L8-0322-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 951,
+      "nome": "0951_DRIVE_Sentido_01_DIRIGIR___LEVAR_DE_CARRO_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12285,
+      "hash_bruto": "313dc682a99893620ca263cf08e91917b92689cc19424831c6a547bfd3f9ba7c",
+      "hash_normalizado": "4d3ce069a77244db212218cb629416bbcf401e2f1dc199895627668e5f6390d4",
+      "canonica": "0410_15_DRIVE_Dirigir.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0410-01",
+        "B1-L9-0410-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 952,
+      "nome": "0952_ENJOY_Sentido_01_APROVEITAR___GOSTAR_DE_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12099,
+      "hash_bruto": "18e5b8550b11b24aa65db42402ed3e5aaae994c9ec86b985377a5300e5ef9f7c",
+      "hash_normalizado": "1b54f5c59996fe81bc2d4a83a73bc8a85b982d5683be68467541a9b34b7fbb70",
+      "canonica": "0350_11_ENJOY_Aproveitar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0350-01",
+        "B1-L8-0350-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 953,
+      "nome": "0953_EXPECT_Sentido_01_ESPERAR___PREVER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12010,
+      "hash_bruto": "daff1215a856d64b0abab9477a6d5f8c055a38ed689f0dc285108b065fd87400",
+      "hash_normalizado": "3a1e02707c7f6d93efb308ed1bd1a5b636ab5312fc51b7456e37373bd5b2c652",
+      "canonica": "0271_08_EXPECT_Esperar_Prever.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L7-0271-01",
+        "B2-L7-0271-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 954,
+      "nome": "0954_FALL_Sentido_01_CAIR___DIMINUIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11636,
+      "hash_bruto": "e841bb36e519ce1561066fbd0131d95fb46d2225d365ea88af9600c4158575cd",
+      "hash_normalizado": "972228bf222fe217584891dd6b1fbd9da335aa5dbdf63c35e370b4c4e7a25cea",
+      "canonica": "0302_09_FALL_Cair_Diminuir.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0302-01",
+        "B1-L7-0302-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 955,
+      "nome": "0955_FEEL_Sentido_01_SENTIR___SE_SENTIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11579,
+      "hash_bruto": "b3959d2d6fb580a99db5f228fe2788ee4c9a46c8cbbb6bbd3b93e4a671db1099",
+      "hash_normalizado": "66ef85737ff95c6ade357b2ae1effe1430bcd147099b03a175c9d8d6f742fe92",
+      "canonica": "0370_12_FEEL_Sentido_01_SENTIR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0370-01",
+        "B1-L8-0370-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 956,
+      "nome": "0956_FIGHT_Sentido_01_LUTAR___BRIGAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12143,
+      "hash_bruto": "6dcb46fa29f865709d1bf862551f23f786ccb517f735da5adf71fb062f14519e",
+      "hash_normalizado": "e46c531ee83c76d76f01af5e085ee6c2eb4c7aabf54fceff273ae45b7f0ad15e",
+      "canonica": "0386_13_FIGHT_Lutar_Brigar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0386-01",
+        "B1-L8-0386-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 957,
+      "nome": "0957_FIND_Sentido_01_ENCONTRAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11727,
+      "hash_bruto": "6f3bfff9921934dfc121742ac5423ab07de87c6473d2d42a3f3163450b70cab3",
+      "hash_normalizado": "b2da4d17b66c96318c1e4a3abd79861a1ad7fdcc5978eabbbefa61601468b3f2",
+      "canonica": "0430_18_FIND_Sentido_01_ENCONTRAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0430-01",
+        "B1-L9-0430-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 958,
+      "nome": "0958_FINISH_Sentido_01_TERMINAR___ACABAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12233,
+      "hash_bruto": "6733b49fdc5e965e8e8e630af41998f6f365ba9b6514dc31d5fb453f3eddccc2",
+      "hash_normalizado": "f1181cd8e97d8e168bbcedbc377656395550a9314ef7f795702e5665071d3034",
+      "canonica": "0138_04_FINISH_Terminar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0138-01",
+        "A2-L5-0138-02",
+        "A2-L5-0138-03",
+        "A2-L5-0138-04",
+        "A2-L5-0138-05"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 959,
+      "nome": "0959_FIX_Sentido_01_CONSERTAR___RESOLVER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12075,
+      "hash_bruto": "70a1206e1b1528e7c209f33ba1b43b16af433080750b4b2e325a0344cbe1c8b1",
+      "hash_normalizado": "e32bdd18e1f6edaefa9d235f606f3c4923ad7d207e3d6cca35b0f91feae89808",
+      "canonica": "0273_08_FIX_Consertar_Resolver.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0273-01",
+        "B1-L7-0273-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 960,
+      "nome": "0960_FORGET_Sentido_01_ESQUECER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11784,
+      "hash_bruto": "2255b312a8b2d7e81047939017057dea15621b20e919881855507495ac9db6d9",
+      "hash_normalizado": "eee0fe4ecc282e042f6de4e419b4f9c10c2143f4ac2ec48b90a1f85fc4d6729d",
+      "canonica": "0326_10_FORGET_Esquecer.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0326-01",
+        "B1-L8-0326-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 961,
+      "nome": "0961_GET_Sentido_01_RECEBER_CONSEGUIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12093,
+      "hash_bruto": "02a37b6cd947fcf2f7ea0f5191b63b922cf9f28a00a3cc11642f84d86c3be0a1",
+      "hash_normalizado": "ad0c9c41e709d04903a3a9409db55c42ae129c93867f7caad2d5057e4627c2f0",
+      "canonica": "0400_14_GET_Sentido_01_RECEBER_CONSEGUIR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0400-01",
+        "B1-L8-0400-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 962,
+      "nome": "0962_GET_Sentido_02_FICAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11552,
+      "hash_bruto": "363d36d19efafaa6f2b19564c87858785b970f216dd202a9a734075d06a1d0f1",
+      "hash_normalizado": "5a44fd4e998844e634f3463cd58c1c12ca31345603d8d5e03dfad0c7c6090fe1",
+      "canonica": "0412_15_GET_Sentido_02_FICAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0412-01",
+        "B1-L9-0412-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 963,
+      "nome": "0963_GET_Sentido_03_BUSCAR_PEGAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11739,
+      "hash_bruto": "46966dff7e2aefd02c24cccc2a5d641ba3a819f789046c122a75f118e989c37b",
+      "hash_normalizado": "9249e641ee947a27581e48b147aae406ea15f6277327fd655e8723ebcd0d0b6f",
+      "canonica": "0418_16_GET_Sentido_03_BUSCAR_PEGAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0418-01",
+        "B1-L9-0418-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 964,
+      "nome": "0964_GET_Sentido_04_ENTENDER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11192,
+      "hash_bruto": "4062d13f2e7da2cfd70e8a21f330ec22da9ea53068e61022781d49c96daaf584",
+      "hash_normalizado": "2bf2d484781ede7168613468f9c201dde160aaf1a053a9340bc8e3819d01591e",
+      "canonica": "0424_17_GET_Sentido_04_ENTENDER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0424-01",
+        "B1-L9-0424-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 965,
+      "nome": "0965_GIVE_Sentido_01_DAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11814,
+      "hash_bruto": "e6663562f3ba9f18effd45dfa94517e0f0b5690da3bcc573d8effc6add612740",
+      "hash_normalizado": "0c3ed2af50cca0cd76d7cce7ecc976395fc5a082ae4c47f3916699fa53d5013a",
+      "canonica": "0426_17_GIVE_Sentido_01_DAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0426-01",
+        "B1-L9-0426-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 966,
+      "nome": "0966_GO_Sentido_01_IR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12015,
+      "hash_bruto": "3319e166272a06989764ff1b8867e5b767275af3588c88e04957de40c1dd16bc",
+      "hash_normalizado": "056bcdb65d162be1cdd18b57120a0fc41c2f4082cb1e54e9d87e0b97709b7b87",
+      "canonica": "0354_11_GO_Sentido_01_IR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0354-01",
+        "A2-L8-0354-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 967,
+      "nome": "0967_GO_Sentido_02_FICAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11488,
+      "hash_bruto": "96e98787ea029fe9ca382bece202f2513220ddb551825ba691f57d48dcf3b9f3",
+      "hash_normalizado": "3dd557a27485ba9d24d8fcd968ee08df5cf988a7320e289b5137729c9d7a135e",
+      "canonica": "0372_12_GO_Sentido_02_FICAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L8-0372-01",
+        "B2-L8-0372-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 968,
+      "nome": "0968_GO_Sentido_03_IR_DE_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11720,
+      "hash_bruto": "679a52ac6f8d1b2df70891e5a90858df981fd48ca66ff5679255217ff35852aa",
+      "hash_normalizado": "06188e17e08731a052256b1bcf0c44cef33a0c9a8303ce15461ead12aa709ad8",
+      "canonica": "0388_13_GO_Sentido_03_IR_DE.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0388-01",
+        "B1-L8-0388-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 969,
+      "nome": "0969_GO_Sentido_04_PASSAR_POR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12015,
+      "hash_bruto": "0fe51441fd9cdd67949606c03dda0524931848ef8bdec9cec59e69e1f53b8398",
+      "hash_normalizado": "4ee709761aef37dc4ac83f15f660614a8c742ce5dcb681460efdb0439fcceef9",
+      "canonica": "0098_03_GO_Passar_Por.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L4-0098-01",
+        "B2-L4-0098-02",
+        "B2-L4-0098-03",
+        "B2-L4-0098-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 970,
+      "nome": "0970_GO_Sentido_05_SAIR_APAGAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11354,
+      "hash_bruto": "79dfa6d04662aeac27864fc9d65b20e746279cb33624bbc433b4ad6717a3461a",
+      "hash_normalizado": "e94f1c79d0ccabf8de70fcf8be9b7c98e398b09fec57cc9f12a97873d51e755d",
+      "canonica": "0142_04_GO_Sair_Apagar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0142-01",
+        "B1-L5-0142-02",
+        "B1-L5-0142-03",
+        "B1-L5-0142-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 971,
+      "nome": "0971_GO_Sentido_06_COMBINAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12294,
+      "hash_bruto": "f339a62b829aaea28ea9c5abcab06f1f02ebe3744f0683d5b599f29d8a6ef13f",
+      "hash_normalizado": "c15325a23ce2b58efbfea760b6ff5684f28e6f6571ce8f910556c1f4adb17f6c",
+      "canonica": "0177_05_GO_Combinar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0177-01",
+        "B1-L6-0177-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 972,
+      "nome": "0972_GROW_Sentido_01_CRESCER___CULTIVAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11572,
+      "hash_bruto": "83b4b0801db31759b717566680b5ffca10da8ee18b8f1b79cd9c077c4af63e04",
+      "hash_normalizado": "da3d4e88c9380563d69ee2c42fbbef1de42494e08787029227330b1d5085acf8",
+      "canonica": "0328_10_GROW_Crescer_Cultivar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0328-01",
+        "B1-L8-0328-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 973,
+      "nome": "0973_HAPPEN_Sentido_01_ACONTECER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11602,
+      "hash_bruto": "62e6a92b95ab0e619ae4ebb249daa9ca3b36d162b54bc63ccb56de1f518d4a6a",
+      "hash_normalizado": "eef76956bc1e17c2f493516dffe93d4cde91c4575d31a7f0a36463817a924805",
+      "canonica": "0374_12_HAPPEN_Acontecer.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0374-01",
+        "B1-L8-0374-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 974,
+      "nome": "0974_HAVE_Completo_17_Sentidos.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 194523,
+      "hash_bruto": "fdcad3eb89fe68ee4d9b6b1d6427c529816b83cbf17ac5fe50bf42da10ae0cbe",
+      "hash_normalizado": "8cbee9ce05d5d72c45a96fb10a7d94775a445204a23454ac0b2dd777615e4fe7",
+      "canonica": "0009_#_HAVE_Completo.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 975,
+      "nome": "0975_HAVE_Sentido_01_TER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11777,
+      "hash_bruto": "f31e4bc707f9fbd168a191e25c737a19defafde64c519b19930cb2dae27898e9",
+      "hash_normalizado": "e64b39ef6d7a0ece87b74de3cba12d36da654f619d9ac5be4523e0b66e76ad26",
+      "canonica": "0029_01_HAVE_Sentido_01_TER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 976,
+      "nome": "0976_HAVE_Sentido_02_POSSUIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11853,
+      "hash_bruto": "3087721140969a3c4be243e24ebdc1fa4cbb154f82f5c1195e29b3bbf7f4fe57",
+      "hash_normalizado": "9e0f3b6ff2b08de98fe85a8b3f791bf45d5572dbdcfb716f4843b1fef7662365",
+      "canonica": "0066_02_HAVE_Sentido_02_POSSUIR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L3-0066-01",
+        "A2-L3-0066-02",
+        "A2-L3-0066-03",
+        "A2-L3-0066-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 977,
+      "nome": "0977_HAVE_Sentido_03_TOMAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12004,
+      "hash_bruto": "dcccf583f50a847428f6a6b27cc97cb1afeaef8f4d98271bfa89f272cb0501ad",
+      "hash_normalizado": "d3788767f1360e1369b79e0d11d95bf2448d79039a91a662189848cfcf2ffe43",
+      "canonica": "0102_03_HAVE_Sentido_03_TOMAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L4-0102-01",
+        "A2-L4-0102-02",
+        "A2-L4-0102-03",
+        "A2-L4-0102-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 978,
+      "nome": "0978_HAVE_Sentido_04_BEBER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12091,
+      "hash_bruto": "cf51faae443ebbd27714742664df836c8fff5413d675d29eee5fc27bf032932d",
+      "hash_normalizado": "02562ab1b58042bdf38ad621fd7c3e2adb2d27d870429e5d940820a355bb4bfb",
+      "canonica": "0147_04_HAVE_Sentido_04_BEBER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0147-01",
+        "A2-L5-0147-02",
+        "A2-L5-0147-03",
+        "A2-L5-0147-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 979,
+      "nome": "0979_HAVE_Sentido_05_COMER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11819,
+      "hash_bruto": "d26e844d8f639f94bd6db397cd8e6812b7ebb5c954be67b02e97c2483f2a0416",
+      "hash_normalizado": "0f53c355e699cc6a4ad1ccb8b1b62fd185d5083396d37b7e15d852374788ea3d",
+      "canonica": "0181_05_HAVE_Sentido_05_COMER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0181-01",
+        "A2-L6-0181-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 980,
+      "nome": "0980_HAVE_Sentido_06_CAF├ë_DA_MANH├â.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12702,
+      "hash_bruto": "3df02e18cb69a904daa8e1a908cc457cdf4212a513a5ae2585c0091f91081014",
+      "hash_normalizado": "9258038f07041a962ff7a7c22faf2dfb2cc7e3410a1caa036885771f69078779",
+      "canonica": "0100_03_HAVE_Cafe_da_Manha.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L4-0100-01",
+        "A2-L4-0100-02",
+        "A2-L4-0100-03",
+        "A2-L4-0100-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 981,
+      "nome": "0981_HAVE_Sentido_07_ALMO├çAR.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12175,
+      "hash_bruto": "45a0b886c18f634675f432ea9fc469b9f98e31f173b43952017875574c9b26b0",
+      "hash_normalizado": "6446c631a93a181807956988047f18a215c804fe34f1995187375d9cf2085a7a",
+      "canonica": "0145_04_HAVE_Almoco.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L5-0145-01",
+        "A1-L5-0145-02",
+        "A1-L5-0145-03",
+        "A1-L5-0145-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 982,
+      "nome": "0982_HAVE_Sentido_08_LANCHE_DA_TARDE_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12219,
+      "hash_bruto": "929e410f719051b6ef44810e79d43db8bd7352067512298f9a8622cea9cdba13",
+      "hash_normalizado": "1f978226821c6d9d2b0310d72013d11689680293c4991044a098cc63ec77d0ba",
+      "canonica": "0210_06_HAVE_Lanche.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L6-0210-01",
+        "A2-L6-0210-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 983,
+      "nome": "0983_HAVE_Sentido_09_JANTAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12232,
+      "hash_bruto": "fc199fe2078d9c8ad2a13a8f3cceb780d3e241ecc0a7c0fe960f2c181de9b669",
+      "hash_normalizado": "e5ec18656dfac4b89cc2fbbb71acf74e46bbbdc32c560b281f824845b993c32f",
+      "canonica": "0179_05_HAVE_Jantar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L6-0179-01",
+        "A2-L6-0179-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 984,
+      "nome": "0984_HAVE_Sentido_10_CEIA_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12128,
+      "hash_bruto": "987bdf4c301337ee9a62bb3244ffe05a4bd23498a5766bf25477cf715a1b0075",
+      "hash_normalizado": "1af0022506e75a832a8058cbeec445e8a18903debc28cb17862fdda3c6fd113d",
+      "canonica": "0248_07_HAVE_Ceia.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L7-0248-01",
+        "A2-L7-0248-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 985,
+      "nome": "0985_HAVE_Sentido_11_SENTIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12151,
+      "hash_bruto": "ff47579178b4e96795113735cd807a827c9170c2876b2a5b669572f91272c44b",
+      "hash_normalizado": "da5b6dc2bf421808f061e1aa14f05e6ccff4aba15bdc3e40a51bad4803c7b738",
+      "canonica": "0212_06_HAVE_Sentido_11_SENTIR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0212-01",
+        "B1-L6-0212-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 986,
+      "nome": "0986_HAVE_Sentido_12_ESTAR_COM_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11957,
+      "hash_bruto": "254ea0c402927ecd53af5cd9c2b8f82009049b0bac5b733877c62dea666e95f8",
+      "hash_normalizado": "25a4c90d5a4724e15e3bafcc14e2c1643f6e50d763cd1ee7849bf591ee4c86b4",
+      "canonica": "0277_08_HAVE_Estar_Com.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0277-01",
+        "B1-L7-0277-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 987,
+      "nome": "0987_HAVE_Sentido_13_PRECISAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12278,
+      "hash_bruto": "bb7aca19c7453aea2037c9b5deb8187e4151db97c6b5486205a20e5572bffbdf",
+      "hash_normalizado": "06f2ccc1cf092ee2261a0045693f1a7cdda17f3ebe782bf1a36d33f48e1b0db1",
+      "canonica": "0250_07_HAVE_Sentido_13_PRECISAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L7-0250-01",
+        "B1-L7-0250-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 988,
+      "nome": "0988_HAVE_Sentido_14_TER_QUE_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12570,
+      "hash_bruto": "1bc23dd5e3813a0a0de09fb13173b53c20d7b238a3a6dcd3482de959499733fd",
+      "hash_normalizado": "61391df327e4b20582b90a39cc004668e84a4acabf5c8edc357a7afeddbaa451",
+      "canonica": "0279_08_HAVE_Sentido_14_TER_QUE.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0279-01",
+        "B1-L7-0279-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 989,
+      "nome": "0989_HAVE_Sentido_15_RECEBER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12353,
+      "hash_bruto": "da51f61ac619f252ac7219eb0b269d56f335e43108e0a8b88259a8382c38c37e",
+      "hash_normalizado": "1c3f8323be62b86d8dc259cfcfbd42a271d0340a14779e91384de90a182c20ec",
+      "canonica": "0304_09_HAVE_Receber.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0304-01",
+        "B1-L7-0304-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 990,
+      "nome": "0990_HAVE_Sentido_16_PASSAR_POR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12369,
+      "hash_bruto": "ff9e7c92d26802e3608fa5ad45f836a97aa56ee5b2a6fb67053c8f5549a223e6",
+      "hash_normalizado": "c83d660e5ab29ccb47928b9c3152dcc5c106ae8c73cdac9a0d64b61c7dcb11b8",
+      "canonica": "0330_10_HAVE_Passar_Por.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L8-0330-01",
+        "B2-L8-0330-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 991,
+      "nome": "0991_HAVE_Sentido_17_FAZER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12226,
+      "hash_bruto": "e576584f6af8234a4651ad4d9290ba431751e8ecafa83f449677a84ea90c335f",
+      "hash_normalizado": "0d2ea0d88c7c0285da91f7d9b3a8c01862f3f112bc3f03e2146cca93e2e3ca54",
+      "canonica": "0356_11_HAVE_Fazer.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0356-01",
+        "B1-L8-0356-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 992,
+      "nome": "0992_HEAR_Sentido_01_OUVIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11836,
+      "hash_bruto": "f3509c92a75e70fd4f3e339f949006f0844a99fba7583e4039f41c65939fcea7",
+      "hash_normalizado": "0c23f139bbc4ae60de72447e9687e78480c4a25af44d5e82d1973f2a21f1c66e",
+      "canonica": "0104_03_HEAR_Ouvir.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L4-0104-01",
+        "A2-L4-0104-02",
+        "A2-L4-0104-03",
+        "A2-L4-0104-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 993,
+      "nome": "0993_HELP_Sentido_01_AJUDAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11655,
+      "hash_bruto": "2028f89a51b0a88a95aa7dcca990205b41f7a53b63cb4a2076be98049372c949",
+      "hash_normalizado": "29655daaa6261c0d2bc632abd8583523e4eb7764a3d18c5e5a0ae427c5b22902",
+      "canonica": "0214_06_HELP_Ajudar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L6-0214-01",
+        "A2-L6-0214-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 994,
+      "nome": "0994_HOLD_Sentido_01_SEGURAR___REALIZAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11992,
+      "hash_bruto": "b9490f1b00ef379e7012d778b60c0a98b8c7ee5ee5bfddd190466004ab19976d",
+      "hash_normalizado": "c55d1b1f45c7bb3047de0de14f3ad9088c084982108556c09f434d9c1ef3e2eb",
+      "canonica": "0183_05_HOLD_Segurar_Realizar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0183-01",
+        "B1-L6-0183-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 995,
+      "nome": "0995_IMAGINE_Sentido_01_IMAGINAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12399,
+      "hash_bruto": "9515a100af45e198a82c6a9da47520b5b993cdf2c1500dbe8040024b6271e79b",
+      "hash_normalizado": "03f423d9a399295333c7b2e89d7dc482dbf178195dd5a2c28d8e8e8d228258b1",
+      "canonica": "0252_07_IMAGINE_Imaginar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L7-0252-01",
+        "B2-L7-0252-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 996,
+      "nome": "0996_INCLUDE_Sentido_01_INCLUIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12183,
+      "hash_bruto": "68f4df05518b00d5985847a0976ea3ddba082adbf0ac28df8034f36b20ac04da",
+      "hash_normalizado": "d6f8feffb2737a855eb0a7fefeb49f08c1eec253ff67643b439c386213ac8b52",
+      "canonica": "0390_13_INCLUDE_Incluir.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0390-01",
+        "B1-L8-0390-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 997,
+      "nome": "0997_JOIN_Sentido_01_ENTRAR___PARTICIPAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12023,
+      "hash_bruto": "13b8de2db7db94e07677c707d425c73db4542fa390e5ce8a62ddaa6b5e3eca12",
+      "hash_normalizado": "1554a1920192dc2180d2df9f03c003cc3684cae9dd6578c9ac3c9acfac197b8c",
+      "canonica": "0376_12_JOIN_Participar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0376-01",
+        "B1-L8-0376-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 998,
+      "nome": "0998_KEEP_Sentido_01_GUARDAR_MANTER_CONTINUAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12208,
+      "hash_bruto": "a5f3cadfd536ba284d64b442ea13bd09373c4d46859dc69c1fe4f1eed61d9edd",
+      "hash_normalizado": "149ac11b7f38f1305fe291097f9306c16c30160b153fc48e88f3e80ad140190d",
+      "canonica": "0310_09_KEEP_Guardar_Manter.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0310-01",
+        "B1-L7-0310-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 999,
+      "nome": "0999_KNOW_Sentido_01_SABER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12078,
+      "hash_bruto": "d78f49dcb0c6e97b5620f356a38651de15ffa13573f4aeda15a8a85be85a9d95",
+      "hash_normalizado": "2fee33d17cb1aa377cc24b75178631a2186eb0ad640bbb4ec5919046a675bce6",
+      "canonica": "0035_01_KNOW_Sentido_01_SABER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L3-0035-01",
+        "A2-L3-0035-02",
+        "A2-L3-0035-03",
+        "A2-L3-0035-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1000,
+      "nome": "1000_KNOW_Sentido_02_CONHECER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12036,
+      "hash_bruto": "3bf5c292a59a042c285ce6cbe345bcef9a44de883ba17af42daf8c1708e76c2e",
+      "hash_normalizado": "71250313524d72d0a6590428dca2cc9f54194f902994b1cef942e9ac38a2bc82",
+      "canonica": "0070_02_KNOW_Sentido_02_CONHECER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L4-0070-01",
+        "A2-L4-0070-02",
+        "A2-L4-0070-03",
+        "A2-L4-0070-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1001,
+      "nome": "1001_KNOW_Sentido_03_RECONHECER_PERCEBER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12564,
+      "hash_bruto": "7eb7f7ad59e6052ea798a911f46d305df38c9220cc9331399b1a18275f0bf698",
+      "hash_normalizado": "3deb52e92f6d8f269e6283199eae60a29c363e83b193cc56d0d7a9295593296e",
+      "canonica": "0602_KNOW_Sentido_03_RECONHECER_PERCEBER.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L13-0602-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1002,
+      "nome": "1002_LEAD_Sentido_01_LIDERAR___LEVAR.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11959,
+      "hash_bruto": "6a2de4afc3c83539a54eb37b91779f7b2ce6ec691a56e3e8b96bbd8f999fb94b",
+      "hash_normalizado": "e9e603fbed967d10383d276aed3253aa68c336396dc26ff9fa972f68b67c54c5",
+      "canonica": "0402_14_LEAD_Liderar_Levar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0402-01",
+        "B1-L9-0402-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1003,
+      "nome": "1003_LEARN_Sentido_01_APRENDER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11925,
+      "hash_bruto": "de34b7fb7e63319c29549d792feb4ff50ca8ead302283179bd582846dd9c4fad",
+      "hash_normalizado": "d8f00a1bc7b5c78a993567c35cc1b69c6f8f670ad50726fe54bb2575786f021a",
+      "canonica": "0358_11_LEARN_Aprender.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0358-01",
+        "A2-L8-0358-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1004,
+      "nome": "1004_LEAVE_Sentido_01_SAIR_DEIXAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12171,
+      "hash_bruto": "7e1298d46103d83ae3725898b8886527fd2507cbd15f48ed6a4a02328db547a6",
+      "hash_normalizado": "30358048d3f1c406f6d674c0a578c9f8eff108d1dd884ffe0c634e3f615b4934",
+      "canonica": "0436_19_LEAVE_Sentido_01_SAIR_DEIXAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0436-01",
+        "B1-L9-0436-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1005,
+      "nome": "1005_LET_Sentido_01_DEIXAR_PERMITIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12487,
+      "hash_bruto": "c2b0eb87de41124ca2c372c6bcf4deff19d6f91fdb1581145c707cc34fa67751",
+      "hash_normalizado": "171ab3b2bc588eb9d5cbf446fa358055a1cb7ff16bf74606c7ab91b2b10901b0",
+      "canonica": "0334_10_LET_Deixar_Permitir.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0334-01",
+        "B1-L8-0334-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1006,
+      "nome": "1006_LIKE_Sentido_01_GOSTAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11533,
+      "hash_bruto": "3fb56537bb0a331b6bbee987259001263f95db0bafa896c26e8b8422448220fb",
+      "hash_normalizado": "6c36a67fbf46531311424eb0a29b748749f039e290de169f05e2f66dc8a39ff7",
+      "canonica": "0336_10_LIKE_Sentido_01_GOSTAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0336-01",
+        "A2-L8-0336-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1007,
+      "nome": "1007_LIVE_Sentido_01_MORAR___VIVER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11864,
+      "hash_bruto": "1412c18c374321321f7f613b2a64943e60fbd9d79616e5eb9084693b44c211ee",
+      "hash_normalizado": "5638cb4f6ac9493c87fb80cebaa9f06de7d7116fc12b1340525606a78d427ec7",
+      "canonica": "0392_13_LIVE_Morar_Viver.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0392-01",
+        "A2-L8-0392-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1008,
+      "nome": "1008_LOSE_Sentido_01_PERDER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11729,
+      "hash_bruto": "b27d0050bdd7844e41ba17b45ed9867c701629aa20fb45c9b9d96e29e42ac4d8",
+      "hash_normalizado": "927e5e3ab3cb004905b641ca50b2c80de35492410c87ade48da96162d5f6ba3b",
+      "canonica": "0394_13_LOSE_Perder.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0394-01",
+        "B1-L8-0394-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1009,
+      "nome": "1009_LOVE_Sentido_01_AMAR___ADORAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11277,
+      "hash_bruto": "dacf177cedf5e429a95b762065cf17225f5d5d7d7e67ed0881a6f05082e557e1",
+      "hash_normalizado": "5132485203de6ea8a12deda48ab50debf5fec899ed215ab18533b06b1d72b9b6",
+      "canonica": "0360_11_LOVE_Sentido_01_AMAR_ADORAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0360-01",
+        "A2-L8-0360-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1010,
+      "nome": "1010_MAKE_Sentido_01_FAZER_CRIAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12175,
+      "hash_bruto": "536ae83a2a6f574629e19be5ac3b6577a34a4bf982f06286585bcfc36d4ba0db",
+      "hash_normalizado": "63b7f3aab7b573b7389051041bcded260061321d016f2542aa7ac23f583600f1",
+      "canonica": "0432_18_MAKE_Sentido_01_FAZER_CRIAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0432-01",
+        "B1-L9-0432-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1011,
+      "nome": "1011_MAKE_Sentido_02_CAUSAR_DEIXAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12223,
+      "hash_bruto": "83d86ce77825fe86e075bdec3e12f79975f37db3d7d4e1119e3c9bd45f7e004d",
+      "hash_normalizado": "cd53a4fb62761650fd7ac6e6fe4730699190a583ad669b5fcd607cb202cafb25",
+      "canonica": "0438_19_MAKE_Sentido_02_CAUSAR_DEIXAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0438-01",
+        "B1-L9-0438-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1012,
+      "nome": "1012_MAKE_Sentido_03_GANHAR_RENDER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11720,
+      "hash_bruto": "64b65197bdd12e6a0fa65aeb8b81ae6118633f67f91c8123e268dc4241f7a3dc",
+      "hash_normalizado": "af177c0aaac7d19c4ab624491e50a15a41344e8b308f24309805d1d700defd21",
+      "canonica": "0072_02_MAKE_Ganhar_Render.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L4-0072-01",
+        "B2-L4-0072-02",
+        "B2-L4-0072-03",
+        "B2-L4-0072-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1013,
+      "nome": "1013_MAKE_Sentido_04_TOMAR_COMETER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11991,
+      "hash_bruto": "5fd1e3d4c84a9aa4e68515fd7f60b918d9f11e7c223fa7bd2224e6e732f5ff77",
+      "hash_normalizado": "6be38b7c2bf7402305873a42e3bf062f929824801eb67345274da77bb441686a",
+      "canonica": "0108_03_MAKE_Tomar_Cometer.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L4-0108-01",
+        "B2-L4-0108-02",
+        "B2-L4-0108-03",
+        "B2-L4-0108-04"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1014,
+      "nome": "1014_MEAN_Sentido_01_SIGNIFICAR___QUERER_DIZER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11610,
+      "hash_bruto": "784509cceb402e89e9936b314e5753b059c3e88b42c1ddade75b5aeccdc33f4f",
+      "hash_normalizado": "f34e62dbf4d544bc8a9cb9794b4e10fad31c2c206eb40e6981f02afd32f6e63e",
+      "canonica": "0378_12_MEAN_Significar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0378-01",
+        "B1-L8-0378-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1015,
+      "nome": "1015_MEET_Sentido_01_CONHECER___SE_ENCONTRAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12152,
+      "hash_bruto": "bbeee9a8a9edfa710ec2a2a42a6ece926ddba70537043421863366334613e158",
+      "hash_normalizado": "2f19e6047ba5c70b6d326889ed44c90b5f8ccc8a3d75304be21b3a9d62e1c1aa",
+      "canonica": "0186_05_MEET_Conhecer_Encontrar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0186-01",
+        "B1-L6-0186-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1016,
+      "nome": "1016_MISS_Sentido_01_SENTIR_FALTA___PERDER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11923,
+      "hash_bruto": "c4f5a775fbcf7f74c9e1d26ecde314fb75e07fbe230e809321d0828e483a948d",
+      "hash_normalizado": "71847f8a26736df2adaf0e1e823741f5431a33164f85a51e989ce7f23ea1ba32",
+      "canonica": "0338_10_MISS_Sentir_Falta_Perder.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0338-01",
+        "B1-L8-0338-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1017,
+      "nome": "1017_MOVE_Sentido_01_MOVER___SE_MUDAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11220,
+      "hash_bruto": "c7ab04bbcb67da0dfb2a473fea974b2d40203de6884d8d164714234ed6512312",
+      "hash_normalizado": "582700e66913bbcc15ec3f6c22ca8a0b5942b294892402085d12e59eb7260f97",
+      "canonica": "0404_14_MOVE_Mover_Mudar.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0404-01",
+        "B1-L9-0404-01"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1018,
+      "nome": "1018_NEED_Sentido_01_PRECISAR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11880,
+      "hash_bruto": "e6018f181d2c73b2647e03d520b099c772b0118789e2d134adfc950e7143a9a4",
+      "hash_normalizado": "b9e0f2e7f26b832e2a62a87fa481af748b7ad071c31c2af0d8031b4a7bc8c358",
+      "canonica": "0312_09_NEED_Sentido_01_PRECISAR.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0312-01",
+        "B1-L7-0312-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1019,
+      "nome": "1019_NOTICE_Sentido_01_NOTAR___PERCEBER_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 12085,
+      "hash_bruto": "bf5aad50508ac218dbc1b0f52d62e9bb14aacc1d8b6dbfd572bc10b6d295f3e5",
+      "hash_normalizado": "397e03e440f24de12829457999762ef7dbd09bb04ddf1da4ff5e1103e578b653",
+      "canonica": "0153_04_NOTICE_Notar_Perceber.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0153-01",
+        "B1-L5-0153-02",
+        "B1-L5-0153-03",
+        "B1-L5-0153-04",
+        "B1-L5-0153-05"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    },
+    {
+      "numero": 1020,
+      "nome": "1020_OPEN_Sentido_01_ABRIR_2.md",
+      "sistema": "N2 · Sistema 05 — Motor de Verbos",
+      "tipo": "pdf",
+      "tamanho_bytes": 11794,
+      "hash_bruto": "912934d664cc97ed36a9019d620e106722c8fe36775981aefd93a52269c9edfe",
+      "hash_normalizado": "32644f348c2482240e510d09de034e46a8148bb62520ecdd3dc4d2873e2a1ceb",
+      "canonica": "0340_10_OPEN_Abrir.md",
+      "duplicidade": "duplicata textual",
+      "conteudo_util_identificado": "conteúdo integral idêntico à canônica; nenhuma variação lexical, de registro, exemplo ou nível",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0340-01",
+        "A2-L8-0340-02"
+      ],
+      "acao": "anexar procedência; não republicar",
+      "status": "duplicata",
+      "justificativa": "Corpo completo normalizado possui hash idêntico ao da canônica."
+    }
+  ],
+  "direcionadas": [],
+  "antecipadas_ja_concluidas": [],
+  "observacao": "A amostragem dirigida foi omitida para preservar a leitura integral do intervalo de 100 duplicatas e não abrir dez livros avançados extensos superficialmente."
+}

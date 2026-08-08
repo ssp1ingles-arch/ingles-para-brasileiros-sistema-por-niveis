@@ -1,0 +1,4 @@
+param([string]$Raiz=(Split-Path -Parent $PSScriptRoot))
+$levels=@(@('a2','A2','Básico consolidado'),@('b1','B1','Intermediário'),@('b2','B2','Intermediário avançado'),@('c1','C1','Avançado'),@('c2','C2','Proficiência'),@('kids','Kids','Trilha infantil'))
+$template=Get-Content -LiteralPath (Join-Path $Raiz 'niveis\a1\index.html') -Raw -Encoding utf8
+foreach($l in $levels){$html=$template.Replace('data-level="a1"',('data-level="'+$l[0]+'"')).Replace('A1 — Iniciante',($l[1]+' — '+$l[2])).Replace('<span>A1</span>',('<span>'+$l[1]+'</span>')).Replace('A1 · INICIANTE',($l[1]+' · '+$l[2].ToUpper())).Replace('Construa a base.','Continue sua progressão.').Replace('Pronomes, artigos, localização e tempo em unidades curtas com origem verificável.','Este nível está estruturado e receberá conteúdo após classificação e revisão editorial.'); Set-Content -LiteralPath (Join-Path $Raiz ('niveis\'+$l[0]+'\index.html')) -Value $html -Encoding utf8}

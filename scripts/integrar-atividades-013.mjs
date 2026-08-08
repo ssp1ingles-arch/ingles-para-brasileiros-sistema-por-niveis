@@ -1,0 +1,7 @@
+import fs from 'node:fs';import path from 'node:path';const raiz=path.resolve(import.meta.dirname,'..'),ns=['a1','a2','b1','b2','c1','c2','kids'];
+const ler=a=>JSON.parse(fs.readFileSync(path.join(raiz,a),'utf8')),escrever=(a,v)=>fs.writeFileSync(path.join(raiz,a),JSON.stringify(v,null,2)+'\n');
+const unidades=ns.flatMap(n=>ler(`dados/${n}/unidades.json`)),atividades=ler('dados/atividades.json');
+const kids=ler('dados/kids/unidades.json');for(const u of kids)if(u.id==='KIDS-L13-1514-01')u.nivel_cefr='A2';escrever('dados/kids/unidades.json',kids);
+const ids=new Set(atividades.map(a=>a.unidade_id)),novas=unidades.filter(u=>u.id.includes('-L13-')&&!ids.has(u.id));let seq=atividades.length;
+for(const u of novas){const en=u.conteudo_en[0],pt=u.traducoes[0],id=`ATV-L13-${String(++seq).padStart(4,'0')}`;atividades.push({id,unidade_id:u.id,nivel:u.nivel,tipo:'producao_autorrevisao',instrucao:'Produza uma resposta em inglês e depois revele o modelo para autorrevisão.',dados:{portugues:pt},resposta:{modelo:en},origem_atividade:'editorial_derivada',fonte:u.fonte});}
+escrever('dados/atividades.json',atividades);escrever('dados/auditoria-atividades-013.json',{lote:'013',unidades_novas:novas.map(u=>u.id),atividades_adicionadas:novas.length,total:atividades.length,regra:'uma atividade inequívoca de produção com autorrevisão por nova unidade; nenhuma lacuna ambígua'});console.log(`${novas.length} atividades integradas; total ${atividades.length}.`);

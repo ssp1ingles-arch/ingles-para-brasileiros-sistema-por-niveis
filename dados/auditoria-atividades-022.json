@@ -1,0 +1,15 @@
+{
+  "lote": "022",
+  "base_preservada": 1977,
+  "unidades_novas": 0,
+  "atividades_novas": 0,
+  "total": 1977,
+  "unidades_sem_atividade": 66,
+  "tipos": {
+    "identificar_contraste": 30,
+    "parear": 655,
+    "producao_autorrevisao": 755,
+    "reordenar": 537
+  },
+  "justificativa": "Nenhuma unidade nova; duplicatas e exemplos da fonte extensa foram consolidados sem republicação ou atividade trivial."
+}

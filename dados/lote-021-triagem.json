@@ -1,0 +1,81 @@
+{
+  "lote": "021",
+  "sequenciais": [
+    {
+      "numero": 1171,
+      "nome": "1171_livro02_2.md",
+      "tamanho_bytes": 16222,
+      "hash_bruto": "9e0b4719043304dec12ba37fcc0481a9091157f484549aac102a140f5d6f83ab",
+      "hash_normalizado": "d0276cbd84c768348a8d967a2a8f2db524d369452af8bb9fcc274f0b797ccc0e",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "secoes": 12,
+      "sem_destino_util": 0,
+      "justificativa": "Todas as seções receberam destino específico ou descarte motivado."
+    },
+    {
+      "numero": 1172,
+      "nome": "1172_livro03_2.md",
+      "tamanho_bytes": 16416,
+      "hash_bruto": "2d689a5d11ed314d3fd591b076a93cf25bd7b1780c1f8a1b7d20eefca2939dd3",
+      "hash_normalizado": "21e770fb2ecd5348612e5b6964aa88ae7cc867fa581b97039eda7f00bf7a99f5",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "secoes": 60,
+      "sem_destino_util": 0,
+      "justificativa": "Todas as seções receberam destino específico ou descarte motivado."
+    },
+    {
+      "numero": 1173,
+      "nome": "1173_livro04_2.md",
+      "tamanho_bytes": 117220,
+      "hash_bruto": "e8844ccb60d1d38d93a224d8947024c164e106eb064c4e32d3e05a65c8cf4502",
+      "hash_normalizado": "0d76637e500388d916160a182eb8435facb059992e19def978a3a7c032323ed3",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "secoes": 263,
+      "sem_destino_util": 0,
+      "justificativa": "Todas as seções receberam destino específico ou descarte motivado."
+    },
+    {
+      "numero": 1174,
+      "nome": "1174_livro05_2.md",
+      "tamanho_bytes": 9977,
+      "hash_bruto": "d6ad1f71d617d5bf093041c58d8f70b5cdeb327031292a4aced336bc00ecad63",
+      "hash_normalizado": "9aea8128d8687fb14877558f7676d27e24ca9814db804e2338e3c23af53e22ac",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "secoes": 4,
+      "sem_destino_util": 0,
+      "justificativa": "Todas as seções receberam destino específico ou descarte motivado."
+    },
+    {
+      "numero": 1175,
+      "nome": "1175_livro06.md",
+      "tamanho_bytes": 44644,
+      "hash_bruto": "35010f5cc067f8c5dc454e4ece00410c971a225e1cb01cfafea7c7072b79ebdb",
+      "hash_normalizado": "3668a046cc3255c24893ab468ab6de703878b244c26cc6046d8d43af755e3e2f",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "secoes": 128,
+      "sem_destino_util": 0,
+      "justificativa": "Todas as seções receberam destino específico ou descarte motivado."
+    },
+    {
+      "numero": 1176,
+      "nome": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+      "tamanho_bytes": 377483,
+      "hash_bruto": "e213ea50ec28dd0b3c05421ca125fea1c36c124dd2eedd68da87bb372c54746c",
+      "hash_normalizado": "927a332a5412578014120384b1bd7ea1de49d9c43e43caedd51e15f167211904",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "secoes": 367,
+      "sem_destino_util": 0,
+      "justificativa": "Todas as seções receberam destino específico ou descarte motivado."
+    }
+  ],
+  "direcionadas": [],
+  "antecipadas": [],
+  "parciais": [],
+  "observacao": "Encerrado em 1176; 1177 é duplicata textual conhecida de 1176 e 1178 já foi concluída antecipadamente, mas pertencem à próxima retomada sequencial."
+}

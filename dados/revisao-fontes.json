@@ -1,0 +1,7892 @@
+{
+  "1000": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0070 → A1-L4-0070-01, A2-L4-0070-02, A2-L4-0070-03, A2-L4-0070-04"
+    ]
+  },
+  "1001": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0602 → B1-L13-0602-01"
+    ]
+  },
+  "1002": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0402 → A2-L9-0402-01, B1-L9-0402-01"
+    ]
+  },
+  "1003": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0358 → A1-L8-0358-01, A2-L8-0358-02"
+    ]
+  },
+  "1004": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0436 → A2-L9-0436-01, B1-L9-0436-01"
+    ]
+  },
+  "1005": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0334 → A2-L8-0334-01, B1-L8-0334-02"
+    ]
+  },
+  "1006": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0336 → A1-L8-0336-01, A2-L8-0336-02"
+    ]
+  },
+  "1007": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0392 → A1-L8-0392-01, A2-L8-0392-02"
+    ]
+  },
+  "1008": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0394 → A2-L8-0394-01, B1-L8-0394-02"
+    ]
+  },
+  "1009": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0360 → A1-L8-0360-01, A2-L8-0360-02"
+    ]
+  },
+  "1010": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0432 → A2-L9-0432-01, B1-L9-0432-01"
+    ]
+  },
+  "1011": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0438 → A2-L9-0438-01, B1-L9-0438-01"
+    ]
+  },
+  "1012": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0072 → B1-L4-0072-01, B2-L4-0072-02, B2-L4-0072-03, B2-L4-0072-04"
+    ]
+  },
+  "1013": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0108 → B1-L4-0108-01, B2-L4-0108-02, B2-L4-0108-03, B2-L4-0108-04"
+    ]
+  },
+  "1014": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0378 → A2-L8-0378-01, B1-L8-0378-02"
+    ]
+  },
+  "1015": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0186 → A2-L6-0186-01, B1-L6-0186-02"
+    ]
+  },
+  "1016": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0338 → A2-L8-0338-01, B1-L8-0338-02"
+    ]
+  },
+  "1017": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0404 → A2-L9-0404-01, B1-L9-0404-01"
+    ]
+  },
+  "1018": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0312 → A2-L7-0312-01, B1-L7-0312-02"
+    ]
+  },
+  "1019": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0153 → B1-L5-0153-01, B1-L5-0153-02, B1-L5-0153-03, B1-L5-0153-04, B1-L5-0153-05"
+    ]
+  },
+  "1020": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0340 → A1-L8-0340-01, A2-L8-0340-02"
+    ]
+  },
+  "1021": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0117 → A2-L5-0117-01, A2-L5-0117-02, A2-L5-0117-03, A2-L5-0117-04, A2-L5-0117-05"
+    ]
+  },
+  "1022": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0362 → A1-L8-0362-01, A2-L8-0362-02"
+    ]
+  },
+  "1023": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0414 → A2-L9-0414-01, B1-L9-0414-01"
+    ]
+  },
+  "1024": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0314 → A2-L7-0314-01, B1-L7-0314-02"
+    ]
+  },
+  "1025": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0191 → B1-L6-0191-01, B1-L6-0191-02"
+    ]
+  },
+  "1026": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0316 → A2-L7-0316-01, B1-L7-0316-02"
+    ]
+  },
+  "1027": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0406 → A2-L9-0406-01, B1-L9-0406-01"
+    ]
+  },
+  "1028": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0157 → A2-L5-0157-01, A2-L5-0157-02, A2-L5-0157-03, A2-L5-0157-04, A2-L5-0157-05"
+    ]
+  },
+  "1029": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0396 → A2-L8-0396-01, B1-L8-0396-02"
+    ]
+  },
+  "1030": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0380 → A2-L8-0380-01, B1-L8-0380-02"
+    ]
+  },
+  "1031": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0193 → A1-L6-0193-01, A2-L6-0193-02"
+    ]
+  },
+  "1032": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0220 → B1-L6-0220-01, B1-L6-0220-02"
+    ]
+  },
+  "1033": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0080 → A2-L4-0080-01, B1-L4-0080-02, B1-L4-0080-03, B1-L4-0080-04"
+    ]
+  },
+  "1034": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0398 → B1-L8-0398-01, B2-L8-0398-02"
+    ]
+  },
+  "1035": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0082 → A1-L4-0082-01, A2-L4-0082-02, A2-L4-0082-03, A2-L4-0082-04"
+    ]
+  },
+  "1036": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0222 → A2-L6-0222-01, B1-L6-0222-02"
+    ]
+  },
+  "1037": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0420 → A2-L9-0420-01, B1-L9-0420-01"
+    ]
+  },
+  "1038": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0364 → A2-L8-0364-01, B1-L8-0364-02"
+    ]
+  },
+  "1039": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0160 → A2-L5-0160-01, A2-L5-0160-02, A2-L5-0160-03, A2-L5-0160-04, A2-L5-0160-05"
+    ]
+  },
+  "1040": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0084 → A1-L4-0084-01, A2-L4-0084-02, A2-L4-0084-03, A2-L4-0084-04"
+    ]
+  },
+  "1041": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0041 → A1-L3-0041-01, A2-L3-0041-02, A2-L3-0041-03, A2-L3-0041-04"
+    ]
+  },
+  "1042": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0195 → B1-L6-0195-01, B1-L6-0195-02"
+    ]
+  },
+  "1043": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0382 → A2-L8-0382-01, B1-L8-0382-02"
+    ]
+  },
+  "1044": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0043 → A1-L3-0043-01, A2-L3-0043-02, A2-L3-0043-03, A2-L3-0043-04"
+    ]
+  },
+  "1045": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0124 → A2-L5-0124-01, A2-L5-0124-02, A2-L5-0124-03, A2-L5-0124-04, A2-L5-0124-05"
+    ]
+  },
+  "1046": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0416 → A2-L9-0416-01, B1-L9-0416-01"
+    ]
+  },
+  "1047": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0422 → A2-L9-0422-01, B1-L9-0422-01"
+    ]
+  },
+  "1048": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0045 → B1-L3-0045-01, B2-L3-0045-02, B2-L3-0045-03, B2-L3-0045-04"
+    ]
+  },
+  "1049": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0086 → A1-L4-0086-01, A2-L4-0086-02, A2-L4-0086-03, A2-L4-0086-04"
+    ]
+  },
+  "1050": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0408 → A2-L9-0408-01, B1-L9-0408-01"
+    ]
+  },
+  "1051": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0126 → B1-L5-0126-01, B1-L5-0126-02, B1-L5-0126-03, B1-L5-0126-04, B1-L5-0126-05"
+    ]
+  },
+  "1052": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0164 → B1-L5-0164-01, B1-L5-0164-02, B1-L5-0164-03, B1-L5-0164-04"
+    ]
+  },
+  "1053": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0047 → B1-L3-0047-01, B2-L3-0047-02, B2-L3-0047-03, B2-L3-0047-04"
+    ]
+  },
+  "1054": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0256 → A2-L7-0256-01, B1-L7-0256-02"
+    ]
+  },
+  "1055": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0285 → A2-L7-0285-01, B1-L7-0285-02"
+    ]
+  },
+  "1056": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0458 → A2-L9-0458-01, B1-L9-0458-01"
+    ]
+  },
+  "1057": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0006"
+    ]
+  },
+  "1058": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0008"
+    ]
+  },
+  "1059": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0007"
+    ]
+  },
+  "1060": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0002"
+    ]
+  },
+  "1061": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0005"
+    ]
+  },
+  "1062": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0013"
+    ]
+  },
+  "1063": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0010"
+    ]
+  },
+  "1064": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0014"
+    ]
+  },
+  "1065": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0012"
+    ]
+  },
+  "1066": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0015"
+    ]
+  },
+  "1067": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0426 → A2-L9-0426-01, B1-L9-0426-01"
+    ]
+  },
+  "1068": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0458 → A2-L9-0458-01, B1-L9-0458-01"
+    ]
+  },
+  "1069": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0430 → A2-L9-0430-01, B1-L9-0430-01"
+    ]
+  },
+  "1070": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0408 → A2-L9-0408-01, B1-L9-0408-01"
+    ]
+  },
+  "1071": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0456 → A2-L9-0456-01, B1-L9-0456-01"
+    ]
+  },
+  "1072": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0016"
+    ]
+  },
+  "1073": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0398 → B1-L8-0398-01, B2-L8-0398-02"
+    ]
+  },
+  "1074": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0370 → A2-L8-0370-01, B1-L8-0370-02"
+    ]
+  },
+  "1075": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0004"
+    ]
+  },
+  "1076": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0011"
+    ]
+  },
+  "1077": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0434 → A2-L9-0434-01, B1-L9-0434-01"
+    ]
+  },
+  "1078": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0384 → A1-L8-0384-01, A2-L8-0384-02"
+    ]
+  },
+  "1079": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0049 → A1-L3-0049-01, A2-L3-0049-02, A2-L3-0049-03, A2-L3-0049-04"
+    ]
+  },
+  "1080": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0258 → A1-L7-0258-01, A2-L7-0258-02"
+    ]
+  },
+  "1081": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0287 → A2-L7-0287-01, B1-L7-0287-02"
+    ]
+  },
+  "1082": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0289 → A2-L7-0289-01, B1-L7-0289-02"
+    ]
+  },
+  "1083": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0366 → A1-L8-0366-01, A2-L8-0366-02"
+    ]
+  },
+  "1084": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0228 → B1-L6-0228-01, B2-L6-0228-02"
+    ]
+  },
+  "1085": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0446 → A2-L9-0446-01, B1-L9-0446-01"
+    ]
+  },
+  "1086": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0450 → A2-L9-0450-01, B1-L9-0450-01"
+    ]
+  },
+  "1087": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0342 → A2-L8-0342-01, B1-L8-0342-02"
+    ]
+  },
+  "1088": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0068 → A1-L4-0068-01, A2-L4-0068-02, A2-L4-0068-03"
+    ]
+  },
+  "1089": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0128 → A2-L5-0128-01, A2-L5-0128-02, A2-L5-0128-03, A2-L5-0128-04, A2-L5-0128-05"
+    ]
+  },
+  "1090": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0033 → A1-GRAM-0002, A1-GRAM-0012, A1-GRAM-0013, A2-GRAM-0003, A2-GRAM-0004, B1-CONV-0001"
+    ]
+  },
+  "1091": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0201 → A2-L6-0201-01, B1-L6-0201-02"
+    ]
+  },
+  "1092": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0149 → B1-L5-0149-01, B1-L5-0149-02, B1-L5-0149-03, B1-L5-0149-04, B1-L5-0149-05"
+    ]
+  },
+  "1093": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0173 → B1-L6-0173-01, B2-L6-0173-02"
+    ]
+  },
+  "1094": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0237 → B1-L6-0237-01, B2-L6-0237-02"
+    ]
+  },
+  "1095": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0283 → B1-L7-0283-01, B2-L7-0283-02"
+    ]
+  },
+  "1096": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Estruturas fixas: oito blocos HOW/WHAT/IT/TIME/OPINION/POLITE/COMPARISON/CAUSE, consolidados nas unidades atômicas existentes.",
+      "2 blocos textuais lidos; 39 unidades existentes relacionadas por exemplo exato."
+    ]
+  },
+  "1097": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Preposições de tempo e lugar e quantificadores, consolidados por função pedagógica.",
+      "14 blocos textuais lidos; 5 unidades existentes relacionadas por exemplo exato."
+    ]
+  },
+  "1098": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Página de índice/navegação, sem explicação didática independente."
+    ]
+  },
+  "1099": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Percurso introdutório de inglês do zero; conteúdo distribuído entre fundamentos existentes.",
+      "8 blocos textuais lidos; 4 unidades existentes relacionadas por exemplo exato."
+    ]
+  },
+  "1100": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Mapas de preposições; contrastes de tempo, lugar e movimento consolidados.",
+      "10 blocos textuais lidos; 4 unidades existentes relacionadas por exemplo exato."
+    ]
+  },
+  "1101": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Compilação extensa de preposições e quantificadores, mapeada por seção.",
+      "2 blocos textuais lidos; 46 unidades existentes relacionadas por exemplo exato."
+    ]
+  },
+  "1102": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0024 → A1-GRAM-0005, A1-GRAM-0006, A1-GRAM-0010"
+    ]
+  },
+  "1103": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0076 → A1-GRAM-0015, A1-GRAM-0016, A2-GRAM-0007"
+    ]
+  },
+  "1104": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0106 → A1-GRAM-0018, A1-GRAM-0019, A2-GRAM-0009"
+    ]
+  },
+  "1105": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0140 → B1-L5-0140-01, B1-L5-0140-02, B2-L5-0140-03, B2-L5-0140-04"
+    ]
+  },
+  "1106": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0031 → A1-GRAM-0007, A1-GRAM-0008"
+    ]
+  },
+  "1107": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0742 → A2-L14-0742-01"
+    ]
+  },
+  "1108": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0111 → A2-L4-0111-01"
+    ]
+  },
+  "1109": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0746 → A2-L14-0746-01"
+    ]
+  },
+  "1110": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0175 → A2-L6-0175-01, B1-L6-0175-02"
+    ]
+  },
+  "1111": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0226 → A2-L6-0226-01, B1-L6-0226-02"
+    ]
+  },
+  "1112": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0752 → A2-L14-0752-01"
+    ]
+  },
+  "1113": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0754 → A2-L14-0754-01"
+    ]
+  },
+  "1114": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0122 → A1-GRAM-0021, A2-GRAM-0011, A2-VOC-0001, A2-L5-0122-01, A2-L5-0122-02, A2-L5-0122-03, A2-L5-0122-04, B1-GRAM-0001"
+    ]
+  },
+  "1115": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0151 → A1-GRAM-0022, A2-GRAM-0012, A2-GRAM-0013, A2-L5-0151-01, A2-L5-0151-02, A2-L5-0151-03, A2-L5-0151-04"
+    ]
+  },
+  "1116": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0760 → A2-L14-0760-01"
+    ]
+  },
+  "1117": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0762 → A2-L14-0762-01"
+    ]
+  },
+  "1118": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0233 → A2-L6-0233-01, B1-L6-0233-02"
+    ]
+  },
+  "1119": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regras administrativas do sistema; não publicar como lição."
+    ]
+  },
+  "1120": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Teste diagnóstico A1–C2 lido integralmente; itens não viram unidades nem atividades porque medem conteúdo misto e incluem alternativas contextualmente discutíveis.",
+      "16 blocos textuais lidos; 1 unidades existentes relacionadas por exemplo exato."
+    ]
+  },
+  "1121": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0344 → B1-L8-0344-01, B2-L8-0344-02"
+    ]
+  },
+  "1122": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0235 → A2-L6-0235-01, B1-L6-0235-02"
+    ]
+  },
+  "1123": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0319 → B1-L7-0319-01, B2-L7-0319-02"
+    ]
+  },
+  "1124": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0019 → "
+    ]
+  },
+  "1125": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0295 → B2-L7-0295-01, B2-L7-0295-02"
+    ]
+  },
+  "1126": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0093 → A2-L4-0093-01, B1-L4-0093-02, B1-L4-0093-03, B1-L4-0093-04"
+    ]
+  },
+  "1127": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0169 → A2-L5-0169-01, A2-L5-0169-02, A2-L5-0169-03, A2-L5-0169-04, A2-L5-0169-05, A2-L5-0169-06"
+    ]
+  },
+  "1128": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0265 → A2-L7-0265-01, B1-L7-0265-02"
+    ]
+  },
+  "1129": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0060 → A1-L3-0060-01, A2-L3-0060-02, A2-L3-0060-03, A2-L3-0060-04"
+    ]
+  },
+  "1130": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0368 → B1-L8-0368-01, B2-L8-0368-02"
+    ]
+  },
+  "1131": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0134 → B1-L5-0134-01, B1-L5-0134-02, B1-L5-0134-03, B2-L5-0134-04, B2-L5-0134-05"
+    ]
+  },
+  "1132": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0136 → B1-L5-0136-02, B1-L5-0136-04, B2-L5-0136-01, B2-L5-0136-03, B2-L5-0136-05"
+    ]
+  },
+  "1133": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0352 → A2-L8-0352-01, B1-L8-0352-02"
+    ]
+  },
+  "1134": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0324 → B1-L8-0324-01, B2-L8-0324-02"
+    ]
+  },
+  "1135": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0275 → B2-L7-0275-01, B2-L7-0275-02"
+    ]
+  },
+  "1136": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0306 → B2-L7-0306-01, B2-L7-0306-02"
+    ]
+  },
+  "1137": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0218 → B1-L6-0218-01, B1-L6-0218-02"
+    ]
+  },
+  "1138": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0281 → B2-L7-0281-01, B2-L7-0281-02"
+    ]
+  },
+  "1139": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0332 → B1-L8-0332-01, B2-L8-0332-02"
+    ]
+  },
+  "1140": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0308 → B2-L7-0308-01, C1-L7-0308-02"
+    ]
+  },
+  "1141": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0074 → B2-L4-0074-01, C1-L4-0074-02, C1-L4-0074-03, C1-L4-0074-04"
+    ]
+  },
+  "1142": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0254 → B1-L7-0254-01, B2-L7-0254-02"
+    ]
+  },
+  "1143": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0113 → B1-L5-0113-01, B2-L5-0113-03, B2-L5-0113-04, C1-L5-0113-02"
+    ]
+  },
+  "1144": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0115 → A2-L5-0115-01, A2-L5-0115-02, B1-L5-0115-03, B1-L5-0115-04"
+    ]
+  },
+  "1145": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0189 → B2-L6-0189-01, B2-L6-0189-02"
+    ]
+  },
+  "1146": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0039 → B1-L3-0039-01, B2-L3-0039-02, B2-L3-0039-03, B2-L3-0039-04"
+    ]
+  },
+  "1147": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0162 → B1-L5-0162-01, B1-L5-0162-02, B2-L5-0162-03, B2-L5-0162-04"
+    ]
+  },
+  "1148": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0224 → B2-L6-0224-01, B2-L6-0224-02"
+    ]
+  },
+  "1149": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0197 → B1-L6-0197-01, B2-L6-0197-02"
+    ]
+  },
+  "1150": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0088 → A2-L4-0088-01, B1-L4-0088-02, B1-L4-0088-03, B1-L4-0088-04"
+    ]
+  },
+  "1151": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0260 → B1-L7-0260-01, B2-L7-0260-02"
+    ]
+  },
+  "1152": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0051 → B2-L3-0051-01, C1-L3-0051-02, C1-L3-0051-03, C1-L3-0051-04"
+    ]
+  },
+  "1153": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0231 → B1-L6-0231-01, B2-L6-0231-02"
+    ]
+  },
+  "1154": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0216 → A1-L6-0216-01, A2-L6-0216-02"
+    ]
+  },
+  "1155": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0090 → A1-L4-0090-01, A2-L4-0090-02, A2-L4-0090-03, A2-L4-0090-04, A2-L4-0090-05, A2-L4-0090-06, A2-L4-0090-07"
+    ]
+  },
+  "1156": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0291 → B1-L7-0291-01, B2-L7-0291-02"
+    ]
+  },
+  "1157": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0130 → A2-L5-0130-01, A2-L5-0130-02, A2-L5-0130-03, A2-L5-0130-04, A2-L5-0130-05, A2-L5-0130-06"
+    ]
+  },
+  "1158": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0166 → A2-L5-0166-01, A2-L5-0166-02, A2-L5-0166-03, A2-L5-0166-04, A2-L5-0166-05, A2-L5-0166-06"
+    ]
+  },
+  "1159": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0262 → A2-L7-0262-01, B1-L7-0262-02"
+    ]
+  },
+  "1160": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0053 → A2-L3-0053-01, B1-L3-0053-02, B1-L3-0053-03, B1-L3-0053-04"
+    ]
+  },
+  "1161": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0199 → A1-L6-0199-01, A2-L6-0199-02"
+    ]
+  },
+  "1162": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "referência integral distribuída em 104 unidades existentes"
+    ]
+  },
+  "1163": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral distribuído em A2-L20-1163-01, B1-L20-1163-02"
+    ]
+  },
+  "1164": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral distribuído em B1-L20-1164-01, B2-L20-1164-02"
+    ]
+  },
+  "1165": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Índice de navegação; links apontam para 1162–1166."
+    ]
+  },
+  "1166": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral distribuído em B1-L20-1166-01, B2-L20-1166-02"
+    ]
+  },
+  "1167": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regras administrativas/editoriais; exemplos apenas delimitam escopo."
+    ]
+  },
+  "1168": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral distribuído em B1-L20-1168-01, B2-L20-1168-02"
+    ]
+  },
+  "1169": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Índice de livros; referências serão processadas sequencialmente."
+    ]
+  },
+  "1170": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral distribuído em B1-L20-1170-01, B2-L20-1170-02"
+    ]
+  },
+  "1171": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "12 seções integralmente decididas; 0 descartes editoriais/metodológicos"
+    ]
+  },
+  "1172": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "60 seções integralmente decididas; 0 descartes editoriais/metodológicos"
+    ]
+  },
+  "1173": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "263 seções integralmente decididas; 0 descartes editoriais/metodológicos"
+    ]
+  },
+  "1174": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "4 seções integralmente decididas; 0 descartes editoriais/metodológicos"
+    ]
+  },
+  "1175": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "128 seções integralmente decididas; 0 descartes editoriais/metodológicos"
+    ]
+  },
+  "1176": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "367 seções integralmente decididas; 1 descartes editoriais/metodológicos"
+    ]
+  },
+  "1177": {
+    "estado": "duplicata",
+    "secoes": [
+      "duplicata integral de 1176; hashes brutos distintos e corpos normalizados idênticos"
+    ]
+  },
+  "1178": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "estado antecipado preservado; sem republicação"
+    ]
+  },
+  "1179": {
+    "estado": "duplicata",
+    "secoes": [
+      "duplicata integral de 1178; hashes brutos distintos e corpos normalizados idênticos"
+    ]
+  },
+  "1180": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "estado antecipado preservado; sem republicação"
+    ]
+  },
+  "1181": {
+    "estado": "duplicata",
+    "secoes": [
+      "duplicata integral de 1180; hashes brutos distintos e corpos normalizados idênticos"
+    ]
+  },
+  "1182": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "201 páginas integralmente decididas; 134 consolidadas e 67 descartadas"
+    ]
+  },
+  "1183": {
+    "estado": "duplicata",
+    "secoes": [
+      "duplicata integral de 1182; corpo e hash normalizado idênticos"
+    ]
+  },
+  "1184": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "121 seções textuais integralmente decididas; 55 consolidadas e 66 descartadas"
+    ]
+  },
+  "1185": {
+    "estado": "duplicata",
+    "secoes": [
+      "duplicata integral de 1184; corpo e hash normalizado idênticos"
+    ]
+  },
+  "1186": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "285 páginas integralmente decididas; 224 consolidadas e 61 descartadas"
+    ]
+  },
+  "1187": {
+    "estado": "duplicata",
+    "secoes": [
+      "duplicata integral de 1186; 285 páginas, corpo e hash normalizado idênticos"
+    ]
+  },
+  "1202": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B2-L11-1202-01"
+    ]
+  },
+  "1203": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B1-L14-1203-01"
+    ]
+  },
+  "1204": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; coberta por 1203"
+    ]
+  },
+  "1213": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "fragmento técnico curto sem lição linguística utilizável"
+    ]
+  },
+  "1216": {
+    "estado": "duplicata",
+    "secoes": [
+      "hash idêntico a 0097; todas as cinco seções apontadas para as unidades canônicas A1/A2/B1/B2 de contrações"
+    ]
+  },
+  "1252": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B2-L11-1252-01"
+    ]
+  },
+  "1253": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; conteúdo coberto por 1252"
+    ]
+  },
+  "1278": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → A2-L11-1278-01"
+    ]
+  },
+  "1279": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; conteúdo coberto por 1278"
+    ]
+  },
+  "1313": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L11-1313-01"
+    ]
+  },
+  "1314": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → A2-L10-1314-01"
+    ]
+  },
+  "1315": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; conteúdo coberto por 1314"
+    ]
+  },
+  "1316": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B2-L11-1316-01"
+    ]
+  },
+  "1329": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L12-1329-01"
+    ]
+  },
+  "1330": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L12-1330-01"
+    ]
+  },
+  "1332": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B2-L12-1332-01"
+    ]
+  },
+  "1335": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L12-1335-01"
+    ]
+  },
+  "1336": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → A2-L11-1336-01"
+    ]
+  },
+  "1340": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L12-1340-01"
+    ]
+  },
+  "1354": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L10-1354-01"
+    ]
+  },
+  "1358": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L11-1358-01"
+    ]
+  },
+  "1359": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B2-L13-1359-01"
+    ]
+  },
+  "1361": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B2-L13-1359-01"
+    ]
+  },
+  "1362": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B2-L13-1359-01"
+    ]
+  },
+  "1363": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B2-L13-1359-01"
+    ]
+  },
+  "1364": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L10-1364-01"
+    ]
+  },
+  "1377": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → A2-L10-1377-01"
+    ]
+  },
+  "1378": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → A2-L10-1378-01"
+    ]
+  },
+  "1379": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L10-1379-01"
+    ]
+  },
+  "1380": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → A2-L10-1380-01"
+    ]
+  },
+  "1381": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L10-1381-01"
+    ]
+  },
+  "1388": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B2-L10-1388-01"
+    ]
+  },
+  "1396": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → C1-L14-1396-01"
+    ]
+  },
+  "1397": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; coberta por 1396"
+    ]
+  },
+  "1402": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → A2-L11-1402-01"
+    ]
+  },
+  "1403": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; conteúdo coberto por 1402"
+    ]
+  },
+  "1404": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L11-1404-01"
+    ]
+  },
+  "1405": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; conteúdo coberto por 1404"
+    ]
+  },
+  "1406": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → B1-L12-1406-01"
+    ]
+  },
+  "1408": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → C1-L12-1408-01"
+    ]
+  },
+  "1409": {
+    "estado": "duplicata",
+    "secoes": [
+      "busca dirigida; corpo normalizado coberto por 1408"
+    ]
+  },
+  "1415": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B2-L16-1415-01"
+    ]
+  },
+  "1416": {
+    "estado": "duplicata",
+    "secoes": [
+      "dirigida coberta por 1415"
+    ]
+  },
+  "1417": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B2-L16-1415-01"
+    ]
+  },
+  "1418": {
+    "estado": "duplicata",
+    "secoes": [
+      "dirigida coberta por 1417"
+    ]
+  },
+  "1419": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B2-L16-1415-01"
+    ]
+  },
+  "1420": {
+    "estado": "duplicata",
+    "secoes": [
+      "dirigida coberta por 1419"
+    ]
+  },
+  "1421": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B2-L16-1415-01"
+    ]
+  },
+  "1422": {
+    "estado": "duplicata",
+    "secoes": [
+      "dirigida coberta por 1421"
+    ]
+  },
+  "1423": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B2-L16-1415-01"
+    ]
+  },
+  "1424": {
+    "estado": "duplicata",
+    "secoes": [
+      "dirigida coberta por 1423"
+    ]
+  },
+  "1431": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → C2-L12-1431-01"
+    ]
+  },
+  "1432": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; conteúdo coberto por 1431"
+    ]
+  },
+  "1433": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → C1-L12-1433-01"
+    ]
+  },
+  "1434": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; coberta por 1433"
+    ]
+  },
+  "1435": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → C1-L12-1435-01"
+    ]
+  },
+  "1436": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; coberta por 1435"
+    ]
+  },
+  "1437": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → C2-L12-1437-01"
+    ]
+  },
+  "1438": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; coberta por 1437"
+    ]
+  },
+  "1439": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → C1-L12-1439-01"
+    ]
+  },
+  "1440": {
+    "estado": "duplicata",
+    "secoes": [
+      "busca dirigida; corpo normalizado coberto por 1439"
+    ]
+  },
+  "1441": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → C1-L15-1441-01"
+    ]
+  },
+  "1442": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; coberta por 1441"
+    ]
+  },
+  "1443": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → C1-L13-1443-01"
+    ]
+  },
+  "1445": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → C2-L13-1445-01"
+    ]
+  },
+  "1447": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "hub de navegação do Sistema 22; descrições de livros não são lições nem exemplos publicáveis; nenhum painel por livro criado"
+    ]
+  },
+  "1458": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → C1-L15-1458-01"
+    ]
+  },
+  "1459": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; coberta por 1458"
+    ]
+  },
+  "1460": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → C1-L15-1460-01"
+    ]
+  },
+  "1461": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; coberta por 1460"
+    ]
+  },
+  "1462": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → C2-L14-1462-01"
+    ]
+  },
+  "1468": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → C2-L13-1468-01"
+    ]
+  },
+  "1504": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → KIDS-L12-1504-01"
+    ]
+  },
+  "1506": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → KIDS-L12-1506-01"
+    ]
+  },
+  "1508": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → KIDS-L12-1508-01"
+    ]
+  },
+  "1509": {
+    "estado": "duplicata",
+    "secoes": [
+      "amostragem dirigida; conteúdo coberto por 1508"
+    ]
+  },
+  "1510": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → KIDS-L12-1510-01"
+    ]
+  },
+  "1513": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo integral → KIDS-L12-1513-01"
+    ]
+  },
+  "1514": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → KIDS-L13-1514-01"
+    ]
+  },
+  "1521": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "imagem original inspecionada; OCR confrontado e tabela distribuída em três unidades A1/A2"
+    ]
+  },
+  "0021": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 → A1-GRAM-0003",
+      "USO 2 → A1-GRAM-0004",
+      "USO 3 → A1-GRAM-0009",
+      "USO 4 → A2-GRAM-0001"
+    ]
+  },
+  "0024": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 → A1-GRAM-0005",
+      "USOS 2–3 → A1-GRAM-0010",
+      "USO 4 → A1-GRAM-0006"
+    ]
+  },
+  "0031": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 → A1-GRAM-0007",
+      "USOS 2–3 → A1-GRAM-0008",
+      "USO 4 → A1-GRAM-0008; comparação consolidada"
+    ]
+  },
+  "0033": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 → A1-GRAM-0002; duplicata consolidada",
+      "USO 2 → A2-GRAM-0003",
+      "USO 3 → B1-CONV-0001",
+      "USO 4 → A1-GRAM-0012",
+      "USO 5 → A1-GRAM-0013 e A2-GRAM-0004"
+    ]
+  },
+  "0038": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 → A1-GRAM-0001",
+      "USOS 2–3 → A2-GRAM-0002",
+      "USO 4 → A1-GRAM-0011",
+      "USO 5 → A1-GRAM-0002"
+    ]
+  },
+  "0057": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 → A1-GRAM-0014",
+      "USO 2 → A2-GRAM-0005",
+      "USO 3 → A2-GRAM-0006",
+      "USO 4 → B1-VOC-0001"
+    ]
+  },
+  "0062": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 → A1-VERB-0001",
+      "USO 2 → A1-VERB-0002",
+      "USO 3 → A2-VERB-0001",
+      "USO 4 → B1-VERB-0001"
+    ]
+  },
+  "0076": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 → A1-GRAM-0015",
+      "USO 2 → A1-GRAM-0016",
+      "USO 3 → A2-GRAM-0007"
+    ]
+  },
+  "0079": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 → A1-GRAM-0017",
+      "USO 2 → A2-GRAM-0008",
+      "USO 3 → A1-GRAM-0017; contraste integrado",
+      "USO 4 → A1-CONV-0001"
+    ]
+  },
+  "0097": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "TO BE → A1-PRON-0001",
+      "negativas → A2-PRON-0001",
+      "WILL/HAVE → B1-PRON-0001",
+      "WOULD/HAD → B2-PRON-0001",
+      "perguntas → A1-PRON-0002"
+    ]
+  },
+  "0106": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 → A1-GRAM-0018",
+      "USO 2 → A1-GRAM-0019",
+      "USO 3 → A2-GRAM-0009"
+    ]
+  },
+  "0120": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — Adjetivos possessivos (antes de substantivo) → A1-L5-0120-01",
+      "USO 2 — Pronomes possessivos (sem substantivo — substituem noun+possessivo) → A1-L5-0120-02",
+      "USO 3 — Adjetivo vs Pronome possessivo (comparação) → A1-L5-0120-03",
+      "USO 4 — Possessivos no dia a dia → A1-L5-0120-04"
+    ]
+  },
+  "0122": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — SOME = ALGUM/UNS/UMAS (afirmativas) → A2-L5-0122-01",
+      "USO 2 — ANY = ALGUM/NENHUM (negativas e perguntas) → A2-L5-0122-02",
+      "USO 3 — SOME vs ANY (comparação direta) → A2-L5-0122-03",
+      "USO 4 — SOMEONE/ANYONE/SOMETHING/ANYTHING/SOMEWHERE/ANYWHERE → A2-L5-0122-04"
+    ]
+  },
+  "0151": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — MUCH = MUITO (incontável — não se conta unitariamente) → A2-L5-0151-01",
+      "USO 2 — MANY = MUITOS/MUITAS (contável — se conta em unidades) → A2-L5-0151-02",
+      "USO 3 — A LOT OF / LOTS OF = MUITO/MUITOS (afirmativas, qualquer noun) → A2-L5-0151-03",
+      "USO 4 — Comparação: MUCH / MANY / A LOT OF → A2-L5-0151-04"
+    ]
+  },
+  "0638": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo distribuído nas unidades temáticas existentes; sem microfragmentação"
+    ]
+  },
+  "0035": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L3-0035-01",
+      "## Página 2 → A2-L3-0035-02",
+      "## Página 3 → A2-L3-0035-03",
+      "## Página 5 → A2-L3-0035-04"
+    ]
+  },
+  "0037": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — GET UP / GET OUT / GET IN (movimento básico) → A2-L3-0037-01",
+      "USO 2 — GET ON / GET OFF (transporte) → B1-L3-0037-02",
+      "USO 3 — GET BACK / GET OVER (retorno e superação) → B1-L3-0037-03",
+      "USO 4 — GET ALONG / GET TOGETHER / GET AWAY → B1-L3-0037-04"
+    ]
+  },
+  "0039": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — SINCE = DESDE (ponto de início no tempo) → B1-L3-0039-01",
+      "USO 2 — SINCE vs FOR (ambos com Present Perfect) → B2-L3-0039-02",
+      "USO 3 — SINCE = COMO / JÁ QUE / POIS (razão conhecida) → B2-L3-0039-03",
+      "USO 4 — SINCE THEN = DESDE ENTÃO → B2-L3-0039-04"
+    ]
+  },
+  "0041": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L3-0041-01",
+      "## Página 2 → A2-L3-0041-02",
+      "## Página 3 → A2-L3-0041-03",
+      "## Página 5 → A2-L3-0041-04"
+    ]
+  },
+  "0043": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L3-0043-01",
+      "## Página 2 → A2-L3-0043-02",
+      "## Página 3 → A2-L3-0043-03",
+      "## Página 5 → A2-L3-0043-04"
+    ]
+  },
+  "0045": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L3-0045-01",
+      "## Página 2 → B2-L3-0045-02",
+      "## Página 3 → B2-L3-0045-03",
+      "## Página 4 → B2-L3-0045-04"
+    ]
+  },
+  "0047": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L3-0047-01",
+      "## Página 2 → B2-L3-0047-02",
+      "## Página 3 → B2-L3-0047-03",
+      "## Página 4 → B2-L3-0047-04"
+    ]
+  },
+  "0049": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L3-0049-01",
+      "## Página 2 → A2-L3-0049-02",
+      "## Página 3 → A2-L3-0049-03",
+      "## Página 5 → A2-L3-0049-04"
+    ]
+  },
+  "0051": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — WHEREAS = ENQUANTO QUE / AO PASSO QUE (contraste direto) → B2-L3-0051-01",
+      "USO 2 — WHILE = ENQUANTO (tempo) e ENQUANTO QUE (contraste) → C1-L3-0051-02",
+      "USO 3 — WHEREAS vs WHILE vs BUT (comparação) → C1-L3-0051-03",
+      "USO 4 — WHILE no início da frase → C1-L3-0051-04"
+    ]
+  },
+  "0053": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — WHO = QUEM (sujeito da frase) → A2-L3-0053-01",
+      "USO 2 — WHO(M) = QUEM (objeto da frase) → B1-L3-0053-02",
+      "USO 3 — WHOSE = DE QUEM (posse) → B1-L3-0053-03",
+      "USO 4 — WHO em frases com verbos TO BE (passado e futuro) → B1-L3-0053-04"
+    ]
+  },
+  "0055": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — WILL = FUTURO (decisão espontânea e promessa) → A2-L3-0055-01",
+      "USO 2 — WILL vs GOING TO (diferença crucial) → B1-L3-0055-02",
+      "USO 3 — WILL em perguntas e negativas → B1-L3-0055-03",
+      "USO 4 — SHALL (formal, oferta, sugestão — inglês britânico) → B1-L3-0055-04"
+    ]
+  },
+  "0058": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A2-L3-0058-01",
+      "## Página 2 → B1-L3-0058-02",
+      "## Página 3 → B1-L3-0058-03",
+      "## Página 5 → B1-L3-0058-04"
+    ]
+  },
+  "0060": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — BUT = MAS (contraste direto) → A1-L3-0060-01",
+      "USO 2 — BUT = EXCETO / MENOS (exclusão) → A2-L3-0060-02",
+      "USO 3 — NOT… BUT (não… mas sim) → A2-L3-0060-03",
+      "USO 4 — BUT em expressões do dia a dia → A2-L3-0060-04"
+    ]
+  },
+  "0063": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L3-0063-01",
+      "## Página 2 → B2-L3-0063-02",
+      "## Página 3 → B2-L3-0063-03",
+      "## Página 4 → B2-L3-0063-04"
+    ]
+  },
+  "0066": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L3-0066-01",
+      "## Página 2 → A2-L3-0066-02",
+      "## Página 3 → A2-L3-0066-03",
+      "## Página 4 → A2-L3-0066-04"
+    ]
+  },
+  "0034": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0033; procedência anexada às cinco unidades canônicas"
+    ]
+  },
+  "0036": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0035; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0040": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0039; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0042": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0041; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0044": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0043; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0046": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0045; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0048": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0047; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0050": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0049; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0052": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0051; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0054": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0053; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0059": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0058; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0061": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0060; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0064": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0063; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0067": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0066; procedência anexada às unidades canônicas"
+    ]
+  },
+  "0065": {
+    "estado": "integralmente classificada",
+    "secoes": []
+  },
+  "0068": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — HOW LONG = QUANTO TEMPO / QUAL O COMPRIMENTO → A1-L4-0068-01",
+      "USO 2 — HOW FAR / HOW OFTEN / HOW SOON → A2-L4-0068-02",
+      "USO 3 — HOW OLD / HOW TALL / HOW MUCH / HOW MANY → A2-L4-0068-03"
+    ]
+  },
+  "0070": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L4-0070-01",
+      "## Página 2 → A2-L4-0070-02",
+      "## Página 3 → A2-L4-0070-03",
+      "## Página 4 → A2-L4-0070-04"
+    ]
+  },
+  "0072": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L4-0072-01",
+      "## Página 2 → B2-L4-0072-02",
+      "## Página 3 → B2-L4-0072-03",
+      "## Página 4 → B2-L4-0072-04"
+    ]
+  },
+  "0074": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — NEVERTHELESS = NO ENTANTO / MESMO ASSIM (formal) → B2-L4-0074-01",
+      "USO 2 — NONETHELESS = MESMO ASSIM / AINDA ASSIM (sinônimo formal) → C1-L4-0074-02",
+      "USO 3 — STILL = AINDA ASSIM / MESMO ASSIM (informal, meio da frase) → C1-L4-0074-03",
+      "USO 4 — Comparação: HOWEVER / NEVERTHELESS / NONETHELESS / STILL → C1-L4-0074-04"
+    ]
+  },
+  "0078": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — GO ON / GO AHEAD (continuar e dar permissão) → A2-L4-0078-01",
+      "USO 2 — GO OUT / GO BACK / GO AWAY → B1-L4-0078-02",
+      "USO 3 — GO THROUGH / GO OVER (processo e revisão) → B1-L4-0078-03",
+      "USO 4 — Outros GO phrasal verbs essenciais → B1-L4-0078-04"
+    ]
+  },
+  "0080": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A2-L4-0080-01",
+      "## Página 2 → B1-L4-0080-02",
+      "## Página 3 → B1-L4-0080-03",
+      "## Página 4 → B1-L4-0080-04"
+    ]
+  },
+  "0082": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L4-0082-01",
+      "## Página 2 → A2-L4-0082-02",
+      "## Página 3 → A2-L4-0082-03",
+      "## Página 5 → A2-L4-0082-04"
+    ]
+  },
+  "0084": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L4-0084-01",
+      "## Página 2 → A2-L4-0084-02",
+      "## Página 3 → A2-L4-0084-03",
+      "## Página 5 → A2-L4-0084-04"
+    ]
+  },
+  "0086": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L4-0086-01",
+      "## Página 2 → A2-L4-0086-02",
+      "## Página 3 → A2-L4-0086-03",
+      "## Página 5 → A2-L4-0086-04"
+    ]
+  },
+  "0088": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — UNTIL = ATÉ / ATÉ QUE (limite no tempo) → A2-L4-0088-01",
+      "USO 2 — TILL = ATÉ (informal, sinônimo de UNTIL) → B1-L4-0088-02",
+      "USO 3 — NOT…UNTIL = SÓ QUANDO / NÃO…ATÉ → B1-L4-0088-03",
+      "USO 4 — UNTIL vs BY (ambos relacionados a tempo) → B1-L4-0088-04"
+    ]
+  },
+  "0090": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — WHAT = O QUE (pergunta geral sobre coisas/ações) → A1-L4-0090-01",
+      "USO 2 — WHAT + substantivo = QUE / QUAL (adjetivo interrogativo) → A2-L4-0090-02",
+      "USO 3 — WHAT no passado (com did / was / were) → A2-L4-0090-03",
+      "USO 4 — WHAT no futuro (will / going to) → A2-L4-0090-04",
+      "USO 5 — WHAT como exclamação → A2-L4-0090-05",
+      "USO 6 — WHAT como pronome relativo (o que / aquilo que) → A2-L4-0090-06",
+      "USO 7 — WHAT x WHICH: qual a diferença? → A2-L4-0090-07"
+    ]
+  },
+  "0092": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 2 → A1-L4-0092-01",
+      "## Página 3 → A2-L4-0092-02",
+      "## Página 4 → A2-L4-0092-03",
+      "## Página 5 → A2-L4-0092-04",
+      "## Página 6 → A2-L4-0092-05",
+      "## Página 7 → A2-L4-0092-06",
+      "## Página 10 → A2-L4-0092-07",
+      "## Página 11 → A2-L4-0092-08",
+      "## Página 14 → A2-L4-0092-09",
+      "## Página 15 → A2-L4-0092-10",
+      "## Página 17 → A2-L4-0092-11",
+      "## Página 18 → A2-L4-0092-12",
+      "## Página 20 → A2-L4-0092-13",
+      "## Página 21 → A2-L4-0092-14",
+      "## Página 23 → A2-L4-0092-15",
+      "## Página 24 → A2-L4-0092-16",
+      "## Página 26 → A2-L4-0092-17",
+      "## Página 27 → A2-L4-0092-18",
+      "## Página 28 → A2-L4-0092-19",
+      "## Página 29 → A2-L4-0092-20",
+      "## Página 30 → A2-L4-0092-21",
+      "## Página 33 → A2-L4-0092-22",
+      "## Página 35 → A2-L4-0092-23",
+      "## Página 36 → A2-L4-0092-24",
+      "## Página 37 → A2-L4-0092-25",
+      "## Página 38 → A2-L4-0092-26",
+      "## Página 39 → A2-L4-0092-27",
+      "## Página 40 → A2-L4-0092-28",
+      "## Página 41 → A2-L4-0092-29",
+      "## Página 42 → A2-L4-0092-30",
+      "## Página 44 → A2-L4-0092-31",
+      "## Página 47 → A2-L4-0092-32",
+      "## Página 48 → A2-L4-0092-33",
+      "## Página 49 → A2-L4-0092-34",
+      "## Página 50 → A2-L4-0092-35",
+      "## Página 51 → A2-L4-0092-36",
+      "## Página 52 → A2-L4-0092-37",
+      "## Página 53 → A2-L4-0092-38",
+      "## Página 54 → A2-L4-0092-39",
+      "## Página 55 → A2-L4-0092-40",
+      "## Página 56 → A2-L4-0092-41",
+      "## Página 58 → A2-L4-0092-42",
+      "## Página 59 → A2-L4-0092-43",
+      "## Página 60 → A2-L4-0092-44",
+      "## Página 61 → A2-L4-0092-45"
+    ]
+  },
+  "0093": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — AS SOON AS = ASSIM QUE / MAL (imediatamente após) → A2-L4-0093-01",
+      "USO 2 — ONCE = UMA VEZ QUE / ASSIM QUE (após uma conclusão) → B1-L4-0093-02",
+      "USO 3 — MEANWHILE = ENQUANTO ISSO / NESSE MEIO TEMPO → B1-L4-0093-03",
+      "USO 4 — AS SOON AS vs ONCE vs WHEN (comparação) → B1-L4-0093-04"
+    ]
+  },
+  "0095": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L4-0095-01",
+      "## Página 2 → A2-L4-0095-02",
+      "## Página 3 → A2-L4-0095-03",
+      "## Página 5 → A2-L4-0095-04"
+    ]
+  },
+  "0098": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L4-0098-01",
+      "## Página 2 → B2-L4-0098-02",
+      "## Página 3 → B2-L4-0098-03",
+      "## Página 4 → B2-L4-0098-04"
+    ]
+  },
+  "0100": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L4-0100-01",
+      "## Página 2 → A2-L4-0100-02",
+      "## Página 3 → A2-L4-0100-03",
+      "## Página 4 → A2-L4-0100-04"
+    ]
+  },
+  "0102": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L4-0102-01",
+      "## Página 2 → A2-L4-0102-02",
+      "## Página 3 → A2-L4-0102-03",
+      "## Página 4 → A2-L4-0102-04"
+    ]
+  },
+  "0104": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L4-0104-01",
+      "## Página 2 → A2-L4-0104-02",
+      "## Página 3 → A2-L4-0104-03",
+      "## Página 5 → A2-L4-0104-04"
+    ]
+  },
+  "0108": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L4-0108-01",
+      "## Página 2 → B2-L4-0108-02",
+      "## Página 3 → B2-L4-0108-03",
+      "## Página 4 → B2-L4-0108-04"
+    ]
+  },
+  "0110": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — MUST = DEVO / TENHO QUE (obrigação forte, opinião pessoal) → A2-L4-0110-01",
+      "USO 2 — HAVE TO = TEM QUE / PRECISA (obrigação externa/regra) → B1-L4-0110-02",
+      "USO 3 — NEED TO = PRECISAR (necessidade) → B1-L4-0110-03",
+      "USO 4 — MUST vs HAVE TO vs DON'T HAVE TO vs MUSTN'T → B1-L4-0110-04"
+    ]
+  },
+  "0111": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A2-L4-0111-01"
+    ]
+  },
+  "0069": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0068"
+    ]
+  },
+  "0071": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0070"
+    ]
+  },
+  "0073": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0072"
+    ]
+  },
+  "0075": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0074"
+    ]
+  },
+  "0077": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0076"
+    ]
+  },
+  "0081": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0080"
+    ]
+  },
+  "0083": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0082"
+    ]
+  },
+  "0085": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0084"
+    ]
+  },
+  "0087": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0086"
+    ]
+  },
+  "0089": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0088"
+    ]
+  },
+  "0091": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0090"
+    ]
+  },
+  "0094": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0093"
+    ]
+  },
+  "0096": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0095"
+    ]
+  },
+  "0099": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0098"
+    ]
+  },
+  "0101": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0100"
+    ]
+  },
+  "0103": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0102"
+    ]
+  },
+  "0105": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0104"
+    ]
+  },
+  "0107": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0106"
+    ]
+  },
+  "0109": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0108"
+    ]
+  },
+  "0112": {
+    "estado": "duplicata",
+    "secoes": [
+      "texto normalizado idêntico a 0111"
+    ]
+  },
+  "0113": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — NOT ONLY…BUT ALSO com substantivos e adjetivos → B1-L5-0113-01",
+      "USO 2 — NOT ONLY…BUT ALSO com orações completas → C1-L5-0113-02",
+      "USO 3 — Variações: NOT ONLY…BUT / NOT JUST…BUT ALSO → B2-L5-0113-03",
+      "USO 4 — NOT ONLY…BUT ALSO em diferentes tempos → B2-L5-0113-04"
+    ]
+  },
+  "0115": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — OR = OU (alternativa) → A2-L5-0115-01",
+      "USO 2 — OR = SENÃO / CASO CONTRÁRIO (consequência negativa) → A2-L5-0115-02",
+      "USO 3 — EITHER…OR e NEITHER…NOR → B1-L5-0115-03",
+      "USO 4 — OR em explicações e reformulações → B1-L5-0115-04"
+    ]
+  },
+  "0117": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A2-L5-0117-01",
+      "## Página 2 → A2-L5-0117-02",
+      "## Página 3 → A2-L5-0117-03",
+      "## Página 4 → A2-L5-0117-04",
+      "## Página 5 → A2-L5-0117-05"
+    ]
+  },
+  "0119": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — TURN ON / TURN OFF (ligar e desligar) → A2-L5-0119-01",
+      "USO 2 — PUT ON / PUT OFF / PUT OUT (colocar, adiar, apagar) → A2-L5-0119-02",
+      "USO 3 — TAKE OFF / TAKE ON / TAKE OUT / TAKE AWAY → A2-L5-0119-03"
+    ]
+  },
+  "0121": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — SEM artigo com substantivos incontáveis (em geral) → A2-L5-0121-01",
+      "USO 2 — SEM artigo com plurais no geral → A2-L5-0121-02",
+      "USO 3 — SEM artigo com nomes próprios e lugares → A2-L5-0121-03",
+      "USO 4 — SEM artigo em situações específicas → B1-L5-0121-04",
+      "USO 5 — Comparação A/AN vs THE vs ZERO → B1-L5-0121-05"
+    ]
+  },
+  "0124": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A2-L5-0124-01",
+      "## Página 2 → A2-L5-0124-02",
+      "## Página 3 → A2-L5-0124-03",
+      "## Página 4 → A2-L5-0124-04",
+      "## Página 5 → A2-L5-0124-05"
+    ]
+  },
+  "0126": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L5-0126-01",
+      "## Página 2 → B1-L5-0126-02",
+      "## Página 3 → B1-L5-0126-03",
+      "## Página 4 → B1-L5-0126-04",
+      "## Página 5 → B1-L5-0126-05"
+    ]
+  },
+  "0128": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — WHAT KIND OF / WHAT TYPE OF = QUE TIPO DE → A2-L5-0128-01",
+      "USO 2 — WHAT TIME / WHAT DAY / WHAT PART OF → A2-L5-0128-02",
+      "USO 3 — WHAT'S IT LIKE? = COMO É? → A2-L5-0128-03",
+      "USO 4 — WHAT'S GOING ON / WHAT'S UP / WHAT'S WRONG → A2-L5-0128-04",
+      "USO 5 — WHAT'S IT FOR / WHAT'S IT ABOUT / WHAT SIZE / WHAT COLOR → A2-L5-0128-05"
+    ]
+  },
+  "0130": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — WHEN = QUANDO (presente) → A2-L5-0130-01",
+      "USO 2 — WHEN no passado → A2-L5-0130-02",
+      "USO 3 — WHEN no futuro → A2-L5-0130-03",
+      "USO 4 — WHEN como conjunção (quando = no momento em que) → A2-L5-0130-04",
+      "USO 5 — WHEN em respostas (afirmativo, negativo, pergunta) → A2-L5-0130-05",
+      "USO 6 — WHENEVER = SEMPRE QUE / QUANDO QUER QUE (forma composta) → A2-L5-0130-06"
+    ]
+  },
+  "0132": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A2-L5-0132-01",
+      "## Página 2 → A2-L5-0132-02",
+      "## Página 3 → A2-L5-0132-03",
+      "## Página 4 → A2-L5-0132-04",
+      "## Página 5 → A2-L5-0132-05"
+    ]
+  },
+  "0134": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — DESPITE = APESAR DE (antes de substantivo) → B1-L5-0134-01",
+      "USO 2 — IN SPITE OF = APESAR DE (sinônimo de DESPITE, mais formal) → B1-L5-0134-02",
+      "USO 3 — DESPITE + gerúndio (-ING) → B1-L5-0134-03",
+      "USO 4 — DESPITE / IN SPITE OF vs ALTHOUGH (comparação) → B2-L5-0134-04",
+      "USO 5 — DESPITE THE FACT THAT = APESAR DO FATO DE QUE (oração) → B2-L5-0134-05"
+    ]
+  },
+  "0136": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — DUE TO = DEVIDO A (mais formal) → B2-L5-0136-01",
+      "USO 2 — BECAUSE OF = POR CAUSA DE (neutro, mais comum) → B1-L5-0136-02",
+      "USO 3 — DUE TO vs BECAUSE OF vs BECAUSE → B2-L5-0136-03",
+      "USO 4 — THANKS TO = GRAÇAS A (causa positiva) → B1-L5-0136-04",
+      "USO 5 — Exemplos comparativos no dia a dia → B2-L5-0136-05"
+    ]
+  },
+  "0138": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A2-L5-0138-01",
+      "## Página 2 → A2-L5-0138-02",
+      "## Página 3 → A2-L5-0138-03",
+      "## Página 4 → A2-L5-0138-04",
+      "## Página 5 → A2-L5-0138-05"
+    ]
+  },
+  "0140": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — FOR = POR / HÁ (duração total) → B1-L5-0140-01",
+      "USO 2 — SINCE = DESDE (ponto de início) → B1-L5-0140-02",
+      "USO 3 — DURING = DURANTE (ao longo de um período) → B2-L5-0140-03",
+      "USO 4 — BY = ATÉ (prazo/deadline) / WITHIN = DENTRO DE → B2-L5-0140-04"
+    ]
+  },
+  "0142": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L5-0142-01",
+      "## Página 2 → B1-L5-0142-02",
+      "## Página 3 → B1-L5-0142-03",
+      "## Página 4 → B1-L5-0142-04"
+    ]
+  },
+  "0144": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L5-0144-01",
+      "## Página 2 → B1-L5-0144-02"
+    ]
+  },
+  "0145": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L5-0145-01",
+      "## Página 2 → A1-L5-0145-02",
+      "## Página 3 → A1-L5-0145-03",
+      "## Página 4 → A1-L5-0145-04"
+    ]
+  },
+  "0147": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A2-L5-0147-01",
+      "## Página 2 → A2-L5-0147-02",
+      "## Página 3 → A2-L5-0147-03",
+      "## Página 4 → A2-L5-0147-04"
+    ]
+  },
+  "0149": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — I THINK / I BELIEVE / I FEEL (opinião pessoal) → B1-L5-0149-01",
+      "USO 2 — I FEEL LIKE / I'M NOT SURE / I CAN'T WAIT → B1-L5-0149-02",
+      "USO 3 — IT SEEMS LIKE / IT SOUNDS LIKE / IT LOOKS LIKE → B1-L5-0149-03",
+      "USO 4 — I'D RATHER / I'D LOVE TO / I'D PREFER → B1-L5-0149-04",
+      "USO 5 — Expressões de surpresa e reação → B1-L5-0149-05"
+    ]
+  },
+  "0153": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L5-0153-01",
+      "## Página 2 → B1-L5-0153-02",
+      "## Página 3 → B1-L5-0153-03",
+      "## Página 4 → B1-L5-0153-04",
+      "## Página 5 → B1-L5-0153-05"
+    ]
+  },
+  "0155": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — LOOK FOR / LOOK UP / LOOK AFTER / LOOK FORWARD TO → B1-L5-0155-01",
+      "USO 2 — FIND OUT (descobrir) → B1-L5-0155-02",
+      "USO 3 — RUN OUT OF / RUN INTO / RUN AWAY → B1-L5-0155-03"
+    ]
+  },
+  "0156": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — Reflexivo: ação volta para o sujeito → A2-L5-0156-01",
+      "USO 2 — BY + reflexivo = SOZINHO / SEM AJUDA → A2-L5-0156-02",
+      "USO 3 — Reflexivo para ÊNFASE (eu mesmo, você mesmo...) → A2-L5-0156-03",
+      "USO 4 — Expressões com reflexivos → A2-L5-0156-04"
+    ]
+  },
+  "0157": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A2-L5-0157-01",
+      "## Página 2 → A2-L5-0157-02",
+      "## Página 3 → A2-L5-0157-03",
+      "## Página 4 → A2-L5-0157-04",
+      "## Página 5 → A2-L5-0157-05"
+    ]
+  },
+  "0159": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — SHOULD = DEVERIA (conselho e recomendação) → B1-L5-0159-01",
+      "USO 2 — SHOULD em perguntas (pedindo conselho) → B1-L5-0159-02",
+      "USO 3 — SHOULD HAVE = DEVERIA TER (arrependimento do passado) → B2-L5-0159-03",
+      "USO 4 — OUGHT TO = DEVERIA (mais formal, mesmo significado) → B2-L5-0159-04"
+    ]
+  },
+  "0160": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A2-L5-0160-01",
+      "## Página 2 → A2-L5-0160-02",
+      "## Página 3 → A2-L5-0160-03",
+      "## Página 4 → A2-L5-0160-04",
+      "## Página 5 → A2-L5-0160-05"
+    ]
+  },
+  "0162": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — SO = ENTÃO / PORTANTO (resultado/consequência) → B1-L5-0162-01",
+      "USO 2 — SO + adjetivo/advérbio = TÃO (intensidade) → B1-L5-0162-02",
+      "USO 3 — SO THAT = PARA QUE / A FIM DE QUE (propósito) → B2-L5-0162-03",
+      "USO 4 — SO como resposta e no discurso (fala) → B2-L5-0162-04"
+    ]
+  },
+  "0164": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → B1-L5-0164-01",
+      "## Página 2 → B1-L5-0164-02",
+      "## Página 3 → B1-L5-0164-03",
+      "## Página 4 → B1-L5-0164-04"
+    ]
+  },
+  "0166": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — WHERE = ONDE (localização, presente) → A2-L5-0166-01",
+      "USO 2 — WHERE no passado → A2-L5-0166-02",
+      "USO 3 — WHERE no futuro → A2-L5-0166-03",
+      "USO 4 — WHERE = DE ONDE (origem) → A2-L5-0166-04",
+      "USO 5 — WHERE como conjunção (onde = no lugar onde) → A2-L5-0166-05",
+      "USO 6 — WHEREVER = ONDE QUER QUE (forma composta) → A2-L5-0166-06"
+    ]
+  },
+  "0168": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "## Página 1 → A1-L5-0168-01",
+      "## Página 2 → A1-L5-0168-02",
+      "## Página 3 → A1-L5-0168-03",
+      "## Página 4 → A1-L5-0168-04"
+    ]
+  },
+  "0169": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "USO 1 — BECAUSE no presente (explicando razões) → A2-L5-0169-01",
+      "USO 2 — BECAUSE no passado → A2-L5-0169-02",
+      "USO 3 — BECAUSE no futuro e em negativas → A2-L5-0169-03",
+      "USO 4 — BECAUSE no início da frase (ênfase na razão) → A2-L5-0169-04",
+      "USO 5 — BECAUSE OF = POR CAUSA DE (antes de substantivo) → A2-L5-0169-05",
+      "USO 6 — BECAUSE vs SINCE vs AS (todos = porque, mas diferentes) → A2-L5-0169-06"
+    ]
+  },
+  "0114": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0113"
+    ]
+  },
+  "0116": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0115"
+    ]
+  },
+  "0118": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0117"
+    ]
+  },
+  "0123": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0122"
+    ]
+  },
+  "0125": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0124"
+    ]
+  },
+  "0127": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0126"
+    ]
+  },
+  "0129": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0128"
+    ]
+  },
+  "0131": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0130"
+    ]
+  },
+  "0133": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0132"
+    ]
+  },
+  "0135": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0134"
+    ]
+  },
+  "0137": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0136"
+    ]
+  },
+  "0139": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0138"
+    ]
+  },
+  "0141": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0140"
+    ]
+  },
+  "0143": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0142"
+    ]
+  },
+  "0146": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0145"
+    ]
+  },
+  "0148": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0147"
+    ]
+  },
+  "0150": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0149"
+    ]
+  },
+  "0152": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0151"
+    ]
+  },
+  "0154": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0153"
+    ]
+  },
+  "0158": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0157"
+    ]
+  },
+  "0161": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0160"
+    ]
+  },
+  "0163": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0162"
+    ]
+  },
+  "0165": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0164"
+    ]
+  },
+  "0167": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0166"
+    ]
+  },
+  "0170": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0169"
+    ]
+  },
+  "0171": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "uso cotidiano, presente e passado → A2-L6-0171-01",
+      "futuro, negação e perguntas → A2-L6-0171-02",
+      "alternância de complementos → B1-L6-0171-03"
+    ]
+  },
+  "0173": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → B1-L6-0173-01",
+      "contrastes e usos ampliados → B2-L6-0173-02"
+    ]
+  },
+  "0175": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → A2-L6-0175-01",
+      "contrastes e usos ampliados → B1-L6-0175-02"
+    ]
+  },
+  "0177": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L6-0177-01",
+      "ampliação, contrastes e prática → B1-L6-0177-02"
+    ]
+  },
+  "0179": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L6-0179-01",
+      "ampliação, contrastes e prática → A2-L6-0179-02"
+    ]
+  },
+  "0181": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L6-0181-01",
+      "ampliação, contrastes e prática → A2-L6-0181-02"
+    ]
+  },
+  "0183": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L6-0183-01",
+      "ampliação, contrastes e prática → B1-L6-0183-02"
+    ]
+  },
+  "0185": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → B1-L6-0185-01",
+      "contrastes e usos ampliados → B2-L6-0185-02"
+    ]
+  },
+  "0186": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L6-0186-01",
+      "ampliação, contrastes e prática → B1-L6-0186-02"
+    ]
+  },
+  "0188": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → B1-L6-0188-01",
+      "contrastes e usos ampliados → B2-L6-0188-02"
+    ]
+  },
+  "0189": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → B2-L6-0189-01",
+      "contrastes e usos ampliados → B2-L6-0189-02"
+    ]
+  },
+  "0191": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L6-0191-01",
+      "ampliação, contrastes e prática → B1-L6-0191-02"
+    ]
+  },
+  "0193": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L6-0193-01",
+      "ampliação, contrastes e prática → A2-L6-0193-02"
+    ]
+  },
+  "0195": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L6-0195-01",
+      "ampliação, contrastes e prática → B1-L6-0195-02"
+    ]
+  },
+  "0197": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → B1-L6-0197-01",
+      "contrastes e usos ampliados → B2-L6-0197-02"
+    ]
+  },
+  "0199": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → A1-L6-0199-01",
+      "contrastes e usos ampliados → A2-L6-0199-02"
+    ]
+  },
+  "0201": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → A2-L6-0201-01",
+      "contrastes e usos ampliados → B1-L6-0201-02"
+    ]
+  },
+  "0203": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L6-0203-01",
+      "ampliação, contrastes e prática → A2-L6-0203-02"
+    ]
+  },
+  "0204": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L6-0204-01",
+      "ampliação, contrastes e prática → B1-L6-0204-02"
+    ]
+  },
+  "0206": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L6-0206-01",
+      "ampliação, contrastes e prática → A2-L6-0206-02"
+    ]
+  },
+  "0208": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L6-0208-01",
+      "ampliação, contrastes e prática → B1-L6-0208-02"
+    ]
+  },
+  "0210": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L6-0210-01",
+      "ampliação, contrastes e prática → A2-L6-0210-02"
+    ]
+  },
+  "0212": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L6-0212-01",
+      "ampliação, contrastes e prática → B1-L6-0212-02"
+    ]
+  },
+  "0214": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L6-0214-01",
+      "ampliação, contrastes e prática → A2-L6-0214-02"
+    ]
+  },
+  "0216": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L6-0216-01",
+      "ampliação, contrastes e prática → A2-L6-0216-02"
+    ]
+  },
+  "0218": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → B1-L6-0218-01",
+      "contrastes e usos ampliados → B1-L6-0218-02"
+    ]
+  },
+  "0220": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L6-0220-01",
+      "ampliação, contrastes e prática → B1-L6-0220-02"
+    ]
+  },
+  "0222": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L6-0222-01",
+      "ampliação, contrastes e prática → B1-L6-0222-02"
+    ]
+  },
+  "0224": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → B2-L6-0224-01",
+      "contrastes e usos ampliados → B2-L6-0224-02"
+    ]
+  },
+  "0226": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → A2-L6-0226-01",
+      "contrastes e usos ampliados → B1-L6-0226-02"
+    ]
+  },
+  "0228": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L6-0228-01",
+      "ampliação, contrastes e prática → B2-L6-0228-02"
+    ]
+  },
+  "0230": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → B1-L6-0230-01",
+      "contrastes e usos ampliados → B2-L6-0230-02"
+    ]
+  },
+  "0231": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → B1-L6-0231-01",
+      "contrastes e usos ampliados → B2-L6-0231-02"
+    ]
+  },
+  "0233": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → A2-L6-0233-01",
+      "contrastes e usos ampliados → B1-L6-0233-02"
+    ]
+  },
+  "0235": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → A2-L6-0235-01",
+      "contrastes e usos ampliados → B1-L6-0235-02"
+    ]
+  },
+  "0237": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "usos fundamentais → B1-L6-0237-01",
+      "contrastes e usos ampliados → B2-L6-0237-02"
+    ]
+  },
+  "0239": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L6-0239-01",
+      "ampliação, contrastes e prática → B1-L6-0239-02"
+    ]
+  },
+  "0240": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L6-0240-01",
+      "ampliação, contrastes e prática → B2-L6-0240-02"
+    ]
+  },
+  "0172": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0171"
+    ]
+  },
+  "0174": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0173"
+    ]
+  },
+  "0176": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0175"
+    ]
+  },
+  "0178": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0177"
+    ]
+  },
+  "0180": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0179"
+    ]
+  },
+  "0182": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0181"
+    ]
+  },
+  "0184": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0183"
+    ]
+  },
+  "0187": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0186"
+    ]
+  },
+  "0190": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0189"
+    ]
+  },
+  "0192": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0191"
+    ]
+  },
+  "0194": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0193"
+    ]
+  },
+  "0196": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0195"
+    ]
+  },
+  "0198": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0197"
+    ]
+  },
+  "0200": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0199"
+    ]
+  },
+  "0202": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0201"
+    ]
+  },
+  "0205": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0204"
+    ]
+  },
+  "0207": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0206"
+    ]
+  },
+  "0209": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0208"
+    ]
+  },
+  "0211": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0210"
+    ]
+  },
+  "0213": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0212"
+    ]
+  },
+  "0215": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0214"
+    ]
+  },
+  "0217": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0216"
+    ]
+  },
+  "0219": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0218"
+    ]
+  },
+  "0221": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0220"
+    ]
+  },
+  "0223": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0222"
+    ]
+  },
+  "0225": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0224"
+    ]
+  },
+  "0227": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0226"
+    ]
+  },
+  "0229": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0228"
+    ]
+  },
+  "0232": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0231"
+    ]
+  },
+  "0234": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0233"
+    ]
+  },
+  "0236": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0235"
+    ]
+  },
+  "0238": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0237"
+    ]
+  },
+  "0242": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0242-01",
+      "contrastes e ampliação → B1-L7-0242-02"
+    ]
+  },
+  "0244": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0244-01",
+      "contrastes e ampliação → B1-L7-0244-02"
+    ]
+  },
+  "0246": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A1-L7-0246-01",
+      "contrastes e ampliação → A2-L7-0246-02"
+    ]
+  },
+  "0248": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A1-L7-0248-01",
+      "contrastes e ampliação → A2-L7-0248-02"
+    ]
+  },
+  "0250": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B1-L7-0250-01",
+      "contrastes e ampliação → B1-L7-0250-02"
+    ]
+  },
+  "0252": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B1-L7-0252-01",
+      "contrastes e ampliação → B2-L7-0252-02"
+    ]
+  },
+  "0254": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B1-L7-0254-01",
+      "contrastes e ampliação → B2-L7-0254-02"
+    ]
+  },
+  "0256": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0256-01",
+      "contrastes e ampliação → B1-L7-0256-02"
+    ]
+  },
+  "0258": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A1-L7-0258-01",
+      "contrastes e ampliação → A2-L7-0258-02"
+    ]
+  },
+  "0260": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B1-L7-0260-01",
+      "contrastes e ampliação → B2-L7-0260-02"
+    ]
+  },
+  "0262": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0262-01",
+      "contrastes e ampliação → B1-L7-0262-02"
+    ]
+  },
+  "0264": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conceito integrado → A1-L7-0264-01"
+    ]
+  },
+  "0265": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0265-01",
+      "contrastes e ampliação → B1-L7-0265-02"
+    ]
+  },
+  "0267": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0267-01",
+      "contrastes e ampliação → B1-L7-0267-02"
+    ]
+  },
+  "0269": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0269-01",
+      "contrastes e ampliação → B1-L7-0269-02"
+    ]
+  },
+  "0271": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B1-L7-0271-01",
+      "contrastes e ampliação → B2-L7-0271-02"
+    ]
+  },
+  "0273": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0273-01",
+      "contrastes e ampliação → B1-L7-0273-02"
+    ]
+  },
+  "0275": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B2-L7-0275-01",
+      "contrastes e ampliação → B2-L7-0275-02"
+    ]
+  },
+  "0277": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0277-01",
+      "contrastes e ampliação → B1-L7-0277-02"
+    ]
+  },
+  "0279": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0279-01",
+      "contrastes e ampliação → B1-L7-0279-02"
+    ]
+  },
+  "0281": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B2-L7-0281-01",
+      "contrastes e ampliação → B2-L7-0281-02"
+    ]
+  },
+  "0283": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B1-L7-0283-01",
+      "contrastes e ampliação → B2-L7-0283-02"
+    ]
+  },
+  "0285": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0285-01",
+      "contrastes e ampliação → B1-L7-0285-02"
+    ]
+  },
+  "0287": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0287-01",
+      "contrastes e ampliação → B1-L7-0287-02"
+    ]
+  },
+  "0289": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0289-01",
+      "contrastes e ampliação → B1-L7-0289-02"
+    ]
+  },
+  "0291": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B1-L7-0291-01",
+      "contrastes e ampliação → B2-L7-0291-02"
+    ]
+  },
+  "0293": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B1-L7-0293-01",
+      "contrastes e ampliação → B2-L7-0293-02"
+    ]
+  },
+  "0295": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B2-L7-0295-01",
+      "contrastes e ampliação → B2-L7-0295-02"
+    ]
+  },
+  "0297": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0297-01",
+      "contrastes e ampliação → B1-L7-0297-02"
+    ]
+  },
+  "0298": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0298-01",
+      "contrastes e ampliação → B1-L7-0298-02"
+    ]
+  },
+  "0300": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A1-L7-0300-01",
+      "contrastes e ampliação → A2-L7-0300-02"
+    ]
+  },
+  "0302": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0302-01",
+      "contrastes e ampliação → B1-L7-0302-02"
+    ]
+  },
+  "0304": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0304-01",
+      "contrastes e ampliação → B1-L7-0304-02"
+    ]
+  },
+  "0306": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B2-L7-0306-01",
+      "contrastes e ampliação → B2-L7-0306-02"
+    ]
+  },
+  "0308": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B2-L7-0308-01",
+      "contrastes e ampliação → C1-L7-0308-02"
+    ]
+  },
+  "0310": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0310-01",
+      "contrastes e ampliação → B1-L7-0310-02"
+    ]
+  },
+  "0312": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0312-01",
+      "contrastes e ampliação → B1-L7-0312-02"
+    ]
+  },
+  "0314": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0314-01",
+      "contrastes e ampliação → B1-L7-0314-02"
+    ]
+  },
+  "0316": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → A2-L7-0316-01",
+      "contrastes e ampliação → B1-L7-0316-02"
+    ]
+  },
+  "0319": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fundamentos e usos frequentes → B1-L7-0319-01",
+      "contrastes e ampliação → B2-L7-0319-02"
+    ]
+  },
+  "0318": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "imagem original inspecionada em resolução integral; 20 linhas confirmadas → A2-L8-0318-01"
+    ]
+  },
+  "0241": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0240"
+    ]
+  },
+  "0243": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0242"
+    ]
+  },
+  "0245": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0244"
+    ]
+  },
+  "0247": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0246"
+    ]
+  },
+  "0249": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0248"
+    ]
+  },
+  "0251": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0250"
+    ]
+  },
+  "0253": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0252"
+    ]
+  },
+  "0255": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0254"
+    ]
+  },
+  "0257": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0256"
+    ]
+  },
+  "0259": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0258"
+    ]
+  },
+  "0261": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0260"
+    ]
+  },
+  "0263": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0262"
+    ]
+  },
+  "0266": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0265"
+    ]
+  },
+  "0268": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0267"
+    ]
+  },
+  "0270": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0269"
+    ]
+  },
+  "0272": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0271"
+    ]
+  },
+  "0274": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0273"
+    ]
+  },
+  "0276": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0275"
+    ]
+  },
+  "0278": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0277"
+    ]
+  },
+  "0280": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0279"
+    ]
+  },
+  "0282": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0281"
+    ]
+  },
+  "0284": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0283"
+    ]
+  },
+  "0286": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0285"
+    ]
+  },
+  "0288": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0287"
+    ]
+  },
+  "0290": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0289"
+    ]
+  },
+  "0292": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0291"
+    ]
+  },
+  "0294": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0293"
+    ]
+  },
+  "0296": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0295"
+    ]
+  },
+  "0299": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0298"
+    ]
+  },
+  "0301": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0300"
+    ]
+  },
+  "0303": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0302"
+    ]
+  },
+  "0305": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0304"
+    ]
+  },
+  "0307": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0306"
+    ]
+  },
+  "0309": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0308"
+    ]
+  },
+  "0311": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0310"
+    ]
+  },
+  "0313": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0312"
+    ]
+  },
+  "0315": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0314"
+    ]
+  },
+  "0317": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0316"
+    ]
+  },
+  "0320": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0319"
+    ]
+  },
+  "0321": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "presente perfeito: experiência e duração → B1-L8-0321-01",
+      "passado perfeito e contraste temporal → B2-L8-0321-02",
+      "negação e perguntas nos tempos perfeitos → B2-L8-0321-03"
+    ]
+  },
+  "0322": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0322-01",
+      "perguntas, negativas e ampliação → B1-L8-0322-02"
+    ]
+  },
+  "0323": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0322"
+    ]
+  },
+  "0324": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "uso e posição no texto → B1-L8-0324-01",
+      "contrastes e exemplos em contexto → B2-L8-0324-02"
+    ]
+  },
+  "0325": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0324"
+    ]
+  },
+  "0326": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0326-01",
+      "perguntas, negativas e ampliação → B1-L8-0326-02"
+    ]
+  },
+  "0327": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0326"
+    ]
+  },
+  "0328": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0328-01",
+      "perguntas, negativas e ampliação → B1-L8-0328-02"
+    ]
+  },
+  "0329": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0328"
+    ]
+  },
+  "0330": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L8-0330-01",
+      "perguntas, negativas e ampliação → B2-L8-0330-02"
+    ]
+  },
+  "0331": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0330"
+    ]
+  },
+  "0332": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "uso e posição no texto → B1-L8-0332-01",
+      "contrastes e exemplos em contexto → B2-L8-0332-02"
+    ]
+  },
+  "0333": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0332"
+    ]
+  },
+  "0334": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0334-01",
+      "perguntas, negativas e ampliação → B1-L8-0334-02"
+    ]
+  },
+  "0335": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0334"
+    ]
+  },
+  "0336": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L8-0336-01",
+      "perguntas, negativas e ampliação → A2-L8-0336-02"
+    ]
+  },
+  "0337": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0336"
+    ]
+  },
+  "0338": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0338-01",
+      "perguntas, negativas e ampliação → B1-L8-0338-02"
+    ]
+  },
+  "0339": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0338"
+    ]
+  },
+  "0340": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L8-0340-01",
+      "perguntas, negativas e ampliação → A2-L8-0340-02"
+    ]
+  },
+  "0341": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0340"
+    ]
+  },
+  "0342": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0342-01",
+      "perguntas, negativas e ampliação → B1-L8-0342-02"
+    ]
+  },
+  "0343": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0342"
+    ]
+  },
+  "0344": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "uso e posição no texto → B1-L8-0344-01",
+      "contrastes e exemplos em contexto → B2-L8-0344-02"
+    ]
+  },
+  "0345": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0344"
+    ]
+  },
+  "0346": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "uso e posição no texto → A2-L8-0346-01",
+      "contrastes e exemplos em contexto → B1-L8-0346-02"
+    ]
+  },
+  "0347": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0346"
+    ]
+  },
+  "0348": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0348-01",
+      "perguntas, negativas e ampliação → B1-L8-0348-02"
+    ]
+  },
+  "0349": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0348"
+    ]
+  },
+  "0350": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0350-01",
+      "perguntas, negativas e ampliação → B1-L8-0350-02"
+    ]
+  },
+  "0351": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0350"
+    ]
+  },
+  "0352": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "uso e posição no texto → A2-L8-0352-01",
+      "contrastes e exemplos em contexto → B1-L8-0352-02"
+    ]
+  },
+  "0353": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0352"
+    ]
+  },
+  "0354": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L8-0354-01",
+      "perguntas, negativas e ampliação → A2-L8-0354-02"
+    ]
+  },
+  "0355": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0354"
+    ]
+  },
+  "0356": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0356-01",
+      "perguntas, negativas e ampliação → B1-L8-0356-02"
+    ]
+  },
+  "0357": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0356"
+    ]
+  },
+  "0358": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L8-0358-01",
+      "perguntas, negativas e ampliação → A2-L8-0358-02"
+    ]
+  },
+  "0359": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0358"
+    ]
+  },
+  "0360": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L8-0360-01",
+      "perguntas, negativas e ampliação → A2-L8-0360-02"
+    ]
+  },
+  "0361": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0360"
+    ]
+  },
+  "0362": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L8-0362-01",
+      "perguntas, negativas e ampliação → A2-L8-0362-02"
+    ]
+  },
+  "0363": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0362"
+    ]
+  },
+  "0364": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0364-01",
+      "perguntas, negativas e ampliação → B1-L8-0364-02"
+    ]
+  },
+  "0365": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0364"
+    ]
+  },
+  "0366": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L8-0366-01",
+      "perguntas, negativas e ampliação → A2-L8-0366-02"
+    ]
+  },
+  "0367": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0366"
+    ]
+  },
+  "0368": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "uso e posição no texto → B1-L8-0368-01",
+      "contrastes e exemplos em contexto → B2-L8-0368-02"
+    ]
+  },
+  "0369": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0368"
+    ]
+  },
+  "0370": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0370-01",
+      "perguntas, negativas e ampliação → B1-L8-0370-02"
+    ]
+  },
+  "0371": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0370"
+    ]
+  },
+  "0372": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L8-0372-01",
+      "perguntas, negativas e ampliação → B2-L8-0372-02"
+    ]
+  },
+  "0373": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0372"
+    ]
+  },
+  "0374": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0374-01",
+      "perguntas, negativas e ampliação → B1-L8-0374-02"
+    ]
+  },
+  "0375": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0374"
+    ]
+  },
+  "0376": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0376-01",
+      "perguntas, negativas e ampliação → B1-L8-0376-02"
+    ]
+  },
+  "0377": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0376"
+    ]
+  },
+  "0378": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0378-01",
+      "perguntas, negativas e ampliação → B1-L8-0378-02"
+    ]
+  },
+  "0379": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0378"
+    ]
+  },
+  "0380": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0380-01",
+      "perguntas, negativas e ampliação → B1-L8-0380-02"
+    ]
+  },
+  "0381": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0380"
+    ]
+  },
+  "0382": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0382-01",
+      "perguntas, negativas e ampliação → B1-L8-0382-02"
+    ]
+  },
+  "0383": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0382"
+    ]
+  },
+  "0384": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L8-0384-01",
+      "perguntas, negativas e ampliação → A2-L8-0384-02"
+    ]
+  },
+  "0385": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0384"
+    ]
+  },
+  "0386": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0386-01",
+      "perguntas, negativas e ampliação → B1-L8-0386-02"
+    ]
+  },
+  "0387": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0386"
+    ]
+  },
+  "0388": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0388-01",
+      "perguntas, negativas e ampliação → B1-L8-0388-02"
+    ]
+  },
+  "0389": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0388"
+    ]
+  },
+  "0390": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0390-01",
+      "perguntas, negativas e ampliação → B1-L8-0390-02"
+    ]
+  },
+  "0391": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0390"
+    ]
+  },
+  "0392": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A1-L8-0392-01",
+      "perguntas, negativas e ampliação → A2-L8-0392-02"
+    ]
+  },
+  "0393": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0392"
+    ]
+  },
+  "0394": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0394-01",
+      "perguntas, negativas e ampliação → B1-L8-0394-02"
+    ]
+  },
+  "0395": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0394"
+    ]
+  },
+  "0396": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0396-01",
+      "perguntas, negativas e ampliação → B1-L8-0396-02"
+    ]
+  },
+  "0397": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0396"
+    ]
+  },
+  "0398": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → B1-L8-0398-01",
+      "perguntas, negativas e ampliação → B2-L8-0398-02"
+    ]
+  },
+  "0399": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0398"
+    ]
+  },
+  "0400": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L8-0400-01",
+      "perguntas, negativas e ampliação → B1-L8-0400-02"
+    ]
+  },
+  "0401": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0400"
+    ]
+  },
+  "0402": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0402-01",
+      "contrastes, perguntas e ampliação → B1-L9-0402-01"
+    ]
+  },
+  "0403": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0402"
+    ]
+  },
+  "0404": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0404-01",
+      "contrastes, perguntas e ampliação → B1-L9-0404-01"
+    ]
+  },
+  "0405": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0404"
+    ]
+  },
+  "0406": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0406-01",
+      "contrastes, perguntas e ampliação → B1-L9-0406-01"
+    ]
+  },
+  "0407": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0406"
+    ]
+  },
+  "0408": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0408-01",
+      "contrastes, perguntas e ampliação → B1-L9-0408-01"
+    ]
+  },
+  "0409": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0408"
+    ]
+  },
+  "0410": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0410-01",
+      "contrastes, perguntas e ampliação → B1-L9-0410-01"
+    ]
+  },
+  "0411": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0410"
+    ]
+  },
+  "0412": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0412-01",
+      "contrastes, perguntas e ampliação → B1-L9-0412-01"
+    ]
+  },
+  "0413": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0412"
+    ]
+  },
+  "0414": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0414-01",
+      "contrastes, perguntas e ampliação → B1-L9-0414-01"
+    ]
+  },
+  "0415": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0414"
+    ]
+  },
+  "0416": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0416-01",
+      "contrastes, perguntas e ampliação → B1-L9-0416-01"
+    ]
+  },
+  "0417": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0416"
+    ]
+  },
+  "0418": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0418-01",
+      "contrastes, perguntas e ampliação → B1-L9-0418-01"
+    ]
+  },
+  "0419": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0418"
+    ]
+  },
+  "0420": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0420-01",
+      "contrastes, perguntas e ampliação → B1-L9-0420-01"
+    ]
+  },
+  "0421": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0420"
+    ]
+  },
+  "0422": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0422-01",
+      "contrastes, perguntas e ampliação → B1-L9-0422-01"
+    ]
+  },
+  "0423": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0422"
+    ]
+  },
+  "0424": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0424-01",
+      "contrastes, perguntas e ampliação → B1-L9-0424-01"
+    ]
+  },
+  "0425": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0424"
+    ]
+  },
+  "0426": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0426-01",
+      "contrastes, perguntas e ampliação → B1-L9-0426-01"
+    ]
+  },
+  "0427": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0426"
+    ]
+  },
+  "0428": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0428-01",
+      "contrastes, perguntas e ampliação → B1-L9-0428-01"
+    ]
+  },
+  "0429": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0428"
+    ]
+  },
+  "0430": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0430-01",
+      "contrastes, perguntas e ampliação → B1-L9-0430-01"
+    ]
+  },
+  "0431": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0430"
+    ]
+  },
+  "0432": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0432-01",
+      "contrastes, perguntas e ampliação → B1-L9-0432-01"
+    ]
+  },
+  "0433": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0432"
+    ]
+  },
+  "0434": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0434-01",
+      "contrastes, perguntas e ampliação → B1-L9-0434-01"
+    ]
+  },
+  "0435": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0434"
+    ]
+  },
+  "0436": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0436-01",
+      "contrastes, perguntas e ampliação → B1-L9-0436-01"
+    ]
+  },
+  "0437": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0436"
+    ]
+  },
+  "0438": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0438-01",
+      "contrastes, perguntas e ampliação → B1-L9-0438-01"
+    ]
+  },
+  "0439": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0438"
+    ]
+  },
+  "0440": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "imagem original inspecionada integralmente → A2-L9-0440-01"
+    ]
+  },
+  "0441": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "imagem original inspecionada integralmente → A2-L9-0441-01"
+    ]
+  },
+  "0442": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "imagem original inspecionada integralmente → A2-L9-0442-01"
+    ]
+  },
+  "0443": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "imagem original inspecionada integralmente → B2-L9-0443-01"
+    ]
+  },
+  "0444": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0444-01",
+      "contrastes, perguntas e ampliação → B1-L9-0444-01"
+    ]
+  },
+  "0445": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0444"
+    ]
+  },
+  "0446": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0446-01",
+      "contrastes, perguntas e ampliação → B1-L9-0446-01"
+    ]
+  },
+  "0447": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0446"
+    ]
+  },
+  "0448": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0448-01",
+      "contrastes, perguntas e ampliação → B1-L9-0448-01"
+    ]
+  },
+  "0449": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0448"
+    ]
+  },
+  "0450": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0450-01",
+      "contrastes, perguntas e ampliação → B1-L9-0450-01"
+    ]
+  },
+  "0451": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0450"
+    ]
+  },
+  "0452": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0452-01",
+      "contrastes, perguntas e ampliação → B1-L9-0452-01"
+    ]
+  },
+  "0453": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0452"
+    ]
+  },
+  "0454": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0454-01",
+      "contrastes, perguntas e ampliação → B1-L9-0454-01"
+    ]
+  },
+  "0455": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0454"
+    ]
+  },
+  "0456": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0456-01",
+      "contrastes, perguntas e ampliação → B1-L9-0456-01"
+    ]
+  },
+  "0457": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0456"
+    ]
+  },
+  "0458": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas e usos fundamentais → A2-L9-0458-01",
+      "contrastes, perguntas e ampliação → B1-L9-0458-01"
+    ]
+  },
+  "0459": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0458"
+    ]
+  },
+  "0460": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "handoff de arquitetura e implementação; nenhum inglês real publicado"
+    ]
+  },
+  "0461": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "5. PILAR 1 — 50 REDUÇÕES ESSENCIAIS → B1-L10-0461-01",
+      "6. PILAR 2 — MÚSICAS, FILMES E SÉRIES → B2-L10-0461-02",
+      "7. PILAR 3 — CONNECTED SPEECH → B2-L10-0461-03"
+    ]
+  },
+  "0462": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "metodologia, prompt ou handoff sem material linguístico publicável"
+    ]
+  },
+  "0463": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "metodologia, prompt ou handoff sem material linguístico publicável"
+    ]
+  },
+  "0464": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "metodologia, prompt ou handoff sem material linguístico publicável"
+    ]
+  },
+  "0465": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0293_09_AGREE_Concordar.md"
+    ]
+  },
+  "0466": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L10-0466-01",
+      "contrastes e ampliação → B1-L10-0466-02"
+    ]
+  },
+  "0467": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0456_24_ASK_Sentido_01_PERGUNTAR_PEDIR.md"
+    ]
+  },
+  "0468": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L10-0468-01",
+      "contrastes e ampliação → B1-L10-0468-02"
+    ]
+  },
+  "0469": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0203_06_BE_Sentido_02_ESTAR.md"
+    ]
+  },
+  "0470": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0239_07_BE_Sentido_03_FICAR.md"
+    ]
+  },
+  "0471": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0264_08_BE_Sentido_04_HA_TEM_EXISTE.md"
+    ]
+  },
+  "0472": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0297_09_BE_Sentido_05_ESTAR_ACAO_ing.md"
+    ]
+  },
+  "0473": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0321_10_BE_Sentido_06_JA_ESTEVE.md"
+    ]
+  },
+  "0474": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0348_11_BECOME_Tornar_Se.md"
+    ]
+  },
+  "0475": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L10-0475-01",
+      "contrastes e ampliação → B1-L10-0475-02"
+    ]
+  },
+  "0476": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L10-0476-01",
+      "contrastes e ampliação → B1-L10-0476-02"
+    ]
+  },
+  "0477": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0240_07_BREAK_Quebrar_Violar.md"
+    ]
+  },
+  "0478": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L10-0478-01",
+      "contrastes e ampliação → B1-L10-0478-02"
+    ]
+  },
+  "0479": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0298_09_BUILD_Construir_Criar.md"
+    ]
+  },
+  "0480": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L10-0480-01",
+      "contrastes e ampliação → B1-L10-0480-02"
+    ]
+  },
+  "0481": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0452_22_CALL_Sentido_01_LIGAR.md"
+    ]
+  },
+  "0482": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0454_23_CALL_Sentido_02_CHAMAR.md"
+    ]
+  },
+  "0483": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0204_06_CATCH_Pegar_Apanhar.md"
+    ]
+  },
+  "0484": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0267_08_CHANGE_Mudar.md"
+    ]
+  },
+  "0485": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0242_07_CHECK_Verificar.md"
+    ]
+  },
+  "0486": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0244_07_CHOOSE_Escolher.md"
+    ]
+  },
+  "0487": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0246_07_CLEAN_Limpar.md"
+    ]
+  },
+  "0488": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0444_20_COME_Sentido_01_VIR.md"
+    ]
+  },
+  "0489": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0448_21_COME_Sentido_02_CHEGAR.md"
+    ]
+  },
+  "0490": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L10-0490-01",
+      "contrastes e ampliação → B1-L10-0490-02"
+    ]
+  },
+  "0491": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "metodologia, prompt ou handoff sem material linguístico publicável"
+    ]
+  },
+  "0492": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "metodologia, prompt ou handoff sem material linguístico publicável"
+    ]
+  },
+  "0493": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "metodologia, prompt ou handoff sem material linguístico publicável"
+    ]
+  },
+  "0494": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "bloco 1 → B1-L10-0494-01",
+      "bloco 2 → B1-L10-0494-02",
+      "bloco 3 → B2-L10-0494-03",
+      "bloco 4 → B2-L10-0494-04"
+    ]
+  },
+  "0495": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0171_05_CONTINUE_Continuar.md"
+    ]
+  },
+  "0496": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0206_06_COOK_Cozinhar.md"
+    ]
+  },
+  "0497": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "metodologia, prompt ou handoff sem material linguístico publicável"
+    ]
+  },
+  "0498": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0269_08_CUT_Cortar.md"
+    ]
+  },
+  "0499": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0208_06_DECIDE_Decidir.md"
+    ]
+  },
+  "0500": {
+    "estado": "duplicata",
+    "secoes": [
+      "idêntica a 0300_09_DO_Sentido_01_FAZER.md"
+    ]
+  },
+  "0501": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0322_10_DO_Sentido_02_AUXILIAR.md"
+    ]
+  },
+  "0502": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0410_15_DRIVE_Dirigir.md"
+    ]
+  },
+  "0503": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0350_11_ENJOY_Aproveitar.md"
+    ]
+  },
+  "0504": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0271_08_EXPECT_Esperar_Prever.md"
+    ]
+  },
+  "0505": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0505-01",
+      "contrastes e ampliação → B1-L11-0505-02"
+    ]
+  },
+  "0506": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0302_09_FALL_Cair_Diminuir.md"
+    ]
+  },
+  "0507": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0370_12_FEEL_Sentido_01_SENTIR.md"
+    ]
+  },
+  "0508": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0386_13_FIGHT_Lutar_Brigar.md"
+    ]
+  },
+  "0509": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0430_18_FIND_Sentido_01_ENCONTRAR.md"
+    ]
+  },
+  "0510": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0510-01",
+      "contrastes e ampliação → B1-L11-0510-02"
+    ]
+  },
+  "0511": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0273_08_FIX_Consertar_Resolver.md"
+    ]
+  },
+  "0512": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0326_10_FORGET_Esquecer.md"
+    ]
+  },
+  "0513": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0400_14_GET_Sentido_01_RECEBER_CONSEGUIR.md"
+    ]
+  },
+  "0514": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0412_15_GET_Sentido_02_FICAR.md"
+    ]
+  },
+  "0515": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0418_16_GET_Sentido_03_BUSCAR_PEGAR.md"
+    ]
+  },
+  "0516": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0424_17_GET_Sentido_04_ENTENDER.md"
+    ]
+  },
+  "0517": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0426_17_GIVE_Sentido_01_DAR.md"
+    ]
+  },
+  "0518": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0354_11_GO_Sentido_01_IR.md"
+    ]
+  },
+  "0519": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0372_12_GO_Sentido_02_FICAR.md"
+    ]
+  },
+  "0520": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0388_13_GO_Sentido_03_IR_DE.md"
+    ]
+  },
+  "0521": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0521-01",
+      "contrastes e ampliação → B1-L11-0521-02"
+    ]
+  },
+  "0522": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0522-01",
+      "contrastes e ampliação → B1-L11-0522-02"
+    ]
+  },
+  "0523": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0177_05_GO_Combinar.md"
+    ]
+  },
+  "0524": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0524-01",
+      "contrastes e ampliação → B1-L11-0524-02"
+    ]
+  },
+  "0525": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0328_10_GROW_Crescer_Cultivar.md"
+    ]
+  },
+  "0526": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0526-01",
+      "contrastes e ampliação → B1-L11-0526-02"
+    ]
+  },
+  "0527": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "handoff ou metodologia sem unidade linguística publicável"
+    ]
+  },
+  "0528": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "handoff ou metodologia sem unidade linguística publicável"
+    ]
+  },
+  "0529": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0461_HANDOFF_SISTEMA28.md"
+    ]
+  },
+  "0530": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "handoff ou metodologia sem unidade linguística publicável"
+    ]
+  },
+  "0531": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0462_handoff_tecnico_ingles_brasileiros.md"
+    ]
+  },
+  "0532": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0374_12_HAPPEN_Acontecer.md"
+    ]
+  },
+  "0533": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0533-01",
+      "contrastes e ampliação → B1-L11-0533-02"
+    ]
+  },
+  "0534": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0534-01",
+      "contrastes e ampliação → B1-L11-0534-02"
+    ]
+  },
+  "0535": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0535-01",
+      "contrastes e ampliação → B1-L11-0535-02"
+    ]
+  },
+  "0536": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0536-01",
+      "contrastes e ampliação → B1-L11-0536-02"
+    ]
+  },
+  "0537": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0181_05_HAVE_Sentido_05_COMER.md"
+    ]
+  },
+  "0538": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0538-01",
+      "contrastes e ampliação → B1-L11-0538-02"
+    ]
+  },
+  "0539": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "formas fundamentais → A2-L11-0539-01",
+      "contrastes e ampliação → B1-L11-0539-02"
+    ]
+  },
+  "0540": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo idêntico a 0210_06_HAVE_Lanche.md"
+    ]
+  },
+  "0559": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L12-0559-01"
+    ]
+  },
+  "0563": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L12-0563-01"
+    ]
+  },
+  "0567": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L12-0567-01"
+    ]
+  },
+  "0571": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L12-0571-01"
+    ]
+  },
+  "0575": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L12-0575-01"
+    ]
+  },
+  "0577": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → B1-L12-0577-01"
+    ]
+  },
+  "0579": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L12-0579-01"
+    ]
+  },
+  "0581": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → B1-L12-0581-01"
+    ]
+  },
+  "0589": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → B1-L12-0589-01"
+    ]
+  },
+  "0591": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integrado → B1-L12-0589-01"
+    ]
+  },
+  "0593": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integrado → B1-L12-0589-01"
+    ]
+  },
+  "0541": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0179"
+    ]
+  },
+  "0542": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0248"
+    ]
+  },
+  "0543": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0212"
+    ]
+  },
+  "0544": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0277"
+    ]
+  },
+  "0545": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0250"
+    ]
+  },
+  "0546": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0279"
+    ]
+  },
+  "0547": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0304"
+    ]
+  },
+  "0548": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0330"
+    ]
+  },
+  "0549": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0356"
+    ]
+  },
+  "0550": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0104"
+    ]
+  },
+  "0551": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0214"
+    ]
+  },
+  "0552": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0183"
+    ]
+  },
+  "0553": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0252"
+    ]
+  },
+  "0554": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Fragmento incompleto ou comentário metodológico sem unidade linguística confiável."
+    ]
+  },
+  "0555": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0390"
+    ]
+  },
+  "0556": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Documento de navegação ou planejamento, sem lição linguística independente."
+    ]
+  },
+  "0557": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fragmento integrado → conteúdo integral → A2-L12-0559-01"
+    ]
+  },
+  "0558": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0557"
+    ]
+  },
+  "0560": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0559"
+    ]
+  },
+  "0561": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fragmento integrado → conteúdo integral → A2-L12-0563-01"
+    ]
+  },
+  "0562": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0561"
+    ]
+  },
+  "0564": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0563"
+    ]
+  },
+  "0565": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fragmento integrado → conteúdo integral → A2-L12-0567-01"
+    ]
+  },
+  "0566": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0565"
+    ]
+  },
+  "0568": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0567"
+    ]
+  },
+  "0569": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fragmento integrado → conteúdo integral → A2-L12-0571-01"
+    ]
+  },
+  "0570": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0570"
+    ]
+  },
+  "0572": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0571"
+    ]
+  },
+  "0573": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "fragmento integrado → conteúdo integral → A2-L12-0575-01"
+    ]
+  },
+  "0574": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0573"
+    ]
+  },
+  "0576": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0575"
+    ]
+  },
+  "0578": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0577"
+    ]
+  },
+  "0580": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0579"
+    ]
+  },
+  "0582": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0581"
+    ]
+  },
+  "0583": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "imagem original inspecionada integralmente → A2-L9-0440-01"
+    ]
+  },
+  "0584": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0583"
+    ]
+  },
+  "0585": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "imagem original inspecionada integralmente → A2-L9-0440-01"
+    ]
+  },
+  "0586": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0585"
+    ]
+  },
+  "0587": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "imagem original inspecionada integralmente → A2-L9-0440-01"
+    ]
+  },
+  "0588": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0587"
+    ]
+  },
+  "0590": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0589"
+    ]
+  },
+  "0592": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0591"
+    ]
+  },
+  "0594": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0593"
+    ]
+  },
+  "0595": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Fragmento incompleto ou comentário metodológico sem unidade linguística confiável."
+    ]
+  },
+  "0596": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0595"
+    ]
+  },
+  "0597": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0376"
+    ]
+  },
+  "0598": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Documento de navegação ou planejamento, sem lição linguística independente."
+    ]
+  },
+  "0599": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0310"
+    ]
+  },
+  "0600": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0035"
+    ]
+  },
+  "0601": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0070 → A1-L4-0070-01, A2-L4-0070-02, A2-L4-0070-03, A2-L4-0070-04"
+    ]
+  },
+  "0602": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo coberto por unidades temáticas existentes; sem nova unidade isolada"
+    ]
+  },
+  "0603": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0402 → A2-L9-0402-01, B1-L9-0402-01"
+    ]
+  },
+  "0604": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0358 → A1-L8-0358-01, A2-L8-0358-02"
+    ]
+  },
+  "0605": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0436 → A2-L9-0436-01, B1-L9-0436-01"
+    ]
+  },
+  "0606": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0334 → A2-L8-0334-01, B1-L8-0334-02"
+    ]
+  },
+  "0607": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0336 → A1-L8-0336-01, A2-L8-0336-02"
+    ]
+  },
+  "0608": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo distribuído nas unidades temáticas existentes; sem microfragmentação"
+    ]
+  },
+  "0609": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo distribuído nas unidades temáticas existentes; sem microfragmentação"
+    ]
+  },
+  "0610": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0392 → A1-L8-0392-01, A2-L8-0392-02"
+    ]
+  },
+  "0611": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Material predominantemente metodológico/motivacional sobre aprender idiomas, sem lição de inglês real a publicar."
+    ]
+  },
+  "0612": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0394 → A2-L8-0394-01, B1-L8-0394-02"
+    ]
+  },
+  "0613": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0360 → A1-L8-0360-01, A2-L8-0360-02"
+    ]
+  },
+  "0614": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0432 → A2-L9-0432-01, B1-L9-0432-01"
+    ]
+  },
+  "0615": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0438 → A2-L9-0438-01, B1-L9-0438-01"
+    ]
+  },
+  "0616": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0072 → B1-L4-0072-01, B2-L4-0072-02, B2-L4-0072-03, B2-L4-0072-04"
+    ]
+  },
+  "0617": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0108 → B1-L4-0108-01, B2-L4-0108-02, B2-L4-0108-03, B2-L4-0108-04"
+    ]
+  },
+  "0618": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0378 → A2-L8-0378-01, B1-L8-0378-02"
+    ]
+  },
+  "0619": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0186 → A2-L6-0186-01, B1-L6-0186-02"
+    ]
+  },
+  "0620": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0338 → A2-L8-0338-01, B1-L8-0338-02"
+    ]
+  },
+  "0621": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0404 → A2-L9-0404-01, B1-L9-0404-01"
+    ]
+  },
+  "0622": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0312 → A2-L7-0312-01, B1-L7-0312-02"
+    ]
+  },
+  "0623": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0153 → B1-L5-0153-01, B1-L5-0153-02, B1-L5-0153-03, B1-L5-0153-04, B1-L5-0153-05"
+    ]
+  },
+  "0624": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Material predominantemente metodológico/motivacional sobre aprender idiomas, sem lição de inglês real a publicar."
+    ]
+  },
+  "0625": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo coberto por unidades temáticas existentes; sem nova unidade isolada"
+    ]
+  },
+  "0626": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Material predominantemente metodológico/motivacional sobre aprender idiomas, sem lição de inglês real a publicar."
+    ]
+  },
+  "0627": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0340 → A1-L8-0340-01, A2-L8-0340-02"
+    ]
+  },
+  "0628": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0117 → A2-L5-0117-01, A2-L5-0117-02, A2-L5-0117-03, A2-L5-0117-04, A2-L5-0117-05"
+    ]
+  },
+  "0629": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0362 → A1-L8-0362-01, A2-L8-0362-02"
+    ]
+  },
+  "0630": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0463"
+    ]
+  },
+  "0631": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0038 → A1-GRAM-0001, A1-GRAM-0002, A1-GRAM-0011, A2-GRAM-0002"
+    ]
+  },
+  "0632": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0079 → A1-GRAM-0017, A1-CONV-0001, A2-GRAM-0008"
+    ]
+  },
+  "0633": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0120 → A1-GRAM-0020, A1-L5-0120-01, A1-L5-0120-02, A1-L5-0120-03, A1-L5-0120-04, A2-GRAM-0010, A2-CONV-0001"
+    ]
+  },
+  "0634": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0156 → A2-L5-0156-01, A2-L5-0156-02, A2-L5-0156-03, A2-L5-0156-04"
+    ]
+  },
+  "0635": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0021 → A1-GRAM-0003, A1-GRAM-0004, A1-GRAM-0009, A2-GRAM-0001"
+    ]
+  },
+  "0636": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0057 → A1-GRAM-0014, A2-GRAM-0005, A2-GRAM-0006, B1-VOC-0001"
+    ]
+  },
+  "0637": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0121 → A2-L5-0121-01, A2-L5-0121-02, A2-L5-0121-03, B1-L5-0121-04, B1-L5-0121-05"
+    ]
+  },
+  "0639": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Fragmento isolado de provérbio sem contexto suficiente para unidade independente."
+    ]
+  },
+  "0640": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0414 → A2-L9-0414-01, B1-L9-0414-01"
+    ]
+  },
+  "0641": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0068 → A1-L4-0068-01, A2-L4-0068-02, A2-L4-0068-03"
+    ]
+  },
+  "0642": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0128 → A2-L5-0128-01, A2-L5-0128-02, A2-L5-0128-03, A2-L5-0128-04, A2-L5-0128-05"
+    ]
+  },
+  "0643": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0033 → A1-GRAM-0002, A1-GRAM-0012, A1-GRAM-0013, A2-GRAM-0003, A2-GRAM-0004, B1-CONV-0001"
+    ]
+  },
+  "0644": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0201 → A2-L6-0201-01, B1-L6-0201-02"
+    ]
+  },
+  "0645": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0149 → B1-L5-0149-01, B1-L5-0149-02, B1-L5-0149-03, B1-L5-0149-04, B1-L5-0149-05"
+    ]
+  },
+  "0646": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0173 → B1-L6-0173-01, B2-L6-0173-02"
+    ]
+  },
+  "0647": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0237 → B1-L6-0237-01, B2-L6-0237-02"
+    ]
+  },
+  "0648": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0283 → B1-L7-0283-01, B2-L7-0283-02"
+    ]
+  },
+  "0649": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0344 → B1-L8-0344-01, B2-L8-0344-02"
+    ]
+  },
+  "0650": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0235 → A2-L6-0235-01, B1-L6-0235-02"
+    ]
+  },
+  "0651": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0235 → A2-L6-0235-01, B1-L6-0235-02"
+    ]
+  },
+  "0652": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0319 → B1-L7-0319-01, B2-L7-0319-02"
+    ]
+  },
+  "0653": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0319 → B1-L7-0319-01, B2-L7-0319-02"
+    ]
+  },
+  "0654": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0019"
+    ]
+  },
+  "0655": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0019"
+    ]
+  },
+  "0656": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0295 → B2-L7-0295-01, B2-L7-0295-02"
+    ]
+  },
+  "0657": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0295 → B2-L7-0295-01, B2-L7-0295-02"
+    ]
+  },
+  "0658": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0093 → A2-L4-0093-01, B1-L4-0093-02, B1-L4-0093-03, B1-L4-0093-04"
+    ]
+  },
+  "0659": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0093 → A2-L4-0093-01, B1-L4-0093-02, B1-L4-0093-03, B1-L4-0093-04"
+    ]
+  },
+  "0660": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0169 → A2-L5-0169-01, A2-L5-0169-02, A2-L5-0169-03, A2-L5-0169-04, A2-L5-0169-05, A2-L5-0169-06"
+    ]
+  },
+  "0661": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0169 → A2-L5-0169-01, A2-L5-0169-02, A2-L5-0169-03, A2-L5-0169-04, A2-L5-0169-05, A2-L5-0169-06"
+    ]
+  },
+  "0662": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0265 → A2-L7-0265-01, B1-L7-0265-02"
+    ]
+  },
+  "0663": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0265 → A2-L7-0265-01, B1-L7-0265-02"
+    ]
+  },
+  "0664": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0060 → A1-L3-0060-01, A2-L3-0060-02, A2-L3-0060-03, A2-L3-0060-04"
+    ]
+  },
+  "0665": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0060 → A1-L3-0060-01, A2-L3-0060-02, A2-L3-0060-03, A2-L3-0060-04"
+    ]
+  },
+  "0666": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0368 → B1-L8-0368-01, B2-L8-0368-02"
+    ]
+  },
+  "0667": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0134 → B1-L5-0134-01, B1-L5-0134-02, B1-L5-0134-03, B2-L5-0134-04, B2-L5-0134-05"
+    ]
+  },
+  "0668": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0134 → B1-L5-0134-01, B1-L5-0134-02, B1-L5-0134-03, B2-L5-0134-04, B2-L5-0134-05"
+    ]
+  },
+  "0669": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0136 → B1-L5-0136-02, B1-L5-0136-04, B2-L5-0136-01, B2-L5-0136-03, B2-L5-0136-05"
+    ]
+  },
+  "0670": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0136 → B1-L5-0136-02, B1-L5-0136-04, B2-L5-0136-01, B2-L5-0136-03, B2-L5-0136-05"
+    ]
+  },
+  "0671": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0352 → A2-L8-0352-01, B1-L8-0352-02"
+    ]
+  },
+  "0672": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0324 → B1-L8-0324-01, B2-L8-0324-02"
+    ]
+  },
+  "0673": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0275 → B2-L7-0275-01, B2-L7-0275-02"
+    ]
+  },
+  "0674": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0275 → B2-L7-0275-01, B2-L7-0275-02"
+    ]
+  },
+  "0675": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0306 → B2-L7-0306-01, B2-L7-0306-02"
+    ]
+  },
+  "0676": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0306 → B2-L7-0306-01, B2-L7-0306-02"
+    ]
+  },
+  "0677": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0218 → B1-L6-0218-01, B1-L6-0218-02"
+    ]
+  },
+  "0678": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0281 → B2-L7-0281-01, B2-L7-0281-02"
+    ]
+  },
+  "0679": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0281 → B2-L7-0281-01, B2-L7-0281-02"
+    ]
+  },
+  "0680": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0332 → B1-L8-0332-01, B2-L8-0332-02"
+    ]
+  },
+  "0796": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0314"
+    ]
+  },
+  "0874": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0342"
+    ]
+  },
+  "0681": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0308 → B2-L7-0308-01, C1-L7-0308-02"
+    ]
+  },
+  "0682": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0074 → B2-L4-0074-01, C1-L4-0074-02, C1-L4-0074-03, C1-L4-0074-04"
+    ]
+  },
+  "0683": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0074 → B2-L4-0074-01, C1-L4-0074-02, C1-L4-0074-03, C1-L4-0074-04"
+    ]
+  },
+  "0684": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0254 → B1-L7-0254-01, B2-L7-0254-02"
+    ]
+  },
+  "0685": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0254 → B1-L7-0254-01, B2-L7-0254-02"
+    ]
+  },
+  "0686": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0113 → B1-L5-0113-01, B2-L5-0113-03, B2-L5-0113-04, C1-L5-0113-02"
+    ]
+  },
+  "0687": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0113 → B1-L5-0113-01, B2-L5-0113-03, B2-L5-0113-04, C1-L5-0113-02"
+    ]
+  },
+  "0688": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0115 → A2-L5-0115-01, A2-L5-0115-02, B1-L5-0115-03, B1-L5-0115-04"
+    ]
+  },
+  "0689": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0115 → A2-L5-0115-01, A2-L5-0115-02, B1-L5-0115-03, B1-L5-0115-04"
+    ]
+  },
+  "0690": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0189 → B2-L6-0189-01, B2-L6-0189-02"
+    ]
+  },
+  "0691": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0039 → B1-L3-0039-01, B2-L3-0039-02, B2-L3-0039-03, B2-L3-0039-04"
+    ]
+  },
+  "0692": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0039 → B1-L3-0039-01, B2-L3-0039-02, B2-L3-0039-03, B2-L3-0039-04"
+    ]
+  },
+  "0693": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0162 → B1-L5-0162-01, B1-L5-0162-02, B2-L5-0162-03, B2-L5-0162-04"
+    ]
+  },
+  "0694": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0162 → B1-L5-0162-01, B1-L5-0162-02, B2-L5-0162-03, B2-L5-0162-04"
+    ]
+  },
+  "0695": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0224 → B2-L6-0224-01, B2-L6-0224-02"
+    ]
+  },
+  "0696": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0224 → B2-L6-0224-01, B2-L6-0224-02"
+    ]
+  },
+  "0697": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0197 → B1-L6-0197-01, B2-L6-0197-02"
+    ]
+  },
+  "0698": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0088 → A2-L4-0088-01, B1-L4-0088-02, B1-L4-0088-03, B1-L4-0088-04"
+    ]
+  },
+  "0699": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0088 → A2-L4-0088-01, B1-L4-0088-02, B1-L4-0088-03, B1-L4-0088-04"
+    ]
+  },
+  "0700": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0260 → B1-L7-0260-01, B2-L7-0260-02"
+    ]
+  },
+  "0701": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0260 → B1-L7-0260-01, B2-L7-0260-02"
+    ]
+  },
+  "0702": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0051 → B2-L3-0051-01, C1-L3-0051-02, C1-L3-0051-03, C1-L3-0051-04"
+    ]
+  },
+  "0703": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0051 → B2-L3-0051-01, C1-L3-0051-02, C1-L3-0051-03, C1-L3-0051-04"
+    ]
+  },
+  "0704": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0231 → B1-L6-0231-01, B2-L6-0231-02"
+    ]
+  },
+  "0705": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0231 → B1-L6-0231-01, B2-L6-0231-02"
+    ]
+  },
+  "0706": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0038 → A1-GRAM-0001, A1-GRAM-0002, A1-GRAM-0011, A2-GRAM-0002"
+    ]
+  },
+  "0707": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0038 → A1-GRAM-0001, A1-GRAM-0002, A1-GRAM-0011, A2-GRAM-0002"
+    ]
+  },
+  "0708": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0079 → A1-GRAM-0017, A1-CONV-0001, A2-GRAM-0008"
+    ]
+  },
+  "0709": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0079 → A1-GRAM-0017, A1-CONV-0001, A2-GRAM-0008"
+    ]
+  },
+  "0710": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0120 → A1-GRAM-0020, A1-L5-0120-01, A1-L5-0120-02, A1-L5-0120-03, A1-L5-0120-04, A2-GRAM-0010, A2-CONV-0001"
+    ]
+  },
+  "0711": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0120 → A1-GRAM-0020, A1-L5-0120-01, A1-L5-0120-02, A1-L5-0120-03, A1-L5-0120-04, A2-GRAM-0010, A2-CONV-0001"
+    ]
+  },
+  "0712": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0156 → A2-L5-0156-01, A2-L5-0156-02, A2-L5-0156-03, A2-L5-0156-04"
+    ]
+  },
+  "0713": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0156 → A2-L5-0156-01, A2-L5-0156-02, A2-L5-0156-03, A2-L5-0156-04"
+    ]
+  },
+  "0714": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0021 → A1-GRAM-0003, A1-GRAM-0004, A1-GRAM-0009, A2-GRAM-0001"
+    ]
+  },
+  "0715": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0021 → A1-GRAM-0003, A1-GRAM-0004, A1-GRAM-0009, A2-GRAM-0001"
+    ]
+  },
+  "0716": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0057 → A1-GRAM-0014, A2-GRAM-0005, A2-GRAM-0006, B1-VOC-0001"
+    ]
+  },
+  "0717": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0057 → A1-GRAM-0014, A2-GRAM-0005, A2-GRAM-0006, B1-VOC-0001"
+    ]
+  },
+  "0718": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0121 → A2-L5-0121-01, A2-L5-0121-02, A2-L5-0121-03, B1-L5-0121-04, B1-L5-0121-05"
+    ]
+  },
+  "0719": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0121 → A2-L5-0121-01, A2-L5-0121-02, A2-L5-0121-03, B1-L5-0121-04, B1-L5-0121-05"
+    ]
+  },
+  "0720": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0062 → A1-VERB-0001, A1-VERB-0002, A2-VERB-0001, B1-VERB-0001"
+    ]
+  },
+  "0721": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0062 → A1-VERB-0001, A1-VERB-0002, A2-VERB-0001, B1-VERB-0001"
+    ]
+  },
+  "0722": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0110 → A2-L4-0110-01, B1-L4-0110-02, B1-L4-0110-03, B1-L4-0110-04"
+    ]
+  },
+  "0723": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0110 → A2-L4-0110-01, B1-L4-0110-02, B1-L4-0110-03, B1-L4-0110-04"
+    ]
+  },
+  "0724": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0159 → B1-L5-0159-01, B1-L5-0159-02, B2-L5-0159-03, B2-L5-0159-04"
+    ]
+  },
+  "0725": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0159 → B1-L5-0159-01, B1-L5-0159-02, B2-L5-0159-03, B2-L5-0159-04"
+    ]
+  },
+  "0726": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0185 → B1-L6-0185-01, B2-L6-0185-02"
+    ]
+  },
+  "0727": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0185 → B1-L6-0185-01, B2-L6-0185-02"
+    ]
+  },
+  "0728": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0230 → B1-L6-0230-01, B2-L6-0230-02"
+    ]
+  },
+  "0729": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0230 → B1-L6-0230-01, B2-L6-0230-02"
+    ]
+  },
+  "0730": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0055 → A2-L3-0055-01, B1-L3-0055-02, B1-L3-0055-03, B1-L3-0055-04"
+    ]
+  },
+  "0731": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0055 → A2-L3-0055-01, B1-L3-0055-02, B1-L3-0055-03, B1-L3-0055-04"
+    ]
+  },
+  "0732": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0024 → A1-GRAM-0005, A1-GRAM-0006, A1-GRAM-0010"
+    ]
+  },
+  "0733": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0024 → A1-GRAM-0005, A1-GRAM-0006, A1-GRAM-0010"
+    ]
+  },
+  "0734": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0076 → A1-GRAM-0015, A1-GRAM-0016, A2-GRAM-0007"
+    ]
+  },
+  "0735": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0076 → A1-GRAM-0015, A1-GRAM-0016, A2-GRAM-0007"
+    ]
+  },
+  "0736": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0106 → A1-GRAM-0018, A1-GRAM-0019, A2-GRAM-0009"
+    ]
+  },
+  "0737": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0106 → A1-GRAM-0018, A1-GRAM-0019, A2-GRAM-0009"
+    ]
+  },
+  "0738": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0140 → B1-L5-0140-01, B1-L5-0140-02, B2-L5-0140-03, B2-L5-0140-04"
+    ]
+  },
+  "0739": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0140 → B1-L5-0140-01, B1-L5-0140-02, B2-L5-0140-03, B2-L5-0140-04"
+    ]
+  },
+  "0740": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0031 → A1-GRAM-0007, A1-GRAM-0008"
+    ]
+  },
+  "0741": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0031 → A1-GRAM-0007, A1-GRAM-0008"
+    ]
+  },
+  "0742": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L14-0742-01"
+    ]
+  },
+  "0743": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0742 → A2-L14-0742-01"
+    ]
+  },
+  "0744": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0111 → A2-L4-0111-01"
+    ]
+  },
+  "0745": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0111 → A2-L4-0111-01"
+    ]
+  },
+  "0746": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L14-0746-01"
+    ]
+  },
+  "0747": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0746 → A2-L14-0746-01"
+    ]
+  },
+  "0748": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0175 → A2-L6-0175-01, B1-L6-0175-02"
+    ]
+  },
+  "0749": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0175 → A2-L6-0175-01, B1-L6-0175-02"
+    ]
+  },
+  "0750": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0226 → A2-L6-0226-01, B1-L6-0226-02"
+    ]
+  },
+  "0751": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0226 → A2-L6-0226-01, B1-L6-0226-02"
+    ]
+  },
+  "0752": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L14-0752-01"
+    ]
+  },
+  "0753": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0752 → A2-L14-0752-01"
+    ]
+  },
+  "0754": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L14-0754-01"
+    ]
+  },
+  "0755": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0754 → A2-L14-0754-01"
+    ]
+  },
+  "0756": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0122 → A1-GRAM-0021, A2-GRAM-0011, A2-VOC-0001, A2-L5-0122-01, A2-L5-0122-02, A2-L5-0122-03, A2-L5-0122-04, B1-GRAM-0001"
+    ]
+  },
+  "0757": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0122 → A1-GRAM-0021, A2-GRAM-0011, A2-VOC-0001, A2-L5-0122-01, A2-L5-0122-02, A2-L5-0122-03, A2-L5-0122-04, B1-GRAM-0001"
+    ]
+  },
+  "0758": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0151 → A1-GRAM-0022, A2-GRAM-0012, A2-GRAM-0013, A2-L5-0151-01, A2-L5-0151-02, A2-L5-0151-03, A2-L5-0151-04"
+    ]
+  },
+  "0759": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0151 → A1-GRAM-0022, A2-GRAM-0012, A2-GRAM-0013, A2-L5-0151-01, A2-L5-0151-02, A2-L5-0151-03, A2-L5-0151-04"
+    ]
+  },
+  "0760": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L14-0760-01"
+    ]
+  },
+  "0761": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0760 → A2-L14-0760-01"
+    ]
+  },
+  "0762": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo integral → A2-L14-0762-01"
+    ]
+  },
+  "0763": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0762 → A2-L14-0762-01"
+    ]
+  },
+  "0764": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0233 → A2-L6-0233-01, B1-L6-0233-02"
+    ]
+  },
+  "0765": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0233 → A2-L6-0233-01, B1-L6-0233-02"
+    ]
+  },
+  "0766": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0037 → A2-L3-0037-01, B1-L3-0037-02, B1-L3-0037-03, B1-L3-0037-04"
+    ]
+  },
+  "0767": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0037 → A2-L3-0037-01, B1-L3-0037-02, B1-L3-0037-03, B1-L3-0037-04"
+    ]
+  },
+  "0768": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0078 → A2-L4-0078-01, B1-L4-0078-02, B1-L4-0078-03, B1-L4-0078-04"
+    ]
+  },
+  "0769": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0078 → A2-L4-0078-01, B1-L4-0078-02, B1-L4-0078-03, B1-L4-0078-04"
+    ]
+  },
+  "0770": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0119 → A2-L5-0119-01, A2-L5-0119-02, A2-L5-0119-03"
+    ]
+  },
+  "0771": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0119 → A2-L5-0119-01, A2-L5-0119-02, A2-L5-0119-03"
+    ]
+  },
+  "0772": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0155 → B1-L5-0155-01, B1-L5-0155-02, B1-L5-0155-03"
+    ]
+  },
+  "0773": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0155 → B1-L5-0155-01, B1-L5-0155-02, B1-L5-0155-03"
+    ]
+  },
+  "0774": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0188 → B1-L6-0188-01, B2-L6-0188-02"
+    ]
+  },
+  "0775": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0188 → B1-L6-0188-01, B2-L6-0188-02"
+    ]
+  },
+  "0776": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0216 → A1-L6-0216-01, A2-L6-0216-02"
+    ]
+  },
+  "0777": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0216 → A1-L6-0216-01, A2-L6-0216-02"
+    ]
+  },
+  "0778": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0028"
+    ]
+  },
+  "0779": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0065"
+    ]
+  },
+  "0780": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0097 → A1-PRON-0001, A1-PRON-0002, A2-PRON-0001, B1-PRON-0001, B2-PRON-0001"
+    ]
+  },
+  "0885": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B1-L14-0885-01"
+    ]
+  },
+  "0781": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0144"
+    ]
+  },
+  "0782": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0090"
+    ]
+  },
+  "0783": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0090"
+    ]
+  },
+  "0784": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0291"
+    ]
+  },
+  "0785": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0291"
+    ]
+  },
+  "0786": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0130"
+    ]
+  },
+  "0787": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0130"
+    ]
+  },
+  "0788": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0166"
+    ]
+  },
+  "0789": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0166"
+    ]
+  },
+  "0790": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0262"
+    ]
+  },
+  "0791": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0262"
+    ]
+  },
+  "0792": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0053"
+    ]
+  },
+  "0793": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0053"
+    ]
+  },
+  "0794": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0199"
+    ]
+  },
+  "0795": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0199"
+    ]
+  },
+  "0797": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0191"
+    ]
+  },
+  "0798": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0799": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0316"
+    ]
+  },
+  "0800": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0406"
+    ]
+  },
+  "0801": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0802": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0803": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0804": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0157"
+    ]
+  },
+  "0805": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0396"
+    ]
+  },
+  "0806": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0380"
+    ]
+  },
+  "0807": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0193"
+    ]
+  },
+  "0808": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0220"
+    ]
+  },
+  "0809": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0080"
+    ]
+  },
+  "0810": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0398"
+    ]
+  },
+  "0811": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0812": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0082"
+    ]
+  },
+  "0813": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0222"
+    ]
+  },
+  "0814": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0464"
+    ]
+  },
+  "0815": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0420"
+    ]
+  },
+  "0816": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0364"
+    ]
+  },
+  "0817": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0817-01"
+    ]
+  },
+  "0818": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0160"
+    ]
+  },
+  "0819": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0820": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e destinada por função pedagógica."
+    ]
+  },
+  "0821": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0822": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → A2-L15-0822-01"
+    ]
+  },
+  "0823": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → A2-L15-0823-01"
+    ]
+  },
+  "0824": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → A2-L15-0824-01"
+    ]
+  },
+  "0825": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B2-L15-0825-01"
+    ]
+  },
+  "0826": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0826-01"
+    ]
+  },
+  "0827": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0827-01"
+    ]
+  },
+  "0828": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → A2-L15-0828-01"
+    ]
+  },
+  "0829": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → A2-L15-0829-01"
+    ]
+  },
+  "0830": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0830-01"
+    ]
+  },
+  "0831": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0831-01"
+    ]
+  },
+  "0832": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → A2-L15-0832-01"
+    ]
+  },
+  "0833": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e destinada por função pedagógica."
+    ]
+  },
+  "0834": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0835": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0835-01"
+    ]
+  },
+  "0836": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0836-01"
+    ]
+  },
+  "0837": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0838": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e destinada por função pedagógica."
+    ]
+  },
+  "0839": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e destinada por função pedagógica."
+    ]
+  },
+  "0840": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0840-01"
+    ]
+  },
+  "0841": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0841-01"
+    ]
+  },
+  "0842": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0842-01"
+    ]
+  },
+  "0843": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B2-L15-0843-01"
+    ]
+  },
+  "0844": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L15-0844-01"
+    ]
+  },
+  "0845": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0084"
+    ]
+  },
+  "0846": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0041"
+    ]
+  },
+  "0847": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0195"
+    ]
+  },
+  "0848": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0382"
+    ]
+  },
+  "0849": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0043"
+    ]
+  },
+  "0850": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0124"
+    ]
+  },
+  "0851": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0416"
+    ]
+  },
+  "0852": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0422"
+    ]
+  },
+  "0853": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0045"
+    ]
+  },
+  "0854": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0086"
+    ]
+  },
+  "0855": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0408"
+    ]
+  },
+  "0856": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0126"
+    ]
+  },
+  "0857": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0164"
+    ]
+  },
+  "0858": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0047"
+    ]
+  },
+  "0859": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0256"
+    ]
+  },
+  "0860": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0285"
+    ]
+  },
+  "0861": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0458"
+    ]
+  },
+  "0862": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → A2-L15-0862-01"
+    ]
+  },
+  "0863": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0434"
+    ]
+  },
+  "0864": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0384"
+    ]
+  },
+  "0865": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0049"
+    ]
+  },
+  "0866": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0258"
+    ]
+  },
+  "0867": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0287"
+    ]
+  },
+  "0868": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0289"
+    ]
+  },
+  "0869": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0366"
+    ]
+  },
+  "0870": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0228"
+    ]
+  },
+  "0871": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0872": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0446"
+    ]
+  },
+  "0873": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0450"
+    ]
+  },
+  "0875": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Conteúdo integral já distribuído por conceitos; nova unidade agregadora duplicaria o currículo."
+    ]
+  },
+  "0876": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0877": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0878": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Regra, handoff, resumo técnico, conselho/metodologia, motivação ou prompt administrativo sem lição independente utilizável."
+    ]
+  },
+  "0879": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Conteúdo integral já distribuído por conceitos; nova unidade agregadora duplicaria o currículo."
+    ]
+  },
+  "0880": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 0879"
+    ]
+  },
+  "0887": {
+    "estado": "integralmente classificada antecipadamente",
+    "secoes": [
+      "conteúdo dirigido → B1-L15-0887-01"
+    ]
+  },
+  "0881": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L16-0881-01, B2-L16-0881-02, C1-L16-0881-03"
+    ]
+  },
+  "0882": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L16-0881-01, B2-L16-0881-02, C1-L16-0881-03"
+    ]
+  },
+  "0883": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0884": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 883"
+    ]
+  },
+  "0886": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0888": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0889": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Índice, regra ou fragmento insuficiente sem objetivo linguístico independente."
+    ]
+  },
+  "0890": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0891": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0892": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0893": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0894": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0895": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Índice, regra ou fragmento insuficiente sem objetivo linguístico independente."
+    ]
+  },
+  "0896": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L16-0896-01"
+    ]
+  },
+  "0897": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Índice, regra ou fragmento insuficiente sem objetivo linguístico independente."
+    ]
+  },
+  "0898": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0899": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0900": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0901": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L16-0901-01"
+    ]
+  },
+  "0902": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0903": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Índice, regra ou fragmento insuficiente sem objetivo linguístico independente."
+    ]
+  },
+  "0904": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 62"
+    ]
+  },
+  "0905": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 110"
+    ]
+  },
+  "0906": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 159"
+    ]
+  },
+  "0907": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 185"
+    ]
+  },
+  "0908": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 230"
+    ]
+  },
+  "0909": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 55"
+    ]
+  },
+  "0910": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 37"
+    ]
+  },
+  "0911": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 78"
+    ]
+  },
+  "0912": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 119"
+    ]
+  },
+  "0913": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 155"
+    ]
+  },
+  "0914": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 188"
+    ]
+  },
+  "0915": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "Fonte integralmente lida e classificada por seções; conteúdo redundante foi consolidado sem descarte."
+    ]
+  },
+  "0916": {
+    "estado": "sem conteúdo didático",
+    "secoes": [
+      "Índice, regra ou fragmento insuficiente sem objetivo linguístico independente."
+    ]
+  },
+  "0917": {
+    "estado": "integralmente classificada",
+    "secoes": [
+      "conteúdo → B1-L16-0917-01"
+    ]
+  },
+  "0918": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 293"
+    ]
+  },
+  "0919": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 22"
+    ]
+  },
+  "0920": {
+    "estado": "duplicata",
+    "secoes": [
+      "conteúdo coberto por 456"
+    ]
+  },
+  "0921": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0168 → A1-L5-0168-01, A1-L5-0168-02, A1-L5-0168-03, A1-L5-0168-04"
+    ]
+  },
+  "0922": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0203 → A1-L6-0203-01, A2-L6-0203-02"
+    ]
+  },
+  "0923": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0239 → A2-L6-0239-01, B1-L6-0239-02"
+    ]
+  },
+  "0924": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0264 → A1-L7-0264-01"
+    ]
+  },
+  "0925": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0297 → A2-L7-0297-01, B1-L7-0297-02"
+    ]
+  },
+  "0926": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0321 → B1-L8-0321-01, B2-L8-0321-02, B2-L8-0321-03"
+    ]
+  },
+  "0927": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0003"
+    ]
+  },
+  "0928": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0348 → A2-L8-0348-01, B1-L8-0348-02"
+    ]
+  },
+  "0929": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0058 → A2-L3-0058-01, B1-L3-0058-02, B1-L3-0058-03, B1-L3-0058-04"
+    ]
+  },
+  "0930": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0095 → A1-L4-0095-01, A2-L4-0095-02, A2-L4-0095-03, A2-L4-0095-04"
+    ]
+  },
+  "0931": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0240 → B1-L6-0240-01, B2-L6-0240-02"
+    ]
+  },
+  "0932": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0132 → A2-L5-0132-01, A2-L5-0132-02, A2-L5-0132-03, A2-L5-0132-04, A2-L5-0132-05"
+    ]
+  },
+  "0933": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0298 → A2-L7-0298-01, B1-L7-0298-02"
+    ]
+  },
+  "0934": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0026"
+    ]
+  },
+  "0935": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0452 → A2-L9-0452-01, B1-L9-0452-01"
+    ]
+  },
+  "0936": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0454 → A2-L9-0454-01, B1-L9-0454-01"
+    ]
+  },
+  "0937": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0204 → A2-L6-0204-01, B1-L6-0204-02"
+    ]
+  },
+  "0938": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0267 → A2-L7-0267-01, B1-L7-0267-02"
+    ]
+  },
+  "0939": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0242 → A2-L7-0242-01, B1-L7-0242-02"
+    ]
+  },
+  "0940": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0244 → A2-L7-0244-01, B1-L7-0244-02"
+    ]
+  },
+  "0941": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0246 → A1-L7-0246-01, A2-L7-0246-02"
+    ]
+  },
+  "0942": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0444 → A2-L9-0444-01, B1-L9-0444-01"
+    ]
+  },
+  "0943": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0448 → A2-L9-0448-01, B1-L9-0448-01"
+    ]
+  },
+  "0944": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0063 → B1-L3-0063-01, B2-L3-0063-02, B2-L3-0063-03, B2-L3-0063-04"
+    ]
+  },
+  "0945": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0171 → A2-L6-0171-01, A2-L6-0171-02, B1-L6-0171-03"
+    ]
+  },
+  "0946": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0206 → A1-L6-0206-01, A2-L6-0206-02"
+    ]
+  },
+  "0947": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0269 → A2-L7-0269-01, B1-L7-0269-02"
+    ]
+  },
+  "0948": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0208 → A2-L6-0208-01, B1-L6-0208-02"
+    ]
+  },
+  "0949": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0300 → A1-L7-0300-01, A2-L7-0300-02"
+    ]
+  },
+  "0950": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0322 → A2-L8-0322-01, B1-L8-0322-02"
+    ]
+  },
+  "0951": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0410 → A2-L9-0410-01, B1-L9-0410-01"
+    ]
+  },
+  "0952": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0350 → A2-L8-0350-01, B1-L8-0350-02"
+    ]
+  },
+  "0953": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0271 → B1-L7-0271-01, B2-L7-0271-02"
+    ]
+  },
+  "0954": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0302 → A2-L7-0302-01, B1-L7-0302-02"
+    ]
+  },
+  "0955": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0370 → A2-L8-0370-01, B1-L8-0370-02"
+    ]
+  },
+  "0956": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0386 → A2-L8-0386-01, B1-L8-0386-02"
+    ]
+  },
+  "0957": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0430 → A2-L9-0430-01, B1-L9-0430-01"
+    ]
+  },
+  "0958": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0138 → A2-L5-0138-01, A2-L5-0138-02, A2-L5-0138-03, A2-L5-0138-04, A2-L5-0138-05"
+    ]
+  },
+  "0959": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0273 → A2-L7-0273-01, B1-L7-0273-02"
+    ]
+  },
+  "0960": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0326 → A2-L8-0326-01, B1-L8-0326-02"
+    ]
+  },
+  "0961": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0400 → A2-L8-0400-01, B1-L8-0400-02"
+    ]
+  },
+  "0962": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0412 → A2-L9-0412-01, B1-L9-0412-01"
+    ]
+  },
+  "0963": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0418 → A2-L9-0418-01, B1-L9-0418-01"
+    ]
+  },
+  "0964": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0424 → A2-L9-0424-01, B1-L9-0424-01"
+    ]
+  },
+  "0965": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0426 → A2-L9-0426-01, B1-L9-0426-01"
+    ]
+  },
+  "0966": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0354 → A1-L8-0354-01, A2-L8-0354-02"
+    ]
+  },
+  "0967": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0372 → B1-L8-0372-01, B2-L8-0372-02"
+    ]
+  },
+  "0968": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0388 → A2-L8-0388-01, B1-L8-0388-02"
+    ]
+  },
+  "0969": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0098 → B1-L4-0098-01, B2-L4-0098-02, B2-L4-0098-03, B2-L4-0098-04"
+    ]
+  },
+  "0970": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0142 → B1-L5-0142-01, B1-L5-0142-02, B1-L5-0142-03, B1-L5-0142-04"
+    ]
+  },
+  "0971": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0177 → B1-L6-0177-01, B1-L6-0177-02"
+    ]
+  },
+  "0972": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0328 → A2-L8-0328-01, B1-L8-0328-02"
+    ]
+  },
+  "0973": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0374 → A2-L8-0374-01, B1-L8-0374-02"
+    ]
+  },
+  "0974": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0009"
+    ]
+  },
+  "0975": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0029"
+    ]
+  },
+  "0976": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0066 → A1-L3-0066-01, A2-L3-0066-02, A2-L3-0066-03, A2-L3-0066-04"
+    ]
+  },
+  "0977": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0102 → A1-L4-0102-01, A2-L4-0102-02, A2-L4-0102-03, A2-L4-0102-04"
+    ]
+  },
+  "0978": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0147 → A2-L5-0147-01, A2-L5-0147-02, A2-L5-0147-03, A2-L5-0147-04"
+    ]
+  },
+  "0979": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0181 → A2-L6-0181-01, A2-L6-0181-02"
+    ]
+  },
+  "0980": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0100 → A1-L4-0100-01, A2-L4-0100-02, A2-L4-0100-03, A2-L4-0100-04"
+    ]
+  },
+  "0981": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0145 → A1-L5-0145-01, A1-L5-0145-02, A1-L5-0145-03, A1-L5-0145-04"
+    ]
+  },
+  "0982": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0210 → A1-L6-0210-01, A2-L6-0210-02"
+    ]
+  },
+  "0983": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0179 → A1-L6-0179-01, A2-L6-0179-02"
+    ]
+  },
+  "0984": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0248 → A1-L7-0248-01, A2-L7-0248-02"
+    ]
+  },
+  "0985": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0212 → B1-L6-0212-01, B1-L6-0212-02"
+    ]
+  },
+  "0986": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0277 → A2-L7-0277-01, B1-L7-0277-02"
+    ]
+  },
+  "0987": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0250 → B1-L7-0250-01, B1-L7-0250-02"
+    ]
+  },
+  "0988": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0279 → A2-L7-0279-01, B1-L7-0279-02"
+    ]
+  },
+  "0989": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0304 → A2-L7-0304-01, B1-L7-0304-02"
+    ]
+  },
+  "0990": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0330 → B1-L8-0330-01, B2-L8-0330-02"
+    ]
+  },
+  "0991": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0356 → A2-L8-0356-01, B1-L8-0356-02"
+    ]
+  },
+  "0992": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0104 → A1-L4-0104-01, A2-L4-0104-02, A2-L4-0104-03, A2-L4-0104-04"
+    ]
+  },
+  "0993": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0214 → A1-L6-0214-01, A2-L6-0214-02"
+    ]
+  },
+  "0994": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0183 → B1-L6-0183-01, B1-L6-0183-02"
+    ]
+  },
+  "0995": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0252 → B1-L7-0252-01, B2-L7-0252-02"
+    ]
+  },
+  "0996": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0390 → A2-L8-0390-01, B1-L8-0390-02"
+    ]
+  },
+  "0997": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0376 → A2-L8-0376-01, B1-L8-0376-02"
+    ]
+  },
+  "0998": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0310 → A2-L7-0310-01, B1-L7-0310-02"
+    ]
+  },
+  "0999": {
+    "estado": "duplicata",
+    "secoes": [
+      "corpo normalizado idêntico a 0035 → A1-L3-0035-01, A2-L3-0035-02, A2-L3-0035-03, A2-L3-0035-04"
+    ]
+  }
+}

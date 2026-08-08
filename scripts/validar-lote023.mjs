@@ -1,0 +1,19 @@
+import fs from'node:fs';import path from'node:path';import crypto from'node:crypto';
+const r=path.resolve(import.meta.dirname,'..'),src=(process.env.ARQUIVO_FONTE_DIR || path.resolve(import.meta.dirname,'../../Arquivo_Fonte')),ns=['a1','a2','b1','b2','c1','c2','kids'],l=a=>JSON.parse(fs.readFileSync(path.join(r,a),'utf8')),u=ns.flatMap(n=>l(`dados/${n}/unidades.json`)),a=l('dados/atividades.json'),t=l('dados/lote-023-triagem.json'),m=l('dados/mapeamento-fontes-extensas-023.json'),q=l('dados/auditoria-integracao-fonte1170-lote021.json'),p=l('dados/mapeamento-fontes-extensas-022.json'),j=l('dados/auditoria-cobertura-jornada-023.json'),e=l('dados/auditoria-estabilidade-jornada-023.json'),s=l('dados/subpaineis.json'),out=[];
+function ok(n,v,d=''){out.push({teste:n,resultado:v?'APROVADO':'FALHOU',detalhe:d});if(!v)throw Error(n+': '+d)}
+ok('intervalo 1183-1185',t.intervalo[0]===1183&&t.intervalo[1]===1185&&t.sequenciais.length===3);
+ok('duas duplicatas integrais',m.comparacoes_integrais.length===2&&m.comparacoes_integrais.every(x=>x.corpo_integral_igual&&x.normalizado_integral_igual&&x.hash_bruto_canonica!==x.hash_bruto_duplicata));
+ok('1182 preservada',p.fontes[0].total_paginas===201&&p.fontes[0].totais.consolidadas===134&&p.fontes[0].totais.descartadas===67&&p.fontes[0].sem_destino_util===0);
+ok('1184 121 seções',m.fontes[0].total_secoes===121&&m.fontes[0].secoes.length===121);
+ok('paginação 1184 registrada',m.fontes[0].paginas_identificadas.primeira===1&&m.fontes[0].paginas_identificadas.ultima===128&&m.fontes[0].paginas_identificadas.ausentes_sem_texto.length===7);
+ok('1184 integralmente decidida',m.fontes[0].secoes.every(x=>['consolidar','descartar'].includes(x.decisao)));
+ok('sem seção útil sem destino',m.fontes[0].sem_destino_util===0&&m.fontes[0].secoes.every(x=>x.decisao==='descartar'||x.unidade_relacionada));
+ok('destinos existentes',m.fontes[0].secoes.filter(x=>x.unidade_relacionada).every(x=>u.some(y=>y.id===x.unidade_relacionada)));
+ok('1170 preservada',q.total_dicas===1006&&q.total_por_decisao.consolidar===605&&q.total_por_decisao.incorporar===389&&q.total_por_decisao.descartar===12&&q.total_sem_destino===0);
+ok('IDs unidades únicos',new Set(u.map(x=>x.id)).size===u.length);ok('IDs atividades únicos',new Set(a.map(x=>x.id)).size===a.length);ok('95 subpainéis',s.length===95);
+ok('Kids CEFR',l('dados/kids/unidades.json').every(x=>x.nivel_cefr));ok('C2 justificado',l('dados/c2/unidades.json').every(x=>x.justificativa_c2));
+ok('Jornada 806+28',j.totais.presentes===806&&j.totais.complementares===28);ok('806 IDs preservados',e.ids_preservados.length===806&&!e.ids_removidos.length);ok('sem órfãos/repetidos',!j.orfaos.length&&!j.repetidos.length&&!j.referencias_inexistentes.length);
+ok('atividades preservadas',a.length===1977);ok('sem exemplo exato republicado',(()=>{const z=u.flatMap(y=>(y.conteudo_en||[]).map(v=>v.trim().toLowerCase()));return new Set(z).size===z.length})());
+ok('hashes preservados',t.sequenciais.every(z=>crypto.createHash('sha256').update(fs.readFileSync(path.join(src,z.nome))).digest('hex')===z.hash_bruto));ok('localStorage estável',!e.localStorage.formato_alterado&&!e.localStorage.chaves_alteradas&&e.localStorage.progresso_retomada_compativeis);
+ok('currículo estável',u.length===834&&a.length===1977);ok('inventário posterior',t.inventario_seguinte[0]===1186&&t.inventario_seguinte.length>=10);ok('uma obra extensa',m.fontes.length===1&&m.fontes[0].numero===1184);ok('validação intermediária',t.validacao_intermediaria.aprovada&&t.validacao_intermediaria.encerrada_em===1184);ok('nenhuma parcial',!t.parciais.length);
+const z={total:out.length,aprovados:out.filter(x=>x.resultado==='APROVADO').length,resultados:out};fs.mkdirSync(path.join(r,'docs/evidencias/lote-023'),{recursive:true});fs.writeFileSync(path.join(r,'docs/evidencias/lote-023/resultados-validacao-023.json'),JSON.stringify(z,null,2)+'\n');console.log(`LOTE 023: ${z.aprovados}/${z.total}`);

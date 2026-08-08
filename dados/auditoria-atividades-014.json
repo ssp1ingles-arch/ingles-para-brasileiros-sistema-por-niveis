@@ -1,0 +1,140 @@
+{
+  "lote": "014",
+  "total_unidades_novas": 10,
+  "elegiveis": 10,
+  "inelegiveis": 0,
+  "atividades_adicionadas": 10,
+  "total_atividades": 1958,
+  "unidades": [
+    {
+      "unidade_nova": "A2-L14-0742-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao",
+        "parear ou contraste após revisão editorial"
+      ],
+      "atividades_criadas": [
+        "ATV-L14-1949"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L14-0746-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao",
+        "parear ou contraste após revisão editorial"
+      ],
+      "atividades_criadas": [
+        "ATV-L14-1950"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L14-0752-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao",
+        "parear ou contraste após revisão editorial"
+      ],
+      "atividades_criadas": [
+        "ATV-L14-1951"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L14-0754-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao",
+        "parear ou contraste após revisão editorial"
+      ],
+      "atividades_criadas": [
+        "ATV-L14-1952"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L14-0760-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao",
+        "parear ou contraste após revisão editorial"
+      ],
+      "atividades_criadas": [
+        "ATV-L14-1953"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "A2-L14-0762-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao",
+        "parear ou contraste após revisão editorial"
+      ],
+      "atividades_criadas": [
+        "ATV-L14-1954"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B1-L14-0885-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao",
+        "parear ou contraste após revisão editorial"
+      ],
+      "atividades_criadas": [
+        "ATV-L14-1955"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "B1-L14-1203-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao",
+        "parear ou contraste após revisão editorial"
+      ],
+      "atividades_criadas": [
+        "ATV-L14-1956"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "C1-L14-1396-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao",
+        "parear ou contraste após revisão editorial"
+      ],
+      "atividades_criadas": [
+        "ATV-L14-1957"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    },
+    {
+      "unidade_nova": "C2-L14-1462-01",
+      "elegivel": true,
+      "tipos_possiveis": [
+        "producao_autorrevisao",
+        "parear ou contraste após revisão editorial"
+      ],
+      "atividades_criadas": [
+        "ATV-L14-1958"
+      ],
+      "motivo_exclusao": null,
+      "ambiguidades_detectadas": []
+    }
+  ]
+}

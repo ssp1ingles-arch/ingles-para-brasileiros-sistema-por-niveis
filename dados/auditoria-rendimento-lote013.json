@@ -1,0 +1,1887 @@
+{
+  "lote_revisado": "013",
+  "quantidade": 92,
+  "fontes_recuperadas": [],
+  "decisoes_corrigidas": 0,
+  "decisoes_confirmadas": 92,
+  "criterio": "releitura integral, hash normalizado, comparação de exemplos, função, registro e nível",
+  "fontes": [
+    {
+      "numero": 601,
+      "fonte": "0601_KNOW_Sentido_02_CONHECER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0070 → A1-L4-0070-01, A2-L4-0070-02, A2-L4-0070-03, A2-L4-0070-04"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-L4-0070-01",
+        "A2-L4-0070-02",
+        "A2-L4-0070-03",
+        "A2-L4-0070-04"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 602,
+      "fonte": "0602_KNOW_Sentido_03_RECONHECER_PERCEBER.md",
+      "status_anterior": "integralmente classificada",
+      "secoes_existentes": [
+        "conteúdo coberto por unidades temáticas existentes; sem nova unidade isolada"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L13-0602-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 603,
+      "fonte": "0603_LEAD_Sentido_01_LIDERAR_LEVAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0402 → A2-L9-0402-01, B1-L9-0402-01"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0402-01",
+        "B1-L9-0402-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 604,
+      "fonte": "0604_LEARN_Sentido_01_APRENDER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0358 → A1-L8-0358-01, A2-L8-0358-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0358-01",
+        "A2-L8-0358-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 605,
+      "fonte": "0605_LEAVE_Sentido_01_SAIR_DEIXAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0436 → A2-L9-0436-01, B1-L9-0436-01"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0436-01",
+        "B1-L9-0436-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 606,
+      "fonte": "0606_LET_Sentido_01_DEIXAR_PERMITIR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0334 → A2-L8-0334-01, B1-L8-0334-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0334-01",
+        "B1-L8-0334-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 607,
+      "fonte": "0607_LIKE_Sentido_01_GOSTAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0336 → A1-L8-0336-01, A2-L8-0336-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0336-01",
+        "A2-L8-0336-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 608,
+      "fonte": "0608_lista_verbos.md",
+      "status_anterior": "integralmente classificada",
+      "secoes_existentes": [
+        "conteúdo distribuído nas unidades temáticas existentes; sem microfragmentação"
+      ],
+      "conteudo_util_encontrado": "lista de verbos já distribuída em unidades verbais",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "compilação transversal; republicá-la criaria painel agregado e duplicaria unidades específicas",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 609,
+      "fonte": "0609_lista_verbos_S001.md",
+      "status_anterior": "integralmente classificada",
+      "secoes_existentes": [
+        "conteúdo distribuído nas unidades temáticas existentes; sem microfragmentação"
+      ],
+      "conteudo_util_encontrado": "lista de verbos já distribuída em unidades verbais",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "compilação transversal; republicá-la criaria painel agregado e duplicaria unidades específicas",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 610,
+      "fonte": "0610_LIVE_Sentido_01_MORAR___VIVER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0392 → A1-L8-0392-01, A2-L8-0392-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0392-01",
+        "A2-L8-0392-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 611,
+      "fonte": "0611_Livro_Memorização_para_aprender_idiomas_-_Marcos_da_Costa_Gois-1.md",
+      "status_anterior": "sem conteúdo didático",
+      "secoes_existentes": [
+        "Material predominantemente metodológico/motivacional sobre aprender idiomas, sem lição de inglês real a publicar."
+      ],
+      "conteudo_util_encontrado": "orientação metodológica ou motivacional",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "não contém lição linguística utilizável independente",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 612,
+      "fonte": "0612_LOSE_Sentido_01_PERDER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0394 → A2-L8-0394-01, B1-L8-0394-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0394-01",
+        "B1-L8-0394-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 613,
+      "fonte": "0613_LOVE_Sentido_01_AMAR___ADORAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0360 → A1-L8-0360-01, A2-L8-0360-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0360-01",
+        "A2-L8-0360-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 614,
+      "fonte": "0614_MAKE_Sentido_01_FAZER_CRIAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0432 → A2-L9-0432-01, B1-L9-0432-01"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0432-01",
+        "B1-L9-0432-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 615,
+      "fonte": "0615_MAKE_Sentido_02_CAUSAR_DEIXAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0438 → A2-L9-0438-01, B1-L9-0438-01"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0438-01",
+        "B1-L9-0438-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 616,
+      "fonte": "0616_MAKE_Sentido_03_GANHAR_RENDER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0072 → B1-L4-0072-01, B2-L4-0072-02, B2-L4-0072-03, B2-L4-0072-04"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L4-0072-01",
+        "B2-L4-0072-02",
+        "B2-L4-0072-03",
+        "B2-L4-0072-04"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 617,
+      "fonte": "0617_MAKE_Sentido_04_TOMAR_COMETER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0108 → B1-L4-0108-01, B2-L4-0108-02, B2-L4-0108-03, B2-L4-0108-04"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L4-0108-01",
+        "B2-L4-0108-02",
+        "B2-L4-0108-03",
+        "B2-L4-0108-04"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 618,
+      "fonte": "0618_MEAN_Sentido_01_SIGNIFICAR___QUERER_DIZER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0378 → A2-L8-0378-01, B1-L8-0378-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0378-01",
+        "B1-L8-0378-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 619,
+      "fonte": "0619_MEET_Sentido_01_CONHECER___SE_ENCONTRAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0186 → A2-L6-0186-01, B1-L6-0186-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0186-01",
+        "B1-L6-0186-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 620,
+      "fonte": "0620_MISS_Sentido_01_SENTIR_FALTA___PERDER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0338 → A2-L8-0338-01, B1-L8-0338-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0338-01",
+        "B1-L8-0338-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 621,
+      "fonte": "0621_MOVE_Sentido_01_MOVER___SE_MUDAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0404 → A2-L9-0404-01, B1-L9-0404-01"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0404-01",
+        "B1-L9-0404-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 622,
+      "fonte": "0622_NEED_Sentido_01_PRECISAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0312 → A2-L7-0312-01, B1-L7-0312-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0312-01",
+        "B1-L7-0312-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 623,
+      "fonte": "0623_NOTICE_Sentido_01_NOTAR___PERCEBER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0153 → B1-L5-0153-01, B1-L5-0153-02, B1-L5-0153-03, B1-L5-0153-04, B1-L5-0153-05"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0153-01",
+        "B1-L5-0153-02",
+        "B1-L5-0153-03",
+        "B1-L5-0153-04",
+        "B1-L5-0153-05"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 624,
+      "fonte": "0624_O_Guia_definitivo_para_aprender_inglês_mais_rápido.md",
+      "status_anterior": "sem conteúdo didático",
+      "secoes_existentes": [
+        "Material predominantemente metodológico/motivacional sobre aprender idiomas, sem lição de inglês real a publicar."
+      ],
+      "conteudo_util_encontrado": "orientação metodológica ou motivacional",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "não contém lição linguística utilizável independente",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 625,
+      "fonte": "0625_O_que_é_Words_Conectivos.md",
+      "status_anterior": "integralmente classificada",
+      "secoes_existentes": [
+        "conteúdo coberto por unidades temáticas existentes; sem nova unidade isolada"
+      ],
+      "conteudo_util_encontrado": "visão geral de conectores já distribuídos por funções",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "compilação transversal; republicá-la criaria painel agregado e duplicaria unidades específicas",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 626,
+      "fonte": "0626_O_SEGREDO_PARA_APRENDER_INGLÊS_EM_MENOS_DE_UM_ANO.md",
+      "status_anterior": "sem conteúdo didático",
+      "secoes_existentes": [
+        "Material predominantemente metodológico/motivacional sobre aprender idiomas, sem lição de inglês real a publicar."
+      ],
+      "conteudo_util_encontrado": "orientação metodológica ou motivacional",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "não contém lição linguística utilizável independente",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 627,
+      "fonte": "0627_OPEN_Sentido_01_ABRIR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0340 → A1-L8-0340-01, A2-L8-0340-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0340-01",
+        "A2-L8-0340-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 628,
+      "fonte": "0628_PAY_Sentido_01_PAGAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0117 → A2-L5-0117-01, A2-L5-0117-02, A2-L5-0117-03, A2-L5-0117-04, A2-L5-0117-05"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0117-01",
+        "A2-L5-0117-02",
+        "A2-L5-0117-03",
+        "A2-L5-0117-04",
+        "A2-L5-0117-05"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 629,
+      "fonte": "0629_PLAY_Sentido_01_JOGAR_TOCAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0362 → A1-L8-0362-01, A2-L8-0362-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-L8-0362-01",
+        "A2-L8-0362-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 630,
+      "fonte": "0630_PROMPT_REDESIGN_PAINEL_2.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0463"
+      ],
+      "conteudo_util_encontrado": "prompt administrativo",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "não contém lição linguística utilizável independente",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 631,
+      "fonte": "0631_QW_GRAM_G1_01_SUBJECT_PRONOUNS_EU_VOCE_ELE_ELA_NOS_ELES.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0038 → A1-GRAM-0001, A1-GRAM-0002, A1-GRAM-0011, A2-GRAM-0002"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0002",
+        "A1-GRAM-0011",
+        "A2-GRAM-0002"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 632,
+      "fonte": "0632_QW_GRAM_G1_02_OBJECT_PRONOUNS_ME_YOU_HIM_HER_US_THEM.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0079 → A1-GRAM-0017, A1-CONV-0001, A2-GRAM-0008"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0017",
+        "A1-CONV-0001",
+        "A2-GRAM-0008"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 633,
+      "fonte": "0633_QW_GRAM_G1_03_POSSESSIVE_MEU_SEU_DELE_DELA_NOSSO_DELES.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0120 → A1-GRAM-0020, A1-L5-0120-01, A1-L5-0120-02, A1-L5-0120-03, A1-L5-0120-04, A2-GRAM-0010, A2-CONV-0001"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0020",
+        "A1-L5-0120-01",
+        "A1-L5-0120-02",
+        "A1-L5-0120-03",
+        "A1-L5-0120-04",
+        "A2-GRAM-0010",
+        "A2-CONV-0001"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 634,
+      "fonte": "0634_QW_GRAM_G1_04_REFLEXIVE_EU_MESMO_VOCE_MESMO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0156 → A2-L5-0156-01, A2-L5-0156-02, A2-L5-0156-03, A2-L5-0156-04"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0156-01",
+        "A2-L5-0156-02",
+        "A2-L5-0156-03",
+        "A2-L5-0156-04"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 635,
+      "fonte": "0635_QW_GRAM_G2_01_A_AN_UM_UMA_ARTIGO_INDEFINIDO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0021 → A1-GRAM-0003, A1-GRAM-0004, A1-GRAM-0009, A2-GRAM-0001"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0003",
+        "A1-GRAM-0004",
+        "A1-GRAM-0009",
+        "A2-GRAM-0001"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 636,
+      "fonte": "0636_QW_GRAM_G2_02_THE_O_A_OS_AS_ARTIGO_DEFINIDO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0057 → A1-GRAM-0014, A2-GRAM-0005, A2-GRAM-0006, B1-VOC-0001"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0014",
+        "A2-GRAM-0005",
+        "A2-GRAM-0006",
+        "B1-VOC-0001"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 637,
+      "fonte": "0637_QW_GRAM_G2_03_ZERO_ARTICLE_SEM_ARTIGO_QUANDO_NAO_USAR.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0121 → A2-L5-0121-01, A2-L5-0121-02, A2-L5-0121-03, B1-L5-0121-04, B1-L5-0121-05"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0121-01",
+        "A2-L5-0121-02",
+        "A2-L5-0121-03",
+        "B1-L5-0121-04",
+        "B1-L5-0121-05"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 638,
+      "fonte": "0638_pronomes-e-artigos.md",
+      "status_anterior": "integralmente classificada",
+      "secoes_existentes": [
+        "conteúdo distribuído nas unidades temáticas existentes; sem microfragmentação"
+      ],
+      "conteudo_util_encontrado": "compilação de pronomes e artigos já distribuída",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0002",
+        "A1-GRAM-0003",
+        "A1-GRAM-0004",
+        "A1-GRAM-0009",
+        "A1-GRAM-0011",
+        "A1-GRAM-0014",
+        "A1-GRAM-0017",
+        "A1-CONV-0001",
+        "A1-GRAM-0020",
+        "A2-GRAM-0001",
+        "A2-GRAM-0002",
+        "A2-GRAM-0005",
+        "A2-GRAM-0006",
+        "A2-GRAM-0008",
+        "A2-GRAM-0010",
+        "A2-CONV-0001",
+        "A2-GRAM-0014",
+        "A2-CONV-0002",
+        "A2-GRAM-0015",
+        "A2-GRAM-0016",
+        "B1-VOC-0001"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "compilação transversal; republicá-la criaria painel agregado e duplicaria unidades específicas",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 639,
+      "fonte": "0639_proverbio.md",
+      "status_anterior": "sem conteúdo didático",
+      "secoes_existentes": [
+        "Fragmento isolado de provérbio sem contexto suficiente para unidade independente."
+      ],
+      "conteudo_util_encontrado": "provérbio isolado sem contexto",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "não contém lição linguística utilizável independente",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 640,
+      "fonte": "0640_PROVIDE_Sentido_01_FORNECER_PROVER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0414 → A2-L9-0414-01, B1-L9-0414-01"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L9-0414-01",
+        "B1-L9-0414-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 641,
+      "fonte": "0641_QW_CHUNK_G1_HOW_ADJ_HOW_LONG_FAR_OLD_MUCH_OFTEN.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0068 → A1-L4-0068-01, A2-L4-0068-02, A2-L4-0068-03"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-L4-0068-01",
+        "A2-L4-0068-02",
+        "A2-L4-0068-03"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 642,
+      "fonte": "0642_QW_CHUNK_G2_WHAT_NOUN_WHAT_KIND_TIME_LIKE_GOING_ON.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0128 → A2-L5-0128-01, A2-L5-0128-02, A2-L5-0128-03, A2-L5-0128-04, A2-L5-0128-05"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0128-01",
+        "A2-L5-0128-02",
+        "A2-L5-0128-03",
+        "A2-L5-0128-04",
+        "A2-L5-0128-05"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 643,
+      "fonte": "0643_QW_CHUNK_G3_IT_THERE_IT_IS_TAKES_WORTH_THERE_IS_ARE.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0033 → A1-GRAM-0002, A1-GRAM-0012, A1-GRAM-0013, A2-GRAM-0003, A2-GRAM-0004, B1-CONV-0001"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-GRAM-0002",
+        "A1-GRAM-0012",
+        "A1-GRAM-0013",
+        "A2-GRAM-0003",
+        "A2-GRAM-0004",
+        "B1-CONV-0001"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 644,
+      "fonte": "0644_QW_CHUNK_G4_TIME_FIXED_AS_SOON_AS_AT_FIRST_AT_LEAST_ON_TIME.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0201 → A2-L6-0201-01, B1-L6-0201-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0201-01",
+        "B1-L6-0201-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 645,
+      "fonte": "0645_QW_CHUNK_G5_OPINION_I_THINK_FEEL_LIKE_SEEMS_SOUNDS_LOOKS.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0149 → B1-L5-0149-01, B1-L5-0149-02, B1-L5-0149-03, B1-L5-0149-04, B1-L5-0149-05"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0149-01",
+        "B1-L5-0149-02",
+        "B1-L5-0149-03",
+        "B1-L5-0149-04",
+        "B1-L5-0149-05"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 646,
+      "fonte": "0646_QW_CHUNK_G6_POLITE_COULD_WOULD_MIND_WONDERING_LET_ME_KNOW.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0173 → B1-L6-0173-01, B2-L6-0173-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0173-01",
+        "B2-L6-0173-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 647,
+      "fonte": "0647_QW_CHUNK_G7_COMPARISON_AS_AS_THE_MORE_SO_THAT_TOO_TO_KIND_OF.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0237 → B1-L6-0237-01, B2-L6-0237-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0237-01",
+        "B2-L6-0237-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 648,
+      "fonte": "0648_QW_CHUNK_G8_CAUSE_COND_THATS_WHY_EVEN_IF_NO_MATTER_AS_LONG_AS.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0283 → B1-L7-0283-01, B2-L7-0283-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L7-0283-01",
+        "B2-L7-0283-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 649,
+      "fonte": "0649_QW_CONJ_ACTUALLY_NA_VERDADE_DE_FATO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0344 → B1-L8-0344-01, B2-L8-0344-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L8-0344-01",
+        "B2-L8-0344-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 650,
+      "fonte": "0650_QW_CONJ_ALSO_TOO_TAMBEM_ADICAO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0235 → A2-L6-0235-01, B1-L6-0235-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0235-01",
+        "B1-L6-0235-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 651,
+      "fonte": "0651_QW_CONJ_ALSO_TOO_TAMBEM_ADICAO_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0235 → A2-L6-0235-01, B1-L6-0235-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L6-0235-01",
+        "B1-L6-0235-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 652,
+      "fonte": "0652_QW_CONJ_ALTHOUGH_EMBORA_MESMO_QUE.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0319 → B1-L7-0319-01, B2-L7-0319-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L7-0319-01",
+        "B2-L7-0319-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 653,
+      "fonte": "0653_QW_CONJ_ALTHOUGH_EMBORA_MESMO_QUE_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0319 → B1-L7-0319-01, B2-L7-0319-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L7-0319-01",
+        "B2-L7-0319-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 654,
+      "fonte": "0654_QW_CONJ_AND_E_ADICAO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0019"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 655,
+      "fonte": "0655_QW_CONJ_AND_E_ADICAO_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0019"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 656,
+      "fonte": "0656_QW_CONJ_AS_A_RESULT_COMO_RESULTADO_CONSEQUENTEMENTE.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0295 → B2-L7-0295-01, B2-L7-0295-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B2-L7-0295-01",
+        "B2-L7-0295-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 657,
+      "fonte": "0657_QW_CONJ_AS_A_RESULT_COMO_RESULTADO_CONSEQUENTEMENTE_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0295 → B2-L7-0295-01, B2-L7-0295-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B2-L7-0295-01",
+        "B2-L7-0295-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 658,
+      "fonte": "0658_QW_CONJ_AS_SOON_AS_ASSIM_QUE_ENQUANTO_ISSO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0093 → A2-L4-0093-01, B1-L4-0093-02, B1-L4-0093-03, B1-L4-0093-04"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L4-0093-01",
+        "B1-L4-0093-02",
+        "B1-L4-0093-03",
+        "B1-L4-0093-04"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 659,
+      "fonte": "0659_QW_CONJ_AS_SOON_AS_ASSIM_QUE_ENQUANTO_ISSO_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0093 → A2-L4-0093-01, B1-L4-0093-02, B1-L4-0093-03, B1-L4-0093-04"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L4-0093-01",
+        "B1-L4-0093-02",
+        "B1-L4-0093-03",
+        "B1-L4-0093-04"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 660,
+      "fonte": "0660_QW_CONJ_BECAUSE_PORQUE_RAZAO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0169 → A2-L5-0169-01, A2-L5-0169-02, A2-L5-0169-03, A2-L5-0169-04, A2-L5-0169-05, A2-L5-0169-06"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0169-01",
+        "A2-L5-0169-02",
+        "A2-L5-0169-03",
+        "A2-L5-0169-04",
+        "A2-L5-0169-05",
+        "A2-L5-0169-06"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 661,
+      "fonte": "0661_QW_CONJ_BECAUSE_PORQUE_RAZAO_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0169 → A2-L5-0169-01, A2-L5-0169-02, A2-L5-0169-03, A2-L5-0169-04, A2-L5-0169-05, A2-L5-0169-06"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L5-0169-01",
+        "A2-L5-0169-02",
+        "A2-L5-0169-03",
+        "A2-L5-0169-04",
+        "A2-L5-0169-05",
+        "A2-L5-0169-06"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 662,
+      "fonte": "0662_QW_CONJ_BEFORE_AFTER_ANTES_DE_DEPOIS_DE.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0265 → A2-L7-0265-01, B1-L7-0265-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0265-01",
+        "B1-L7-0265-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 663,
+      "fonte": "0663_QW_CONJ_BEFORE_AFTER_ANTES_DE_DEPOIS_DE_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0265 → A2-L7-0265-01, B1-L7-0265-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L7-0265-01",
+        "B1-L7-0265-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 664,
+      "fonte": "0664_QW_CONJ_BUT_MAS_POREM_CONTRASTE.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0060 → A1-L3-0060-01, A2-L3-0060-02, A2-L3-0060-03, A2-L3-0060-04"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-L3-0060-01",
+        "A2-L3-0060-02",
+        "A2-L3-0060-03",
+        "A2-L3-0060-04"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 665,
+      "fonte": "0665_QW_CONJ_BUT_MAS_POREM_CONTRASTE_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0060 → A1-L3-0060-01, A2-L3-0060-02, A2-L3-0060-03, A2-L3-0060-04"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A1-L3-0060-01",
+        "A2-L3-0060-02",
+        "A2-L3-0060-03",
+        "A2-L3-0060-04"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 666,
+      "fonte": "0666_QW_CONJ_BY_THE_WAY_A_PROPOSITO_ENFIM_DIA_A_DIA.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0368 → B1-L8-0368-01, B2-L8-0368-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L8-0368-01",
+        "B2-L8-0368-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 667,
+      "fonte": "0667_QW_CONJ_DESPITE_APESAR_DE.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0134 → B1-L5-0134-01, B1-L5-0134-02, B1-L5-0134-03, B2-L5-0134-04, B2-L5-0134-05"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0134-01",
+        "B1-L5-0134-02",
+        "B1-L5-0134-03",
+        "B2-L5-0134-04",
+        "B2-L5-0134-05"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 668,
+      "fonte": "0668_QW_CONJ_DESPITE_APESAR_DE_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0134 → B1-L5-0134-01, B1-L5-0134-02, B1-L5-0134-03, B2-L5-0134-04, B2-L5-0134-05"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0134-01",
+        "B1-L5-0134-02",
+        "B1-L5-0134-03",
+        "B2-L5-0134-04",
+        "B2-L5-0134-05"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 669,
+      "fonte": "0669_QW_CONJ_DUE_TO_DEVIDO_A_POR_CAUSA_DE.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0136 → B1-L5-0136-02, B1-L5-0136-04, B2-L5-0136-01, B2-L5-0136-03, B2-L5-0136-05"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0136-02",
+        "B1-L5-0136-04",
+        "B2-L5-0136-01",
+        "B2-L5-0136-03",
+        "B2-L5-0136-05"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 670,
+      "fonte": "0670_QW_CONJ_DUE_TO_DEVIDO_A_POR_CAUSA_DE_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0136 → B1-L5-0136-02, B1-L5-0136-04, B2-L5-0136-01, B2-L5-0136-03, B2-L5-0136-05"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L5-0136-02",
+        "B1-L5-0136-04",
+        "B2-L5-0136-01",
+        "B2-L5-0136-03",
+        "B2-L5-0136-05"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 671,
+      "fonte": "0671_QW_CONJ_FIRST_THEN_PRIMEIRO_DEPOIS_FINALMENTE.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0352 → A2-L8-0352-01, B1-L8-0352-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "A2-L8-0352-01",
+        "B1-L8-0352-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 672,
+      "fonte": "0672_QW_CONJ_FOR_EXAMPLE_POR_EXEMPLO_COMO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0324 → B1-L8-0324-01, B2-L8-0324-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L8-0324-01",
+        "B2-L8-0324-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 673,
+      "fonte": "0673_QW_CONJ_FOR_POIS_PORQUE_FORMAL.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0275 → B2-L7-0275-01, B2-L7-0275-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B2-L7-0275-01",
+        "B2-L7-0275-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 674,
+      "fonte": "0674_QW_CONJ_FOR_POIS_PORQUE_FORMAL_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0275 → B2-L7-0275-01, B2-L7-0275-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B2-L7-0275-01",
+        "B2-L7-0275-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 675,
+      "fonte": "0675_QW_CONJ_HOWEVER_NO_ENTANTO_POREM.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0306 → B2-L7-0306-01, B2-L7-0306-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B2-L7-0306-01",
+        "B2-L7-0306-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 676,
+      "fonte": "0676_QW_CONJ_HOWEVER_NO_ENTANTO_POREM_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0306 → B2-L7-0306-01, B2-L7-0306-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B2-L7-0306-01",
+        "B2-L7-0306-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 677,
+      "fonte": "0677_QW_CONJ_IF_SE_CONDICAO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0218 → B1-L6-0218-01, B1-L6-0218-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L6-0218-01",
+        "B1-L6-0218-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 678,
+      "fonte": "0678_QW_CONJ_IN_ADDITION_ALEM_DISSO_ADEMAIS.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0281 → B2-L7-0281-01, B2-L7-0281-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B2-L7-0281-01",
+        "B2-L7-0281-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 679,
+      "fonte": "0679_QW_CONJ_IN_ADDITION_ALEM_DISSO_ADEMAIS_S001.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0281 → B2-L7-0281-01, B2-L7-0281-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B2-L7-0281-01",
+        "B2-L7-0281-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 680,
+      "fonte": "0680_QW_CONJ_IN_CONCLUSION_EM_CONCLUSAO_RESUMINDO.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "conteúdo coberto por 0332 → B1-L8-0332-01, B2-L8-0332-02"
+      ],
+      "conteudo_util_encontrado": "conteúdo integral coberto pela canônica normalizada",
+      "unidades_canonicas_relacionadas": [
+        "B1-L8-0332-01",
+        "B2-L8-0332-02"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "nenhuma diferença material após comparação integral",
+      "diferencas_registro": "nenhuma não coberta",
+      "diferencas_exemplo": "nenhum exemplo exclusivo que exija nova unidade",
+      "diferencas_nivel": "nenhuma não coberta",
+      "motivo_sem_nova_unidade": "duplicata exata; exemplos, registro, nível e padrões sintáticos coincidem",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 796,
+      "fonte": "0796_READ_Sentido_LER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "busca dirigida; corpo normalizado coberto por 0314"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": "duplicata normalizada",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 874,
+      "fonte": "0874_WRITE_Sentido_01_ESCREVER.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "busca dirigida; corpo normalizado coberto por 0342"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": "duplicata normalizada",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1409,
+      "fonte": "1409_04_English_for_Everyone_Practice_Book_Level_4_Advanced_A_Complete_Self-Study_Programme_2.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "busca dirigida; corpo normalizado coberto por 1408"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": "duplicata normalizada",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1440,
+      "fonte": "1440_05_Complete_Advanced_Student's_Book_with_Answers_with_Digital_Pack_2.md",
+      "status_anterior": "duplicata",
+      "secoes_existentes": [
+        "busca dirigida; corpo normalizado coberto por 1439"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [],
+      "procedencia_anexada": false,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": "duplicata normalizada",
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1359,
+      "fonte": "1359_English_Coach_Chad___Listening,_Learning,_Repeating,_and_Shadowing__English_Speaking_Skills.md",
+      "status_anterior": "integralmente classificada antecipadamente",
+      "secoes_existentes": [
+        "conteúdo dirigido → B2-L13-1359-01"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [
+        "B2-L13-1359-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": null,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1361,
+      "fonte": "1361_English_Coach_Chad___English_SHADOWING_Practice__Listen,_Learn,_Repeat_&_Shadow__Repeat_After_Me.md",
+      "status_anterior": "integralmente classificada antecipadamente",
+      "secoes_existentes": [
+        "conteúdo dirigido → B2-L13-1359-01"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [
+        "B2-L13-1359-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": null,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1362,
+      "fonte": "1362_English_Coach_Chad___Just_LISTEN_or_SHADOW__Repeat_after_me_or_Say_it_with_me__Practice_Speaking_English.md",
+      "status_anterior": "integralmente classificada antecipadamente",
+      "secoes_existentes": [
+        "conteúdo dirigido → B2-L13-1359-01"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [
+        "B2-L13-1359-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": null,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1363,
+      "fonte": "1363_English_Coach_Chad___Repeat-After-Me_or_just_LISTEN_or_for_English_Speaking_Fluency_SHADOWING_Practice.md",
+      "status_anterior": "integralmente classificada antecipadamente",
+      "secoes_existentes": [
+        "conteúdo dirigido → B2-L13-1359-01"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [
+        "B2-L13-1359-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": null,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1443,
+      "fonte": "1443_07_English_Pronunciation_in_Use._Advanced.md",
+      "status_anterior": "integralmente classificada antecipadamente",
+      "secoes_existentes": [
+        "conteúdo dirigido → C1-L13-1443-01"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [
+        "C1-L13-1443-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": null,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1445,
+      "fonte": "1445_08_Reactivate_Your_Grammar_And_Vocabulary_C1C2_-_Exams.md",
+      "status_anterior": "integralmente classificada antecipadamente",
+      "secoes_existentes": [
+        "conteúdo dirigido → C2-L13-1445-01"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [
+        "C2-L13-1445-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": null,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1468,
+      "fonte": "1468_06_Close-up_-_1st_-_C2_Workbook.md",
+      "status_anterior": "integralmente classificada antecipadamente",
+      "secoes_existentes": [
+        "conteúdo dirigido → C2-L13-1468-01"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [
+        "C2-L13-1468-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": null,
+      "decisao": "mantida"
+    },
+    {
+      "numero": 1514,
+      "fonte": "1514_livro02_16.md",
+      "status_anterior": "integralmente classificada antecipadamente",
+      "secoes_existentes": [
+        "conteúdo dirigido → KIDS-L13-1514-01"
+      ],
+      "conteudo_util_encontrado": "fonte dirigida relida integralmente",
+      "unidades_canonicas_relacionadas": [
+        "KIDS-L13-1514-01"
+      ],
+      "procedencia_anexada": true,
+      "diferencas_lexicais": "registradas na unidade dirigida quando canônica",
+      "diferencas_registro": "preservadas por habilidade",
+      "diferencas_exemplo": "amostra representativa preservada",
+      "diferencas_nivel": "classificação mantida com justificativa",
+      "motivo_sem_nova_unidade": null,
+      "decisao": "mantida"
+    }
+  ]
+}

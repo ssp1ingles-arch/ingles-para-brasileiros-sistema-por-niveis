@@ -1,0 +1,54 @@
+# Credenciais e ambiente local
+.env
+.env.*
+!.env.example
+*.pem
+*.pfx
+*.key
+credentials*
+secrets*
+
+# Dependências, caches e pacotes gerados
+node_modules/
+.npm/
+.cache/
+coverage/
+dist/
+build/
+*.tgz
+
+# Logs e temporários
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*
+tmp/
+temp/
+.tmp/
+
+# Perfis, sessões e servidores locais
+.playwright/
+playwright-report/
+test-results/
+browser-profile/
+chrome-profile/
+*.pid
+
+# Sistema e configurações pessoais
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.user
+
+# Imagens de evidência ficam apenas no ambiente local. Relatórios JSON
+# técnicos permanecem versionados, sem expor páginas ou capturas didáticas.
+docs/evidencias/**/*.{png,jpg,jpeg,gif,webp}
+docs/evidencias/**/*.png
+docs/evidencias/**/*.jpg
+docs/evidencias/**/*.jpeg
+docs/evidencias/**/*.gif
+docs/evidencias/**/*.webp
