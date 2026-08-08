@@ -1,0 +1,41 @@
+{
+  "lote": "035",
+  "intervalo": [
+    1213,
+    1214
+  ],
+  "sequenciais": [
+    {
+      "numero": 1213,
+      "nome": "1213_E29CFFA1-923C-4363-9DBF-C2D88DC28A01.md",
+      "tamanho_bytes": 857,
+      "hash_bruto": "4d7d149a76b71462586aa7fb66008700566abfe164db6e5a819a9069a9c85356",
+      "hash_normalizado": "09a93f3518902cebec74790af690f263a1683891c49b16b546507b3023365477",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "OCR de imagem didática curta",
+      "partes": 3,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1214,
+      "nome": "1214_QW_SALA04_PDF1_CONNECTED_SPEECH_CONNECTED_SPEECH_FLAP_T_2.md",
+      "tamanho_bytes": 6320,
+      "hash_bruto": "46905b5b97e77fc3ff2bfc1303010add307cb512e18fe525cd50c476c35bcce3",
+      "hash_normalizado": "9897ebbc946ee90c0d1f001faab4ed8c428f0855f85b3c8929d8c4cc64c81df3",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "extração nativa de PDF didático curto",
+      "paginas": 2,
+      "partes": 5,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1213,
+    "testes": "14/14",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1214, antes de 1215; fontes independentes com sobreposição temática parcial."
+}

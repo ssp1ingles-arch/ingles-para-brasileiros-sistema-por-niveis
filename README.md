@@ -24,15 +24,15 @@ Abra `http://127.0.0.1:8000/`.
 
 ```powershell
 node scripts/validar.mjs
-node scripts/validar-lote034.mjs
-node scripts/validar-comparacao-lote034.mjs
+node scripts/validar-lote035.mjs
+node scripts/validar-comparacao-lote035.mjs
 ```
 
 As auditorias de rotas exigem o servidor local em execução. Consulte `docs/PROGRESSO.md` e os artefatos de `docs/evidencias/` para os resultados vigentes.
 
 ## Checkpoint
 
-Após o lote 034: 1.259 de 1.547 fontes tratadas (81,38%), 834 unidades, 95 subpainéis, 1.977 atividades, Jornada com 806 unidades presentes e 28 complementares, 987/987 testes e 11/11 rotas.
+Após o lote 035: 1.260 de 1.547 fontes tratadas (81,45%), 834 unidades, 95 subpainéis, 1.977 atividades, Jornada com 806 unidades presentes e 28 complementares, 1038/1038 testes e 11/11 rotas.
 
 O progresso deve ser atualizado exclusivamente por:
 

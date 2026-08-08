@@ -1,0 +1,215 @@
+{
+  "lote": "035",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1213,
+        1214
+      ],
+      "executada_apos_validacao_1213": true,
+      "tamanho_1213": 857,
+      "tamanho_1214": 6320,
+      "hash_bruto_1213": "4d7d149a76b71462586aa7fb66008700566abfe164db6e5a819a9069a9c85356",
+      "hash_bruto_1214": "46905b5b97e77fc3ff2bfc1303010add307cb512e18fe525cd50c476c35bcce3",
+      "hash_normalizado_1213": "09a93f3518902cebec74790af690f263a1683891c49b16b546507b3023365477",
+      "hash_normalizado_1214": "9897ebbc946ee90c0d1f001faab4ed8c428f0855f85b3c8929d8c4cc64c81df3",
+      "corpo_integral_igual": false,
+      "tipo_origem_igual": false,
+      "estrutura_igual": false,
+      "paginacao_1213": "fragmento visual 3/10, sem páginas",
+      "paginacao_1214": "duas páginas contínuas",
+      "imagens_associadas_1213": true,
+      "imagens_associadas_1214": false,
+      "tema_1213": "redução informal gotta",
+      "tema_1214": "connected speech e Flap T",
+      "sobreposicao": "parcial no domínio de pronúncia natural e redução; objetivos, forma, extensão e conteúdo distintos",
+      "conteudo_exclusivo_1213": "ocorrência contextual curta de gotta",
+      "conteudo_exclusivo_1214": "explicações estruturadas de Flap T, linking, elision, assimilation, intrusion e treino",
+      "classificacao": "fontes independentes com sobreposição temática parcial; não são duplicatas",
+      "decisao": "classificar separadamente e não republicar imagem, frase, exemplos, tabelas, páginas ou créditos"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1213,
+      "nome_completo": "1213_E29CFFA1-923C-4363-9DBF-C2D88DC28A01.md",
+      "tipo": "OCR de imagem didática curta",
+      "tamanho_bytes": 857,
+      "hash_bruto": "4d7d149a76b71462586aa7fb66008700566abfe164db6e5a819a9069a9c85356",
+      "hash_normalizado": "09a93f3518902cebec74790af690f263a1683891c49b16b546507b3023365477",
+      "leitura_integral": true,
+      "imagem_original_conferida_somente_leitura": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "marcador_serie": "3/10",
+        "presentes": 1,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": []
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_insuficiente": false,
+        "corrupcao": false,
+        "correspondencia_visual": "forma reduzida, numeração e créditos confirmados; OCR omitiu acentos e normalizou separadores"
+      },
+      "estrutura": {
+        "frases_bilingues": 1,
+        "aproximacoes_foneticas_nao_padronizadas": 1,
+        "creditos_ou_identificadores": 2,
+        "elementos_visuais_decorativos": 5,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "reducao-informal",
+          "natureza": "redução informal gotta para obrigação com think",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L5-0144-01",
+          "justificativa": "A redução gotta já pertence ao objetivo de pronúncia e escuta da unidade existente; o fragmento isolado não justifica nova unidade.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "aproximacao-fonetica",
+          "natureza": "grafia aproximativa para falante de português, sem IPA",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Não é transcrição padronizada e simplifica contrastes relevantes."
+        },
+        {
+          "id": "creditos-marcas-e-visuais",
+          "natureza": "crédito pessoal, perfil, marca de repostagem, bandeiras, contador e botão de áudio",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Dados pessoais/editoriais, marcas e elementos visuais não constituem conteúdo curricular publicável."
+        }
+      ],
+      "totais": {
+        "partes": 3,
+        "consolidadas": 1,
+        "descartadas": 2,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Somente classificação, contagens, hashes e destino; frase, imagem, aproximação fonética, créditos e marcas não foram republicados."
+    },
+    {
+      "numero": 1214,
+      "nome_completo": "1214_QW_SALA04_PDF1_CONNECTED_SPEECH_CONNECTED_SPEECH_FLAP_T_2.md",
+      "tipo": "extração nativa de PDF didático curto",
+      "tamanho_bytes": 6320,
+      "hash_bruto": "46905b5b97e77fc3ff2bfc1303010add307cb512e18fe525cd50c476c35bcce3",
+      "hash_normalizado": "9897ebbc946ee90c0d1f001faab4ed8c428f0855f85b3c8929d8c4cc64c81df3",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": true,
+        "presentes": [
+          1,
+          2
+        ],
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "paginas": 2,
+        "secoes_uteis": 4,
+        "linhas_explicativas_ou_exemplificativas": 25,
+        "instrucoes_de_treino": 4,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "indices": 0,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "conceito-connected-speech",
+          "paginas": [
+            1
+          ],
+          "natureza": "explicação de conexão entre sons e impacto na compreensão",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "justificativa": "O conceito e o reconhecimento da fala conectada já pertencem ao destino existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "flap-t",
+          "paginas": [
+            1
+          ],
+          "natureza": "regra, ambientes e reconhecimento do Flap T americano",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "justificativa": "O fenômeno integra o objetivo de connected speech existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "outros-padroes",
+          "paginas": [
+            2
+          ],
+          "natureza": "visão comparativa de linking, elision, assimilation e intrusion",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "justificativa": "Os quatro fenômenos já são o núcleo do destino existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "treino-escuta-imitacao",
+          "paginas": [
+            2
+          ],
+          "natureza": "sequência de ouvir, comparar, repetir e gravar",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L15-0841-01",
+          "justificativa": "O procedimento corresponde ao treino de shadowing e imitação já publicado.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "enquadramento-editorial",
+          "paginas": [
+            1,
+            2
+          ],
+          "natureza": "alertas, mito, resumo e repetição motivacional",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Reitera as regras já destinadas e não acrescenta objetivo curricular autônomo."
+        }
+      ],
+      "totais": {
+        "partes": 5,
+        "consolidadas": 4,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Somente estrutura, contagens, decisões, hashes e destinos; explicações, exemplos, tabelas e páginas não foram republicados."
+    }
+  ]
+}

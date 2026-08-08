@@ -1,0 +1,38 @@
+{
+  "total": 8,
+  "aprovados": 8,
+  "resultados": [
+    {
+      "teste": "ordem",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "corpos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hashes brutos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hashes normalizados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "natureza",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "paginação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "temas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "classificação",
+      "resultado": "APROVADO"
+    }
+  ]
+}

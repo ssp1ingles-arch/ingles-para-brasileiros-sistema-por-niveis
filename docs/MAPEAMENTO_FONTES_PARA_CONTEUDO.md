@@ -232,3 +232,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1211 e 1212 compartilham modelo visual e verbo-base, mas distinguem past perfect e presente simples. Somente decisões e procedências sanitizadas foram publicadas.
 <!-- LOTE-034-MAPEAMENTO:FIM -->
+
+<!-- LOTE-035-MAPEAMENTO:INICIO -->
+## Lote 035 — mapeamento
+
+1213 é um fragmento visual de redução informal; 1214 é um PDF curto sobre connected speech e Flap T. Os destinos existentes receberam apenas procedência sanitizada.
+<!-- LOTE-035-MAPEAMENTO:FIM -->

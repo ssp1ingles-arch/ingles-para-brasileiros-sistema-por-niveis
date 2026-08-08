@@ -281,3 +281,12 @@
 - Classificar como fragmentos complementares, não duplicatas.
 - Descartar aproximações fonéticas, créditos, perfis, marcas e elementos visuais; encerrar antes de 1213.
 <!-- LOTE-034-DECISOES:FIM -->
+
+<!-- LOTE-035-DECISOES:INICIO -->
+## Decisões do lote 035
+
+- Conferir 1213 no Markdown e na imagem somente leitura; destinar gotta a B1-L5-0144-01.
+- Ler integralmente as duas páginas de 1214 e destinar connected speech a B2-L10-0461-03 e treino a B1-L15-0841-01.
+- Classificar as fontes como independentes com sobreposição temática parcial.
+- Não publicar imagem, páginas, exemplos, tabelas, aproximação fonética ou créditos; encerrar antes de 1215.
+<!-- LOTE-035-DECISOES:FIM -->

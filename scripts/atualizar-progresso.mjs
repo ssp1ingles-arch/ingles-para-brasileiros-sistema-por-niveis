@@ -115,6 +115,10 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-034/resultados-validacao-034.json'
   ,'docs/evidencias/lote-034/resultados-comparacao-034.json'
   ,'docs/evidencias/lote-034/resultados-rotas-034.json'
+  ,'docs/evidencias/lote-035/resultados-intermediarios-1213.json'
+  ,'docs/evidencias/lote-035/resultados-validacao-035.json'
+  ,'docs/evidencias/lote-035/resultados-comparacao-035.json'
+  ,'docs/evidencias/lote-035/resultados-rotas-035.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);
@@ -193,6 +197,10 @@ if (ultimoLote >= 33 && !progresso.includes(marcadorLote033)) {
 const marcadorLote034 = '<!-- LOTE-034-PROGRESSO:INICIO -->';
 if (ultimoLote >= 34 && !progresso.includes(marcadorLote034)) {
   progresso = `${progresso.trim()}\n\n${marcadorLote034}\n## Lote 034\n\n- Sequenciais: 1211–1212; dois OCRs de imagens integralmente classificados e visualmente conferidos.\n- Relação: fragmentos complementares; past perfect e presente simples de think consolidados no mesmo destino existente.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1212_C403A60B-9EDA-4826-B134-DFDE49801CA7.md\`; próxima: \`1213_E29CFFA1-923C-4363-9DBF-C2D88DC28A01.md\`.\n<!-- LOTE-034-PROGRESSO:FIM -->\n`;
+}
+const marcadorLote035 = '<!-- LOTE-035-PROGRESSO:INICIO -->';
+if (ultimoLote >= 35 && !progresso.includes(marcadorLote035)) {
+  progresso = `${progresso.trim()}\n\n${marcadorLote035}\n## Lote 035\n\n- Sequenciais: 1213–1214; um fragmento visual e um PDF curto integralmente classificados.\n- Relação: fontes independentes com sobreposição temática parcial em pronúncia natural.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1214_QW_SALA04_PDF1_CONNECTED_SPEECH_CONNECTED_SPEECH_FLAP_T_2.md\`; próxima: \`1215_QW_SALA04_PDF2_CONTENT_FUNCTION_CONTENT_WORDS_FUNCTION_WORDS_STRESS_2.md\`.\n<!-- LOTE-035-PROGRESSO:FIM -->\n`;
 }
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);
