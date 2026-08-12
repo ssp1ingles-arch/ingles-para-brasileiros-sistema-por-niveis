@@ -1,0 +1,403 @@
+{
+  "lote": "038",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1219,
+        1220
+      ],
+      "executada_apos_validacao_1219": true,
+      "tamanhos": [
+        17595,
+        3536
+      ],
+      "hashes_brutos": [
+        "cff22d813bcafa7b3d7472a646c842c3249ca99921ea780ab7a9a827b9763995",
+        "be52a74f8b876acd7dcbe33dccc98b8c72c37f31a60c975bfc7c4e3813c04446"
+      ],
+      "hashes_normalizados": [
+        "328e3975577b74863ff3d7bd8fcfca62624cc08f9cfdca6f6f29dc4a55a974e2",
+        "80e37a44905869870957d87f69e1a6c15b50d6d5a6c472e0a83ac5d7432c4190"
+      ],
+      "corpo_integral_igual": false,
+      "estrutura_igual": false,
+      "secoes": [
+        12,
+        8
+      ],
+      "tema_1219": "erros de pronúncia e percepção sonora do brasileiro",
+      "tema_1220": "hub de reduções e pronúncia com oito cartões",
+      "referencias_1219": 1,
+      "referencias_1220": 9,
+      "sobreposicao": "1220 contém apenas um cartão-resumo e um link para 1219; não contém seu corpo didático",
+      "conteudo_exclusivo_1219": "doze blocos didáticos de articulação, contrastes, percepção e treino",
+      "conteudo_exclusivo_1220": "sete outros cartões e moldura editorial de navegação",
+      "classificacao": "fontes independentes; 1219 é didática e 1220 é índice/hub editorial",
+      "decisao": "classificar 1219 em destinos existentes e registrar 1220 sem convertê-la em lição"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1219,
+      "nome_completo": "1219_erros-de-som.md",
+      "tipo": "extração de página HTML didática",
+      "tamanho_bytes": 17595,
+      "hash_bruto": "cff22d813bcafa7b3d7472a646c842c3249ca99921ea780ab7a9a827b9763995",
+      "hash_normalizado": "328e3975577b74863ff3d7bd8fcfca62624cc08f9cfdca6f6f29dc4a55a974e2",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "blocos_presentes": 12,
+        "ausentes": [],
+        "repetidos": [],
+        "vazios": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "pagina_didatica": true,
+        "blocos_didaticos": 12,
+        "navegacao_ou_interface": true,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "oito-erros-iniciais",
+          "natureza": "diagnóstico de eight, two, three, the, work, beach, worked, comfortable e clothes",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "Contrastes de sons e inteligibilidade já pertencem à unidade funcional existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "th",
+          "natureza": "TH sonoro e surdo, articulação e pares de contraste",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "A2-B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "O treino articulatório e os contrastes são cobertos pelo destino específico de sons e prática.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "ed-passado",
+          "natureza": "terminações -ED /t/, /d/ e /ɪd/",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "A2-B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "A variação sonora de -ED integra o treino sistemático de pronúncia inteligível.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "i-curto-longo",
+          "natureza": "contraste vocálico curto e longo e pares mínimos",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "Pares mínimos e contraste de sons são objetivos explícitos do destino.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "work-word-world",
+          "natureza": "vogal e encadeamento articulatório em work, word e world",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "O bloco é prática focal de sons para inteligibilidade.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "epentese",
+          "natureza": "vogal epentética após consoante final e antes de grupos com s",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "A correção da inserção vocálica pertence ao treino de sons e ritmo já existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "silabas-reduzidas",
+          "natureza": "redução de sílabas átonas e percepção da fala natural",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia e escuta",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L10-0461-03"
+          ],
+          "justificativa": "A articulação fica no destino de sons e ritmo; a percepção de redução é coberta por connected speech.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "letras-mudas",
+          "natureza": "letras não pronunciadas e reconhecimento lexical",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "A2-B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "O contraste entre grafia e som integra a prática de pronúncia inteligível.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "r-l",
+          "natureza": "articulação e contraste de R e L",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "Contrastes consonantais são cobertos pela unidade específica de sons.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "v-b-h",
+          "natureza": "contrastes V/B, H pronunciado e H mudo",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "Os contrastes articulatórios já têm destino curricular específico.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "pares-mudanca-sentido",
+          "natureza": "pares mínimos cuja troca sonora altera o significado",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia e escuta",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "O objetivo é contrastar sons com foco em inteligibilidade, exatamente o escopo da unidade.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "treino-autonomo",
+          "natureza": "gravação, comparação, repetição e shadowing sem professor",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L15-0841-01",
+          "justificativa": "O método de treino converge com a unidade existente de shadowing funcional.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "interface-editorial-tabelas",
+          "natureza": "cabeçalho, busca, mensagens de interface, enquadramento editorial, tabelas extensas, transcrições aproximadas e exemplos repetitivos",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Interface não é objetivo curricular; reprodução extensa e pseudo-fonética aproximada não melhorariam o painel e os conceitos úteis já foram destinados.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 13,
+        "consolidadas": 12,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Fonte integralmente classificada; somente procedências sanitizadas serão acrescentadas a destinos existentes, sem reproduzir tabelas, exercícios ou conteúdo extenso."
+    },
+    {
+      "numero": 1220,
+      "nome_completo": "1220_index_8.md",
+      "tipo": "índice e hub de navegação com resumo editorial",
+      "tamanho_bytes": 3536,
+      "hash_bruto": "be52a74f8b876acd7dcbe33dccc98b8c72c37f31a60c975bfc7c4e3813c04446",
+      "hash_normalizado": "80e37a44905869870957d87f69e1a6c15b50d6d5a6c472e0a83ac5d7432c4190",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "blocos_presentes": 8,
+        "ausentes": [],
+        "repetidos": [],
+        "vazios": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "indice": true,
+        "hub": true,
+        "navegacao": true,
+        "resumo_editorial": true,
+        "fonte_didatica": false,
+        "cartoes": 8,
+        "links": 9,
+        "explicacoes": false,
+        "exemplos": false,
+        "traducoes": false,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "referencias": {
+        "numeradas": [
+          1221,
+          1225,
+          1218,
+          1228,
+          1222,
+          1223,
+          1219,
+          1224
+        ],
+        "ja_classificadas": [
+          1218,
+          1219
+        ],
+        "pendentes": [
+          1221,
+          1222,
+          1223,
+          1224,
+          1225,
+          1228
+        ],
+        "sem_fonte_numerada": []
+      },
+      "partes": [
+        {
+          "id": "livro-x-rua",
+          "natureza": "cartão de navegação: Livro x Rua",
+          "decisao": "registrar referência sem criar lição",
+          "fonte_referenciada": 1221,
+          "estado": "pendente",
+          "destino_curricular_especifico": null,
+          "justificativa": "A referência aponta para fonte numerada pendente e será decidida em sua ordem própria.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "reducoes",
+          "natureza": "cartão de navegação: Os 5 Tipos de Redução",
+          "decisao": "registrar referência sem criar lição",
+          "fonte_referenciada": 1225,
+          "estado": "pendente",
+          "destino_curricular_especifico": null,
+          "justificativa": "A referência aponta para fonte numerada pendente e será decidida em sua ordem própria.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "entender-nativos",
+          "natureza": "cartão de navegação: Como Entender Nativos",
+          "decisao": "registrar referência sem criar lição",
+          "fonte_referenciada": 1218,
+          "estado": "classificada",
+          "destino_curricular_especifico": null,
+          "justificativa": "A referência aponta para fonte numerada já classificada.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "verbo-think",
+          "natureza": "cartão de navegação: Um Verbo, Todos os Tempos — Think",
+          "decisao": "registrar referência sem criar lição",
+          "fonte_referenciada": 1228,
+          "estado": "pendente",
+          "destino_curricular_especifico": null,
+          "justificativa": "A referência aponta para fonte numerada pendente e será decidida em sua ordem própria.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "livro01",
+          "natureza": "cartão de navegação: Rachel's English · Fala Ligada",
+          "decisao": "registrar referência sem criar lição",
+          "fonte_referenciada": 1222,
+          "estado": "pendente",
+          "destino_curricular_especifico": null,
+          "justificativa": "A referência aponta para fonte numerada pendente e será decidida em sua ordem própria.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "livro02",
+          "natureza": "cartão de navegação: Rachel's English · Sistema de Sons",
+          "decisao": "registrar referência sem criar lição",
+          "fonte_referenciada": 1223,
+          "estado": "pendente",
+          "destino_curricular_especifico": null,
+          "justificativa": "A referência aponta para fonte numerada pendente e será decidida em sua ordem própria.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "erros-de-som",
+          "natureza": "cartão de navegação: Erros de Som do Brasileiro",
+          "decisao": "registrar referência sem criar lição",
+          "fonte_referenciada": 1219,
+          "estado": "classificada",
+          "destino_curricular_especifico": null,
+          "justificativa": "A referência aponta para fonte numerada já classificada.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "livro03",
+          "natureza": "cartão de navegação: English Pronunciation Made Simple",
+          "decisao": "registrar referência sem criar lição",
+          "fonte_referenciada": 1224,
+          "estado": "pendente",
+          "destino_curricular_especifico": null,
+          "justificativa": "A referência aponta para fonte numerada pendente e será decidida em sua ordem própria.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "moldura-editorial-e-nota-de-exclusao",
+          "natureza": "título, chamada, contagens, botões e nota editorial sobre PDFs excluídos",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Navegação e resumo editorial não constituem objetivo curricular nem lição.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 9,
+        "referencias_registradas": 8,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Índice registrado como navegação, sem transformação em lição e sem antecipar fontes pendentes."
+    }
+  ]
+}

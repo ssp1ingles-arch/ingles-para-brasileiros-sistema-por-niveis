@@ -1,0 +1,47 @@
+{
+  "versao": "038",
+  "gerado_em": "2026-08-12T01:37:14.255Z",
+  "comparacao": {
+    "antes": {
+      "tratadas": 1263,
+      "pendentes": 284,
+      "cobertura": 81.64
+    },
+    "depois": {
+      "tratadas": 1265,
+      "pendentes": 282,
+      "cobertura": 81.77
+    }
+  },
+  "unidades": 834,
+  "atividades": 1977,
+  "subpaineis": 95,
+  "por_nivel": {
+    "A1": 80,
+    "A2": 360,
+    "B1": 270,
+    "B2": 95,
+    "C1": 18,
+    "C2": 5,
+    "KIDS": 6
+  },
+  "por_habilidade": {
+    "Conversação": 103,
+    "Escrita": 7,
+    "Escuta": 15,
+    "Gramática": 282,
+    "Inglês acadêmico": 15,
+    "Inglês profissional": 5,
+    "Leitura": 13,
+    "Pronúncia": 21,
+    "Verbos": 339,
+    "Vocabulário": 34
+  },
+  "impacto": "1219 foi consolidada em três destinos existentes de pronúncia, connected speech e shadowing; 1220 foi registrada como índice/hub editorial, sem virar lição.",
+  "lacunas_abertas": [
+    "escuta objetiva",
+    "inglês profissional",
+    "Kids legítimo",
+    "C2 comprovado"
+  ]
+}

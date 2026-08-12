@@ -169,3 +169,9 @@ Cobertura: 81,45% → 81,51%. A contagem cresce em uma fonte porque 1216 já est
 
 Cobertura: 81,51% → 81,64%. As duas fontes foram decididas integralmente, sem alterar 834 unidades, 1.977 atividades, 95 subpainéis ou a Jornada 806+28.
 <!-- LOTE-037-COBERTURA:FIM -->
+
+<!-- LOTE-038-COBERTURA:INICIO -->
+## Atualização curricular — lote 038
+
+Cobertura: 81,64% → 81,77%. As duas fontes foram decididas integralmente, sem alterar 834 unidades, 1.977 atividades, 95 subpainéis ou a Jornada 806+28.
+<!-- LOTE-038-COBERTURA:FIM -->

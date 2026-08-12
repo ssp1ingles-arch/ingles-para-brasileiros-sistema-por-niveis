@@ -127,6 +127,10 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-037/resultados-validacao-037.json'
   ,'docs/evidencias/lote-037/resultados-comparacao-037.json'
   ,'docs/evidencias/lote-037/resultados-rotas-037.json'
+  ,'docs/evidencias/lote-038/resultados-intermediarios-1219.json'
+  ,'docs/evidencias/lote-038/resultados-validacao-038.json'
+  ,'docs/evidencias/lote-038/resultados-comparacao-038.json'
+  ,'docs/evidencias/lote-038/resultados-rotas-038.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);
@@ -213,6 +217,10 @@ if (ultimoLote >= 35 && !progresso.includes(marcadorLote035)) {
 const marcadorLote037 = '<!-- LOTE-037-PROGRESSO:INICIO -->';
 if (ultimoLote >= 37 && !progresso.includes(marcadorLote037)) {
   progresso = `${progresso.trim()}\n\n${marcadorLote037}\n## Lote 037\n\n- Sequenciais: 1217–1218; uma duplicata integral e uma página agregadora integralmente classificada.\n- Relação: 1217 repete 0144/0781; 1218 contém integralmente os quatro blocos 1214–1217 e não possui conteúdo didático exclusivo.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1218_entender-nativos.md\`; próxima: \`1219_erros-de-som.md\`.\n<!-- LOTE-037-PROGRESSO:FIM -->\n`;
+}
+const marcadorLote038 = '<!-- LOTE-038-PROGRESSO:INICIO -->';
+if (ultimoLote >= 38 && !progresso.includes(marcadorLote038)) {
+  progresso = `${progresso.trim()}\n\n${marcadorLote038}\n## Lote 038\n\n- Sequenciais: 1219–1220; uma página didática e um índice/hub integralmente classificados.\n- Relação: 1219 foi consolidada em destinos existentes; 1220 apenas referencia fontes numeradas e não virou lição.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1220_index_8.md\`; próxima: \`1221_livro-x-rua.md\`.\n<!-- LOTE-038-PROGRESSO:FIM -->\n`;
 }
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);

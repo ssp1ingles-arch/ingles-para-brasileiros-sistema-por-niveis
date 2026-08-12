@@ -1,0 +1,42 @@
+{
+  "lote": "038",
+  "intervalo": [
+    1219,
+    1220
+  ],
+  "sequenciais": [
+    {
+      "numero": 1219,
+      "nome": "1219_erros-de-som.md",
+      "tamanho_bytes": 17595,
+      "hash_bruto": "cff22d813bcafa7b3d7472a646c842c3249ca99921ea780ab7a9a827b9763995",
+      "hash_normalizado": "328e3975577b74863ff3d7bd8fcfca62624cc08f9cfdca6f6f29dc4a55a974e2",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "extração de página HTML didática",
+      "blocos": 12,
+      "partes": 13,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1220,
+      "nome": "1220_index_8.md",
+      "tamanho_bytes": 3536,
+      "hash_bruto": "be52a74f8b876acd7dcbe33dccc98b8c72c37f31a60c975bfc7c4e3813c04446",
+      "hash_normalizado": "80e37a44905869870957d87f69e1a6c15b50d6d5a6c472e0a83ac5d7432c4190",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "índice e hub de navegação com resumo editorial",
+      "blocos": 8,
+      "partes": 9,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1219,
+    "testes": "17/17",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1220, antes de 1221; 1219 é fonte didática consolidada e 1220 é índice/hub sem lição autônoma."
+}

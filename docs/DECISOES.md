@@ -309,3 +309,13 @@
 - Consolidar somente procedências em destinos existentes; não criar unidades, atividades, painéis ou subpainéis.
 - Preservar integralmente interface, Jornada, IDs, ordens, progresso, revisão, retomada e localStorage; encerrar antes de 1219.
 <!-- LOTE-037-DECISOES:FIM -->
+
+<!-- LOTE-038-DECISOES:INICIO -->
+## Decisões do lote 038
+
+- Ler e decidir integralmente 1219, persistindo 17/17 validações intermediárias antes de abrir 1220.
+- Consolidar os 12 blocos úteis de 1219 em B1-L14-1203-01, B2-L10-0461-03 e B1-L15-0841-01; descartar interface, pseudo-fonética e reprodução extensa.
+- Classificar 1220 como índice, hub, navegação e resumo editorial, não como lição.
+- Reconciliar suas oito referências com fontes numeradas já classificadas ou pendentes na sequência.
+- Preservar interface, Jornada, IDs, favoritos, progresso, revisão, retomada e localStorage; encerrar antes de 1221.
+<!-- LOTE-038-DECISOES:FIM -->

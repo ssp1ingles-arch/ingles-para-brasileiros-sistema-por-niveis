@@ -1,0 +1,74 @@
+{
+  "total": 17,
+  "aprovados": 17,
+  "resultados": [
+    {
+      "teste": "leitura integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "12 blocos íntegros",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "13 partes decididas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "destinos válidos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero útil sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "integridade e sem OCR",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem automação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução extensa",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sanitização",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash bruto",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash normalizado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "estrutura de 12 seções",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "tipos de conteúdo identificados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "834 IDs únicos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1977 atividades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "barreira 1219",
+      "resultado": "APROVADO"
+    }
+  ]
+}
