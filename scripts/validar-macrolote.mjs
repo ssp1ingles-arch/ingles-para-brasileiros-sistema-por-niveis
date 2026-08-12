@@ -17,5 +17,9 @@ t('mapa e revisão consistentes',man.fontes.every(x=>rev[String(x.numero)]&&mapa
 t('procedências incorporadas',man.fontes.filter(x=>x.destinos.length).every(x=>x.destinos.every(id=>unidades.find(u=>u.id===id).fontes.some(f=>f.arquivo===x.nome))));
 t('retomada e próxima fonte',cp.checkpoints.every(x=>x.validacoes_incrementais&&x.conteudo_util_sem_destino===0)&&cp.checkpoints.at(-1).proxima_fonte===man.proxima_fonte_nao_aberta);
 t('currículo preservado',unidades.length===834&&ler('dados/atividades.json').length===1977);
+t('intervalo sequencial completo',lote!=='053'||(man.intervalo_numerico[0]===1456&&man.intervalo_numerico[1]===1547&&man.proxima_fonte_nao_aberta===null));
+t('trinta pendências históricas isoladas',lote!=='053'||(man.pendencias_historicas_nao_abertas?.length===30&&man.pendencias_historicas_nao_abertas.every(fonte=>fonte.numero<1456)));
+t('duplicata nunca aponta para si',man.fontes.filter(fonte=>fonte.duplicata_de).every(fonte=>fonte.numero!==+fonte.duplicata_de));
+t('fontes editoriais não recebem destinos',man.fontes.filter(fonte=>['administrativa','índice/navegação','sem conteúdo didático'].includes(fonte.estado_principal)).every(fonte=>fonte.destinos.length===0));
 fs.mkdirSync(path.join(raiz,`docs/evidencias/lote-${lote}`),{recursive:true});fs.writeFileSync(path.join(raiz,`docs/evidencias/lote-${lote}/resultados-validacao-${lote}.json`),JSON.stringify({total:n,aprovados:n,resultados:testes},null,2)+'\n');
 console.log(`MACROLOTE ${lote}: ${n}/${n} testes agregados aprovados.`);

@@ -1,0 +1,870 @@
+{
+  "lote": "053",
+  "sequenciais": [
+    {
+      "numero": 1456,
+      "nome": "1456_REGRAS_11.md"
+    },
+    {
+      "numero": 1457,
+      "nome": "1457_REGRAS_AVANCADO.md"
+    },
+    {
+      "numero": 1463,
+      "nome": "1463_04_Grammar_and_Vocabulary_for_Cambridge_Advanced_and_Proficiency.md"
+    },
+    {
+      "numero": 1464,
+      "nome": "1464_04_New_English_File_-_Advanced_Level._Student's_Book.md"
+    },
+    {
+      "numero": 1465,
+      "nome": "1465_05_Close-up_-_2nd_-_C1_Workbook.md"
+    },
+    {
+      "numero": 1466,
+      "nome": "1466_05_Close-up_-_2nd_-_C1_Workbook_2.md"
+    },
+    {
+      "numero": 1467,
+      "nome": "1467_05_New_English_File_-_Advanced_Level._Student's_Book.md"
+    },
+    {
+      "numero": 1469,
+      "nome": "1469_06_Close-up_-_1st_-_C2_Workbook_2.md"
+    },
+    {
+      "numero": 1470,
+      "nome": "1470_index_21.md"
+    },
+    {
+      "numero": 1471,
+      "nome": "1471_livro01_14.md"
+    },
+    {
+      "numero": 1472,
+      "nome": "1472_livro02_13.md"
+    },
+    {
+      "numero": 1473,
+      "nome": "1473_livro03_14.md"
+    },
+    {
+      "numero": 1474,
+      "nome": "1474_livro04_12.md"
+    },
+    {
+      "numero": 1475,
+      "nome": "1475_livro05_7.md"
+    },
+    {
+      "numero": 1476,
+      "nome": "1476_livro06_5.md"
+    },
+    {
+      "numero": 1477,
+      "nome": "1477_REGRAS_12.md"
+    },
+    {
+      "numero": 1478,
+      "nome": "1478_REGRAS_AVANCADO_2.md"
+    },
+    {
+      "numero": 1479,
+      "nome": "1479_01_Advancing_Vocabulary_Skills_-_By_Sherrie_L._Nist.md"
+    },
+    {
+      "numero": 1480,
+      "nome": "1480_01_Advancing_Vocabulary_Skills_-_By_Sherrie_L._Nist_2.md"
+    },
+    {
+      "numero": 1481,
+      "nome": "1481_02_English_Advancing_A_Bridge_to_Success.md"
+    },
+    {
+      "numero": 1482,
+      "nome": "1482_02_English_Advancing_A_Bridge_to_Success_2.md"
+    },
+    {
+      "numero": 1483,
+      "nome": "1483_03_New_Cambridge_Advanced_English_Student's_book.md"
+    },
+    {
+      "numero": 1484,
+      "nome": "1484_03_New_Cambridge_Advanced_English_Student's_book_2.md"
+    },
+    {
+      "numero": 1485,
+      "nome": "1485_index_22.md"
+    },
+    {
+      "numero": 1486,
+      "nome": "1486_livro01_15.md"
+    },
+    {
+      "numero": 1487,
+      "nome": "1487_livro02_14.md"
+    },
+    {
+      "numero": 1488,
+      "nome": "1488_livro03_15.md"
+    },
+    {
+      "numero": 1489,
+      "nome": "1489_REGRAS_13.md"
+    },
+    {
+      "numero": 1490,
+      "nome": "1490_REGRAS_AVANCADO_3.md"
+    },
+    {
+      "numero": 1491,
+      "nome": "1491_01_The_Most_Effective_Vocabulary_Builder_in_the_English_Language_(Norman-Lewis).md"
+    },
+    {
+      "numero": 1492,
+      "nome": "1492_01_The_Most_Effective_Vocabulary_Builder_in_the_English_Language_(Norman-Lewis)_2.md"
+    },
+    {
+      "numero": 1493,
+      "nome": "1493_02_Talk_Like_TED_The_9_Public-Speaking_Secrets_of_the_Worlds_Top_Minds_(Carmine_Gallo)_(z-lib.org).md"
+    },
+    {
+      "numero": 1494,
+      "nome": "1494_02_Talk_Like_TED_The_9_Public-Speaking_Secrets_of_the_Worlds_Top_Minds_(Carmine_Gallo)_(z-lib.org)_2.md"
+    },
+    {
+      "numero": 1495,
+      "nome": "1495_03_The_Art_Of_Public_Speaking.md"
+    },
+    {
+      "numero": 1496,
+      "nome": "1496_03_The_Art_Of_Public_Speaking_2.md"
+    },
+    {
+      "numero": 1497,
+      "nome": "1497_04_4000_Essential_English_Words_Book_6.md"
+    },
+    {
+      "numero": 1498,
+      "nome": "1498_04_4000_Essential_English_Words_Book_6_2.md"
+    },
+    {
+      "numero": 1499,
+      "nome": "1499_index_23.md"
+    },
+    {
+      "numero": 1500,
+      "nome": "1500_livro01_16.md"
+    },
+    {
+      "numero": 1501,
+      "nome": "1501_livro02_15.md"
+    },
+    {
+      "numero": 1502,
+      "nome": "1502_livro03_16.md"
+    },
+    {
+      "numero": 1503,
+      "nome": "1503_livro04_13.md"
+    },
+    {
+      "numero": 1505,
+      "nome": "1505_01_Kid's_Box_New_Generation_Level_3_Student's_Book_with_eBook_American_English_2.md"
+    },
+    {
+      "numero": 1507,
+      "nome": "1507_02_Kid's_Box_American_English_4_-_Student's_Book_-_Updated_Second_Edition_2.md"
+    },
+    {
+      "numero": 1511,
+      "nome": "1511_04_English_for_Everyone_Junior_Beginner's_Course_2.md"
+    },
+    {
+      "numero": 1512,
+      "nome": "1512_index_24.md"
+    },
+    {
+      "numero": 1515,
+      "nome": "1515_livro03_17.md"
+    },
+    {
+      "numero": 1516,
+      "nome": "1516_livro04_14.md"
+    },
+    {
+      "numero": 1517,
+      "nome": "1517_index_25.md"
+    },
+    {
+      "numero": 1518,
+      "nome": "1518_Inglês_em_alguns_minutos___SÉRIE_COMPLETA_PARA_APRENDER_INGLÊS__DESENHO_ANIMADO___INGLÊS_AMERICANO___NÍVEL_BÁSICO.md"
+    },
+    {
+      "numero": 1519,
+      "nome": "1519_REGRAS_14.md"
+    },
+    {
+      "numero": 1520,
+      "nome": "1520_Captura_de_tela_2026-08-05_094507.md"
+    },
+    {
+      "numero": 1522,
+      "nome": "1522_IMG_7152.md"
+    },
+    {
+      "numero": 1523,
+      "nome": "1523_IMG_7153.md"
+    },
+    {
+      "numero": 1524,
+      "nome": "1524_IMG_7154.md"
+    },
+    {
+      "numero": 1525,
+      "nome": "1525_IMG_7155.md"
+    },
+    {
+      "numero": 1526,
+      "nome": "1526_index_26.md"
+    },
+    {
+      "numero": 1527,
+      "nome": "1527_MAPEAMENTO_ARQUIVOS.md"
+    },
+    {
+      "numero": 1528,
+      "nome": "1528_nivel-01.md"
+    },
+    {
+      "numero": 1529,
+      "nome": "1529_nivel-02.md"
+    },
+    {
+      "numero": 1530,
+      "nome": "1530_nivel-03.md"
+    },
+    {
+      "numero": 1531,
+      "nome": "1531_nivel-04.md"
+    },
+    {
+      "numero": 1532,
+      "nome": "1532_nivel-05.md"
+    },
+    {
+      "numero": 1533,
+      "nome": "1533_nivel-06.md"
+    },
+    {
+      "numero": 1534,
+      "nome": "1534_PROGRESSO_CONVERSAO_PDFS.md"
+    },
+    {
+      "numero": 1535,
+      "nome": "1535_REGRAS_AVANCADO_4.md"
+    },
+    {
+      "numero": 1536,
+      "nome": "1536_REGRAS_GERAIS.md"
+    },
+    {
+      "numero": 1537,
+      "nome": "1537_RESUMO_TECNICO_PROJETO.md"
+    },
+    {
+      "numero": 1538,
+      "nome": "1538_RESUMO_TECNICO_PROJETO_v2.md"
+    },
+    {
+      "numero": 1539,
+      "nome": "1539_2000_Palavras_Ingles.md"
+    },
+    {
+      "numero": 1540,
+      "nome": "1540_Amy_Gillett-Speak_English_Like_An_American.md"
+    },
+    {
+      "numero": 1541,
+      "nome": "1541_English_Fluency_for_Advanced_English_Speaker_(Whitney_Nelson).md"
+    },
+    {
+      "numero": 1542,
+      "nome": "1542_How_to_improve_English_speak_in_7_days.md"
+    },
+    {
+      "numero": 1543,
+      "nome": "1543_how_to_speak_english_fluently_(Janet_Gerber).md"
+    },
+    {
+      "numero": 1544,
+      "nome": "1544_How_to_Speak_English_Fluently_(Yogesh_Verman).md"
+    },
+    {
+      "numero": 1545,
+      "nome": "1545_Student's_book_-_Basic_English_for_workplace_comunication.md"
+    },
+    {
+      "numero": 1546,
+      "nome": "1546_The_English_Fluency_Formula.md"
+    },
+    {
+      "numero": 1547,
+      "nome": "1547_sistemas.md"
+    }
+  ],
+  "intervalo_numerico": [
+    1456,
+    1547
+  ],
+  "fontes": [
+    {
+      "numero": 1456,
+      "nome": "1456_REGRAS_11.md",
+      "bytes": 2918,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1457,
+      "nome": "1457_REGRAS_AVANCADO.md",
+      "bytes": 5640,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1463,
+      "nome": "1463_04_Grammar_and_Vocabulary_for_Cambridge_Advanced_and_Proficiency.md",
+      "bytes": 1483795,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1464,
+      "nome": "1464_04_New_English_File_-_Advanced_Level._Student's_Book.md",
+      "bytes": 657668,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1465,
+      "nome": "1465_05_Close-up_-_2nd_-_C1_Workbook.md",
+      "bytes": 529139,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1466,
+      "nome": "1466_05_Close-up_-_2nd_-_C1_Workbook_2.md",
+      "bytes": 529140,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1467,
+      "nome": "1467_05_New_English_File_-_Advanced_Level._Student's_Book.md",
+      "bytes": 606688,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1469,
+      "nome": "1469_06_Close-up_-_1st_-_C2_Workbook_2.md",
+      "bytes": 605514,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1470,
+      "nome": "1470_index_21.md",
+      "bytes": 4498,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1471,
+      "nome": "1471_livro01_14.md",
+      "bytes": 101481,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1472,
+      "nome": "1472_livro02_13.md",
+      "bytes": 38156,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1473,
+      "nome": "1473_livro03_14.md",
+      "bytes": 32385,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1474,
+      "nome": "1474_livro04_12.md",
+      "bytes": 36300,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1475,
+      "nome": "1475_livro05_7.md",
+      "bytes": 33409,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1476,
+      "nome": "1476_livro06_5.md",
+      "bytes": 38196,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1477,
+      "nome": "1477_REGRAS_12.md",
+      "bytes": 2859,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1478,
+      "nome": "1478_REGRAS_AVANCADO_2.md",
+      "bytes": 5625,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1479,
+      "nome": "1479_01_Advancing_Vocabulary_Skills_-_By_Sherrie_L._Nist.md",
+      "bytes": 444996,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1480,
+      "nome": "1480_01_Advancing_Vocabulary_Skills_-_By_Sherrie_L._Nist_2.md",
+      "bytes": 444997,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1481,
+      "nome": "1481_02_English_Advancing_A_Bridge_to_Success.md",
+      "bytes": 331408,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1482,
+      "nome": "1482_02_English_Advancing_A_Bridge_to_Success_2.md",
+      "bytes": 331409,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1483,
+      "nome": "1483_03_New_Cambridge_Advanced_English_Student's_book.md",
+      "bytes": 424867,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1484,
+      "nome": "1484_03_New_Cambridge_Advanced_English_Student's_book_2.md",
+      "bytes": 424868,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1485,
+      "nome": "1485_index_22.md",
+      "bytes": 2978,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1486,
+      "nome": "1486_livro01_15.md",
+      "bytes": 36850,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1487,
+      "nome": "1487_livro02_14.md",
+      "bytes": 31803,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1488,
+      "nome": "1488_livro03_15.md",
+      "bytes": 36228,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1489,
+      "nome": "1489_REGRAS_13.md",
+      "bytes": 2911,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1490,
+      "nome": "1490_REGRAS_AVANCADO_3.md",
+      "bytes": 5634,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1491,
+      "nome": "1491_01_The_Most_Effective_Vocabulary_Builder_in_the_English_Language_(Norman-Lewis).md",
+      "bytes": 731414,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1492,
+      "nome": "1492_01_The_Most_Effective_Vocabulary_Builder_in_the_English_Language_(Norman-Lewis)_2.md",
+      "bytes": 731415,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1493,
+      "nome": "1493_02_Talk_Like_TED_The_9_Public-Speaking_Secrets_of_the_Worlds_Top_Minds_(Carmine_Gallo)_(z-lib.org).md",
+      "bytes": 478027,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1494,
+      "nome": "1494_02_Talk_Like_TED_The_9_Public-Speaking_Secrets_of_the_Worlds_Top_Minds_(Carmine_Gallo)_(z-lib.org)_2.md",
+      "bytes": 478028,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1495,
+      "nome": "1495_03_The_Art_Of_Public_Speaking.md",
+      "bytes": 964847,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1496,
+      "nome": "1496_03_The_Art_Of_Public_Speaking_2.md",
+      "bytes": 964848,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1497,
+      "nome": "1497_04_4000_Essential_English_Words_Book_6.md",
+      "bytes": 261229,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1498,
+      "nome": "1498_04_4000_Essential_English_Words_Book_6_2.md",
+      "bytes": 261230,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1499,
+      "nome": "1499_index_23.md",
+      "bytes": 2458,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1500,
+      "nome": "1500_livro01_16.md",
+      "bytes": 23412,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1501,
+      "nome": "1501_livro02_15.md",
+      "bytes": 25383,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1502,
+      "nome": "1502_livro03_16.md",
+      "bytes": 23319,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1503,
+      "nome": "1503_livro04_13.md",
+      "bytes": 135991,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1505,
+      "nome": "1505_01_Kid's_Box_New_Generation_Level_3_Student's_Book_with_eBook_American_English_2.md",
+      "bytes": 54565,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1507,
+      "nome": "1507_02_Kid's_Box_American_English_4_-_Student's_Book_-_Updated_Second_Edition_2.md",
+      "bytes": 75723,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1511,
+      "nome": "1511_04_English_for_Everyone_Junior_Beginner's_Course_2.md",
+      "bytes": 108198,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 1512,
+      "nome": "1512_index_24.md",
+      "bytes": 2508,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1515,
+      "nome": "1515_livro03_17.md",
+      "bytes": 22116,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1516,
+      "nome": "1516_livro04_14.md",
+      "bytes": 17496,
+      "complexidade": "curadoria derivada",
+      "ocr": false
+    },
+    {
+      "numero": 1517,
+      "nome": "1517_index_25.md",
+      "bytes": 1505,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1518,
+      "nome": "1518_Inglês_em_alguns_minutos___SÉRIE_COMPLETA_PARA_APRENDER_INGLÊS__DESENHO_ANIMADO___INGLÊS_AMERICANO___NÍVEL_BÁSICO.md",
+      "bytes": 23361,
+      "complexidade": "fonte curta",
+      "ocr": false
+    },
+    {
+      "numero": 1519,
+      "nome": "1519_REGRAS_14.md",
+      "bytes": 1885,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1520,
+      "nome": "1520_Captura_de_tela_2026-08-05_094507.md",
+      "bytes": 1787,
+      "complexidade": "fonte curta",
+      "ocr": true
+    },
+    {
+      "numero": 1522,
+      "nome": "1522_IMG_7152.md",
+      "bytes": 1770,
+      "complexidade": "fonte curta",
+      "ocr": true
+    },
+    {
+      "numero": 1523,
+      "nome": "1523_IMG_7153.md",
+      "bytes": 1151,
+      "complexidade": "fonte curta",
+      "ocr": true
+    },
+    {
+      "numero": 1524,
+      "nome": "1524_IMG_7154.md",
+      "bytes": 1269,
+      "complexidade": "fonte curta",
+      "ocr": true
+    },
+    {
+      "numero": 1525,
+      "nome": "1525_IMG_7155.md",
+      "bytes": 1203,
+      "complexidade": "fonte curta",
+      "ocr": true
+    },
+    {
+      "numero": 1526,
+      "nome": "1526_index_26.md",
+      "bytes": 1440,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1527,
+      "nome": "1527_MAPEAMENTO_ARQUIVOS.md",
+      "bytes": 87099,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1528,
+      "nome": "1528_nivel-01.md",
+      "bytes": 1915,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1529,
+      "nome": "1529_nivel-02.md",
+      "bytes": 3218,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1530,
+      "nome": "1530_nivel-03.md",
+      "bytes": 4868,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1531,
+      "nome": "1531_nivel-04.md",
+      "bytes": 2969,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1532,
+      "nome": "1532_nivel-05.md",
+      "bytes": 3233,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1533,
+      "nome": "1533_nivel-06.md",
+      "bytes": 1627,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    },
+    {
+      "numero": 1534,
+      "nome": "1534_PROGRESSO_CONVERSAO_PDFS.md",
+      "bytes": 2125,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1535,
+      "nome": "1535_REGRAS_AVANCADO_4.md",
+      "bytes": 5483,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1536,
+      "nome": "1536_REGRAS_GERAIS.md",
+      "bytes": 3718,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1537,
+      "nome": "1537_RESUMO_TECNICO_PROJETO.md",
+      "bytes": 8184,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1538,
+      "nome": "1538_RESUMO_TECNICO_PROJETO_v2.md",
+      "bytes": 16663,
+      "complexidade": "administrativa",
+      "ocr": false
+    },
+    {
+      "numero": 1539,
+      "nome": "1539_2000_Palavras_Ingles.md",
+      "bytes": 34717,
+      "complexidade": "fonte curta",
+      "ocr": false
+    },
+    {
+      "numero": 1540,
+      "nome": "1540_Amy_Gillett-Speak_English_Like_An_American.md",
+      "bytes": 189194,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1541,
+      "nome": "1541_English_Fluency_for_Advanced_English_Speaker_(Whitney_Nelson).md",
+      "bytes": 125860,
+      "complexidade": "fonte média",
+      "ocr": false
+    },
+    {
+      "numero": 1542,
+      "nome": "1542_How_to_improve_English_speak_in_7_days.md",
+      "bytes": 47873,
+      "complexidade": "fonte curta",
+      "ocr": false
+    },
+    {
+      "numero": 1543,
+      "nome": "1543_how_to_speak_english_fluently_(Janet_Gerber).md",
+      "bytes": 67938,
+      "complexidade": "fonte curta",
+      "ocr": false
+    },
+    {
+      "numero": 1544,
+      "nome": "1544_How_to_Speak_English_Fluently_(Yogesh_Verman).md",
+      "bytes": 106419,
+      "complexidade": "fonte média",
+      "ocr": false
+    },
+    {
+      "numero": 1545,
+      "nome": "1545_Student's_book_-_Basic_English_for_workplace_comunication.md",
+      "bytes": 197206,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 1546,
+      "nome": "1546_The_English_Fluency_Formula.md",
+      "bytes": 76872,
+      "complexidade": "fonte curta",
+      "ocr": false
+    },
+    {
+      "numero": 1547,
+      "nome": "1547_sistemas.md",
+      "bytes": 15520,
+      "complexidade": "índice/navegação",
+      "ocr": false
+    }
+  ],
+  "observacao": "Triagem somente leitura; cada fonte foi depois lida e decidida integralmente."
+}

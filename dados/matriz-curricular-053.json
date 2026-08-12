@@ -1,0 +1,70 @@
+{
+  "versao": "053",
+  "gerado_em": "2026-08-12T15:19:34.211Z",
+  "comparacao": {
+    "antes": {
+      "tratadas": 1439,
+      "pendentes": 108,
+      "cobertura": 93.02
+    },
+    "depois": {
+      "tratadas": 1517,
+      "pendentes": 30,
+      "cobertura": 98.06
+    }
+  },
+  "unidades": 834,
+  "atividades": 1977,
+  "subpaineis": 95,
+  "por_nivel": {
+    "A1": 80,
+    "A2": 360,
+    "B1": 270,
+    "B2": 95,
+    "C1": 18,
+    "C2": 5,
+    "KIDS": 6
+  },
+  "por_habilidade": {
+    "Conversação": 103,
+    "Escrita": 7,
+    "Escuta": 15,
+    "Gramática": 282,
+    "Inglês acadêmico": 15,
+    "Inglês profissional": 5,
+    "Leitura": 13,
+    "Pronúncia": 21,
+    "Verbos": 339,
+    "Vocabulário": 34
+  },
+  "impacto": "78 fontes decididas; currículo, interface, atividades e Jornada preservados.",
+  "lacunas_abertas": [
+    "escuta objetiva",
+    "inglês profissional",
+    "Kids legítimo",
+    "C2 comprovado"
+  ],
+  "categorias": {
+    "curadoria derivada": 33,
+    "fonte canônica nova": 18,
+    "duplicata": 17,
+    "índice ou navegação": 6,
+    "fonte curta extraída de imagem": 2,
+    "regra administrativa": 2
+  },
+  "estados_principais": {
+    "administrativa": 13,
+    "integralmente classificada": 40,
+    "duplicata integral": 12,
+    "índice/navegação": 13
+  },
+  "caracteristicas": {
+    "fonte curta": 51,
+    "canônica": 25,
+    "livro extenso": 22,
+    "curadoria derivada": 27,
+    "fonte média": 5,
+    "extração de imagem": 5,
+    "OCR": 5
+  }
+}

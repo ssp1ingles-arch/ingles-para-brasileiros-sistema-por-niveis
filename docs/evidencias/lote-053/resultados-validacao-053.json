@@ -1,0 +1,106 @@
+{
+  "total": 20,
+  "aprovados": 20,
+  "resultados": [
+    {
+      "teste": 1,
+      "nome": "78 fontes únicas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 2,
+      "nome": "estados principais exclusivos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 3,
+      "nome": "características separadas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 4,
+      "nome": "seis checkpoints de 13",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 5,
+      "nome": "união dos checkpoints",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 6,
+      "nome": "amostra manual por checkpoint",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 7,
+      "nome": "hashes brutos preservados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 8,
+      "nome": "hashes normalizados reproduzíveis",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 9,
+      "nome": "duplicatas integralmente iguais",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 10,
+      "nome": "destinos existentes e específicos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 11,
+      "nome": "zero conteúdo útil sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 12,
+      "nome": "decisão por seção",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 13,
+      "nome": "mapa e revisão consistentes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 14,
+      "nome": "procedências incorporadas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 15,
+      "nome": "retomada e próxima fonte",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 16,
+      "nome": "currículo preservado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 17,
+      "nome": "intervalo sequencial completo",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 18,
+      "nome": "trinta pendências históricas isoladas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 19,
+      "nome": "duplicata nunca aponta para si",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": 20,
+      "nome": "fontes editoriais não recebem destinos",
+      "resultado": "APROVADO"
+    }
+  ]
+}

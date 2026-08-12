@@ -1,0 +1,115 @@
+{
+  "fontes": 78,
+  "checkpoints": 6,
+  "amostras_manuais": [
+    {
+      "numero": 1456,
+      "checkpoint": 1,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": false,
+      "secoes_descartadas_verificadas": true,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 1475,
+      "checkpoint": 2,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": true,
+      "secoes_descartadas_verificadas": false,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 1488,
+      "checkpoint": 3,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": true,
+      "secoes_descartadas_verificadas": false,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 1501,
+      "checkpoint": 4,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": true,
+      "secoes_descartadas_verificadas": false,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 1522,
+      "checkpoint": 5,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": true,
+      "secoes_descartadas_verificadas": false,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 1535,
+      "checkpoint": 6,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": false,
+      "secoes_descartadas_verificadas": true,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    }
+  ],
+  "estados_principais": {
+    "administrativa": 13,
+    "integralmente classificada": 40,
+    "duplicata integral": 12,
+    "índice/navegação": 13
+  },
+  "caracteristicas": {
+    "fonte curta": 51,
+    "canônica": 25,
+    "livro extenso": 22,
+    "curadoria derivada": 27,
+    "fonte média": 5,
+    "extração de imagem": 5,
+    "OCR": 5
+  },
+  "conteudo_util_sem_destino": 0,
+  "proxima_fonte_nao_aberta": null,
+  "pendencias_historicas_nao_abertas": 30,
+  "aprovado": true
+}

@@ -23784,8 +23784,8 @@
       "arquivo_original": "REGRAS.md",
       "sistema_origem": "N5 · Sistema 22 — Gramática Avançada · Proficiency",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 7 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -23796,8 +23796,8 @@
       "arquivo_original": "REGRAS_AVANCADO.md",
       "sistema_origem": "N5 · Sistema 22 — Gramática Avançada · Proficiency",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 8 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -23878,9 +23878,23 @@
       "arquivo_original": "04_Grammar and Vocabulary for Cambridge Advanced and Proficiency.pdf",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 287 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L12-1435-01",
+        "C1-L15-1460-01",
+        "C1-L12-1408-01",
+        "C1-L13-1443-01",
+        "C1-L14-1396-01",
+        "C1-L16-0881-03",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "C2-L13-1468-01"
+      ]
     },
     {
       "id": "1464",
@@ -23890,9 +23904,23 @@
       "arquivo_original": "04_New English File - Advanced Level. Student's Book.md",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 171 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1435-01",
+        "C1-L16-0881-03",
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L15-1460-01",
+        "C1-L13-1443-01",
+        "C1-L14-1396-01",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "C1-L12-1408-01",
+        "C2-L13-1468-01"
+      ]
     },
     {
       "id": "1465",
@@ -23902,9 +23930,23 @@
       "arquivo_original": "05_Close-up - 2nd - C1 Workbook.md",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 193 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1435-01",
+        "C1-L16-0881-03",
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L15-1460-01",
+        "C1-L13-1443-01",
+        "C1-L14-1396-01",
+        "C2-L13-1468-01",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "C1-L12-1408-01"
+      ]
     },
     {
       "id": "1466",
@@ -23913,9 +23955,9 @@
       "sha256": "9a33728845acb67592f36ca167e8b242a434552c83e9e4511204894e8eeaa9e0",
       "arquivo_original": "05_Close-up - 2nd - C1 Workbook.pdf",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1465,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1465",
       "unidades": []
     },
     {
@@ -23926,9 +23968,23 @@
       "arquivo_original": "05_New English File - Advanced Level. Student's Book.pdf",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 171 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1435-01",
+        "C1-L16-0881-03",
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L15-1460-01",
+        "C1-L13-1443-01",
+        "C1-L14-1396-01",
+        "C1-L12-1408-01",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "C2-L13-1468-01"
+      ]
     },
     {
       "id": "1468",
@@ -23951,9 +24007,9 @@
       "sha256": "14643d41471e805cfc379a02889621583d8e13495ad95533a3a47cd22636b6e7",
       "arquivo_original": "06_Close-up - 1st - C2 Workbook.pdf",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1468,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1468",
       "unidades": []
     },
     {
@@ -23964,8 +24020,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 7 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -23976,9 +24032,38 @@
       "arquivo_original": "livro01.html",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 37 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L12-1435-01",
+        "C1-L16-0881-03",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1472",
@@ -23988,9 +24073,33 @@
       "arquivo_original": "livro02.html",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 19 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1435-01",
+        "C1-L15-1460-01",
+        "C2-L13-1445-01",
+        "C1-L12-1408-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1473",
@@ -24000,9 +24109,27 @@
       "arquivo_original": "livro03.html",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 17 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L12-1435-01",
+        "C1-L15-1460-01",
+        "C1-L16-0881-03",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1474",
@@ -24012,9 +24139,34 @@
       "arquivo_original": "livro04.html",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 22 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1475",
@@ -24024,9 +24176,33 @@
       "arquivo_original": "livro05.html",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 21 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L12-1435-01",
+        "C1-L15-1460-01",
+        "C1-L16-0881-03",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1476",
@@ -24036,9 +24212,38 @@
       "arquivo_original": "livro06.html",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 23 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L12-1435-01",
+        "C1-L15-1460-01",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1477",
@@ -24048,8 +24253,8 @@
       "arquivo_original": "REGRAS.md",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 7 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24060,8 +24265,8 @@
       "arquivo_original": "REGRAS_AVANCADO.md",
       "sistema_origem": "N5 · Sistema 23 — Gramática Avançada · Oxford",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 8 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24072,9 +24277,30 @@
       "arquivo_original": "01_Advancing Vocabulary Skills - By Sherrie L. Nist.md",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 202 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1480",
@@ -24083,9 +24309,9 @@
       "sha256": "c11a84483ffbfa1a0644e979ce812501199e1973ffe59ae44e8c0bd3e23097d4",
       "arquivo_original": "01_Advancing Vocabulary Skills - By Sherrie L. Nist.pdf",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1479,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1479",
       "unidades": []
     },
     {
@@ -24096,9 +24322,30 @@
       "arquivo_original": "02_English Advancing A Bridge to Success.md",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 185 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1482",
@@ -24107,9 +24354,9 @@
       "sha256": "0b95d3e1a77cda74a1a78c80c23f3fe579512aa1809c367102faac4d5f45ce7d",
       "arquivo_original": "02_English Advancing A Bridge to Success.pdf",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1481,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1481",
       "unidades": []
     },
     {
@@ -24120,9 +24367,23 @@
       "arquivo_original": "03_New Cambridge Advanced English Student's book.md",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 194 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1435-01",
+        "C1-L16-0881-03",
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L15-1460-01",
+        "C1-L13-1443-01",
+        "C1-L14-1396-01",
+        "C2-L13-1468-01",
+        "C1-L12-1408-01",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01"
+      ]
     },
     {
       "id": "1484",
@@ -24131,9 +24392,9 @@
       "sha256": "f58c3be55c0d972beacc97f23951349683ad150eb7afc0ca0e507c479910b287",
       "arquivo_original": "03_New Cambridge Advanced English Student's book.pdf",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1483,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1483",
       "unidades": []
     },
     {
@@ -24144,8 +24405,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 4 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24156,9 +24417,26 @@
       "arquivo_original": "livro01.html",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 16 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1487",
@@ -24168,9 +24446,26 @@
       "arquivo_original": "livro02.html",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 21 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1488",
@@ -24180,9 +24475,38 @@
       "arquivo_original": "livro03.html",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 17 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L12-1435-01",
+        "C1-L15-1460-01",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1489",
@@ -24192,8 +24516,8 @@
       "arquivo_original": "REGRAS.md",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 7 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24204,8 +24528,8 @@
       "arquivo_original": "REGRAS_AVANCADO.md",
       "sistema_origem": "N5 · Sistema 24 — Gramática Avançada · Cambridge",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 8 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24216,9 +24540,30 @@
       "arquivo_original": "01_The Most Effective Vocabulary Builder in the English Language (Norman-Lewis).md",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 562 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A2-L10-1314-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1492",
@@ -24227,9 +24572,9 @@
       "sha256": "fb52cb0972041690b964e4a39edeec879d2b495728262fc36538330137c969e5",
       "arquivo_original": "01_The Most Effective Vocabulary Builder in the English Language (Norman-Lewis).pdf",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1491,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1491",
       "unidades": []
     },
     {
@@ -24240,9 +24585,30 @@
       "arquivo_original": "02_Talk Like TED The 9 Public-Speaking Secrets of the Worlds Top Minds (Carmine Gallo) (z-lib.org).md",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 283 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1494",
@@ -24251,9 +24617,9 @@
       "sha256": "89bb8145df51837bdd151ac5147313ff57ade0e16ccf9c189b4dfb198cda1f8f",
       "arquivo_original": "02_Talk Like TED The 9 Public-Speaking Secrets of the Worlds Top Minds (Carmine Gallo) (z-lib.org).pdf",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1493,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1493",
       "unidades": []
     },
     {
@@ -24264,9 +24630,30 @@
       "arquivo_original": "03_The Art Of Public Speaking.md",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 285 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1496",
@@ -24275,9 +24662,9 @@
       "sha256": "55a65e3c4a5d681193c3d787c91f882e5caaed7967012e14078533080165aafb",
       "arquivo_original": "03_The Art Of Public Speaking.pdf",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1495,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1495",
       "unidades": []
     },
     {
@@ -24288,9 +24675,30 @@
       "arquivo_original": "04_4000 Essential English Words  Book 6.md",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 191 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1498",
@@ -24299,9 +24707,9 @@
       "sha256": "7fb19c015c584bcea54fb67ace8de67fecb2747d625c8e8f2165ceb870dfd456",
       "arquivo_original": "04_4000 Essential English Words  Book 6.pdf",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1497,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1497",
       "unidades": []
     },
     {
@@ -24312,8 +24720,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 5 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24324,9 +24732,27 @@
       "arquivo_original": "livro01.html",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 13 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1501",
@@ -24336,9 +24762,20 @@
       "arquivo_original": "livro02.html",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 13 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1502",
@@ -24348,9 +24785,22 @@
       "arquivo_original": "livro03.html",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 13 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01"
+      ]
     },
     {
       "id": "1503",
@@ -24360,9 +24810,23 @@
       "arquivo_original": "livro04.html",
       "sistema_origem": "N5 · Sistema 25 — Vocabulário & Oratória",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 31 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1504",
@@ -24385,9 +24849,9 @@
       "sha256": "e4872065f43a7ac5da9cbc7186e2f80a0acb0e02cd34730c66ae791d0c02f774",
       "arquivo_original": "01_Kid's Box New Generation Level 3 Student's Book with eBook American English.pdf",
       "sistema_origem": "N6 · Sistema 01 — Crianças · Kids Box",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1504,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1504",
       "unidades": []
     },
     {
@@ -24411,9 +24875,9 @@
       "sha256": "18042aa505fddcb89ec03452046e82fa4f29ff7150a7e881be4331f5364b186f",
       "arquivo_original": "02_Kid's Box American English 4 - Student's Book - Updated Second Edition.pdf",
       "sistema_origem": "N6 · Sistema 01 — Crianças · Kids Box",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1506,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1506",
       "unidades": []
     },
     {
@@ -24465,9 +24929,9 @@
       "sha256": "f409296d4cdb7543a1be16609c39bde57cf8fb91284c2536454c035c5f2a0f8d",
       "arquivo_original": "04_English for Everyone Junior Beginner's Course.pdf",
       "sistema_origem": "N6 · Sistema 01 — Crianças · Kids Box",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1510,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1510",
       "unidades": []
     },
     {
@@ -24478,8 +24942,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N6 · Sistema 01 — Crianças · Kids Box",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 5 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24518,9 +24982,29 @@
       "arquivo_original": "livro03.html",
       "sistema_origem": "N6 · Sistema 01 — Crianças · Kids Box",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 21 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1516",
@@ -24530,9 +25014,29 @@
       "arquivo_original": "livro04.html",
       "sistema_origem": "N6 · Sistema 01 — Crianças · Kids Box",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; 19 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1517",
@@ -24542,8 +25046,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N6 · Sistema 02 — Crianças · Desenho Animado",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 2 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24554,9 +25058,19 @@
       "arquivo_original": "Inglês em alguns minutos _  SÉRIE COMPLETA PARA APRENDER INGLÊS _DESENHO ANIMADO _ INGLÊS AMERICANO _ NÍVEL BÁSICO.docx",
       "sistema_origem": "N6 · Sistema 02 — Crianças · Desenho Animado",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 19 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1519",
@@ -24566,8 +25080,8 @@
       "arquivo_original": "REGRAS.md",
       "sistema_origem": "N6 · Sistema 02 — Crianças · Desenho Animado",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 6 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24578,9 +25092,14 @@
       "arquivo_original": "Captura de tela 2026-08-05 094507.png",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 1 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1521",
@@ -24606,9 +25125,14 @@
       "arquivo_original": "IMG_7152.PNG",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 2 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1523",
@@ -24618,9 +25142,14 @@
       "arquivo_original": "IMG_7153.PNG",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 1 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1524",
@@ -24630,9 +25159,14 @@
       "arquivo_original": "IMG_7154.PNG",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 1 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1525",
@@ -24642,9 +25176,12 @@
       "arquivo_original": "IMG_7155.PNG",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 1 divisões decididas no macrolote 053",
+      "unidades": [
+        "B1-L12-0581-01",
+        "B2-L6-0188-02"
+      ]
     },
     {
       "id": "1526",
@@ -24654,8 +25191,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 7 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24666,8 +25203,8 @@
       "arquivo_original": "MAPEAMENTO_ARQUIVOS.md",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 54 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24678,8 +25215,8 @@
       "arquivo_original": "nivel-01.html",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 3 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24690,8 +25227,8 @@
       "arquivo_original": "nivel-02.html",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 6 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24702,8 +25239,8 @@
       "arquivo_original": "nivel-03.html",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 8 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24714,8 +25251,8 @@
       "arquivo_original": "nivel-04.html",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 6 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24726,8 +25263,8 @@
       "arquivo_original": "nivel-05.html",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 5 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24738,8 +25275,8 @@
       "arquivo_original": "nivel-06.html",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 3 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24750,8 +25287,8 @@
       "arquivo_original": "PROGRESSO_CONVERSAO_PDFS.md",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 4 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24762,8 +25299,8 @@
       "arquivo_original": "REGRAS_AVANCADO.md",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 8 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24774,8 +25311,8 @@
       "arquivo_original": "REGRAS_GERAIS.md",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 8 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24786,8 +25323,8 @@
       "arquivo_original": "RESUMO_TECNICO_PROJETO.md",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 13 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24798,8 +25335,8 @@
       "arquivo_original": "RESUMO_TECNICO_PROJETO_v2.md",
       "sistema_origem": "Sem Sistema",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 49 divisões decididas no macrolote 053",
       "unidades": []
     },
     {
@@ -24810,9 +25347,29 @@
       "arquivo_original": "2000_Palavras_Ingles.pdf",
       "sistema_origem": "Destino - PDFs novos",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 14 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1540",
@@ -24822,9 +25379,30 @@
       "arquivo_original": "Amy Gillett-Speak English Like An American.pdf",
       "sistema_origem": "Destino - PDFs novos",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 175 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1541",
@@ -24834,9 +25412,23 @@
       "arquivo_original": "English Fluency for Advanced English Speaker (Whitney Nelson).pdf",
       "sistema_origem": "Destino - PDFs novos",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 241 divisões decididas no macrolote 053",
+      "unidades": [
+        "C1-L12-1435-01",
+        "C1-L16-0881-03",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "C1-L12-1408-01",
+        "C1-L13-1443-01",
+        "C1-L14-1396-01",
+        "C1-L15-1460-01",
+        "C2-L13-1445-01",
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L14-1462-01",
+        "C2-L13-1468-01"
+      ]
     },
     {
       "id": "1542",
@@ -24846,9 +25438,30 @@
       "arquivo_original": "How to improve English speak in 7 days.pdf",
       "sistema_origem": "Destino - PDFs novos",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 32 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1543",
@@ -24858,9 +25471,30 @@
       "arquivo_original": "how to speak english fluently (Janet Gerber).pdf",
       "sistema_origem": "Destino - PDFs novos",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 129 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01",
+        "A2-L8-0388-01",
+        "B2-L6-0188-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1544",
@@ -24870,9 +25504,30 @@
       "arquivo_original": "How to Speak English Fluently (Yogesh Verman).pdf",
       "sistema_origem": "Destino - PDFs novos",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 245 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "1545",
@@ -24882,9 +25537,30 @@
       "arquivo_original": "Student's book - Basic English for workplace comunication.pdf",
       "sistema_origem": "Destino - PDFs novos",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 149 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1546",
@@ -24894,9 +25570,30 @@
       "arquivo_original": "The English Fluency Formula.pdf",
       "sistema_origem": "Destino - PDFs novos",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; 124 divisões decididas no macrolote 053",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1547",
@@ -24906,8 +25603,8 @@
       "arquivo_original": "sistemas.json",
       "sistema_origem": "Documentação geral do projeto",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; 26 divisões decididas no macrolote 053",
       "unidades": []
     }
   ]
