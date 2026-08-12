@@ -5,6 +5,7 @@ const raiz = path.resolve(import.meta.dirname, '..');
 const ler = arquivo => JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
 const falhas = [];
 const exigir = (condicao, mensagem) => { if (!condicao) falhas.push(mensagem); };
+const sha256Valido = hash => /^[a-f0-9]{64}$/i.test(hash);
 const estados = ler('dados/auditoria-final-estados-fontes.json');
 const duplicatas = ler('dados/auditoria-final-duplicatas.json');
 const global = ler('dados/auditoria-final-global.json');
@@ -20,7 +21,13 @@ exigir(fontes.length === 1547 && porNumero.size === 1547, 'fechamento não exclu
 for (let numero = 1; numero <= 1547; numero++) exigir(porNumero.has(numero), `fonte ausente: ${numero}`);
 exigir(fontes.every(f => principais.has(f.estado_principal)), 'estado principal inválido');
 exigir((estados.estados.parcial || 0) === 0, 'há fonte parcial');
-exigir(fontes.every(f => /^[a-f0-9]{64}$/.test(f.hash_bruto)), 'hash ausente ou inválido');
+exigir(sha256Valido('a'.repeat(64)), 'hash hexadecimal minúsculo válido foi rejeitado');
+exigir(sha256Valido('A'.repeat(64)), 'hash hexadecimal maiúsculo válido foi rejeitado');
+exigir(!sha256Valido(`${'a'.repeat(63)} `), 'hash com espaço foi aceito');
+exigir(!sha256Valido('a'.repeat(63)), 'hash com 63 caracteres foi aceito');
+exigir(!sha256Valido('a'.repeat(65)), 'hash com 65 caracteres foi aceito');
+exigir(!sha256Valido(`${'a'.repeat(63)}g`), 'hash com caractere fora de a-f foi aceito');
+exigir(fontes.every(f => sha256Valido(f.hash_bruto)), 'hash ausente ou inválido');
 exigir(global.divergencias.fontes_uteis_sem_destino === 0, 'conteúdo útil sem destino');
 exigir(global.divergencias.procedencias_ausentes_corrigidas === 1619, 'linha de base de 1.619 procedências alterada');
 exigir(global.impacto.unidades_afetadas === 387 && destinos.unidades_afetadas === 387, 'linha de base de 387 unidades afetadas alterada');
@@ -43,7 +50,7 @@ for (const f of manifesto054.fontes) {
 }
 const artefatos = ['global','estados-fontes','duplicatas','extracoes-curadorias','fontes-extensas','ocr','destinos-procedencias','curriculo','atividades-jornada','interface'];
 for (const nome of artefatos) exigir(fs.existsSync(path.join(raiz, `dados/auditoria-final-${nome}.json`)), `artefato ausente: ${nome}`);
-const resultado = { resultado: falhas.length ? 'FALHOU' : 'APROVADO', verificacoes: 1547 + duplicatas.total + manifesto054.fontes.length + artefatos.length, falhas };
+const resultado = { resultado: falhas.length ? 'FALHOU' : 'APROVADO', verificacoes: 1547 + duplicatas.total + manifesto054.fontes.length + artefatos.length + 6, falhas };
 fs.mkdirSync(path.join(raiz, 'docs/evidencias/auditoria-final'), { recursive: true });
 fs.writeFileSync(path.join(raiz, 'docs/evidencias/auditoria-final/resultados-validacao.json'), `${JSON.stringify(resultado, null, 2)}\n`);
 console.log(`AUDITORIA FINAL: ${resultado.resultado}; ${resultado.verificacoes} verificações; ${falhas.length} falhas.`);
