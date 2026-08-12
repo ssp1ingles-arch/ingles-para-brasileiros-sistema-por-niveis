@@ -1,0 +1,497 @@
+{
+  "lote": "039",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1221,
+        1222
+      ],
+      "executada_apos_validacao_1221": true,
+      "tamanhos": [
+        8127,
+        36894
+      ],
+      "hashes_brutos": [
+        "6f313406ad97d964d5a9fd73cd34c0bfeab4e1ad89b134471157d660f8fe7f92",
+        "2e91ebc54275e824b4f678037d6ab640c96a91582e920e23f2d357f09d0ff711"
+      ],
+      "hashes_normalizados": [
+        "9ac59afa0ccd824d2e8df6ef9d45575ac8407967cd7c888cf60141df51f2b10b",
+        "b11acd9dc4d4616a161ccd69280d798f7324139a21f55b30260bf06db21fc52d"
+      ],
+      "corpo_integral_igual": false,
+      "estrutura_igual": false,
+      "secoes": [
+        6,
+        15
+      ],
+      "temas_1221": [
+        "registro coloquial",
+        "expressões",
+        "respostas cotidianas",
+        "siglas digitais"
+      ],
+      "temas_1222": [
+        "reduções",
+        "formas fracas",
+        "contrações",
+        "T americano",
+        "linking",
+        "entonação",
+        "diálogos"
+      ],
+      "referencias_1221": 1,
+      "referencias_1222": 1,
+      "sobreposicao": "frases conversacionais e marcas informais pontuais, como gonna, How’s it going?, What’s up? e No problem",
+      "conteudo_exclusivo_1221": "contrastes livro/rua, repertório idiomático cotidiano e siglas da internet",
+      "conteudo_exclusivo_1222": "quinze seções técnicas de pronúncia, IPA, regras, exceções, entonação e diálogos analisados",
+      "classificacao": "fontes didáticas independentes com pequena sobreposição lexical e funções curriculares distintas",
+      "decisao": "consolidar cada fonte em destinos existentes diferentes, sem presumir duplicidade nem republicar tabelas"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1221,
+      "nome_completo": "1221_livro-x-rua.md",
+      "tipo": "extração de página HTML didática",
+      "tamanho_bytes": 8127,
+      "hash_bruto": "6f313406ad97d964d5a9fd73cd34c0bfeab4e1ad89b134471157d660f8fe7f92",
+      "hash_normalizado": "9ac59afa0ccd824d2e8df6ef9d45575ac8407967cd7c888cf60141df51f2b10b",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "secoes_presentes": 6,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false,
+        "contagem_visual_ausente": true,
+        "observacao": "O indicador editorial de itens usa um travessão; as seis seções e seus conteúdos estão presentes."
+      },
+      "estrutura": {
+        "pagina_didatica": true,
+        "secoes_didaticas": 6,
+        "tabelas": 5,
+        "navegacao_ou_interface": true,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "sobreposicoes_internas": {
+        "existem": true,
+        "natureza": "frases funcionais reaparecem em seções de contraste, respostas e cotidiano",
+        "corrupcao_ou_duplicacao_acidental": false
+      },
+      "partes": [
+        {
+          "id": "livro-versus-fala",
+          "secao": 1,
+          "natureza": "pares entre formulação escolar e alternativa coloquial",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Conversação",
+          "destino_curricular_especifico": "B1-L10-1180-01",
+          "justificativa": "O contraste amplia o repertório de frases de conversação já reunido por tópico.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "expressoes-conversa-real",
+          "secao": 2,
+          "natureza": "expressões idiomáticas e fórmulas pragmáticas de conversa",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Conversação",
+          "destino_curricular_especifico": "B1-L20-1168-01",
+          "justificativa": "O destino específico já organiza expressões informais por intenção comunicativa.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "escola-versus-natural",
+          "secao": 3,
+          "natureza": "alternativas neutras, coloquiais e mais naturais por contexto",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Conversação",
+          "destino_curricular_especifico": "B1-L10-1180-01",
+          "destinos_adicionais": [
+            "B1-L20-1168-01"
+          ],
+          "justificativa": "Frases conversacionais e contraste de registro ficam em destinos existentes complementares.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "respostas-curtas",
+          "secao": 4,
+          "natureza": "pares de estímulo e resposta automática cotidiana",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Conversação",
+          "destino_curricular_especifico": "B1-L12-0589-01",
+          "justificativa": "O destino trabalha explicitamente respostas básicas e naturais em conversa.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "blocos-cotidianos",
+          "secao": 5,
+          "natureza": "chunks funcionais para trabalho, rua, café, pedidos e organização",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "A2-B1",
+          "habilidade_principal": "Conversação",
+          "destino_curricular_especifico": "A2-L15-0832-01",
+          "destinos_adicionais": [
+            "B1-L20-1163-02"
+          ],
+          "justificativa": "Situações funcionais ficam no destino A2 e continuidade pragmática no destino B1.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "siglas-internet",
+          "secao": 6,
+          "natureza": "siglas, abreviações e vocabulário de registro digital informal",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B2-C1",
+          "habilidade_principal": "Vocabulário",
+          "destino_curricular_especifico": "C1-L15-1441-01",
+          "justificativa": "O objetivo é reconhecer escolhas lexicais e registro informal digital, cobertos pela unidade de precisão, colocação e registro.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "interface-tabelas-editorial",
+          "secao": "transversal",
+          "natureza": "cabeçalho, busca, contagens, mensagens de interface, tabelas extensas e repetição de exemplos",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Interface e moldura editorial não são objetivos curriculares; as tabelas e listas extensas não devem ser republicadas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 7,
+        "consolidadas": 6,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Fonte integralmente classificada; apenas procedências sanitizadas serão acrescentadas a destinos existentes."
+    },
+    {
+      "numero": 1222,
+      "nome_completo": "1222_livro01_4.md",
+      "tipo": "curadoria didática de página HTML baseada em obra de pronúncia",
+      "tamanho_bytes": 36894,
+      "hash_bruto": "2e91ebc54275e824b4f678037d6ab640c96a91582e920e23f2d357f09d0ff711",
+      "hash_normalizado": "b11acd9dc4d4616a161ccd69280d798f7324139a21f55b30260bf06db21fc52d",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "secoes_presentes": 15,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "pagina_didatica": true,
+        "secoes_didaticas": 15,
+        "subsecoes": 25,
+        "itens_declarados": 208,
+        "dialogos": 5,
+        "ipa": true,
+        "navegacao_ou_interface": true,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "relacao_fontes_anteriores": {
+        "obra_base": 1202,
+        "hash_obra_base": "9392519fc777e3c6c1f83fd62cbd1d4f6e97ca43fa5ab5f51c4d08a2c604ff97",
+        "duplicata_integral_da_obra_base": false,
+        "curadoria_derivada": true,
+        "sobreposicao_parcial": [
+          1214,
+          1215,
+          1216,
+          1217,
+          1218
+        ],
+        "conteudo_exclusivo": "formas fracas detalhadas, queda de sons, séries de contrações, regras e exceções do T, empilhamento, entonação, frases analisadas e cinco diálogos"
+      },
+      "partes": [
+        {
+          "id": "secao-01",
+          "secao": 1,
+          "natureza": "contraste entre palavras de conteúdo, palavras de função, tonicidade e redução",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L10-0461-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-02",
+          "secao": 2,
+          "natureza": "formas fracas e schwa em palavras funcionais",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-03",
+          "secao": 3,
+          "natureza": "queda de H, TH e sons em pronomes e auxiliares",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-04",
+          "secao": 4,
+          "natureza": "contrações negativas e contraste can/can't",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-PRON-0001",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-05",
+          "secao": 5,
+          "natureza": "contrações de be, have e interrogativos",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-PRON-0001",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-06",
+          "secao": 6,
+          "natureza": "contrações com will e Dark L",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-PRON-0001",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-07",
+          "secao": 7,
+          "natureza": "contrações com would, had e did",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-PRON-0001",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-08",
+          "secao": 8,
+          "natureza": "contrações modais com have e let's",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-PRON-0001",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-09",
+          "secao": 9,
+          "natureza": "gonna, wanna e gotta na fala informal",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L5-0144-01",
+          "destinos_adicionais": [
+            "B1-L5-0144-02",
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-10",
+          "secao": 10,
+          "natureza": "Stop T, Flap T, queda de T, True T e exceções",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-11",
+          "secao": 11,
+          "natureza": "linking entre vogais e consoantes",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-12",
+          "secao": 12,
+          "natureza": "empilhamento de contrações, reduções e linking",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-13",
+          "secao": 13,
+          "natureza": "padrões entonacionais e ritmo",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-14",
+          "secao": 14,
+          "natureza": "frases funcionais analisadas por tonicidade, redução e ligação",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B1-L15-0841-01",
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "secao-15",
+          "secao": 15,
+          "natureza": "cinco diálogos contextualizados para reconhecimento e prática",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L15-0841-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "O objetivo já possui destino funcional específico; B2-L11-1202-01 registra a relação direta com a obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "tabelas-ipa-exemplos-editorial",
+          "secao": "transversal",
+          "natureza": "tabelas extensas, IPA, exemplos, diálogos completos, cabeçalho, busca e enquadramento editorial",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Os objetivos foram destinados sem republicar recorte extenso de obra, tabelas, transcrições ou interface.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 16,
+        "consolidadas": 15,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Curadoria extensa classificada por objetivos; somente procedências sanitizadas serão integradas."
+    }
+  ]
+}

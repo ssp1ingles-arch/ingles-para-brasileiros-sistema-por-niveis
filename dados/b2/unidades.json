@@ -6646,6 +6646,12 @@
         "arquivo_original": "erros-de-som.html",
         "pagina": "página HTML didática",
         "secao": "bloco curricular classificado"
+      },
+      {
+        "arquivo": "1222_livro01_4.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ]
   },
@@ -6885,7 +6891,21 @@
     "ordem_nivel": 83,
     "ordem_pedagogica": 83,
     "ordem_painel": 4,
-    "ordem_subpainel": 3
+    "ordem_subpainel": 3,
+    "fontes": [
+      {
+        "arquivo": "1202_01_American_English_Pronunciation_Rachels.md",
+        "arquivo_original": "01_American English Pronunciation Rachels.pdf",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo integral por objetivo"
+      },
+      {
+        "arquivo": "1222_livro01_4.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
+      }
+    ]
   },
   {
     "id": "B2-L11-1252-01",

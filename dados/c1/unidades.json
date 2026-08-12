@@ -1075,6 +1075,12 @@
         "arquivo_original": "06_English Vocabulary in Use Advanced 3rd Edition.pdf",
         "pagina": "páginas/seções do Markdown",
         "secao": "duplicata dirigida de 1441"
+      },
+      {
+        "arquivo": "1221_livro-x-rua.md",
+        "arquivo_original": "livro-x-rua.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ],
     "confianca_classificacao": "alta",

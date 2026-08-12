@@ -1,0 +1,42 @@
+{
+  "total": 9,
+  "aprovados": 9,
+  "resultados": [
+    {
+      "teste": "ordem",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "fontes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash bruto distinto",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash normalizado distinto",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "corpos distintos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "estruturas distintas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "seções comparadas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sobreposição explícita",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "classificação independente",
+      "resultado": "APROVADO"
+    }
+  ]
+}

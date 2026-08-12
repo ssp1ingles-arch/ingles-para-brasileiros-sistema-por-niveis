@@ -18559,9 +18559,16 @@
       "arquivo_original": "livro-x-rua.html",
       "sistema_origem": "N3 · Sistema 10 — Reduções e Pronúncia",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "seis seções consolidadas em destinos existentes de conversação, respostas naturais, inglês funcional, idiomaticidade e registro",
+      "unidades": [
+        "B1-L10-1180-01",
+        "B1-L20-1168-01",
+        "B1-L12-0589-01",
+        "A2-L15-0832-01",
+        "B1-L20-1163-02",
+        "C1-L15-1441-01"
+      ]
     },
     {
       "id": "1222",
@@ -18571,9 +18578,18 @@
       "arquivo_original": "livro01.html",
       "sistema_origem": "N3 · Sistema 10 — Reduções e Pronúncia",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "quinze seções de pronúncia consolidadas em destinos existentes; curadoria derivada de 1202 com sobreposição parcial a 1214–1218",
+      "unidades": [
+        "B1-L10-0461-01",
+        "B2-L11-1202-01",
+        "B2-L10-0461-03",
+        "B1-PRON-0001",
+        "B1-L5-0144-01",
+        "B1-L5-0144-02",
+        "B1-L14-1203-01",
+        "B1-L15-0841-01"
+      ]
     },
     {
       "id": "1223",

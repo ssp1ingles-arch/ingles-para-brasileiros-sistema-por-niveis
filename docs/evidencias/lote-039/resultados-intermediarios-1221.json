@@ -1,0 +1,86 @@
+{
+  "total": 20,
+  "aprovados": 20,
+  "resultados": [
+    {
+      "teste": "leitura integral",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "seis seções íntegras",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sete partes decididas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "destinos válidos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero útil sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem OCR ou corrupção",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "UTF-8 íntegro",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "repetições justificadas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem automação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução extensa",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sanitização",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash bruto",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash normalizado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "estrutura",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "834 IDs únicos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1977 atividades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "interface e localStorage intocados",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "barreira 1221",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "ausência editorial registrada",
+      "resultado": "APROVADO"
+    }
+  ]
+}

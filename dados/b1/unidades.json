@@ -310,6 +310,12 @@
         "arquivo_original": "entender-nativos.html",
         "pagina": "página HTML agregadora",
         "secao": "bloco curricular já classificado"
+      },
+      {
+        "arquivo": "1222_livro01_4.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ],
     "habilidade_principal": "Pronúncia",
@@ -5021,6 +5027,12 @@
         "arquivo_original": "entender-nativos.html",
         "pagina": "página HTML agregadora",
         "secao": "bloco curricular já classificado"
+      },
+      {
+        "arquivo": "1222_livro01_4.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ]
   },
@@ -5108,6 +5120,12 @@
         "arquivo_original": "entender-nativos.html",
         "pagina": "página HTML agregadora",
         "secao": "bloco curricular já classificado"
+      },
+      {
+        "arquivo": "1222_livro01_4.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ]
   },
@@ -17668,6 +17686,12 @@
         "arquivo_original": "entender-nativos.html",
         "pagina": "página HTML agregadora",
         "secao": "bloco curricular já classificado"
+      },
+      {
+        "arquivo": "1222_livro01_4.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ]
   },
@@ -18297,7 +18321,21 @@
     "ordem_nivel": 218,
     "ordem_pedagogica": 218,
     "ordem_painel": 10,
-    "ordem_subpainel": 5
+    "ordem_subpainel": 5,
+    "fontes": [
+      {
+        "arquivo": "1180_LIVRO_03_120_frases_para_uma_conversa_em_inglês_(LM10-Livro_digital).md",
+        "arquivo_original": "LIVRO_03_120 frases para uma conversa em inglês (LM10-Livro digital).md",
+        "pagina": "páginas/seções indicadas no Markdown",
+        "secao": "texto/transcrição integral por tópico"
+      },
+      {
+        "arquivo": "1221_livro-x-rua.md",
+        "arquivo_original": "livro-x-rua.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
+      }
+    ]
   },
   {
     "id": "B1-L10-1354-01",
@@ -19651,6 +19689,12 @@
         "arquivo_original": "input4c.jpeg",
         "pagina": "páginas/seções do Markdown",
         "secao": "continuação temática integrada"
+      },
+      {
+        "arquivo": "1221_livro-x-rua.md",
+        "arquivo_original": "livro-x-rua.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ],
     "confianca_classificacao": "alta",
@@ -20133,6 +20177,12 @@
         "arquivo_original": "erros-de-som.html",
         "pagina": "página HTML didática",
         "secao": "bloco curricular classificado"
+      },
+      {
+        "arquivo": "1222_livro01_4.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ],
     "confianca_classificacao": "alta",
@@ -20646,6 +20696,12 @@
         "arquivo_original": "erros-de-som.html",
         "pagina": "página HTML didática",
         "secao": "bloco curricular classificado"
+      },
+      {
+        "arquivo": "1222_livro01_4.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ],
     "confianca_classificacao": "alta",
@@ -21105,6 +21161,12 @@
         "arquivo_original": "conversas-question-words.html",
         "pagina": "seção indicada no Markdown/HTML",
         "secao": "Conversas 08–14"
+      },
+      {
+        "arquivo": "1221_livro-x-rua.md",
+        "arquivo_original": "livro-x-rua.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ],
     "confianca_classificacao": "alta",
@@ -21283,6 +21345,12 @@
         "arquivo_original": "expressoes-idiomaticas.html",
         "pagina": "seção indicada no Markdown/HTML",
         "secao": "Confusão e comunicação"
+      },
+      {
+        "arquivo": "1221_livro-x-rua.md",
+        "arquivo_original": "livro-x-rua.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ],
     "confianca_classificacao": "alta",

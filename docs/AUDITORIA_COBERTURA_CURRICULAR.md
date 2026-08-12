@@ -175,3 +175,9 @@ Cobertura: 81,51% → 81,64%. As duas fontes foram decididas integralmente, sem 
 
 Cobertura: 81,64% → 81,77%. As duas fontes foram decididas integralmente, sem alterar 834 unidades, 1.977 atividades, 95 subpainéis ou a Jornada 806+28.
 <!-- LOTE-038-COBERTURA:FIM -->
+
+<!-- LOTE-039-COBERTURA:INICIO -->
+## Atualização curricular — lote 039
+
+Cobertura: 81,77% → 81,90%. As duas fontes foram decididas integralmente, sem alterar 834 unidades, 1.977 atividades, 95 subpainéis ou a Jornada 806+28.
+<!-- LOTE-039-COBERTURA:FIM -->

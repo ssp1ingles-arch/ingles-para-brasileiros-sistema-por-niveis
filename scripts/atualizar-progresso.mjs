@@ -131,6 +131,10 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-038/resultados-validacao-038.json'
   ,'docs/evidencias/lote-038/resultados-comparacao-038.json'
   ,'docs/evidencias/lote-038/resultados-rotas-038.json'
+  ,'docs/evidencias/lote-039/resultados-intermediarios-1221.json'
+  ,'docs/evidencias/lote-039/resultados-validacao-039.json'
+  ,'docs/evidencias/lote-039/resultados-comparacao-039.json'
+  ,'docs/evidencias/lote-039/resultados-rotas-039.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);
@@ -221,6 +225,10 @@ if (ultimoLote >= 37 && !progresso.includes(marcadorLote037)) {
 const marcadorLote038 = '<!-- LOTE-038-PROGRESSO:INICIO -->';
 if (ultimoLote >= 38 && !progresso.includes(marcadorLote038)) {
   progresso = `${progresso.trim()}\n\n${marcadorLote038}\n## Lote 038\n\n- Sequenciais: 1219–1220; uma página didática e um índice/hub integralmente classificados.\n- Relação: 1219 foi consolidada em destinos existentes; 1220 apenas referencia fontes numeradas e não virou lição.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1220_index_8.md\`; próxima: \`1221_livro-x-rua.md\`.\n<!-- LOTE-038-PROGRESSO:FIM -->\n`;
+}
+const marcadorLote039 = '<!-- LOTE-039-PROGRESSO:INICIO -->';
+if (ultimoLote >= 39 && !progresso.includes(marcadorLote039)) {
+  progresso = `${progresso.trim()}\n\n${marcadorLote039}\n## Lote 039\n\n- Sequenciais: 1221–1222; duas páginas didáticas integralmente classificadas.\n- Relação: fontes independentes; 1222 é curadoria derivada da obra-base 1202 e sobrepõe parcialmente 1214–1218.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1222_livro01_4.md\`; próxima: \`1223_livro02_4.md\`.\n<!-- LOTE-039-PROGRESSO:FIM -->\n`;
 }
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);

@@ -27860,6 +27860,12 @@
         "arquivo_original": "sistema22_conteudo.md",
         "pagina": "páginas/seções do Markdown",
         "secao": "recorte funcional após leitura integral"
+      },
+      {
+        "arquivo": "1221_livro-x-rua.md",
+        "arquivo_original": "livro-x-rua.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ],
     "confianca_classificacao": "alta",

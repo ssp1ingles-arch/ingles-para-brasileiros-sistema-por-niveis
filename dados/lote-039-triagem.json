@@ -1,0 +1,42 @@
+{
+  "lote": "039",
+  "intervalo": [
+    1221,
+    1222
+  ],
+  "sequenciais": [
+    {
+      "numero": 1221,
+      "nome": "1221_livro-x-rua.md",
+      "tamanho_bytes": 8127,
+      "hash_bruto": "6f313406ad97d964d5a9fd73cd34c0bfeab4e1ad89b134471157d660f8fe7f92",
+      "hash_normalizado": "9ac59afa0ccd824d2e8df6ef9d45575ac8407967cd7c888cf60141df51f2b10b",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "extração de página HTML didática",
+      "secoes": 6,
+      "partes": 7,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1222,
+      "nome": "1222_livro01_4.md",
+      "tamanho_bytes": 36894,
+      "hash_bruto": "2e91ebc54275e824b4f678037d6ab640c96a91582e920e23f2d357f09d0ff711",
+      "hash_normalizado": "b11acd9dc4d4616a161ccd69280d798f7324139a21f55b30260bf06db21fc52d",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "curadoria didática de página HTML baseada em obra de pronúncia",
+      "secoes": 15,
+      "partes": 16,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1221,
+    "testes": "20/20",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1222, antes de 1223; as duas fontes são independentes e integralmente classificadas."
+}

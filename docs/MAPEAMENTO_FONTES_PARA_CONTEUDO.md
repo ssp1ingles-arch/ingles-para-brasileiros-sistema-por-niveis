@@ -256,3 +256,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1219 reúne 12 blocos sobre erros de percepção e produção sonora; seus objetivos foram consolidados em três unidades existentes, sem copiar tabelas ou exemplos extensos. 1220 é um hub com oito cartões: 1218 e 1219 já classificados, e 1221–1225 e 1228 preservados para análise sequencial futura.
 <!-- LOTE-038-MAPEAMENTO:FIM -->
+
+<!-- LOTE-039-MAPEAMENTO:INICIO -->
+## Lote 039 — mapeamento
+
+1221 reúne seis seções de registro coloquial, expressões, respostas, chunks cotidianos e linguagem digital. 1222 reúne quinze seções técnicas de pronúncia e é uma curadoria própria da obra-base 1202, com sobreposição parcial a 1214–1218. Ambas foram consolidadas em destinos existentes, sem reprodução extensa.
+<!-- LOTE-039-MAPEAMENTO:FIM -->

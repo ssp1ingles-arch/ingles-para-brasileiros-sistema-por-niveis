@@ -319,3 +319,13 @@
 - Reconciliar suas oito referências com fontes numeradas já classificadas ou pendentes na sequência.
 - Preservar interface, Jornada, IDs, favoritos, progresso, revisão, retomada e localStorage; encerrar antes de 1221.
 <!-- LOTE-038-DECISOES:FIM -->
+
+<!-- LOTE-039-DECISOES:INICIO -->
+## Decisões do lote 039
+
+- Ler e decidir integralmente 1221, persistindo 20/20 validações intermediárias antes de abrir 1222.
+- Consolidar as seis seções de 1221 em destinos existentes de conversação, respostas naturais, inglês funcional, idiomaticidade e registro.
+- Classificar 1222 como curadoria didática derivada da obra-base 1202, não como duplicata integral.
+- Destinar suas quinze seções a unidades existentes de stress, contrações, reduções, T americano, linking, entonação e prática dialogada.
+- Não republicar tabelas, listas, IPA, diálogos ou recortes extensos; preservar interface, Jornada, IDs e localStorage; encerrar antes de 1223.
+<!-- LOTE-039-DECISOES:FIM -->
