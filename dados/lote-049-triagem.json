@@ -1,0 +1,29 @@
+{
+  "lote": "049",
+  "intervalo": [
+    1237
+  ],
+  "sequenciais": [
+    {
+      "numero": 1237,
+      "nome": "1237_index_9.md",
+      "tamanho_bytes": 2712,
+      "total_linhas": 66,
+      "hash_bruto": "db94c8324b2537bb23516c3e0444399dd18c93a16ed93cef8446f2edeb8b5540",
+      "hash_normalizado": "27d7dfba4f6fad42924c260324301ca4d97d1177bec13e8d41d031f0b8b6ff95",
+      "leitura_integral": true,
+      "status": "sem conteúdo didático",
+      "tipo": "índice editorial e página de navegação",
+      "partes": 8,
+      "links": 5,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1237,
+    "testes": "27/27",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1237; nenhuma fonte posterior foi aberta."
+}

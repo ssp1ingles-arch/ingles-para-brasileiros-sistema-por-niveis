@@ -385,3 +385,9 @@
 
 1236 possui corpo didático integralmente idêntico a 1235 e foi consolidada como extração alternativa, preservando 1235 como canônica e sem republicação.
 <!-- LOTE-048-DECISOES:FIM -->
+
+<!-- LOTE-049-DECISOES:INICIO -->
+## Decisões do lote 049
+
+1237 é um índice editorial do Sistema 11. Seus cinco links e quatro cartões apenas remetem às obras já representadas pelas fontes 1229–1236; não há objetivo linguístico independente e nenhuma unidade ou atividade foi criada.
+<!-- LOTE-049-DECISOES:FIM -->

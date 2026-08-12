@@ -316,3 +316,9 @@ Os dez Files, vinte lições, cinco revisões, cinco episódios funcionais e ban
 
 A comparação 1235×1236 confirmou igualdade integral do corpo, paginação, Files, lições, exemplos, exercícios, respostas e índices. Somente metadados sanitizados da relação entre fontes foram registrados.
 <!-- LOTE-048-MAPEAMENTO:FIM -->
+
+<!-- LOTE-049-MAPEAMENTO:INICIO -->
+## Lote 049 — mapeamento
+
+Frontmatter, apresentação, métricas históricas, quatro cartões de livros e nota de implementação foram inventariados em oito blocos. Todas as referências receberam destino de rastreabilidade; o conteúdo editorial foi descartado sem republicação.
+<!-- LOTE-049-MAPEAMENTO:FIM -->
