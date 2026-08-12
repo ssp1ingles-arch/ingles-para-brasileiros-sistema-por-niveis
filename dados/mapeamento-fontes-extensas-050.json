@@ -1,0 +1,643 @@
+{
+  "lote": "050",
+  "fontes": [
+    {
+      "numero": 1238,
+      "nome_completo": "1238_livro01_5.md",
+      "caminho_relativo": "1238_livro01_5.md",
+      "tamanho_bytes": 14778,
+      "total_linhas": 494,
+      "codificacao": "UTF-8",
+      "hash_bruto": "18819780fd5d744475b59b4b4599acc8b2e10d1bb7c55668299aa9036d49563b",
+      "hash_normalizado": "8d75c5651c8091ae81a43958840d1ae04cf983ab22e0041e7f1ecdc6890046fa",
+      "leitura_integral": true,
+      "tipo": "curadoria HTML derivada do American English File 1",
+      "classificacao": "curadoria derivada com sobreposição extensa",
+      "frontmatter": {
+        "linhas": 13,
+        "campos": 10,
+        "tipo_origem": "html",
+        "arquivo_origem": "livro01.html",
+        "sistema_origem": "N3 · Sistema 11 — American English File"
+      },
+      "estrutura": {
+        "formato": "Markdown extraído de HTML visível",
+        "html_incorporado": false,
+        "titulos": 1,
+        "secoes_declaradas": 16,
+        "blocos_declarados": 34,
+        "cartoes": 0,
+        "menus": 1,
+        "links_locais": 1,
+        "links_externos": 0,
+        "imagens": 0,
+        "audio": 0,
+        "video": 0,
+        "tabelas": 0,
+        "exemplos_declarados": 174,
+        "traducoes_declaradas": 174,
+        "dialogos_funcionais": 4,
+        "exercicios": 0,
+        "respostas": 0,
+        "vocabulario": true,
+        "gramatica": true,
+        "pronuncia": false,
+        "escuta": false,
+        "leitura": true,
+        "conversacao": true,
+        "escrita": false,
+        "material_editorial": true,
+        "estado_vazio_busca": true
+      },
+      "integridade": {
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "sinais_ocr": [],
+        "texto_corrompido": false,
+        "repeticoes": "padrões funcionais esperados, sem duplicação estrutural anômala",
+        "conteudo_ausente": "pronúncia, escuta, escrita, exercícios, respostas, bancos, mídia e grande parte da obra canônica foram omitidos pela curadoria"
+      },
+      "relacao_fontes": {
+        "canonica": 1229,
+        "extracao_alternativa": 1230,
+        "indice_editorial": 1237,
+        "corpo_1229_1230_igual": true,
+        "corpo_1238_1229_igual": false,
+        "sobreposicao": "extensa nos objetivos e exemplos selecionados",
+        "partes_selecionadas": [
+          "quatro situações de Practical English",
+          "programa gramatical resumido dos Files 1–12"
+        ],
+        "objetivos_reorganizados": "conteúdo agrupado em 16 seções e 34 blocos com pares inglês–português",
+        "traducoes_proprias_da_curadoria": true,
+        "explicacoes_proprias": false,
+        "mudanca_pedagogica_real": "seleção, tradução e organização para consulta; sem novo objetivo linguístico",
+        "conteudo_exclusivo": "apresentação, métricas, dica de busca, rótulos e traduções editoriais; nenhum objetivo curricular exclusivo",
+        "conteudo_omitido": "maior parte das lições, pronúncia, escuta, escrita, leituras, exercícios, respostas, bancos e mídia"
+      },
+      "partes": [
+        {
+          "registro": "1238-01",
+          "linhas": "1-24",
+          "titulo": "Apresentação e interface",
+          "tipo": "editorial",
+          "tema": "visão, métricas e busca",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": "visão, métricas e busca",
+          "relacao_1229_1230": "apresentação ausente do corpo didático canônico",
+          "destinos": [],
+          "decisao": "descartar editorialmente",
+          "justificativa": "Interface, métricas e instrução de busca não constituem ensino independente.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": "material editorial e de interface"
+        },
+        {
+          "registro": "1238-02",
+          "linhas": "25-52",
+          "titulo": "No hotel",
+          "tipo": "Practical English",
+          "tema": "check-in, pedidos e ofertas",
+          "objetivo_pedagogico": "Usar check-in, pedidos e ofertas em contextos básicos",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "check-in, pedidos e ofertas",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-03",
+          "linhas": "53-82",
+          "titulo": "No restaurante",
+          "tipo": "Practical English",
+          "tema": "pedir refeição e vocabulário de cardápio",
+          "objetivo_pedagogico": "Usar pedir refeição e vocabulário de cardápio em contextos básicos",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "pedir refeição e vocabulário de cardápio",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A2-L5-0128-01",
+            "A2-GRAM-0012"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-04",
+          "linhas": "83-106",
+          "titulo": "Pedindo direções",
+          "tipo": "Practical English",
+          "tema": "perguntar e instruir caminhos",
+          "objetivo_pedagogico": "Usar perguntar e instruir caminhos em contextos básicos",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "perguntar e instruir caminhos",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A2-L4-0111-01",
+            "A1-L4-1521-01"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-05",
+          "linhas": "107-128",
+          "titulo": "Reações e expressões sociais",
+          "tipo": "Practical English",
+          "tema": "reações, cumprimentos e horas do dia",
+          "objetivo_pedagogico": "Usar reações, cumprimentos e horas do dia em contextos básicos",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "reações, cumprimentos e horas do dia",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-06",
+          "linhas": "129-150",
+          "titulo": "File 1",
+          "tipo": "gramática",
+          "tema": "be e possessivos",
+          "objetivo_pedagogico": "Usar be e possessivos em contextos básicos",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "be e possessivos",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0003"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-07",
+          "linhas": "151-180",
+          "titulo": "File 2",
+          "tipo": "gramática",
+          "tema": "artigos, plurais, adjetivos e imperativo",
+          "objetivo_pedagogico": "Usar artigos, plurais, adjetivos e imperativo em contextos básicos",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "artigos, plurais, adjetivos e imperativo",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A1-GRAM-0011",
+            "A1-GRAM-0020"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-08",
+          "linhas": "181-206",
+          "titulo": "File 3",
+          "tipo": "gramática",
+          "tema": "present simple afirmativo, negativo e interrogativo",
+          "objetivo_pedagogico": "Usar present simple afirmativo, negativo e interrogativo em contextos básicos",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "present simple afirmativo, negativo e interrogativo",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A1-GRAM-0005",
+            "A1-GRAM-0006"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-09",
+          "linhas": "207-238",
+          "titulo": "File 4",
+          "tipo": "gramática",
+          "tema": "possessivo, preposições e frequência",
+          "objetivo_pedagogico": "Usar possessivo, preposições e frequência em contextos básicos",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "possessivo, preposições e frequência",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L8-0322-01",
+            "A2-L5-0128-01"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-10",
+          "linhas": "239-264",
+          "titulo": "File 5",
+          "tipo": "gramática",
+          "tema": "can e present continuous",
+          "objetivo_pedagogico": "Usar can e present continuous em contextos básicos",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "can e present continuous",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A1-VERB-0001",
+            "A1-VERB-0002"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-11",
+          "linhas": "265-286",
+          "titulo": "File 6",
+          "tipo": "gramática",
+          "tema": "pronomes objeto e contraste simple/continuous",
+          "objetivo_pedagogico": "Usar pronomes objeto e contraste simple/continuous em contextos básicos",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "pronomes objeto e contraste simple/continuous",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A2-L7-0297-01",
+            "A2-L8-0336-02"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-12",
+          "linhas": "287-320",
+          "titulo": "File 7",
+          "tipo": "gramática",
+          "tema": "past simple, was/were e could",
+          "objetivo_pedagogico": "Usar past simple, was/were e could em contextos básicos",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "past simple, was/were e could",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A2-GRAM-0004",
+            "A2-L9-0440-01"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-13",
+          "linhas": "321-344",
+          "titulo": "File 8",
+          "tipo": "gramática",
+          "tema": "there is/are e there was/were",
+          "objetivo_pedagogico": "Usar there is/are e there was/were em contextos básicos",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "there is/are e there was/were",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A1-GRAM-0012",
+            "A1-GRAM-0013"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-14",
+          "linhas": "345-362",
+          "titulo": "File 9",
+          "tipo": "gramática",
+          "tema": "some, any, much e a lot of",
+          "objetivo_pedagogico": "Usar some, any, much e a lot of em contextos básicos",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "some, any, much e a lot of",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A2-GRAM-0012"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-15",
+          "linhas": "363-388",
+          "titulo": "File 10",
+          "tipo": "gramática",
+          "tema": "comparativos e superlativos",
+          "objetivo_pedagogico": "Usar comparativos e superlativos em contextos básicos",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "comparativos e superlativos",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A2-GRAM-0013",
+            "A2-GRAM-0006"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-16",
+          "linhas": "389-414",
+          "titulo": "File 11",
+          "tipo": "gramática",
+          "tema": "going to e advérbios de modo",
+          "objetivo_pedagogico": "Usar going to e advérbios de modo em contextos básicos",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "going to e advérbios de modo",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A1-GRAM-0021",
+            "A1-GRAM-0022",
+            "A1-GRAM-0014"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1238-17",
+          "linhas": "415-492",
+          "titulo": "File 12 e estado vazio",
+          "tipo": "gramática",
+          "tema": "verbo com infinitivo e present perfect",
+          "objetivo_pedagogico": "Usar verbo com infinitivo e present perfect em contextos básicos",
+          "nivel_cefr": "A2-B1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "verbo com infinitivo e present perfect",
+          "relacao_1229_1230": "seleção e reorganização de exemplos cobertos pela canônica 1229 e sua extração alternativa 1230",
+          "destinos": [
+            "A2-GRAM-0015",
+            "A2-GRAM-0016",
+            "B1-L8-0321-01"
+          ],
+          "decisao": "ampliar procedência em unidades existentes",
+          "justificativa": "Objetivo já possui destino curricular específico; seleção e tradução não criam objetivo linguístico novo.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem reproduzir exemplos ou traduções em massa",
+            "sem diálogos completos",
+            "sem organização por livro na interface"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        }
+      ],
+      "totais": {
+        "partes": 17,
+        "consolidadas": 16,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      }
+    }
+  ],
+  "comparacao_integral": {
+    "fontes": [
+      1229,
+      1230,
+      1238
+    ],
+    "tamanhos": [
+      399493,
+      399494,
+      14778
+    ],
+    "linhas": [
+      16444,
+      16444,
+      494
+    ],
+    "hashes_brutos": [
+      "ad6b8fa22efd4d88cc9ef8da4d394fcf5e5ba3dafddae653c90177219bc90a4c",
+      "46cf2e0a862c3ca1918e0a3f2278417a614b2e7c70efed3fe75302fcab2a0e04",
+      "18819780fd5d744475b59b4b4599acc8b2e10d1bb7c55668299aa9036d49563b"
+    ],
+    "hashes_normalizados": [
+      "97777067d8c7bd16dd7a006b3eee70ffa6480910b2fc327c058eb0d21b6b6874",
+      "97777067d8c7bd16dd7a006b3eee70ffa6480910b2fc327c058eb0d21b6b6874",
+      "8d75c5651c8091ae81a43958840d1ae04cf983ab22e0041e7f1ecdc6890046fa"
+    ],
+    "corpo_1229_1230_igual": true,
+    "corpo_1238_1229_igual": false,
+    "classificacao_1238": "curadoria derivada com sobreposição extensa",
+    "conteudo_exclusivo": "apresentação, métricas, dica de busca, rótulos e traduções editoriais; nenhum objetivo curricular exclusivo",
+    "decisao": "ampliar procedência em destinos existentes sem republicar a curadoria"
+  }
+}

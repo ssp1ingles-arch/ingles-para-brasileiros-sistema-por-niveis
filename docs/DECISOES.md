@@ -391,3 +391,9 @@
 
 1237 é um índice editorial do Sistema 11. Seus cinco links e quatro cartões apenas remetem às obras já representadas pelas fontes 1229–1236; não há objetivo linguístico independente e nenhuma unidade ou atividade foi criada.
 <!-- LOTE-049-DECISOES:FIM -->
+
+<!-- LOTE-050-DECISOES:INICIO -->
+## Decisões do lote 050
+
+1238 é uma curadoria derivada com sobreposição extensa a 1229/1230. A seleção bilíngue reorganiza quatro situações funcionais e os Files 1–12, mas não acrescenta objetivo linguístico independente; a procedência foi ampliada em destinos existentes sem republicar exemplos, traduções ou diálogos.
+<!-- LOTE-050-DECISOES:FIM -->

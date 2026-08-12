@@ -322,3 +322,9 @@ A comparação 1235×1236 confirmou igualdade integral do corpo, paginação, Fi
 
 Frontmatter, apresentação, métricas históricas, quatro cartões de livros e nota de implementação foram inventariados em oito blocos. Todas as referências receberam destino de rastreabilidade; o conteúdo editorial foi descartado sem republicação.
 <!-- LOTE-049-MAPEAMENTO:FIM -->
+
+<!-- LOTE-050-MAPEAMENTO:INICIO -->
+## Lote 050 — mapeamento
+
+As 16 seções, 34 blocos e 174 pares declarados foram mapeados em 17 blocos decisórios A1–B1. A apresentação foi descartada editorialmente e todo conteúdo útil recebeu destino específico já existente.
+<!-- LOTE-050-MAPEAMENTO:FIM -->

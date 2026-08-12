@@ -1,0 +1,30 @@
+{
+  "lote": "050",
+  "intervalo": [
+    1238
+  ],
+  "sequenciais": [
+    {
+      "numero": 1238,
+      "nome": "1238_livro01_5.md",
+      "tamanho_bytes": 14778,
+      "total_linhas": 494,
+      "hash_bruto": "18819780fd5d744475b59b4b4599acc8b2e10d1bb7c55668299aa9036d49563b",
+      "hash_normalizado": "8d75c5651c8091ae81a43958840d1ae04cf983ab22e0041e7f1ecdc6890046fa",
+      "leitura_integral": true,
+      "status": "integralmente classificada como curadoria derivada",
+      "tipo": "curadoria HTML derivada do American English File 1",
+      "secoes": 16,
+      "blocos": 34,
+      "partes": 17,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1238,
+    "testes": "31/31",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1238; nenhuma fonte posterior foi aberta."
+}
