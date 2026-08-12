@@ -1,0 +1,1386 @@
+{
+  "lote": "043",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1229,
+        1230
+      ],
+      "executada_apos_validacao_1229": true,
+      "tamanhos": [
+        399493,
+        399494
+      ],
+      "linhas": [
+        16444,
+        16444
+      ],
+      "hashes_brutos": [
+        "ad6b8fa22efd4d88cc9ef8da4d394fcf5e5ba3dafddae653c90177219bc90a4c",
+        "46cf2e0a862c3ca1918e0a3f2278417a614b2e7c70efed3fe75302fcab2a0e04"
+      ],
+      "hashes_normalizados": [
+        "45898bced9e7827792457252b1003dc8631cf911d054baaa71bdd22992aa1ae4",
+        "d7ca225927ad38b5112e6cbe4c14f95b8b74c759ac0d6802aad8e1aa57b8d525"
+      ],
+      "hash_corpo_sem_frontmatter": [
+        "b58113bae1b13bb707b2e1238a87ea11d743c93d931319952c76b583b9974bc1",
+        "b58113bae1b13bb707b2e1238a87ea11d743c93d931319952c76b583b9974bc1"
+      ],
+      "corpo_didatico_integral_igual": true,
+      "frontmatter_igual": false,
+      "paginacao_igual": true,
+      "paginas_presentes_iguais": true,
+      "paginas_ausentes": [
+        166
+      ],
+      "ordem_igual": true,
+      "capitulos_iguais": true,
+      "licoes_iguais": true,
+      "exemplos_iguais": true,
+      "exercicios_iguais": true,
+      "respostas_iguais": true,
+      "indices_iguais": true,
+      "edicao": "mesma terceira edição",
+      "conteudo_exclusivo_1229": "metadados de migração referentes ao Markdown",
+      "conteudo_exclusivo_1230": "metadados de migração referentes ao PDF",
+      "classificacao": "extração alternativa",
+      "canonica": 1229,
+      "decisao": "1230 consolidada como duplicata de corpo; nenhuma republicação"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1229,
+      "nome_completo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+      "tipo": "livro didático completo extraído como texto",
+      "tamanho_bytes": 399493,
+      "total_linhas": 16444,
+      "hash_bruto": "ad6b8fa22efd4d88cc9ef8da4d394fcf5e5ba3dafddae653c90177219bc90a4c",
+      "hash_normalizado": "45898bced9e7827792457252b1003dc8631cf911d054baaa71bdd22992aa1ae4",
+      "leitura_integral": true,
+      "paginacao": {
+        "cabecalhos": 166,
+        "presentes": "1-165 e 167",
+        "ausentes": [
+          166
+        ],
+        "repetidas": [],
+        "vazias": [],
+        "fora_de_ordem": [],
+        "lacunas_de_conteudo": [
+          "lição 9A não localizada no corpo extraído"
+        ],
+        "ordem_crescente": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "sinais_ocr_ou_extracao": [
+          "palavras coladas",
+          "espaçamento irregular",
+          "glifos anômalos pontuais"
+        ],
+        "trechos_corrompidos_pontuais": true,
+        "corrupcao_global": false,
+        "texto_aproveitavel": true
+      },
+      "estrutura": {
+        "capitulos_files": 12,
+        "licoes_previstas": 36,
+        "licoes_localizadas": 35,
+        "practical_english": 6,
+        "reviews": 6,
+        "communication": true,
+        "writing": true,
+        "listening_scripts": true,
+        "grammar_bank": true,
+        "vocabulary_bank": true,
+        "sound_bank": true,
+        "irregular_verbs": true,
+        "indices_e_sumarios": true,
+        "exercicios": true,
+        "respostas": "respostas pontuais e scripts; sem gabarito completo independente identificado",
+        "referencias_midia": 159,
+        "material_editorial": true,
+        "conteudo_dependente_imagem": true
+      },
+      "partes": [
+        {
+          "id": "preliminares",
+          "paginas": "1-6",
+          "natureza": "capa, créditos iniciais, sumário, visão do curso e acesso on-line",
+          "tema": "navegação editorial",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": "referências sintéticas ao programa",
+          "decisao": "descartar material editorial e usar o sumário apenas para controle de cobertura",
+          "destinos": [],
+          "justificativa": "Não constitui lição; as referências foram verificadas contra os blocos efetivamente mapeados.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não publicar capa, créditos, código ou sumário extenso"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-1-2",
+          "paginas": "7-20",
+          "natureza": "lições 1A-2C e Practical English 1",
+          "tema": "apresentações, be, países, soletração, objetos, adjetivos, imperativos e sentimentos",
+          "objetivo_pedagogico": "interagir em situações iniciais e formar enunciados básicos",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Conversação",
+            "Pronúncia"
+          ],
+          "conteudo_linguistico": "be, pronomes sujeito, artigos, plurais, adjetivos, imperativos, possessivos e funções de hotel",
+          "decisao": "consolidar em unidades existentes",
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0003",
+            "A1-GRAM-0011",
+            "A1-GRAM-0020",
+            "A1-PRON-0001"
+          ],
+          "justificativa": "Objetivos fundamentais já possuem destinos específicos.",
+          "procedencia": "fonte",
+          "registro": "neutro e cotidiano",
+          "restricoes": [
+            "não copiar diálogos ou exercícios"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-3-4",
+          "paginas": "21-38",
+          "natureza": "revisão 1-2, lições 3A-4C, Practical English 2 e revisão 3-4",
+          "tema": "presente simples, trabalho, perguntas, família, rotina, tempo e frequência",
+          "objetivo_pedagogico": "descrever rotina, relações e preferências",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Conversação",
+            "Vocabulário",
+            "Escuta"
+          ],
+          "conteudo_linguistico": "simple present, do, ordem interrogativa, possessive s, preposições e frequência",
+          "decisao": "consolidar em unidades existentes",
+          "destinos": [
+            "A1-GRAM-0005",
+            "A1-GRAM-0006",
+            "A1-L4-1521-01",
+            "A2-L8-0322-01",
+            "A2-L5-0128-01"
+          ],
+          "justificativa": "Cobertura existente em gramática básica, perguntas e rotina.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não reproduzir leituras, scripts ou tarefas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-5-6",
+          "paginas": "39-54",
+          "natureza": "lições 5A-6C, Practical English 3 e revisões",
+          "tema": "can, presente contínuo, contraste de presentes, gostos, música e roupas",
+          "objetivo_pedagogico": "falar de habilidade, ações atuais e preferências",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Pronúncia",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "can/cant, present continuous, simple present versus continuous, like mais ing e be/do",
+          "decisao": "consolidar em unidades existentes",
+          "destinos": [
+            "A1-VERB-0001",
+            "A1-VERB-0002",
+            "A2-L7-0297-01",
+            "A2-L8-0336-02"
+          ],
+          "justificativa": "Objetivos já estão representados no currículo.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não reproduzir narrativas ou atividades"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-7-8",
+          "paginas": "55-70",
+          "natureza": "lições 7A-8C, Practical English 4 e revisões",
+          "tema": "passado simples, direções, casa e existência no passado",
+          "objetivo_pedagogico": "narrar fatos passados e descrever espaços",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Conversação",
+            "Vocabulário",
+            "Pronúncia"
+          ],
+          "conteudo_linguistico": "was/were, passado regular e irregular, there is/are e there was/were",
+          "decisao": "consolidar em unidades existentes",
+          "destinos": [
+            "A2-GRAM-0004",
+            "A2-L9-0440-01",
+            "A1-GRAM-0012",
+            "A1-GRAM-0013",
+            "A2-L4-0111-01"
+          ],
+          "justificativa": "Passado, existência e direções possuem destinos específicos.",
+          "procedencia": "fonte",
+          "registro": "cotidiano e narrativo",
+          "restricoes": [
+            "não copiar mistério, entrevistas ou exercícios"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-9-10",
+          "paginas": "71-84",
+          "natureza": "lições 9B-9C, Practical English 5, lições 10A-10C e revisão",
+          "tema": "quantidade, comparação, restaurante, superlativos e futuro planejado",
+          "objetivo_pedagogico": "quantificar, comparar, pedir refeição e falar de planos/previsões",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Comunicação funcional",
+            "Vocabulário",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "much/many, comparativos, superlativos e going to",
+          "decisao": "consolidar em unidades existentes; registrar ausência da 9A",
+          "destinos": [
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "A2-GRAM-0006",
+            "A1-GRAM-0021",
+            "A1-GRAM-0022"
+          ],
+          "justificativa": "Conteúdo localizado já coberto; não inferir o conteúdo ausente da lição 9A.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não inventar 9A",
+            "não copiar menu, quiz ou conto"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-11-12",
+          "paginas": "85-100",
+          "natureza": "lições 11A-12C, Practical English 6 e revisão",
+          "tema": "advérbios, infinitivo, artigo, presente perfeito, experiências e perguntas",
+          "objetivo_pedagogico": "descrever modo, intenções e experiências",
+          "nivel_cefr": "A2-B1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Conversação",
+            "Leitura",
+            "Escuta"
+          ],
+          "conteudo_linguistico": "adverbs, verb plus infinitive, definite article, present perfect e contraste com simple past",
+          "decisao": "consolidar em unidades existentes",
+          "destinos": [
+            "A1-GRAM-0014",
+            "A2-GRAM-0015",
+            "A2-GRAM-0016",
+            "B1-L8-0321-01",
+            "B1-L12-0581-01"
+          ],
+          "justificativa": "Artigos e tempos perfeitos já possuem destinos escalonados.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não copiar entrevistas, reviews ou exercícios"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "communication",
+          "paginas": "101-111",
+          "natureza": "tarefas de informação dividida e role-play",
+          "tema": "interação oral acumulativa",
+          "objetivo_pedagogico": "usar estruturas do curso em interação",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Gramática",
+            "Vocabulário"
+          ],
+          "conteudo_linguistico": "perguntas, descrições, direções, comparação e situações funcionais",
+          "decisao": "manter como evidência complementar de objetivos existentes",
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "A2-L10-1314-01"
+          ],
+          "justificativa": "Não cria objetivo independente e depende das folhas A/B.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não publicar folhas de atividade"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "writing",
+          "paginas": "112-114",
+          "natureza": "modelos e tarefas de escrita",
+          "tema": "formulário, perfil, descrição de casa e e-mail formal",
+          "objetivo_pedagogico": "produzir textos breves funcionais",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Escrita",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Gramática"
+          ],
+          "conteudo_linguistico": "capitalização, organização e revisão de texto",
+          "decisao": "consolidar em objetivos existentes de escrita e autorrevisão",
+          "destinos": [
+            "A2-L8-0342-01",
+            "B1-L8-0342-02"
+          ],
+          "justificativa": "Objetivos de escrita já existentes; modelos não serão reproduzidos.",
+          "procedencia": "fonte",
+          "registro": "pessoal e formal básico",
+          "restricoes": [
+            "não copiar modelos ou respostas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "listening-scripts",
+          "paginas": "115-120",
+          "natureza": "transcrições de áudio",
+          "tema": "escuta das lições e Practical English",
+          "objetivo_pedagogico": "apoiar compreensão oral",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Escuta",
+          "habilidades_secundarias": [
+            "Conversação",
+            "Pronúncia"
+          ],
+          "conteudo_linguistico": "diálogos e narrativas ligados às tarefas anteriores",
+          "decisao": "registrar apenas objetivos e descartar transcrição integral",
+          "destinos": [
+            "A2-L10-1378-01",
+            "B1-L10-1379-01"
+          ],
+          "justificativa": "Transcrições são material protegido e não criam novo destino.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não publicar transcrições"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "grammar-bank",
+          "paginas": "121-144",
+          "natureza": "referência gramatical e exercícios para Files 1-12",
+          "tema": "programa gramatical acumulativo A1-A2",
+          "objetivo_pedagogico": "sistematizar formas e contrastes do curso",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Escrita",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "be, artigos, pronomes, presentes, passados, quantificadores, comparação, futuro, infinitivo e present perfect",
+          "decisao": "consolidar procedência nos destinos específicos já citados",
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0011",
+            "A1-GRAM-0017",
+            "A1-GRAM-0020",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01"
+          ],
+          "justificativa": "Banco sistematiza conteúdo já mapeado, sem justificar painel ou unidade por livro.",
+          "procedencia": "fonte",
+          "registro": "didático",
+          "restricoes": [
+            "não publicar tabelas, exercícios ou respostas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "vocabulary-bank",
+          "paginas": "145-161",
+          "natureza": "bancos temáticos de vocabulário",
+          "tema": "números, países, sala, objetos, adjetivos, rotinas, família, trabalho, clima, casa, comida e lugares",
+          "objetivo_pedagogico": "ampliar léxico cotidiano básico",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Vocabulário",
+          "habilidades_secundarias": [
+            "Pronúncia",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "campos lexicais básicos e colocações",
+          "decisao": "consolidar como procedência complementar em unidades lexicais existentes",
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A1-L8-0366-01",
+            "A2-L9-0446-01",
+            "A2-L8-0388-01"
+          ],
+          "justificativa": "Os campos lexicais são distribuídos pelo currículo; listas extensas não serão copiadas.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não publicar listas ou imagens"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "irregular-verbs",
+          "paginas": "162",
+          "natureza": "tabela de verbos irregulares",
+          "tema": "formas verbais",
+          "objetivo_pedagogico": "consultar simple past e past participle",
+          "nivel_cefr": "A2-B1",
+          "habilidade_principal": "Verbos",
+          "habilidades_secundarias": [
+            "Gramática",
+            "Pronúncia"
+          ],
+          "conteudo_linguistico": "base form, passado e particípio",
+          "decisao": "consolidar em unidade existente",
+          "destinos": [
+            "A2-L9-0440-01"
+          ],
+          "justificativa": "Destino específico já existe.",
+          "procedencia": "fonte",
+          "registro": "referência",
+          "restricoes": [
+            "não publicar tabela"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "sound-bank",
+          "paginas": "163-164",
+          "natureza": "inventário de sons vocálicos e consonantais",
+          "tema": "pronúncia segmental",
+          "objetivo_pedagogico": "relacionar sons e grafias frequentes",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Pronúncia",
+          "habilidades_secundarias": [
+            "Escuta"
+          ],
+          "conteudo_linguistico": "vogais, consoantes e grafias",
+          "decisao": "consolidar em destinos existentes de pronúncia",
+          "destinos": [
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "justificativa": "O sistema já possui cobertura ampla de pronúncia americana.",
+          "procedencia": "fonte",
+          "registro": "referência",
+          "restricoes": [
+            "não copiar tabela ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "creditos-finais",
+          "paginas": "165",
+          "natureza": "créditos e permissões",
+          "tema": "material editorial",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": null,
+          "decisao": "descartar",
+          "destinos": [],
+          "justificativa": "Créditos não constituem conteúdo curricular.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não republicar"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "pagina-166-ausente",
+          "paginas": "166",
+          "natureza": "página ausente da extração",
+          "tema": null,
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": null,
+          "decisao": "registrar ausência sem inferir conteúdo",
+          "destinos": [],
+          "justificativa": "Não inventar material não presente.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não inferir"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "contracapa",
+          "paginas": "167",
+          "natureza": "contracapa promocional",
+          "tema": "material editorial",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": null,
+          "decisao": "descartar",
+          "destinos": [],
+          "justificativa": "Não constitui conteúdo curricular.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não republicar"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "exercicios",
+          "paginas": "7-164",
+          "natureza": "exercícios distribuídos pelas lições e bancos",
+          "tema": "prática controlada e comunicativa",
+          "objetivo_pedagogico": "praticar objetivos já mapeados",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Prática integrada",
+          "habilidades_secundarias": [
+            "Gramática",
+            "Vocabulário",
+            "Pronúncia",
+            "Escuta",
+            "Leitura",
+            "Conversação",
+            "Escrita"
+          ],
+          "conteudo_linguistico": "itens dependentes do contexto editorial, imagens e mídias",
+          "decisao": "não transformar automaticamente em atividades",
+          "destinos": [
+            "A1-GRAM-0001",
+            "A2-L10-1314-01"
+          ],
+          "justificativa": "Atividades existentes permanecem verificáveis e os exercícios do livro não serão copiados.",
+          "procedencia": "fonte",
+          "registro": "didático",
+          "restricoes": [
+            "não copiar exercícios ou respostas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "referencias-midia",
+          "paginas": "6-120",
+          "natureza": "159 referências localizadas a áudio, vídeo, CD, DVD ou conteúdo on-line",
+          "tema": "mídia externa",
+          "objetivo_pedagogico": "apoio audiovisual",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Escuta",
+          "habilidades_secundarias": [
+            "Pronúncia",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "mídias não incorporadas ao Markdown",
+          "decisao": "descartar referência técnica; manter apenas o objetivo curricular das seções",
+          "destinos": [
+            "A2-L10-1378-01",
+            "B1-L10-1379-01"
+          ],
+          "justificativa": "Conteúdo externo ausente não pode ser reproduzido nem inferido.",
+          "procedencia": "fonte",
+          "registro": "didático",
+          "restricoes": [
+            "não incorporar mídia ausente"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "imagens",
+          "paginas": "1-167",
+          "natureza": "conteúdo visual não preservado integralmente na extração textual",
+          "tema": "dependência visual",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": "algumas tarefas dependem de fotos, mapas, diagramas e pareamento visual",
+          "decisao": "descartar partes não recuperáveis e não inferir respostas",
+          "destinos": [],
+          "justificativa": "A fonte de consumo é texto; conteúdo visual ausente não pode ser inventado.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não inferir imagens ou respostas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "revisoes-testes",
+          "paginas": "21-22, 37-38, 53-54, 69-70, 83-84, 99-100",
+          "natureza": "Review and Check e autoavaliação",
+          "tema": "revisão cumulativa",
+          "objetivo_pedagogico": "verificar os objetivos dos pares de Files",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Revisão",
+          "habilidades_secundarias": [
+            "Gramática",
+            "Vocabulário",
+            "Leitura",
+            "Escuta"
+          ],
+          "conteudo_linguistico": "recapitulação sem objetivo curricular novo",
+          "decisao": "manter como evidência de cobertura; não incorporar testes",
+          "destinos": [
+            "A1-GRAM-0001",
+            "A2-L9-0440-01",
+            "B1-L8-0321-01"
+          ],
+          "justificativa": "As revisões retomam conteúdos já destinados.",
+          "procedencia": "fonte",
+          "registro": "didático",
+          "restricoes": [
+            "não copiar testes ou respostas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "conteudo-corrompido",
+          "paginas": "1-167",
+          "natureza": "fragmentos pontuais com palavras coladas e glifos anômalos",
+          "tema": "integridade de extração",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": null,
+          "decisao": "descartar somente os fragmentos não confiáveis",
+          "destinos": [],
+          "justificativa": "O tema da seção pode ser classificado, mas texto ilegível não deve ser reconstruído.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não inventar texto"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        }
+      ],
+      "totais": {
+        "partes": 22,
+        "consolidadas_ou_complementares": 14,
+        "descartadas_ou_registros_de_ausencia": 8,
+        "uteis_sem_destino": 0
+      }
+    },
+    {
+      "numero": 1230,
+      "nome_completo": "1230_01_American_English_File_1_-_Student_Book_Pk_-_03Edition_2.md",
+      "tipo": "extração alternativa do mesmo livro didático",
+      "tamanho_bytes": 399494,
+      "total_linhas": 16444,
+      "hash_bruto": "46cf2e0a862c3ca1918e0a3f2278417a614b2e7c70efed3fe75302fcab2a0e04",
+      "hash_normalizado": "d7ca225927ad38b5112e6cbe4c14f95b8b74c759ac0d6802aad8e1aa57b8d525",
+      "leitura_integral": true,
+      "paginacao": {
+        "cabecalhos": 166,
+        "presentes": "1-165 e 167",
+        "ausentes": [
+          166
+        ],
+        "repetidas": [],
+        "vazias": [],
+        "fora_de_ordem": [],
+        "lacunas_de_conteudo": [
+          "lição 9A não localizada no corpo extraído"
+        ],
+        "ordem_crescente": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "sinais_ocr_ou_extracao": [
+          "palavras coladas",
+          "espaçamento irregular",
+          "glifos anômalos pontuais"
+        ],
+        "trechos_corrompidos_pontuais": true,
+        "corrupcao_global": false,
+        "texto_aproveitavel": true
+      },
+      "estrutura": {
+        "capitulos_files": 12,
+        "licoes_previstas": 36,
+        "licoes_localizadas": 35,
+        "practical_english": 6,
+        "reviews": 6,
+        "communication": true,
+        "writing": true,
+        "listening_scripts": true,
+        "grammar_bank": true,
+        "vocabulary_bank": true,
+        "sound_bank": true,
+        "irregular_verbs": true,
+        "indices_e_sumarios": true,
+        "exercicios": true,
+        "respostas": "respostas pontuais e scripts; sem gabarito completo independente identificado",
+        "referencias_midia": 159,
+        "material_editorial": true,
+        "conteudo_dependente_imagem": true
+      },
+      "partes": [
+        {
+          "id": "preliminares",
+          "paginas": "1-6",
+          "natureza": "capa, créditos iniciais, sumário, visão do curso e acesso on-line",
+          "tema": "navegação editorial",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": "referências sintéticas ao programa",
+          "decisao": "descartar material editorial e usar o sumário apenas para controle de cobertura",
+          "destinos": [],
+          "justificativa": "Não constitui lição; as referências foram verificadas contra os blocos efetivamente mapeados.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não publicar capa, créditos, código ou sumário extenso"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-1-2",
+          "paginas": "7-20",
+          "natureza": "lições 1A-2C e Practical English 1",
+          "tema": "apresentações, be, países, soletração, objetos, adjetivos, imperativos e sentimentos",
+          "objetivo_pedagogico": "interagir em situações iniciais e formar enunciados básicos",
+          "nivel_cefr": "A1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Conversação",
+            "Pronúncia"
+          ],
+          "conteudo_linguistico": "be, pronomes sujeito, artigos, plurais, adjetivos, imperativos, possessivos e funções de hotel",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0003",
+            "A1-GRAM-0011",
+            "A1-GRAM-0020",
+            "A1-PRON-0001"
+          ],
+          "justificativa": "Objetivos fundamentais já possuem destinos específicos.",
+          "procedencia": "fonte",
+          "registro": "neutro e cotidiano",
+          "restricoes": [
+            "não copiar diálogos ou exercícios"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-3-4",
+          "paginas": "21-38",
+          "natureza": "revisão 1-2, lições 3A-4C, Practical English 2 e revisão 3-4",
+          "tema": "presente simples, trabalho, perguntas, família, rotina, tempo e frequência",
+          "objetivo_pedagogico": "descrever rotina, relações e preferências",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Conversação",
+            "Vocabulário",
+            "Escuta"
+          ],
+          "conteudo_linguistico": "simple present, do, ordem interrogativa, possessive s, preposições e frequência",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A1-GRAM-0005",
+            "A1-GRAM-0006",
+            "A1-L4-1521-01",
+            "A2-L8-0322-01",
+            "A2-L5-0128-01"
+          ],
+          "justificativa": "Cobertura existente em gramática básica, perguntas e rotina.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não reproduzir leituras, scripts ou tarefas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-5-6",
+          "paginas": "39-54",
+          "natureza": "lições 5A-6C, Practical English 3 e revisões",
+          "tema": "can, presente contínuo, contraste de presentes, gostos, música e roupas",
+          "objetivo_pedagogico": "falar de habilidade, ações atuais e preferências",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Pronúncia",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "can/cant, present continuous, simple present versus continuous, like mais ing e be/do",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A1-VERB-0001",
+            "A1-VERB-0002",
+            "A2-L7-0297-01",
+            "A2-L8-0336-02"
+          ],
+          "justificativa": "Objetivos já estão representados no currículo.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não reproduzir narrativas ou atividades"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-7-8",
+          "paginas": "55-70",
+          "natureza": "lições 7A-8C, Practical English 4 e revisões",
+          "tema": "passado simples, direções, casa e existência no passado",
+          "objetivo_pedagogico": "narrar fatos passados e descrever espaços",
+          "nivel_cefr": "A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Conversação",
+            "Vocabulário",
+            "Pronúncia"
+          ],
+          "conteudo_linguistico": "was/were, passado regular e irregular, there is/are e there was/were",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A2-GRAM-0004",
+            "A2-L9-0440-01",
+            "A1-GRAM-0012",
+            "A1-GRAM-0013",
+            "A2-L4-0111-01"
+          ],
+          "justificativa": "Passado, existência e direções possuem destinos específicos.",
+          "procedencia": "fonte",
+          "registro": "cotidiano e narrativo",
+          "restricoes": [
+            "não copiar mistério, entrevistas ou exercícios"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-9-10",
+          "paginas": "71-84",
+          "natureza": "lições 9B-9C, Practical English 5, lições 10A-10C e revisão",
+          "tema": "quantidade, comparação, restaurante, superlativos e futuro planejado",
+          "objetivo_pedagogico": "quantificar, comparar, pedir refeição e falar de planos/previsões",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Comunicação funcional",
+            "Vocabulário",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "much/many, comparativos, superlativos e going to",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "A2-GRAM-0006",
+            "A1-GRAM-0021",
+            "A1-GRAM-0022"
+          ],
+          "justificativa": "Conteúdo localizado já coberto; não inferir o conteúdo ausente da lição 9A.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não inventar 9A",
+            "não copiar menu, quiz ou conto"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "files-11-12",
+          "paginas": "85-100",
+          "natureza": "lições 11A-12C, Practical English 6 e revisão",
+          "tema": "advérbios, infinitivo, artigo, presente perfeito, experiências e perguntas",
+          "objetivo_pedagogico": "descrever modo, intenções e experiências",
+          "nivel_cefr": "A2-B1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Conversação",
+            "Leitura",
+            "Escuta"
+          ],
+          "conteudo_linguistico": "adverbs, verb plus infinitive, definite article, present perfect e contraste com simple past",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A1-GRAM-0014",
+            "A2-GRAM-0015",
+            "A2-GRAM-0016",
+            "B1-L8-0321-01",
+            "B1-L12-0581-01"
+          ],
+          "justificativa": "Artigos e tempos perfeitos já possuem destinos escalonados.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não copiar entrevistas, reviews ou exercícios"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "communication",
+          "paginas": "101-111",
+          "natureza": "tarefas de informação dividida e role-play",
+          "tema": "interação oral acumulativa",
+          "objetivo_pedagogico": "usar estruturas do curso em interação",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Gramática",
+            "Vocabulário"
+          ],
+          "conteudo_linguistico": "perguntas, descrições, direções, comparação e situações funcionais",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "A2-L10-1314-01"
+          ],
+          "justificativa": "Não cria objetivo independente e depende das folhas A/B.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não publicar folhas de atividade"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "writing",
+          "paginas": "112-114",
+          "natureza": "modelos e tarefas de escrita",
+          "tema": "formulário, perfil, descrição de casa e e-mail formal",
+          "objetivo_pedagogico": "produzir textos breves funcionais",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Escrita",
+          "habilidades_secundarias": [
+            "Vocabulário",
+            "Gramática"
+          ],
+          "conteudo_linguistico": "capitalização, organização e revisão de texto",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A2-L8-0342-01",
+            "B1-L8-0342-02"
+          ],
+          "justificativa": "Objetivos de escrita já existentes; modelos não serão reproduzidos.",
+          "procedencia": "fonte",
+          "registro": "pessoal e formal básico",
+          "restricoes": [
+            "não copiar modelos ou respostas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "listening-scripts",
+          "paginas": "115-120",
+          "natureza": "transcrições de áudio",
+          "tema": "escuta das lições e Practical English",
+          "objetivo_pedagogico": "apoiar compreensão oral",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Escuta",
+          "habilidades_secundarias": [
+            "Conversação",
+            "Pronúncia"
+          ],
+          "conteudo_linguistico": "diálogos e narrativas ligados às tarefas anteriores",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A2-L10-1378-01",
+            "B1-L10-1379-01"
+          ],
+          "justificativa": "Transcrições são material protegido e não criam novo destino.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não publicar transcrições"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "grammar-bank",
+          "paginas": "121-144",
+          "natureza": "referência gramatical e exercícios para Files 1-12",
+          "tema": "programa gramatical acumulativo A1-A2",
+          "objetivo_pedagogico": "sistematizar formas e contrastes do curso",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Escrita",
+            "Leitura"
+          ],
+          "conteudo_linguistico": "be, artigos, pronomes, presentes, passados, quantificadores, comparação, futuro, infinitivo e present perfect",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0011",
+            "A1-GRAM-0017",
+            "A1-GRAM-0020",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01"
+          ],
+          "justificativa": "Banco sistematiza conteúdo já mapeado, sem justificar painel ou unidade por livro.",
+          "procedencia": "fonte",
+          "registro": "didático",
+          "restricoes": [
+            "não publicar tabelas, exercícios ou respostas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "vocabulary-bank",
+          "paginas": "145-161",
+          "natureza": "bancos temáticos de vocabulário",
+          "tema": "números, países, sala, objetos, adjetivos, rotinas, família, trabalho, clima, casa, comida e lugares",
+          "objetivo_pedagogico": "ampliar léxico cotidiano básico",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Vocabulário",
+          "habilidades_secundarias": [
+            "Pronúncia",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "campos lexicais básicos e colocações",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A1-L8-0366-01",
+            "A2-L9-0446-01",
+            "A2-L8-0388-01"
+          ],
+          "justificativa": "Os campos lexicais são distribuídos pelo currículo; listas extensas não serão copiadas.",
+          "procedencia": "fonte",
+          "registro": "cotidiano",
+          "restricoes": [
+            "não publicar listas ou imagens"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "irregular-verbs",
+          "paginas": "162",
+          "natureza": "tabela de verbos irregulares",
+          "tema": "formas verbais",
+          "objetivo_pedagogico": "consultar simple past e past participle",
+          "nivel_cefr": "A2-B1",
+          "habilidade_principal": "Verbos",
+          "habilidades_secundarias": [
+            "Gramática",
+            "Pronúncia"
+          ],
+          "conteudo_linguistico": "base form, passado e particípio",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A2-L9-0440-01"
+          ],
+          "justificativa": "Destino específico já existe.",
+          "procedencia": "fonte",
+          "registro": "referência",
+          "restricoes": [
+            "não publicar tabela"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "sound-bank",
+          "paginas": "163-164",
+          "natureza": "inventário de sons vocálicos e consonantais",
+          "tema": "pronúncia segmental",
+          "objetivo_pedagogico": "relacionar sons e grafias frequentes",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Pronúncia",
+          "habilidades_secundarias": [
+            "Escuta"
+          ],
+          "conteudo_linguistico": "vogais, consoantes e grafias",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "justificativa": "O sistema já possui cobertura ampla de pronúncia americana.",
+          "procedencia": "fonte",
+          "registro": "referência",
+          "restricoes": [
+            "não copiar tabela ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "creditos-finais",
+          "paginas": "165",
+          "natureza": "créditos e permissões",
+          "tema": "material editorial",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": null,
+          "decisao": "descartar",
+          "destinos": [],
+          "justificativa": "Créditos não constituem conteúdo curricular.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não republicar"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "pagina-166-ausente",
+          "paginas": "166",
+          "natureza": "página ausente da extração",
+          "tema": null,
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": null,
+          "decisao": "registrar ausência sem inferir conteúdo",
+          "destinos": [],
+          "justificativa": "Não inventar material não presente.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não inferir"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "contracapa",
+          "paginas": "167",
+          "natureza": "contracapa promocional",
+          "tema": "material editorial",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": null,
+          "decisao": "descartar",
+          "destinos": [],
+          "justificativa": "Não constitui conteúdo curricular.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não republicar"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "exercicios",
+          "paginas": "7-164",
+          "natureza": "exercícios distribuídos pelas lições e bancos",
+          "tema": "prática controlada e comunicativa",
+          "objetivo_pedagogico": "praticar objetivos já mapeados",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Prática integrada",
+          "habilidades_secundarias": [
+            "Gramática",
+            "Vocabulário",
+            "Pronúncia",
+            "Escuta",
+            "Leitura",
+            "Conversação",
+            "Escrita"
+          ],
+          "conteudo_linguistico": "itens dependentes do contexto editorial, imagens e mídias",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A1-GRAM-0001",
+            "A2-L10-1314-01"
+          ],
+          "justificativa": "Atividades existentes permanecem verificáveis e os exercícios do livro não serão copiados.",
+          "procedencia": "fonte",
+          "registro": "didático",
+          "restricoes": [
+            "não copiar exercícios ou respostas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "referencias-midia",
+          "paginas": "6-120",
+          "natureza": "159 referências localizadas a áudio, vídeo, CD, DVD ou conteúdo on-line",
+          "tema": "mídia externa",
+          "objetivo_pedagogico": "apoio audiovisual",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Escuta",
+          "habilidades_secundarias": [
+            "Pronúncia",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "mídias não incorporadas ao Markdown",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A2-L10-1378-01",
+            "B1-L10-1379-01"
+          ],
+          "justificativa": "Conteúdo externo ausente não pode ser reproduzido nem inferido.",
+          "procedencia": "fonte",
+          "registro": "didático",
+          "restricoes": [
+            "não incorporar mídia ausente"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "imagens",
+          "paginas": "1-167",
+          "natureza": "conteúdo visual não preservado integralmente na extração textual",
+          "tema": "dependência visual",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": "algumas tarefas dependem de fotos, mapas, diagramas e pareamento visual",
+          "decisao": "descartar partes não recuperáveis e não inferir respostas",
+          "destinos": [],
+          "justificativa": "A fonte de consumo é texto; conteúdo visual ausente não pode ser inventado.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não inferir imagens ou respostas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "revisoes-testes",
+          "paginas": "21-22, 37-38, 53-54, 69-70, 83-84, 99-100",
+          "natureza": "Review and Check e autoavaliação",
+          "tema": "revisão cumulativa",
+          "objetivo_pedagogico": "verificar os objetivos dos pares de Files",
+          "nivel_cefr": "A1-A2",
+          "habilidade_principal": "Revisão",
+          "habilidades_secundarias": [
+            "Gramática",
+            "Vocabulário",
+            "Leitura",
+            "Escuta"
+          ],
+          "conteudo_linguistico": "recapitulação sem objetivo curricular novo",
+          "decisao": "consolidar procedência na fonte canônica 1229",
+          "destinos": [
+            "A1-GRAM-0001",
+            "A2-L9-0440-01",
+            "B1-L8-0321-01"
+          ],
+          "justificativa": "As revisões retomam conteúdos já destinados.",
+          "procedencia": "fonte",
+          "registro": "didático",
+          "restricoes": [
+            "não copiar testes ou respostas"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        },
+        {
+          "id": "conteudo-corrompido",
+          "paginas": "1-167",
+          "natureza": "fragmentos pontuais com palavras coladas e glifos anômalos",
+          "tema": "integridade de extração",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": null,
+          "habilidades_secundarias": [],
+          "conteudo_linguistico": null,
+          "decisao": "descartar somente os fragmentos não confiáveis",
+          "destinos": [],
+          "justificativa": "O tema da seção pode ser classificado, mas texto ilegível não deve ser reconstruído.",
+          "procedencia": "fonte",
+          "registro": null,
+          "restricoes": [
+            "não inventar texto"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false
+        }
+      ],
+      "totais": {
+        "partes": 22,
+        "consolidadas_ou_complementares": 14,
+        "descartadas_ou_registros_de_ausencia": 8,
+        "uteis_sem_destino": 0
+      },
+      "relacao_canonica": {
+        "canonica": 1229,
+        "corpo_didatico_identico": true,
+        "diferenca_exclusiva": "metadados internos de migração e origem",
+        "decisao": "consolidar como duplicata sem republicação"
+      }
+    }
+  ]
+}

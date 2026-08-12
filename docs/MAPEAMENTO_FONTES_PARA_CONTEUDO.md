@@ -280,3 +280,9 @@ Reduções destinadas sem republicação; regras técnicas descartadas.
 
 Fontes independentes com sobreposição parcial em reduções.
 <!-- LOTE-042-MAPEAMENTO:FIM -->
+
+<!-- LOTE-043-MAPEAMENTO:INICIO -->
+## Lote 043 — mapeamento
+
+O livro foi decomposto em objetivos de gramática, vocabulário, pronúncia, escuta, comunicação e escrita; nenhum painel ou unidade por livro foi criado. Exercícios, respostas, transcrições, tabelas e material visual não foram republicados.
+<!-- LOTE-043-MAPEAMENTO:FIM -->

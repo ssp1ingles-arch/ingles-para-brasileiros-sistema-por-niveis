@@ -1,0 +1,44 @@
+{
+  "lote": "043",
+  "intervalo": [
+    1229,
+    1230
+  ],
+  "sequenciais": [
+    {
+      "numero": 1229,
+      "nome": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+      "tamanho_bytes": 399493,
+      "total_linhas": 16444,
+      "hash_bruto": "ad6b8fa22efd4d88cc9ef8da4d394fcf5e5ba3dafddae653c90177219bc90a4c",
+      "hash_normalizado": "45898bced9e7827792457252b1003dc8631cf911d054baaa71bdd22992aa1ae4",
+      "leitura_integral": true,
+      "status": "mapeada para validação intermediária",
+      "tipo": "livro didático completo extraído como texto",
+      "paginas_presentes": 166,
+      "partes": 22,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1230,
+      "nome": "1230_01_American_English_File_1_-_Student_Book_Pk_-_03Edition_2.md",
+      "tamanho_bytes": 399494,
+      "total_linhas": 16444,
+      "hash_bruto": "46cf2e0a862c3ca1918e0a3f2278417a614b2e7c70efed3fe75302fcab2a0e04",
+      "hash_normalizado": "d7ca225927ad38b5112e6cbe4c14f95b8b74c759ac0d6802aad8e1aa57b8d525",
+      "leitura_integral": true,
+      "status": "duplicata por corpo didático integral",
+      "tipo": "extração alternativa do mesmo livro didático",
+      "paginas_presentes": 166,
+      "partes": 22,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1229,
+    "testes": "25/25",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1230, antes de 1231."
+}

@@ -12566,6 +12566,12 @@
         "arquivo_original": "BE_Sentido_06_J├ü_ESTEVE___TEM_ESTADO.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0321"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ]
   },
@@ -13364,6 +13370,12 @@
         "arquivo_original": "WRITE_Sentido_01_ESCREVER.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0342"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "ordem_global": 597,
@@ -18575,7 +18587,21 @@
     "ordem_nivel": 221,
     "ordem_pedagogica": 221,
     "ordem_painel": 3,
-    "ordem_subpainel": 3
+    "ordem_subpainel": 3,
+    "fontes": [
+      {
+        "arquivo": "1379_English_Speaking_TV___English_Conversation_and_Listening_Practice___Intermediate_English_Listening_Comprehension.md",
+        "arquivo_original": "English Speaking TV _  English Conversation and Listening Practice _ Intermediate English Listening Comprehension .docx",
+        "pagina": "páginas/seções indicadas no Markdown",
+        "secao": "texto/transcrição integral por tópico"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
+      }
+    ]
   },
   {
     "id": "B1-L10-1381-01",
@@ -19696,6 +19722,12 @@
         "arquivo_original": "input2c.jpeg",
         "pagina": "páginas/seções do Markdown",
         "secao": "conteúdo canônico integrado"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "confianca_classificacao": "alta",

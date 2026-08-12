@@ -1,6 +1,6 @@
 # Progresso
 
-Atualizado em 2026-08-12 após o lote 042.
+Atualizado em 2026-08-12 após o lote 043.
 
 <!-- ESTADO-ATUAL:INICIO -->
 ## Estado atual confirmado
@@ -8,23 +8,23 @@ Atualizado em 2026-08-12 após o lote 042.
 > Bloco calculado automaticamente por `scripts/atualizar-progresso.mjs`. Não editar os números manualmente.
 
 - Total de fontes: **1.547**
-- Fontes integralmente classificadas: **440**
-- Duplicatas consolidadas: **788**
+- Fontes integralmente classificadas: **441**
+- Duplicatas consolidadas: **789**
 - Fontes parcialmente analisadas: **0**
 - Fontes sem conteúdo didático: **45**
-- Total tratado: **1273**
-- Fontes não analisadas: **274**
-- Cobertura real: **82,29%** (`1273 ÷ 1.547`)
+- Total tratado: **1275**
+- Fontes não analisadas: **272**
+- Cobertura real: **82,42%** (`1275 ÷ 1.547`)
 - Unidades publicadas: **834**
 - Por nível: A1 **80**; A2 **360**; B1 **270**; B2 **95**; C1 **18**; C2 **5**; Kids **6**
 - Habilidade principal: Conversação **103**; Escrita **7**; Escuta **15**; Gramática **282**; Inglês acadêmico **15**; Inglês profissional **5**; Leitura **13**; Pronúncia **21**; Verbos **339**; Vocabulário **34**
 - Subpainéis: **95**
 - Jornada: **31 etapas**, **82 módulos** e **7 níveis ativos**
 - Atividades: **1977** — identificar_contraste **30**; parear **655**; producao_autorrevisao **755**; reordenar **537**
-- Testes executados e aprovados: **1406/1406**
+- Testes executados e aprovados: **1468/1468**
 - Rotas HTML existentes: **11** — `estudar.html`, `index.html`, `jornada.html`, `niveis/a1/index.html`, `niveis/a2/index.html`, `niveis/b1/index.html`, `niveis/b2/index.html`, `niveis/c1/index.html`, `niveis/c2/index.html`, `niveis/kids/index.html`, `praticar.html`
-- Última fonte sequencial tratada: `1228_verbo-think.md`
-- Próxima fonte sequencial: `1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md`
+- Última fonte sequencial tratada: `1230_01_American_English_File_1_-_Student_Book_Pk_-_03Edition_2.md`
+- Próxima fonte sequencial: `1231_02_American_English_File_2_-_Student_Book_With_Online_Practice_-_Third_Edition.md`
 <!-- ESTADO-ATUAL:FIM -->
 
 ## Lote 007
@@ -108,7 +108,7 @@ Atualizado em 2026-08-12 após o lote 042.
 - **95 subpainéis**, **31 etapas** e **82 módulos** registrados nos dados atuais.
 - **1977 atividades** em 4 tipos: identificar_contraste **30**; parear **655**; producao_autorrevisao **755**; reordenar **537**.
 - **11 rotas HTML existentes**: `estudar.html`, `index.html`, `jornada.html`, `niveis/a1/index.html`, `niveis/a2/index.html`, `niveis/b1/index.html`, `niveis/b2/index.html`, `niveis/c1/index.html`, `niveis/c2/index.html`, `niveis/kids/index.html`, `praticar.html`.
-- Último resultado persistido das suítes vigentes: **1406/1406 testes aprovados**.
+- Último resultado persistido das suítes vigentes: **1468/1468 testes aprovados**.
 - Hashes e estados vêm de `dados/mapa-fontes.json` e `dados/revisao-fontes.json`; `Arquivo_Fonte` permanece somente para leitura.
 <!-- VALIDACOES-VIGENTES:FIM -->
 
@@ -367,3 +367,13 @@ Atualizado em 2026-08-12 após o lote 042.
 - Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.
 - Última: `1228_verbo-think.md`; próxima: `1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md`.
 <!-- LOTE-042-PROGRESSO:FIM -->
+
+<!-- LOTE-043-PROGRESSO:INICIO -->
+## Lote 043
+
+- Sequenciais: 1229–1230; uma obra didática integralmente classificada e uma extração alternativa consolidada como duplicata.
+- Relação: corpos didáticos idênticos após remoção dos metadados de migração; 1229 preservada como canônica.
+- Integridade: 166 páginas presentes (1–165 e 167), página 166 e lição 9A ausentes na extração, sem inferência de conteúdo.
+- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.
+- Última: `1230_01_American_English_File_1_-_Student_Book_Pk_-_03Edition_2.md`; próxima: `1231_02_American_English_File_2_-_Student_Book_With_Online_Practice_-_Third_Edition.md`.
+<!-- LOTE-043-PROGRESSO:FIM -->

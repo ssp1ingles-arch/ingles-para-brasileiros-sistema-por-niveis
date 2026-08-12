@@ -6940,6 +6940,12 @@
         "arquivo_original": "livro03.html",
         "pagina": "página HTML didática",
         "secao": "objetivo curricular classificado"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ]
   },
@@ -7067,7 +7073,21 @@
     "ordem_nivel": 85,
     "ordem_pedagogica": 85,
     "ordem_painel": 5,
-    "ordem_subpainel": 4
+    "ordem_subpainel": 4,
+    "fontes": [
+      {
+        "arquivo": "1316_04_Pronouncing_American_English.md",
+        "arquivo_original": "04_Pronouncing American English.md",
+        "pagina": "páginas/seções do Markdown",
+        "secao": "conteúdo integral por objetivo"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
+      }
+    ]
   },
   {
     "id": "B2-L12-1332-01",

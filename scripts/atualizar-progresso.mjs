@@ -147,6 +147,10 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-042/resultados-validacao-042.json'
   ,'docs/evidencias/lote-042/resultados-comparacao-042.json'
   ,'docs/evidencias/lote-042/resultados-rotas-042.json'
+  ,'docs/evidencias/lote-043/resultados-intermediarios-1229.json'
+  ,'docs/evidencias/lote-043/resultados-validacao-043.json'
+  ,'docs/evidencias/lote-043/resultados-comparacao-043.json'
+  ,'docs/evidencias/lote-043/resultados-rotas-043.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);
@@ -253,6 +257,10 @@ if (ultimoLote >= 41 && !progresso.includes(marcadorLote041)) {
 const marcadorLote042 = '<!-- LOTE-042-PROGRESSO:INICIO -->';
 if (ultimoLote >= 42 && !progresso.includes(marcadorLote042)) {
   progresso = `${progresso.trim()}\n\n${marcadorLote042}\n## Lote 042\n\n- Sequenciais: 1227–1228; duas fontes didáticas integralmente classificadas.\n- Relação: fontes independentes com sobreposição parcial em reduções; 1227 traz taxonomia ampla e 1228 organiza o verbo think em contraste escrito-falado.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1228_verbo-think.md\`; próxima: \`1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md\`.\n<!-- LOTE-042-PROGRESSO:FIM -->\n`;
+}
+const marcadorLote043 = '<!-- LOTE-043-PROGRESSO:INICIO -->';
+if (ultimoLote >= 43 && !progresso.includes(marcadorLote043)) {
+  progresso = `${progresso.trim()}\n\n${marcadorLote043}\n## Lote 043\n\n- Sequenciais: 1229–1230; uma obra didática integralmente classificada e uma extração alternativa consolidada como duplicata.\n- Relação: corpos didáticos idênticos após remoção dos metadados de migração; 1229 preservada como canônica.\n- Integridade: 166 páginas presentes (1–165 e 167), página 166 e lição 9A ausentes na extração, sem inferência de conteúdo.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1230_01_American_English_File_1_-_Student_Book_Pk_-_03Edition_2.md\`; próxima: \`1231_02_American_English_File_2_-_Student_Book_With_Online_Practice_-_Third_Edition.md\`.\n<!-- LOTE-043-PROGRESSO:FIM -->\n`;
 }
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);

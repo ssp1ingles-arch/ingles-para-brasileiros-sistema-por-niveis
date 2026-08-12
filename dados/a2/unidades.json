@@ -324,6 +324,12 @@
         "arquivo_original": "estruturas-fixas.html",
         "pagina": "documento integral",
         "secao": "seções correspondentes do compêndio"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -491,6 +497,12 @@
         "arquivo_original": "QW_GRAM_G2_02_THE_O_A_OS_AS_ARTIGO_DEFINIDO_S001.pdf",
         "pagina": "páginas/seções do Markdown",
         "secao": "duplicata textual de 0057"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -1399,6 +1411,12 @@
         "arquivo_original": "conectivos-question-words.html",
         "pagina": "documento HTML/Markdown integral",
         "secao": "conectivo ou question word correspondente"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -1499,6 +1517,12 @@
         "arquivo_original": "QW_GRAM_G8_02_MUCH_MANY_MUITO_MUITOS_MUITAS.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0151"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -1662,7 +1686,21 @@
     "subpainel": "Artigos e substantivos",
     "ordem_subpainel": 4,
     "ordem_pedagogica": 20,
-    "subpainel_anterior": "artigos"
+    "subpainel_anterior": "artigos",
+    "fontes": [
+      {
+        "arquivo": "0638_pronomes-e-artigos.md",
+        "arquivo_original": "pronomes-e-artigos.html",
+        "pagina": "seção HTML",
+        "secao": "ZERO ARTICLE — USOS 1 e 2"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
+      }
+    ]
   },
   {
     "id": "A2-GRAM-0016",
@@ -1712,7 +1750,21 @@
     "subpainel": "Artigos e substantivos",
     "ordem_subpainel": 5,
     "ordem_pedagogica": 21,
-    "subpainel_anterior": "artigos"
+    "subpainel_anterior": "artigos",
+    "fontes": [
+      {
+        "arquivo": "0638_pronomes-e-artigos.md",
+        "arquivo_original": "pronomes-e-artigos.html",
+        "pagina": "seção HTML",
+        "secao": "ZERO ARTICLE — USOS 3–5"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
+      }
+    ]
   },
   {
     "id": "A2-L3-0035-02",
@@ -8819,6 +8871,12 @@
         "arquivo_original": "QW_GRAM_G5_03_NEAR_THROUGH_PERTO_LONGE_AO_REDOR_ATRAVES.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0111"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "habilidade_principal": "Vocabulário",
@@ -10808,6 +10866,12 @@
         "arquivo_original": "conectivos-question-words.html",
         "pagina": "documento HTML/Markdown integral",
         "secao": "conectivo ou question word correspondente"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "habilidade_principal": "Conversação",
@@ -18811,6 +18875,12 @@
         "arquivo_original": "estruturas-fixas.html",
         "pagina": "documento integral",
         "secao": "seções correspondentes do compêndio"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ]
   },
@@ -19641,6 +19711,12 @@
         "arquivo_original": "DO_Sentido_02_AUXILIAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0322"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "ordem_global": 332,
@@ -19989,6 +20065,12 @@
         "arquivo_original": "LIKE_Sentido_01_GOSTAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0336"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "ordem_global": 336,
@@ -20259,6 +20341,12 @@
         "arquivo_original": "WRITE_Sentido_01_ESCREVER.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0342"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "ordem_global": 339,
@@ -21995,6 +22083,12 @@
         "arquivo_original": "GO_Sentido_03_IR_DE.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0388"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "ordem_global": 359,
@@ -24226,6 +24320,12 @@
         "arquivo_original": "input3c.jpeg",
         "pagina": "páginas/seções do Markdown",
         "secao": "card original integralmente inspecionado"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ]
   },
@@ -24503,6 +24603,12 @@
         "arquivo_original": "WORK_Sentido_01_TRABALHAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0446"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ],
     "ordem_global": 388,
@@ -25588,6 +25694,12 @@
         "arquivo_original": "03_b_dialogues_everyday_conversations_english_lo_0.pdf",
         "pagina": "páginas/seções do Markdown",
         "secao": "duplicata dirigida de 1314"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
       }
     ]
   },
@@ -25697,7 +25809,21 @@
     "ordem_nivel": 324,
     "ordem_pedagogica": 324,
     "ordem_painel": 2,
-    "ordem_subpainel": 2
+    "ordem_subpainel": 2,
+    "fontes": [
+      {
+        "arquivo": "1378_English_Speaking_TV___Daily_life_English_dialogues_-_Basic_English_Speaking_-_English_Conversations_Practice.md",
+        "arquivo_original": "English Speaking TV _  Daily life English dialogues - Basic English Speaking - English Conversations Practice.docx",
+        "pagina": "páginas/seções indicadas no Markdown",
+        "secao": "texto/transcrição integral por tópico"
+      },
+      {
+        "arquivo": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+        "arquivo_original": "American English File 1, Third Edition",
+        "pagina": "faixas classificadas no lote 043",
+        "secao": "objetivo curricular consolidado"
+      }
+    ]
   },
   {
     "id": "A2-L10-1380-01",

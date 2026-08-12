@@ -349,3 +349,9 @@
 
 1227 consolidada com notas técnicas descartadas; 1228 separada entre gramática, reduções e TH. Encerrado antes de 1229.
 <!-- LOTE-042-DECISOES:FIM -->
+
+<!-- LOTE-043-DECISOES:INICIO -->
+## Decisões do lote 043
+
+1229 foi mapeada por blocos curriculares A1-A2, com página 166 e lição 9A ausentes registradas. 1230 possui corpo didático integralmente idêntico e foi consolidada como extração alternativa, preservando 1229 como canônica.
+<!-- LOTE-043-DECISOES:FIM -->
