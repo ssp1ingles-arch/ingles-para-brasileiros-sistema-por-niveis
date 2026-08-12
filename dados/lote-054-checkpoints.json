@@ -1,0 +1,809 @@
+{
+  "lote": "054",
+  "frequencia": 10,
+  "checkpoints": [
+    {
+      "checkpoint": 1,
+      "fontes": [
+        {
+          "numero": 1,
+          "nome": "0001_#(Base).md",
+          "estado_principal": "sem conteúdo didático",
+          "classificacao": "sem conteúdo didático",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "e470b7691135e7621954a69ca9c59243e9324ee405e134c71eaad8e855d3b168",
+          "hash_normalizado": "014052bcd4e1fe24c40cda8e29aeeaa54932e8196a4477abccb3a562be4b0e25",
+          "duplicata_de": null,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 1,
+          "leitura_integral": true
+        },
+        {
+          "numero": 2,
+          "nome": "0002_#_06_MAKE_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "817f2c593e272e7aee81ddec9a37aba78154f5356f9107292acdd4ca48cef353",
+          "hash_normalizado": "cdfd687d9ba425f146c425cfe35b4fa8da3c0503d6a97824ee757a1a2957d8d8",
+          "duplicata_de": 1060,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 17,
+          "leitura_integral": true
+        },
+        {
+          "numero": 3,
+          "nome": "0003_#_BE_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "e4c872b664309e62bc703a3178dd295a16b0cfcbe58760b57d6f6ce82a1e3a1e",
+          "hash_normalizado": "b781096ba4627f7b5414250c4cccc5eb1b626b446601bfed067657e364a47212",
+          "duplicata_de": 927,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 21,
+          "leitura_integral": true
+        },
+        {
+          "numero": 4,
+          "nome": "0004_#_CALL_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "e8d9f0c799ad57ca7f080bb643b0650009d61690b040513a3e9d0beebc06623a",
+          "hash_normalizado": "6d30f7be1bc1aa9e615acbc72b8cc49af3f6a4929ed43a09102799d81789ed95",
+          "duplicata_de": 1075,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 9,
+          "leitura_integral": true
+        },
+        {
+          "numero": 5,
+          "nome": "0005_#_COME_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "d14854828cf459e29ba69529ef2ee2a06eae049717a2db54c6c115032a159de9",
+          "hash_normalizado": "25a0d07381f2f11cc8f1f9d11550861cdb99555d1114a3ea32a9cd05aab93017",
+          "duplicata_de": 1061,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 13,
+          "leitura_integral": true
+        },
+        {
+          "numero": 6,
+          "nome": "0006_#_DO_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "cfc747c8090fc703955e00a8fffd7241e81d9fafcdf6533dbe9eff023d4fee0a",
+          "hash_normalizado": "d3c993e3f19d3ac13e8f47f9a232c01304a527b847b76c82cb1fcf98b22de8e3",
+          "duplicata_de": 1057,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 9,
+          "leitura_integral": true
+        },
+        {
+          "numero": 7,
+          "nome": "0007_#_GET_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "2dacde2eacc65a58cf48b19cdec094c7afcf9dfbb187967a01cfcb20dd6cf973",
+          "hash_normalizado": "2a00fc5c12f29139f1ecce5d968ff42e31af55563bb4d6993768ceb6a2cfb75c",
+          "duplicata_de": 1059,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 17,
+          "leitura_integral": true
+        },
+        {
+          "numero": 8,
+          "nome": "0008_#_GO_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "90ebec30582fce60636c2a6357814844d64f54491f72eed7250909b662970050",
+          "hash_normalizado": "8dfbebe6734c1174b4726751bc4c24eac9ff8783e2c056a6b9980f58ff942689",
+          "duplicata_de": 1058,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 25,
+          "leitura_integral": true
+        },
+        {
+          "numero": 9,
+          "nome": "0009_#_HAVE_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "livro extenso"
+          ],
+          "hash_bruto": "84f244f22b7a20cdc8e9160aebbbbd2d61446d49ccbe5da3130c086c3f9616ca",
+          "hash_normalizado": "63d2c13fbe90c0a9e293be7faf6a653d93ad8c364d923619d81d81772b6b1d60",
+          "duplicata_de": 974,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 68,
+          "leitura_integral": true
+        },
+        {
+          "numero": 10,
+          "nome": "0010_#_KNOW_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "5f8cb9b0610ad097eec1f7889988e9f9c2066d890a879162a728463f236a764b",
+          "hash_normalizado": "ad61e60555ac5224299ecfe5ede8d00964772abc829fab93d44cab46ac883377",
+          "duplicata_de": 1063,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 13,
+          "leitura_integral": true
+        }
+      ],
+      "quantidade": 10,
+      "ultima_fonte": 10,
+      "proxima_fonte": 11,
+      "total_acumulado": 10,
+      "conteudo_util_sem_destino": 0,
+      "amostras_manuais": [
+        {
+          "numero": 1,
+          "checkpoint": 1,
+          "posicao_no_checkpoint": "começo",
+          "conferencias": [
+            "começo",
+            "meio",
+            "fim",
+            "todas as divisões estruturais"
+          ],
+          "secoes_uteis_verificadas": false,
+          "secoes_descartadas_verificadas": true,
+          "destinos_validos": true,
+          "nuance_perdida": false,
+          "decisao_confirmada": true
+        },
+        {
+          "numero": 6,
+          "checkpoint": 1,
+          "posicao_no_checkpoint": "meio",
+          "conferencias": [
+            "começo",
+            "meio",
+            "fim",
+            "todas as divisões estruturais"
+          ],
+          "secoes_uteis_verificadas": false,
+          "secoes_descartadas_verificadas": true,
+          "destinos_validos": true,
+          "nuance_perdida": false,
+          "decisao_confirmada": true
+        },
+        {
+          "numero": 10,
+          "checkpoint": 1,
+          "posicao_no_checkpoint": "fim",
+          "conferencias": [
+            "começo",
+            "meio",
+            "fim",
+            "todas as divisões estruturais"
+          ],
+          "secoes_uteis_verificadas": false,
+          "secoes_descartadas_verificadas": true,
+          "destinos_validos": true,
+          "nuance_perdida": false,
+          "decisao_confirmada": true
+        }
+      ],
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "hashes": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 2,
+      "fontes": [
+        {
+          "numero": 11,
+          "nome": "0011_#_SAY_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "38fa47cdba1cb40a8c9f7aa48eaa7ca04c9750f5ef72941a577da93f79762be0",
+          "hash_normalizado": "7f63b98f35e0c134df571fbc2ea0584876d2605e2c1d50ff21e5f244fab0affd",
+          "duplicata_de": 1076,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 9,
+          "leitura_integral": true
+        },
+        {
+          "numero": 12,
+          "nome": "0012_#_SEE_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "826b89b55cdabc2909be034d1310758184bc0ba58be04b77bde77f53e66abd08",
+          "hash_normalizado": "8ba56e10a3b61c065eafaa7dde2e2eec835c746fc460ed81921c16d4d5e27ecb",
+          "duplicata_de": 1065,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 13,
+          "leitura_integral": true
+        },
+        {
+          "numero": 13,
+          "nome": "0013_#_TAKE_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "e2900d43bbb4f512b62c6c1fa7926734788f937b02e8d49c03881779849ec1b5",
+          "hash_normalizado": "c83d56cf757141801c6540d0f8a08c51f5981d0d1da7618e0f4e59ae735eeb25",
+          "duplicata_de": 1062,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 13,
+          "leitura_integral": true
+        },
+        {
+          "numero": 14,
+          "nome": "0014_#_THINK_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "a7250514fc815ccf5046242476dfb39d3212e767a3510e3592b9e2381569c0ce",
+          "hash_normalizado": "84f9867dd63d8c508c5b3045a38b49b7103d80b48934c158ce653d1ede7144da",
+          "duplicata_de": 1064,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 13,
+          "leitura_integral": true
+        },
+        {
+          "numero": 15,
+          "nome": "0015_#_WANT_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "cb1555db5d5d76b185859f03aa16050e90c91bc3b7fa915f7165f53d5f67aa0c",
+          "hash_normalizado": "91446d7c1e34d329dc4bae27d1f8fec56b583d81d76e521b0e1d9401181e1c05",
+          "duplicata_de": 1066,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 9,
+          "leitura_integral": true
+        },
+        {
+          "numero": 16,
+          "nome": "0016_#_WORK_Completo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "3e7a7923e52c15f8fd8e8811c64d47068ace9867c5c48a54508be81210de08f4",
+          "hash_normalizado": "c688c879e3c16d4c608cbea8f38f4d58ea89d54a6d29afde6b2f1b4e3a380ed6",
+          "duplicata_de": 1072,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 9,
+          "leitura_integral": true
+        },
+        {
+          "numero": 17,
+          "nome": "0017_#Regra.md",
+          "estado_principal": "administrativa",
+          "classificacao": "regra administrativa",
+          "caracteristicas": [
+            "fonte curta",
+            "extração de imagem",
+            "OCR"
+          ],
+          "hash_bruto": "0ad00dc5d30bb814fbf7b7bbea9bce1499c86a6fb1a4afa44aa8e144ac330689",
+          "hash_normalizado": "da994b5b315e02e2ea62b881c9b76f3ca4eaf2fdadddc506f342add248ac28b6",
+          "duplicata_de": null,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 1,
+          "leitura_integral": true
+        },
+        {
+          "numero": 18,
+          "nome": "0018_01___1000_melhores_dicas_para_aprender_inglês.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "extração alternativa com sobreposição extensa",
+          "caracteristicas": [
+            "extração alternativa",
+            "conteúdo já incorporado historicamente",
+            "livro extenso"
+          ],
+          "hash_bruto": "211544a2c981354f30902a75b0f7dca97c4744ef921cc4caeab3b9d21a1f2aa8",
+          "hash_normalizado": "8440f8ef5555b19f061c2513a414760bab316ce1de58aafad1183d37be516592",
+          "duplicata_de": null,
+          "fonte_canonica_relacionada": 1176,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A2-L10-1314-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 367,
+          "leitura_integral": true
+        },
+        {
+          "numero": 19,
+          "nome": "0019_01_AND_E_Adicao.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "629c207c5ec100f25cca839df22185c807bb9aadbe380febb4973fe10102c2c2",
+          "hash_normalizado": "dfaa0a3c7d7bff2676dbf5ea1f83c74bd18e8840f4443ed9ff430ba333ad6c16",
+          "duplicata_de": 654,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 1,
+          "leitura_integral": true
+        },
+        {
+          "numero": 20,
+          "nome": "0020_01_AND_E_Adicao_S001.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "b404be8c90723f8897a13692bdd3e5a9dc30839fd9736d749efdcc6725024e65",
+          "hash_normalizado": "dfaa0a3c7d7bff2676dbf5ea1f83c74bd18e8840f4443ed9ff430ba333ad6c16",
+          "duplicata_de": 654,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 1,
+          "leitura_integral": true
+        }
+      ],
+      "quantidade": 10,
+      "ultima_fonte": 20,
+      "proxima_fonte": 22,
+      "total_acumulado": 20,
+      "conteudo_util_sem_destino": 0,
+      "amostras_manuais": [
+        {
+          "numero": 11,
+          "checkpoint": 2,
+          "posicao_no_checkpoint": "começo",
+          "conferencias": [
+            "começo",
+            "meio",
+            "fim",
+            "todas as divisões estruturais"
+          ],
+          "secoes_uteis_verificadas": false,
+          "secoes_descartadas_verificadas": true,
+          "destinos_validos": true,
+          "nuance_perdida": false,
+          "decisao_confirmada": true
+        },
+        {
+          "numero": 16,
+          "checkpoint": 2,
+          "posicao_no_checkpoint": "meio",
+          "conferencias": [
+            "começo",
+            "meio",
+            "fim",
+            "todas as divisões estruturais"
+          ],
+          "secoes_uteis_verificadas": false,
+          "secoes_descartadas_verificadas": true,
+          "destinos_validos": true,
+          "nuance_perdida": false,
+          "decisao_confirmada": true
+        },
+        {
+          "numero": 18,
+          "checkpoint": 2,
+          "posicao_no_checkpoint": "fonte extensa adicional",
+          "conferencias": [
+            "começo",
+            "meio",
+            "fim",
+            "todas as divisões estruturais"
+          ],
+          "secoes_uteis_verificadas": true,
+          "secoes_descartadas_verificadas": false,
+          "destinos_validos": true,
+          "nuance_perdida": false,
+          "decisao_confirmada": true
+        },
+        {
+          "numero": 20,
+          "checkpoint": 2,
+          "posicao_no_checkpoint": "fim",
+          "conferencias": [
+            "começo",
+            "meio",
+            "fim",
+            "todas as divisões estruturais"
+          ],
+          "secoes_uteis_verificadas": false,
+          "secoes_descartadas_verificadas": true,
+          "destinos_validos": true,
+          "nuance_perdida": false,
+          "decisao_confirmada": true
+        }
+      ],
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "hashes": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 3,
+      "fontes": [
+        {
+          "numero": 22,
+          "nome": "0022_01_ASK_FOR_Pedir_Algo.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "3a9aa97ace7021d853855390f5a28139437702e0b77c3806a8cbbc9a7116600e",
+          "hash_normalizado": "772c8a1fcdd84066178c65edc1890abbc1a9be3cbe7ae9f8e4309cbbc625a261",
+          "duplicata_de": 466,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 5,
+          "leitura_integral": true
+        },
+        {
+          "numero": 23,
+          "nome": "0023_01_ASK_FOR_Pedir_Algo_S001.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "40ead48e1fccca154a2b81dfeeca919cb4d875431219e13c44ccdb3458d397d5",
+          "hash_normalizado": "772c8a1fcdd84066178c65edc1890abbc1a9be3cbe7ae9f8e4309cbbc625a261",
+          "duplicata_de": 466,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 5,
+          "leitura_integral": true
+        },
+        {
+          "numero": 25,
+          "nome": "0025_01_AT_Horas_Momentos_S001.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "322a565600036dc37dea45410874c9bcf91ef3fd07816a4be5b611a3428d3352",
+          "hash_normalizado": "f2823b6134b4a292fdd91c61e9b5c5b5e4a1cda736a42364cee57ea618ff5478",
+          "duplicata_de": 24,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 2,
+          "leitura_integral": true
+        },
+        {
+          "numero": 26,
+          "nome": "0026_01_BUY_Comprar.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "0ca0521d0901ddef50867f44f6d860c2fb1b6afd6c11a154bf967071557cc8a1",
+          "hash_normalizado": "eee5ed8ab7b3111a1c6e381929f03b217b17fe2005aabed5b5780ebbd7a40255",
+          "duplicata_de": 480,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 5,
+          "leitura_integral": true
+        },
+        {
+          "numero": 27,
+          "nome": "0027_01_BUY_Comprar_S001.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "a0d00025490a7002499e1d33c90a9dc4be4774561cdc9515b237f8774bfac331",
+          "hash_normalizado": "eee5ed8ab7b3111a1c6e381929f03b217b17fe2005aabed5b5780ebbd7a40255",
+          "duplicata_de": 480,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 5,
+          "leitura_integral": true
+        },
+        {
+          "numero": 28,
+          "nome": "0028_01_Connected_Speech_Flap_T.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "db571b9b40610f6e2dfc2c7d8fd5392e1097066ef65b0bf2a82ab46d1da3d30d",
+          "hash_normalizado": "c0b39ae4ccdca3dea77f7c457c4f01e2d924124a98e28fdfc2f00d8a701488e5",
+          "duplicata_de": 778,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 2,
+          "leitura_integral": true
+        },
+        {
+          "numero": 29,
+          "nome": "0029_01_HAVE_Sentido_01_TER.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "a07fc8fd8e787445823bb657b5619181608f2ebca9ba48e0df90107986aa4523",
+          "hash_normalizado": "2549b599bff8000e090e15ee4bdf8ef135b261768a231d1f2660fad92eba5eaa",
+          "duplicata_de": 533,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 4,
+          "leitura_integral": true
+        },
+        {
+          "numero": 30,
+          "nome": "0030_01_HAVE_Sentido_01_TER_S001.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "d8ea47fb5f3be95a1acff7635fcff931d334a09f0d70306abb9f2a8578998e7f",
+          "hash_normalizado": "2549b599bff8000e090e15ee4bdf8ef135b261768a231d1f2660fad92eba5eaa",
+          "duplicata_de": 533,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 4,
+          "leitura_integral": true
+        },
+        {
+          "numero": 32,
+          "nome": "0032_01_IN_ON_AT_Lugar_S001.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "conteúdo já incorporado historicamente",
+            "fonte curta"
+          ],
+          "hash_bruto": "d544723c3478016b96f60ab683cfdf2b3a7f8d971a6c107bfae7af15b0c65a98",
+          "hash_normalizado": "aa0548de01b7aa574854902b6df268d1076f8cfc21c863075603faa64576f488",
+          "duplicata_de": 31,
+          "fonte_canonica_relacionada": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 2,
+          "leitura_integral": true
+        },
+        {
+          "numero": 56,
+          "nome": "0056_02___Livro_Inglês_Conversação_para_viagem-Michaelis_tour_Completo.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "extração alternativa com sobreposição extensa",
+          "caracteristicas": [
+            "extração alternativa",
+            "conteúdo já incorporado historicamente",
+            "livro extenso"
+          ],
+          "hash_bruto": "f8edca670a8a08e72942cb9ae8408c168fdd411fa2dcf2277de15b2b1e1118bf",
+          "hash_normalizado": "3c07f12e1aeeed2c7ca09e5d4df32295c51c029d80a14f897913d2b774d8d04d",
+          "duplicata_de": null,
+          "fonte_canonica_relacionada": 1178,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 164,
+          "leitura_integral": true
+        }
+      ],
+      "quantidade": 10,
+      "ultima_fonte": 56,
+      "proxima_fonte": null,
+      "total_acumulado": 30,
+      "conteudo_util_sem_destino": 0,
+      "amostras_manuais": [
+        {
+          "numero": 22,
+          "checkpoint": 3,
+          "posicao_no_checkpoint": "começo",
+          "conferencias": [
+            "começo",
+            "meio",
+            "fim",
+            "todas as divisões estruturais"
+          ],
+          "secoes_uteis_verificadas": false,
+          "secoes_descartadas_verificadas": true,
+          "destinos_validos": true,
+          "nuance_perdida": false,
+          "decisao_confirmada": true
+        },
+        {
+          "numero": 28,
+          "checkpoint": 3,
+          "posicao_no_checkpoint": "meio",
+          "conferencias": [
+            "começo",
+            "meio",
+            "fim",
+            "todas as divisões estruturais"
+          ],
+          "secoes_uteis_verificadas": false,
+          "secoes_descartadas_verificadas": true,
+          "destinos_validos": true,
+          "nuance_perdida": false,
+          "decisao_confirmada": true
+        },
+        {
+          "numero": 56,
+          "checkpoint": 3,
+          "posicao_no_checkpoint": "fim",
+          "conferencias": [
+            "começo",
+            "meio",
+            "fim",
+            "todas as divisões estruturais"
+          ],
+          "secoes_uteis_verificadas": true,
+          "secoes_descartadas_verificadas": false,
+          "destinos_validos": true,
+          "nuance_perdida": false,
+          "decisao_confirmada": true
+        }
+      ],
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "hashes": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    }
+  ]
+}

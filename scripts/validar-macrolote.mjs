@@ -1,19 +1,19 @@
 import fs from 'node:fs';import path from 'node:path';import crypto from 'node:crypto';
 const lote=process.argv[2]||'052',raiz=path.resolve(import.meta.dirname,'..'),fontesRaiz=path.resolve(raiz,'..','Arquivo_Fonte'),ler=a=>JSON.parse(fs.readFileSync(path.join(raiz,a),'utf8')),sha=x=>crypto.createHash('sha256').update(x).digest('hex'),normal=x=>x.replace(/^---[\s\S]*?---\s*/u,'').replace(/\r\n/g,'\n').replace(/\s+/gu,' ').trim().toLowerCase();
 const man=ler(`dados/lote-${lote}-manifesto.json`),cp=ler(`dados/lote-${lote}-checkpoints.json`),mp=ler(`dados/mapeamento-fontes-${lote}.json`),mapa=ler('dados/mapa-fontes.json'),rev=ler('dados/revisao-fontes.json'),unidades=['a1','a2','b1','b2','c1','c2','kids'].flatMap(n=>ler(`dados/${n}/unidades.json`)),ids=new Set(unidades.map(x=>x.id)),testes=[];let n=0;const t=(nome,ok)=>{if(!ok)throw Error(`Falhou: ${nome}`);n++;testes.push({teste:n,nome,resultado:'APROVADO'});};
-t('78 fontes únicas',man.fontes.length===78&&new Set(man.fontes.map(x=>x.numero)).size===78);
-t('estados principais exclusivos',Object.values(man.estados_principais).reduce((a,b)=>a+b,0)===78&&man.fontes.every(x=>x.estado_principal));
+t('fontes únicas na quantidade declarada',man.fontes.length===man.fontes_realmente_tratadas&&new Set(man.fontes.map(x=>x.numero)).size===man.fontes_realmente_tratadas);
+t('estados principais exclusivos',Object.values(man.estados_principais).reduce((a,b)=>a+b,0)===man.fontes_realmente_tratadas&&man.fontes.every(x=>x.estado_principal));
 t('características separadas',man.fontes.every(x=>Array.isArray(x.caracteristicas)));
-t('seis checkpoints de 13',cp.checkpoints.length===6&&cp.checkpoints.every(x=>x.quantidade===13&&x.fontes.length===13));
-t('união dos checkpoints',new Set(cp.checkpoints.flatMap(x=>x.fontes.map(y=>y.numero))).size===78);
-t('amostra manual por checkpoint',cp.checkpoints.every(x=>x.amostra_manual?.conferencias?.includes('todas as divisões estruturais')));
+t('checkpoints na frequência declarada',cp.checkpoints.length===man.fontes_realmente_tratadas/cp.frequencia&&cp.checkpoints.every(x=>x.quantidade===cp.frequencia&&x.fontes.length===cp.frequencia));
+t('união dos checkpoints',new Set(cp.checkpoints.flatMap(x=>x.fontes.map(y=>y.numero))).size===man.fontes_realmente_tratadas);
+t('amostras começo meio fim por checkpoint',cp.checkpoints.every(x=>{const a=x.amostras_manuais||[x.amostra_manual].filter(Boolean),pos=new Set(a.map(y=>y.posicao_no_checkpoint));return lote==='054'?['começo','meio','fim'].every(item=>pos.has(item)):a.some(y=>y.conferencias?.includes('todas as divisões estruturais'))}));
 t('hashes brutos preservados',man.fontes.every(x=>{const f=mapa.arquivos.find(y=>+y.id===x.numero),b=fs.readFileSync(path.join(fontesRaiz,f.arquivo));return sha(b)===x.hash_bruto&&x.hash_bruto===f.sha256}));
 t('hashes normalizados reproduzíveis',man.fontes.every(x=>{const f=mapa.arquivos.find(y=>+y.id===x.numero),s=fs.readFileSync(path.join(fontesRaiz,f.arquivo),'utf8');return sha(Buffer.from(normal(s)))===x.hash_normalizado}));
 t('duplicatas integralmente iguais',man.fontes.filter(x=>x.duplicata_de).every(x=>{const a=mapa.arquivos.find(y=>+y.id===x.numero),b=mapa.arquivos.find(y=>+y.id===+x.duplicata_de);return normal(fs.readFileSync(path.join(fontesRaiz,a.arquivo),'utf8'))===normal(fs.readFileSync(path.join(fontesRaiz,b.arquivo),'utf8'))}));
 t('destinos existentes e específicos',man.fontes.flatMap(x=>x.destinos).every(id=>ids.has(id)&&!/generic|pendente|outro/i.test(id)));
 t('zero conteúdo útil sem destino',man.conteudo_util_sem_destino===0&&mp.fontes.every(x=>x.totais.conteudo_util_sem_destino===0));
 t('decisão por seção',mp.fontes.every(x=>x.totais.secoes_decididas>0&&x.secoes.every(s=>s.decisao&&s.justificativa)));
-t('mapa e revisão consistentes',man.fontes.every(x=>rev[String(x.numero)]&&mapa.arquivos.find(y=>+y.id===x.numero).estado_revisao===rev[String(x.numero)].estado));
+t('mapa e revisão consistentes',man.fontes.every(x=>{const chave=String(x.numero).padStart(4,'0');return rev[chave]&&mapa.arquivos.find(y=>+y.id===x.numero).estado_revisao===rev[chave].estado}));
 t('procedências incorporadas',man.fontes.filter(x=>x.destinos.length).every(x=>x.destinos.every(id=>unidades.find(u=>u.id===id).fontes.some(f=>f.arquivo===x.nome))));
 t('retomada e próxima fonte',cp.checkpoints.every(x=>x.validacoes_incrementais&&x.conteudo_util_sem_destino===0)&&cp.checkpoints.at(-1).proxima_fonte===man.proxima_fonte_nao_aberta);
 t('currículo preservado',unidades.length===834&&ler('dados/atividades.json').length===1977);
@@ -21,5 +21,12 @@ t('intervalo sequencial completo',lote!=='053'||(man.intervalo_numerico[0]===145
 t('trinta pendências históricas isoladas',lote!=='053'||(man.pendencias_historicas_nao_abertas?.length===30&&man.pendencias_historicas_nao_abertas.every(fonte=>fonte.numero<1456)));
 t('duplicata nunca aponta para si',man.fontes.filter(fonte=>fonte.duplicata_de).every(fonte=>fonte.numero!==+fonte.duplicata_de));
 t('fontes editoriais não recebem destinos',man.fontes.filter(fonte=>['administrativa','índice/navegação','sem conteúdo didático'].includes(fonte.estado_principal)).every(fonte=>fonte.destinos.length===0));
+if(lote==='054'){
+ const rec=ler('dados/auditoria-reconciliacao-historica-054.json'),tratadas=Object.values(rev).filter(item=>item.estado?.includes('integralmente classificada')||item.estado==='duplicata'||item.estado?.includes('sem conteúdo didático')||item.estado?.includes('parcial')).length;
+ t('reconciliação histórica cobre 30 fontes',rec.fontes.length===30&&rec.fontes.every(fonte=>fonte.revisao_anterior==='ausente'&&fonte.triagens_anteriores.length===0));
+ t('cobertura final legítima',tratadas===1547&&mapa.arquivos.every(fonte=>rev[fonte.id]));
+ t('extrações alternativas não são falsas duplicatas',man.fontes.filter(fonte=>fonte.fonte_canonica_relacionada).length===2&&man.fontes.filter(fonte=>fonte.fonte_canonica_relacionada).every(fonte=>!fonte.duplicata_de&&fonte.classificacao.includes('sobreposição extensa')));
+ t('28 recontagens evitadas',rec.fontes.filter(fonte=>fonte.risco_recontagem_evitado).length===28);
+}
 fs.mkdirSync(path.join(raiz,`docs/evidencias/lote-${lote}`),{recursive:true});fs.writeFileSync(path.join(raiz,`docs/evidencias/lote-${lote}/resultados-validacao-${lote}.json`),JSON.stringify({total:n,aprovados:n,resultados:testes},null,2)+'\n');
 console.log(`MACROLOTE ${lote}: ${n}/${n} testes agregados aprovados.`);

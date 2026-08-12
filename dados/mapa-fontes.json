@@ -11,8 +11,8 @@
       "arquivo_original": "#(Base).docx",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "sem conteúdo didático; 1 divisões decididas no macrolote 054",
       "unidades": []
     },
     {
@@ -22,9 +22,9 @@
       "sha256": "817f2c593e272e7aee81ddec9a37aba78154f5356f9107292acdd4ca48cef353",
       "arquivo_original": "#_06_MAKE_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1060,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1060",
       "unidades": []
     },
     {
@@ -34,9 +34,9 @@
       "sha256": "e4c872b664309e62bc703a3178dd295a16b0cfcbe58760b57d6f6ce82a1e3a1e",
       "arquivo_original": "#_BE_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 927,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 927",
       "unidades": []
     },
     {
@@ -46,9 +46,9 @@
       "sha256": "e8d9f0c799ad57ca7f080bb643b0650009d61690b040513a3e9d0beebc06623a",
       "arquivo_original": "#_CALL_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1075,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1075",
       "unidades": []
     },
     {
@@ -58,9 +58,9 @@
       "sha256": "d14854828cf459e29ba69529ef2ee2a06eae049717a2db54c6c115032a159de9",
       "arquivo_original": "#_COME_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1061,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1061",
       "unidades": []
     },
     {
@@ -70,9 +70,9 @@
       "sha256": "cfc747c8090fc703955e00a8fffd7241e81d9fafcdf6533dbe9eff023d4fee0a",
       "arquivo_original": "#_DO_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1057,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1057",
       "unidades": []
     },
     {
@@ -82,9 +82,9 @@
       "sha256": "2dacde2eacc65a58cf48b19cdec094c7afcf9dfbb187967a01cfcb20dd6cf973",
       "arquivo_original": "#_GET_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1059,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1059",
       "unidades": []
     },
     {
@@ -94,9 +94,9 @@
       "sha256": "90ebec30582fce60636c2a6357814844d64f54491f72eed7250909b662970050",
       "arquivo_original": "#_GO_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1058,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1058",
       "unidades": []
     },
     {
@@ -106,9 +106,9 @@
       "sha256": "84f244f22b7a20cdc8e9160aebbbbd2d61446d49ccbe5da3130c086c3f9616ca",
       "arquivo_original": "#_HAVE_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 974,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 974",
       "unidades": []
     },
     {
@@ -118,9 +118,9 @@
       "sha256": "5f8cb9b0610ad097eec1f7889988e9f9c2066d890a879162a728463f236a764b",
       "arquivo_original": "#_KNOW_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1063,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1063",
       "unidades": []
     },
     {
@@ -130,9 +130,9 @@
       "sha256": "38fa47cdba1cb40a8c9f7aa48eaa7ca04c9750f5ef72941a577da93f79762be0",
       "arquivo_original": "#_SAY_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1076,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1076",
       "unidades": []
     },
     {
@@ -142,9 +142,9 @@
       "sha256": "826b89b55cdabc2909be034d1310758184bc0ba58be04b77bde77f53e66abd08",
       "arquivo_original": "#_SEE_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1065,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1065",
       "unidades": []
     },
     {
@@ -154,9 +154,9 @@
       "sha256": "e2900d43bbb4f512b62c6c1fa7926734788f937b02e8d49c03881779849ec1b5",
       "arquivo_original": "#_TAKE_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1062,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1062",
       "unidades": []
     },
     {
@@ -166,9 +166,9 @@
       "sha256": "a7250514fc815ccf5046242476dfb39d3212e767a3510e3592b9e2381569c0ce",
       "arquivo_original": "#_THINK_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1064,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1064",
       "unidades": []
     },
     {
@@ -178,9 +178,9 @@
       "sha256": "cb1555db5d5d76b185859f03aa16050e90c91bc3b7fa915f7165f53d5f67aa0c",
       "arquivo_original": "#_WANT_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1066,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1066",
       "unidades": []
     },
     {
@@ -190,9 +190,9 @@
       "sha256": "3e7a7923e52c15f8fd8e8811c64d47068ace9867c5c48a54508be81210de08f4",
       "arquivo_original": "#_WORK_Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 1072,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 1072",
       "unidades": []
     },
     {
@@ -203,8 +203,8 @@
       "arquivo_original": "#Regra.png",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; 1 divisões decididas no macrolote 054",
       "unidades": []
     },
     {
@@ -215,9 +215,30 @@
       "arquivo_original": "01 _ 1000 melhores dicas para aprender inglês.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "extração alternativa com sobreposição extensa; 367 divisões decididas no macrolote 054",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ]
     },
     {
       "id": "0019",
@@ -226,9 +247,9 @@
       "sha256": "629c207c5ec100f25cca839df22185c807bb9aadbe380febb4973fe10102c2c2",
       "arquivo_original": "01_AND_E_Adicao.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 654,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 654",
       "unidades": []
     },
     {
@@ -238,9 +259,9 @@
       "sha256": "b404be8c90723f8897a13692bdd3e5a9dc30839fd9736d749efdcc6725024e65",
       "arquivo_original": "01_AND_E_Adicao_S001.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "[CAMINHO_LOCAL_REMOVIDO]/Claude Code Projetos\\\\Inglês para Brasileiros - Escolha seu Caminho\\\\N1 · Sistema 03 — Inglês do Zero · Base Completa\\\\01_AND_E_Adicao.pdf",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 654,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 654",
       "unidades": []
     },
     {
@@ -267,9 +288,9 @@
       "sha256": "3a9aa97ace7021d853855390f5a28139437702e0b77c3806a8cbbc9a7116600e",
       "arquivo_original": "01_ASK_FOR_Pedir_Algo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 466,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 466",
       "unidades": []
     },
     {
@@ -279,9 +300,9 @@
       "sha256": "40ead48e1fccca154a2b81dfeeca919cb4d875431219e13c44ccdb3458d397d5",
       "arquivo_original": "01_ASK_FOR_Pedir_Algo_S001.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "[CAMINHO_LOCAL_REMOVIDO]/Claude Code Projetos\\\\Inglês para Brasileiros - Escolha seu Caminho\\\\N1 · Sistema 03 — Inglês do Zero · Base Completa\\\\01_ASK_FOR_Pedir_Algo.pdf",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 466,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 466",
       "unidades": []
     },
     {
@@ -307,9 +328,9 @@
       "sha256": "322a565600036dc37dea45410874c9bcf91ef3fd07816a4be5b611a3428d3352",
       "arquivo_original": "01_AT_Horas_Momentos_S001.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "[CAMINHO_LOCAL_REMOVIDO]/Claude Code Projetos\\\\Inglês para Brasileiros - Escolha seu Caminho\\\\N1 · Sistema 03 — Inglês do Zero · Base Completa\\\\01_AT_Horas_Momentos.pdf",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 24,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 24",
       "unidades": []
     },
     {
@@ -319,9 +340,9 @@
       "sha256": "0ca0521d0901ddef50867f44f6d860c2fb1b6afd6c11a154bf967071557cc8a1",
       "arquivo_original": "01_BUY_Comprar.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 480,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 480",
       "unidades": []
     },
     {
@@ -331,9 +352,9 @@
       "sha256": "a0d00025490a7002499e1d33c90a9dc4be4774561cdc9515b237f8774bfac331",
       "arquivo_original": "01_BUY_Comprar_S001.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "[CAMINHO_LOCAL_REMOVIDO]/Claude Code Projetos\\\\Inglês para Brasileiros - Escolha seu Caminho\\\\N1 · Sistema 03 — Inglês do Zero · Base Completa\\\\01_BUY_Comprar.pdf",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 480,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 480",
       "unidades": []
     },
     {
@@ -343,9 +364,9 @@
       "sha256": "db571b9b40610f6e2dfc2c7d8fd5392e1097066ef65b0bf2a82ab46d1da3d30d",
       "arquivo_original": "01_Connected_Speech_Flap_T.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 778,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 778",
       "unidades": []
     },
     {
@@ -355,9 +376,9 @@
       "sha256": "a07fc8fd8e787445823bb657b5619181608f2ebca9ba48e0df90107986aa4523",
       "arquivo_original": "01_HAVE_Sentido_01_TER.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 533,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 533",
       "unidades": []
     },
     {
@@ -367,9 +388,9 @@
       "sha256": "d8ea47fb5f3be95a1acff7635fcff931d334a09f0d70306abb9f2a8578998e7f",
       "arquivo_original": "01_HAVE_Sentido_01_TER_S001.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "[CAMINHO_LOCAL_REMOVIDO]/Claude Code Projetos\\\\Inglês para Brasileiros - Escolha seu Caminho\\\\N1 · Sistema 03 — Inglês do Zero · Base Completa\\\\01_HAVE_Sentido_01_TER.pdf",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 533,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 533",
       "unidades": []
     },
     {
@@ -394,9 +415,9 @@
       "sha256": "d544723c3478016b96f60ab683cfdf2b3a7f8d971a6c107bfae7af15b0c65a98",
       "arquivo_original": "01_IN_ON_AT_Lugar_S001.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
-      "duplicata_de": "[CAMINHO_LOCAL_REMOVIDO]/Claude Code Projetos\\\\Inglês para Brasileiros - Escolha seu Caminho\\\\N1 · Sistema 03 — Inglês do Zero · Base Completa\\\\01_IN_ON_AT_Lugar.pdf",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": 31,
+      "estado_revisao": "duplicata",
+      "secoes": "duplicata integral de 31",
       "unidades": []
     },
     {
@@ -802,9 +823,23 @@
       "arquivo_original": "02 _ Livro Inglês Conversação para viagem-Michaelis tour Completo.pdf",
       "sistema_origem": "N1 · Sistema 03 — Inglês do Zero · Base Completa",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "extração alternativa com sobreposição extensa; 164 divisões decididas no macrolote 054",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "0057",

@@ -1,0 +1,342 @@
+{
+  "lote": "054",
+  "sequenciais": [
+    {
+      "numero": 1,
+      "nome": "0001_#(Base).md"
+    },
+    {
+      "numero": 2,
+      "nome": "0002_#_06_MAKE_Completo.md"
+    },
+    {
+      "numero": 3,
+      "nome": "0003_#_BE_Completo.md"
+    },
+    {
+      "numero": 4,
+      "nome": "0004_#_CALL_Completo.md"
+    },
+    {
+      "numero": 5,
+      "nome": "0005_#_COME_Completo.md"
+    },
+    {
+      "numero": 6,
+      "nome": "0006_#_DO_Completo.md"
+    },
+    {
+      "numero": 7,
+      "nome": "0007_#_GET_Completo.md"
+    },
+    {
+      "numero": 8,
+      "nome": "0008_#_GO_Completo.md"
+    },
+    {
+      "numero": 9,
+      "nome": "0009_#_HAVE_Completo.md"
+    },
+    {
+      "numero": 10,
+      "nome": "0010_#_KNOW_Completo.md"
+    },
+    {
+      "numero": 11,
+      "nome": "0011_#_SAY_Completo.md"
+    },
+    {
+      "numero": 12,
+      "nome": "0012_#_SEE_Completo.md"
+    },
+    {
+      "numero": 13,
+      "nome": "0013_#_TAKE_Completo.md"
+    },
+    {
+      "numero": 14,
+      "nome": "0014_#_THINK_Completo.md"
+    },
+    {
+      "numero": 15,
+      "nome": "0015_#_WANT_Completo.md"
+    },
+    {
+      "numero": 16,
+      "nome": "0016_#_WORK_Completo.md"
+    },
+    {
+      "numero": 17,
+      "nome": "0017_#Regra.md"
+    },
+    {
+      "numero": 18,
+      "nome": "0018_01___1000_melhores_dicas_para_aprender_inglês.md"
+    },
+    {
+      "numero": 19,
+      "nome": "0019_01_AND_E_Adicao.md"
+    },
+    {
+      "numero": 20,
+      "nome": "0020_01_AND_E_Adicao_S001.md"
+    },
+    {
+      "numero": 22,
+      "nome": "0022_01_ASK_FOR_Pedir_Algo.md"
+    },
+    {
+      "numero": 23,
+      "nome": "0023_01_ASK_FOR_Pedir_Algo_S001.md"
+    },
+    {
+      "numero": 25,
+      "nome": "0025_01_AT_Horas_Momentos_S001.md"
+    },
+    {
+      "numero": 26,
+      "nome": "0026_01_BUY_Comprar.md"
+    },
+    {
+      "numero": 27,
+      "nome": "0027_01_BUY_Comprar_S001.md"
+    },
+    {
+      "numero": 28,
+      "nome": "0028_01_Connected_Speech_Flap_T.md"
+    },
+    {
+      "numero": 29,
+      "nome": "0029_01_HAVE_Sentido_01_TER.md"
+    },
+    {
+      "numero": 30,
+      "nome": "0030_01_HAVE_Sentido_01_TER_S001.md"
+    },
+    {
+      "numero": 32,
+      "nome": "0032_01_IN_ON_AT_Lugar_S001.md"
+    },
+    {
+      "numero": 56,
+      "nome": "0056_02___Livro_Inglês_Conversação_para_viagem-Michaelis_tour_Completo.md"
+    }
+  ],
+  "intervalo_numerico": [
+    1,
+    56
+  ],
+  "fontes": [
+    {
+      "numero": 1,
+      "nome": "0001_#(Base).md",
+      "bytes": 805,
+      "complexidade": "fonte curta",
+      "ocr": false
+    },
+    {
+      "numero": 2,
+      "nome": "0002_#_06_MAKE_Completo.md",
+      "bytes": 45510,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 3,
+      "nome": "0003_#_BE_Completo.md",
+      "bytes": 50015,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 4,
+      "nome": "0004_#_CALL_Completo.md",
+      "bytes": 22776,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 5,
+      "nome": "0005_#_COME_Completo.md",
+      "bytes": 33984,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 6,
+      "nome": "0006_#_DO_Completo.md",
+      "bytes": 21479,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 7,
+      "nome": "0007_#_GET_Completo.md",
+      "bytes": 43991,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 8,
+      "nome": "0008_#_GO_Completo.md",
+      "bytes": 66869,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 9,
+      "nome": "0009_#_HAVE_Completo.md",
+      "bytes": 194321,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 10,
+      "nome": "0010_#_KNOW_Completo.md",
+      "bytes": 34872,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 11,
+      "nome": "0011_#_SAY_Completo.md",
+      "bytes": 23778,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 12,
+      "nome": "0012_#_SEE_Completo.md",
+      "bytes": 34401,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 13,
+      "nome": "0013_#_TAKE_Completo.md",
+      "bytes": 34852,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 14,
+      "nome": "0014_#_THINK_Completo.md",
+      "bytes": 35141,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 15,
+      "nome": "0015_#_WANT_Completo.md",
+      "bytes": 22858,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 16,
+      "nome": "0016_#_WORK_Completo.md",
+      "bytes": 21739,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 17,
+      "nome": "0017_#Regra.md",
+      "bytes": 1202,
+      "complexidade": "administrativa",
+      "ocr": true
+    },
+    {
+      "numero": 18,
+      "nome": "0018_01___1000_melhores_dicas_para_aprender_inglês.md",
+      "bytes": 856511,
+      "complexidade": "livro extenso",
+      "ocr": false
+    },
+    {
+      "numero": 19,
+      "nome": "0019_01_AND_E_Adicao.md",
+      "bytes": 3669,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 20,
+      "nome": "0020_01_AND_E_Adicao_S001.md",
+      "bytes": 3860,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 22,
+      "nome": "0022_01_ASK_FOR_Pedir_Algo.md",
+      "bytes": 11832,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 23,
+      "nome": "0023_01_ASK_FOR_Pedir_Algo_S001.md",
+      "bytes": 12029,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 25,
+      "nome": "0025_01_AT_Horas_Momentos_S001.md",
+      "bytes": 3963,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 26,
+      "nome": "0026_01_BUY_Comprar.md",
+      "bytes": 11233,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 27,
+      "nome": "0027_01_BUY_Comprar_S001.md",
+      "bytes": 11423,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 28,
+      "nome": "0028_01_Connected_Speech_Flap_T.md",
+      "bytes": 6041,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 29,
+      "nome": "0029_01_HAVE_Sentido_01_TER.md",
+      "bytes": 11607,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 30,
+      "nome": "0030_01_HAVE_Sentido_01_TER_S001.md",
+      "bytes": 11805,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 32,
+      "nome": "0032_01_IN_ON_AT_Lugar_S001.md",
+      "bytes": 4284,
+      "complexidade": "duplicata integral",
+      "ocr": false
+    },
+    {
+      "numero": 56,
+      "nome": "0056_02___Livro_Inglês_Conversação_para_viagem-Michaelis_tour_Completo.md",
+      "bytes": 134321,
+      "complexidade": "livro extenso",
+      "ocr": false
+    }
+  ],
+  "observacao": "Triagem somente leitura; cada fonte foi depois lida e decidida integralmente."
+}

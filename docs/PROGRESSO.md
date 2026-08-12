@@ -1,6 +1,6 @@
 # Progresso
 
-Atualizado em 2026-08-12 após o lote 053.
+Atualizado em 2026-08-12 após o lote 054.
 
 <!-- ESTADO-ATUAL:INICIO -->
 ## Estado atual confirmado
@@ -8,13 +8,13 @@ Atualizado em 2026-08-12 após o lote 053.
 > Bloco calculado automaticamente por `scripts/atualizar-progresso.mjs`. Não editar os números manualmente.
 
 - Total de fontes: **1.547**
-- Fontes integralmente classificadas: **604**
-- Duplicatas consolidadas: **826**
+- Fontes integralmente classificadas: **606**
+- Duplicatas consolidadas: **852**
 - Fontes parcialmente analisadas: **0**
-- Fontes sem conteúdo didático: **87**
-- Total tratado: **1517**
-- Fontes não analisadas: **30**
-- Cobertura real: **98,06%** (`1517 ÷ 1.547`)
+- Fontes sem conteúdo didático: **89**
+- Total tratado: **1547**
+- Fontes não analisadas: **0**
+- Cobertura real: **100,00%** (`1547 ÷ 1.547`)
 - Unidades publicadas: **834**
 - Por nível: A1 **80**; A2 **360**; B1 **270**; B2 **95**; C1 **18**; C2 **5**; Kids **6**
 - Habilidade principal: Conversação **103**; Escrita **7**; Escuta **15**; Gramática **282**; Inglês acadêmico **15**; Inglês profissional **5**; Leitura **13**; Pronúncia **21**; Verbos **339**; Vocabulário **34**

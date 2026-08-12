@@ -1,0 +1,184 @@
+{
+  "fontes": 30,
+  "checkpoints": 3,
+  "amostras_manuais": [
+    {
+      "numero": 1,
+      "checkpoint": 1,
+      "posicao_no_checkpoint": "começo",
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": false,
+      "secoes_descartadas_verificadas": true,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 6,
+      "checkpoint": 1,
+      "posicao_no_checkpoint": "meio",
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": false,
+      "secoes_descartadas_verificadas": true,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 10,
+      "checkpoint": 1,
+      "posicao_no_checkpoint": "fim",
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": false,
+      "secoes_descartadas_verificadas": true,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 11,
+      "checkpoint": 2,
+      "posicao_no_checkpoint": "começo",
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": false,
+      "secoes_descartadas_verificadas": true,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 16,
+      "checkpoint": 2,
+      "posicao_no_checkpoint": "meio",
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": false,
+      "secoes_descartadas_verificadas": true,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 18,
+      "checkpoint": 2,
+      "posicao_no_checkpoint": "fonte extensa adicional",
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": true,
+      "secoes_descartadas_verificadas": false,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 20,
+      "checkpoint": 2,
+      "posicao_no_checkpoint": "fim",
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": false,
+      "secoes_descartadas_verificadas": true,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 22,
+      "checkpoint": 3,
+      "posicao_no_checkpoint": "começo",
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": false,
+      "secoes_descartadas_verificadas": true,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 28,
+      "checkpoint": 3,
+      "posicao_no_checkpoint": "meio",
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": false,
+      "secoes_descartadas_verificadas": true,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    },
+    {
+      "numero": 56,
+      "checkpoint": 3,
+      "posicao_no_checkpoint": "fim",
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "todas as divisões estruturais"
+      ],
+      "secoes_uteis_verificadas": true,
+      "secoes_descartadas_verificadas": false,
+      "destinos_validos": true,
+      "nuance_perdida": false,
+      "decisao_confirmada": true
+    }
+  ],
+  "estados_principais": {
+    "sem conteúdo didático": 1,
+    "duplicata integral": 26,
+    "administrativa": 1,
+    "integralmente classificada": 2
+  },
+  "caracteristicas": {
+    "fonte curta": 27,
+    "conteúdo já incorporado historicamente": 28,
+    "livro extenso": 3,
+    "extração de imagem": 1,
+    "OCR": 1,
+    "extração alternativa": 2
+  },
+  "conteudo_util_sem_destino": 0,
+  "proxima_fonte_nao_aberta": null,
+  "pendencias_historicas_nao_abertas": 0,
+  "aprovado": true
+}
