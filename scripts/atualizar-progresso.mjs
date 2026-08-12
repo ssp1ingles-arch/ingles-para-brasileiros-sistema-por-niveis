@@ -139,6 +139,10 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-040/resultados-validacao-040.json'
   ,'docs/evidencias/lote-040/resultados-comparacao-040.json'
   ,'docs/evidencias/lote-040/resultados-rotas-040.json'
+  ,'docs/evidencias/lote-041/resultados-intermediarios-1225.json'
+  ,'docs/evidencias/lote-041/resultados-validacao-041.json'
+  ,'docs/evidencias/lote-041/resultados-comparacao-041.json'
+  ,'docs/evidencias/lote-041/resultados-rotas-041.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);
@@ -237,6 +241,10 @@ if (ultimoLote >= 39 && !progresso.includes(marcadorLote039)) {
 const marcadorLote040 = '<!-- LOTE-040-PROGRESSO:INICIO -->';
 if (ultimoLote >= 40 && !progresso.includes(marcadorLote040)) {
   progresso = `${progresso.trim()}\n\n${marcadorLote040}\n## Lote 040\n\n- Sequenciais: 1223–1224; duas curadorias de pronúncia integralmente classificadas.\n- Relação: inventário sistemático e mapa diagnóstico complementares, não duplicatas.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1224_livro03_4.md\`; próxima: \`1225_reducoes.md\`.\n<!-- LOTE-040-PROGRESSO:FIM -->\n`;
+}
+const marcadorLote041 = '<!-- LOTE-041-PROGRESSO:INICIO -->';
+if (ultimoLote >= 41 && !progresso.includes(marcadorLote041)) {
+  progresso = `${progresso.trim()}\n\n${marcadorLote041}\n## Lote 041\n\n- Sequenciais: 1225–1226; fonte didática e documentação administrativa integralmente classificadas.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1226_REGRAS_7.md\`; próxima: \`1227_Sistema_02_—_Reduções_do_Inglês_Real_v01.md\`.\n<!-- LOTE-041-PROGRESSO:FIM -->\n`;
 }
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);

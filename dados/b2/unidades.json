@@ -6652,6 +6652,18 @@
         "arquivo_original": "livro01.html",
         "pagina": "página HTML didática",
         "secao": "objetivo curricular classificado"
+      },
+      {
+        "arquivo": "1225_reducoes.md",
+        "arquivo_original": "reducoes.html",
+        "pagina": "página/seções",
+        "secao": "objetivo classificado"
+      },
+      {
+        "arquivo": "1226_REGRAS_7.md",
+        "arquivo_original": "REGRAS.md",
+        "pagina": "página/seções",
+        "secao": "objetivo classificado"
       }
     ]
   },

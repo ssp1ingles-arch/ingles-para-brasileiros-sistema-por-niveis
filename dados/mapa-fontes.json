@@ -18629,9 +18629,16 @@
       "arquivo_original": "reducoes.html",
       "sistema_origem": "N3 · Sistema 10 — Reduções e Pronúncia",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "sete seções úteis consolidadas; tabelas e IPA descartados",
+      "unidades": [
+        "B1-PRON-0001",
+        "B1-L5-0144-01",
+        "B1-L5-0144-02",
+        "B2-L10-0461-03",
+        "B1-L10-0461-01",
+        "B1-L15-0841-01"
+      ]
     },
     {
       "id": "1226",
@@ -18641,9 +18648,13 @@
       "arquivo_original": "REGRAS.md",
       "sistema_origem": "N3 · Sistema 10 — Reduções e Pronúncia",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "resumo curricular consolidado; regras administrativas e visuais descartadas",
+      "unidades": [
+        "B2-L10-0461-03",
+        "B1-PRON-0001",
+        "B1-L5-0144-01"
+      ]
     },
     {
       "id": "1227",

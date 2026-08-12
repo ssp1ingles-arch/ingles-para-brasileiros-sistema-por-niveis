@@ -1,0 +1,42 @@
+{
+  "lote": "041",
+  "intervalo": [
+    1225,
+    1226
+  ],
+  "sequenciais": [
+    {
+      "numero": 1225,
+      "nome": "1225_reducoes.md",
+      "tamanho_bytes": 6603,
+      "hash_bruto": "4dcbef9264754347d7f2922f90477f5d4f56335ba2be3d69282b8cd66654211d",
+      "hash_normalizado": "b7b686ef6acd9ad307493fd39d091afe1022ec9c492cd0bc71c0794e9a85c0ab",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "página didática de reduções",
+      "secoes": 7,
+      "partes": 8,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1226,
+      "nome": "1226_REGRAS_7.md",
+      "tamanho_bytes": 2145,
+      "hash_bruto": "8341845fa0a9d80762b78c31c5f29e240fc2e33388feb2b4e8feed5785197d64",
+      "hash_normalizado": "fb177f8a217966dadb4b00fe26da08b26897b47737925d010d02027666bff658",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "documentação administrativa e editorial com resumo curricular",
+      "secoes": 5,
+      "partes": 3,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1225,
+    "testes": "17/17",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1226, antes de 1227."
+}

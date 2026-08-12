@@ -1,0 +1,245 @@
+{
+  "lote": "041",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1225,
+        1226
+      ],
+      "executada_apos_validacao_1225": true,
+      "tamanhos": [
+        6603,
+        2145
+      ],
+      "hashes_brutos": [
+        "4dcbef9264754347d7f2922f90477f5d4f56335ba2be3d69282b8cd66654211d",
+        "8341845fa0a9d80762b78c31c5f29e240fc2e33388feb2b4e8feed5785197d64"
+      ],
+      "hashes_normalizados": [
+        "b7b686ef6acd9ad307493fd39d091afe1022ec9c492cd0bc71c0794e9a85c0ab",
+        "fb177f8a217966dadb4b00fe26da08b26897b47737925d010d02027666bff658"
+      ],
+      "corpo_integral_igual": false,
+      "estrutura_igual": false,
+      "secoes": [
+        7,
+        5
+      ],
+      "tema_1225": "fonte didática completa de reduções",
+      "tema_1226": "regras administrativas e editoriais do sistema",
+      "sobreposicao": "1226 resume a taxonomia de 1225 sem acrescentar conteúdo linguístico exclusivo",
+      "conteudo_exclusivo_1225": "tabelas, progressão, contextos e explicações",
+      "conteudo_exclusivo_1226": "roteamento administrativo e especificação visual",
+      "classificacao": "fontes distintas; 1226 não é lição",
+      "decisao": "registrar resumo curricular e descartar instruções técnicas"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1225,
+      "nome_completo": "1225_reducoes.md",
+      "tipo": "página didática de reduções",
+      "tamanho_bytes": 6603,
+      "hash_bruto": "4dcbef9264754347d7f2922f90477f5d4f56335ba2be3d69282b8cd66654211d",
+      "hash_normalizado": "b7b686ef6acd9ad307493fd39d091afe1022ec9c492cd0bc71c0794e9a85c0ab",
+      "leitura_integral": true,
+      "paginacao": {
+        "secoes_presentes": 7,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "secoes_didaticas": 7,
+        "subsecoes": 4,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "ipa": true,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "relacao_anteriores": {
+        "sobreposicao": [
+          1214,
+          1215,
+          1216,
+          1217,
+          1218,
+          1222
+        ],
+        "duplicata_integral": false,
+        "conteudo_exclusivo": "taxonomia compacta em cinco tipos e progressão por extensão/contexto"
+      },
+      "partes": [
+        {
+          "id": "contracoes",
+          "natureza": "contrações",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B1-PRON-0001",
+          "justificativa": "Destino existente de contrações.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "coloquiais",
+          "natureza": "reduções coloquiais",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B1-L5-0144-01",
+          "destinos_adicionais": [
+            "B1-L5-0144-02"
+          ],
+          "justificativa": "Destinos existentes de fala informal.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "pronomes",
+          "natureza": "reduções com pronomes",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "justificativa": "Connected speech existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "formas-fracas",
+          "natureza": "formas fracas e schwa",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B1-L10-0461-01",
+          "destinos_adicionais": [
+            "B2-L10-0461-03"
+          ],
+          "justificativa": "Stress e fala conectada existentes.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "elisao",
+          "natureza": "elisões finais e iniciais",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "justificativa": "Destino existente de elisão.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "progressao",
+          "natureza": "exemplos progressivos e situações reais",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B1-L15-0841-01",
+          "justificativa": "Prática contextual e shadowing existentes.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "percepcao",
+          "natureza": "impacto para compreensão oral de brasileiros",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "justificativa": "Percepção de fala conectada existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "tabelas-ipa-interface",
+          "natureza": "tabelas, IPA aproximado, exemplos extensos e interface",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Não republicar material extenso ou técnico.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 8,
+        "consolidadas": 7,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      }
+    },
+    {
+      "numero": 1226,
+      "nome_completo": "1226_REGRAS_7.md",
+      "tipo": "documentação administrativa e editorial com resumo curricular",
+      "tamanho_bytes": 2145,
+      "hash_bruto": "8341845fa0a9d80762b78c31c5f29e240fc2e33388feb2b4e8feed5785197d64",
+      "hash_normalizado": "fb177f8a217966dadb4b00fe26da08b26897b47737925d010d02027666bff658",
+      "leitura_integral": true,
+      "paginacao": {
+        "secoes_presentes": 5,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "regras_tecnicas": true,
+        "instrucoes_administrativas": true,
+        "documentacao_editorial": true,
+        "navegacao": true,
+        "conteudo_curricular_resumido": true,
+        "exemplos_linguisticos": true,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "proposito-e-escopo",
+          "natureza": "resumo curricular dos cinco tipos e connected speech",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "destinos_adicionais": [
+            "B1-PRON-0001",
+            "B1-L5-0144-01"
+          ],
+          "justificativa": "Resumo linguístico integralmente coberto por 1225 e destinos existentes.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "exclusoes-roteamento",
+          "natureza": "regras administrativas de distribuição entre sistemas",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Roteamento administrativo não é lição.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "formato-visual",
+          "natureza": "tema, TOC, cores, tabelas e botão voltar",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Especificação técnica de interface não é currículo.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 3,
+        "consolidadas": 1,
+        "descartadas": 2,
+        "uteis_sem_destino": 0
+      }
+    }
+  ]
+}

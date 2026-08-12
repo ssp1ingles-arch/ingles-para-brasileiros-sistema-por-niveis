@@ -337,3 +337,9 @@
 - 1224: mapa diagnóstico de 22 contrastes consolidado sem republicar exercícios, IPA ou tabelas.
 - Fontes independentes e complementares; encerramento antes de 1225.
 <!-- LOTE-040-DECISOES:FIM -->
+
+<!-- LOTE-041-DECISOES:INICIO -->
+## Decisões do lote 041
+
+1225 classificada em destinos existentes; 1226 tratada como documentação administrativa com resumo curricular já coberto. Encerrado antes de 1227.
+<!-- LOTE-041-DECISOES:FIM -->

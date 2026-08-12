@@ -268,3 +268,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1223 cobre o sistema de sons; 1224 cobre confusões articulatórias, pares mínimos, stress, ritmo e entonação. Procedências sanitizadas em B1-L14-1203-01 e B2-L11-1202-01.
 <!-- LOTE-040-MAPEAMENTO:FIM -->
+
+<!-- LOTE-041-MAPEAMENTO:INICIO -->
+## Lote 041 — mapeamento
+
+Reduções destinadas sem republicação; regras técnicas descartadas.
+<!-- LOTE-041-MAPEAMENTO:FIM -->
