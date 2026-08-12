@@ -1,0 +1,786 @@
+{
+  "lote": "045",
+  "fontes": [
+    {
+      "numero": 1233,
+      "nome_completo": "1233_03_American_English_File_3_-_Student_Book_With_Online_Practice_-_Third.md",
+      "tamanho_bytes": 509143,
+      "total_linhas": 16683,
+      "hash_bruto": "93bfc23f0a9ae3507fc5b0541d97653d386acdba2322c97b7999a3b83d2e32bd",
+      "hash_normalizado": "e15148cec088410507af1711342f2f1493abaef7bcce8dd2bf27825e48e08023",
+      "leitura_integral": true,
+      "tipo": "livro didático completo extraído como texto",
+      "paginacao": {
+        "marcadores": 168,
+        "presentes": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168
+        ],
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "fora_de_ordem": []
+      },
+      "integridade": {
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "problemas_ocr": [
+          "palavras coladas recorrentes",
+          "espaçamento irregular",
+          "glifos editoriais anômalos pontuais"
+        ],
+        "palavras_coladas": true,
+        "glifos_anomalos": true,
+        "corrupcao_global": false
+      },
+      "estrutura": {
+        "files": 10,
+        "licoes": 20,
+        "revisoes": 5,
+        "testes": 5,
+        "indices": 1,
+        "exercicios": "presentes nas lições e bancos",
+        "respostas": "respostas e chaves em seções de apoio",
+        "referencias_audio_video_online": "numerosas referências; mídia externa não incluída",
+        "capitulos": [
+          "Files 1-10",
+          "Practical English 1-5",
+          "Communication",
+          "Writing",
+          "Listening",
+          "Grammar Bank",
+          "Vocabulary Bank",
+          "Irregular verbs",
+          "Sound Bank"
+        ]
+      },
+      "partes": [
+        {
+          "registro": "1233-01",
+          "paginas": "1-6",
+          "file_licao": "Editorial",
+          "tema": "frontmatter, créditos, sumário, visão do curso e acesso on-line",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "frontmatter, créditos, sumário, visão do curso e acesso on-line",
+          "destinos": [],
+          "decisao": "descartar material editorial",
+          "justificativa": "Sem objetivo linguístico independente publicável.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": "material editorial ou acesso a mídia externa"
+        },
+        {
+          "registro": "1233-02",
+          "paginas": "7-16",
+          "file_licao": "File 1 + Practical English 1",
+          "tema": "presente simples/contínuo, verbos de estado, futuros, alimentação, personalidade, família e reações",
+          "objetivo_pedagogico": "Integrar presente simples/contínuo, verbos de estado, futuros, alimentação, personalidade, família e reações sem reproduzir a obra",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "presente simples/contínuo, verbos de estado, futuros, alimentação, personalidade, família e reações",
+          "destinos": [
+            "B1-L8-0321-01",
+            "B1-L3-0055-02",
+            "A2-L20-1163-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-03",
+          "paginas": "17-26",
+          "file_licao": "File 2 + Review 1&2",
+          "tema": "present perfect e passado, for/since, present perfect continuous, dinheiro e mudanças de vida",
+          "objetivo_pedagogico": "Integrar present perfect e passado, for/since, present perfect continuous, dinheiro e mudanças de vida sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "present perfect e passado, for/since, present perfect continuous, dinheiro e mudanças de vida",
+          "destinos": [
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "B1-L10-1379-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-04",
+          "paginas": "27-36",
+          "file_licao": "File 3 + Practical English 2",
+          "tema": "comparativos/superlativos, artigos, transporte, estereótipos, opiniões e linking",
+          "objetivo_pedagogico": "Integrar comparativos/superlativos, artigos, transporte, estereótipos, opiniões e linking sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "comparativos/superlativos, artigos, transporte, estereótipos, opiniões e linking",
+          "destinos": [
+            "B1-L6-0237-01",
+            "B2-L6-0237-02",
+            "B1-L14-1203-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-05",
+          "paginas": "37-46",
+          "file_licao": "File 4 + Review 3&4",
+          "tema": "obrigação, proibição, conselho, capacidade, possibilidade, etiqueta e aprendizagem",
+          "objetivo_pedagogico": "Integrar obrigação, proibição, conselho, capacidade, possibilidade, etiqueta e aprendizagem sem reproduzir a obra",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "obrigação, proibição, conselho, capacidade, possibilidade, etiqueta e aprendizagem",
+          "destinos": [
+            "B1-L4-0110-04",
+            "B1-L5-0159-01",
+            "A2-VERB-0001"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-06",
+          "paginas": "47-56",
+          "file_licao": "File 5 + Practical English 3",
+          "tema": "tempos passados, hábitos/estados, esportes, relacionamentos, permissão e pedidos",
+          "objetivo_pedagogico": "Integrar tempos passados, hábitos/estados, esportes, relacionamentos, permissão e pedidos sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "tempos passados, hábitos/estados, esportes, relacionamentos, permissão e pedidos",
+          "destinos": [
+            "B1-L15-0830-01",
+            "B1-L16-0896-01",
+            "B2-L5-0159-04"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-07",
+          "paginas": "57-66",
+          "file_licao": "File 6 + Review 5&6",
+          "tema": "passiva em vários tempos, dedução modal, cinema, corpo e descrição visual",
+          "objetivo_pedagogico": "Integrar passiva em vários tempos, dedução modal, cinema, corpo e descrição visual sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "passiva em vários tempos, dedução modal, cinema, corpo e descrição visual",
+          "destinos": [
+            "B2-L5-0134-04",
+            "B1-L8-0321-01",
+            "B1-L14-1203-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-08",
+          "paginas": "67-76",
+          "file_licao": "File 7 + Practical English 4",
+          "tema": "primeira/segunda condicionais, orações temporais, educação, moradia e sugestões",
+          "objetivo_pedagogico": "Integrar primeira/segunda condicionais, orações temporais, educação, moradia e sugestões sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "primeira/segunda condicionais, orações temporais, educação, moradia e sugestões",
+          "destinos": [
+            "B1-L4-0093-04",
+            "B1-L3-0055-04",
+            "B1-L12-0581-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-09",
+          "paginas": "77-86",
+          "file_licao": "File 8 + Review 7&8",
+          "tema": "gerúndio/infinitivo, discurso relatado, trabalho, compras, reclamações e formação de palavras",
+          "objetivo_pedagogico": "Integrar gerúndio/infinitivo, discurso relatado, trabalho, compras, reclamações e formação de palavras sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "gerúndio/infinitivo, discurso relatado, trabalho, compras, reclamações e formação de palavras",
+          "destinos": [
+            "B1-L6-0188-01",
+            "B2-L6-0188-02",
+            "B1-L14-1203-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-10",
+          "paginas": "87-96",
+          "file_licao": "File 9 + Practical English 5",
+          "tema": "terceira condicional, quantificadores, sorte, tecnologia e perguntas indiretas",
+          "objetivo_pedagogico": "Integrar terceira condicional, quantificadores, sorte, tecnologia e perguntas indiretas sem reproduzir a obra",
+          "nivel_cefr": "B2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "terceira condicional, quantificadores, sorte, tecnologia e perguntas indiretas",
+          "destinos": [
+            "B2-L5-0134-04",
+            "A2-L5-0151-04",
+            "B1-L14-1203-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-11",
+          "paginas": "97-106",
+          "file_licao": "File 10 + Review 9&10",
+          "tema": "relativas definidoras/não definidoras, tag questions, figuras públicas e investigação",
+          "objetivo_pedagogico": "Integrar relativas definidoras/não definidoras, tag questions, figuras públicas e investigação sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "relativas definidoras/não definidoras, tag questions, figuras públicas e investigação",
+          "destinos": [
+            "B1-L14-1203-01",
+            "A2-L20-1163-01",
+            "B2-L6-0237-02"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-12",
+          "paginas": "107-115",
+          "file_licao": "Communication",
+          "tema": "tarefas comunicativas em pares sobre reações, pedidos, condicionais, trabalho e perguntas polidas",
+          "objetivo_pedagogico": "Integrar tarefas comunicativas em pares sobre reações, pedidos, condicionais, trabalho e perguntas polidas sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "tarefas comunicativas em pares sobre reações, pedidos, condicionais, trabalho e perguntas polidas",
+          "destinos": [
+            "A2-L20-1163-01",
+            "B1-L15-0841-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-13",
+          "paginas": "116-125",
+          "file_licao": "Writing",
+          "tema": "descrição pessoal, e-mails, artigos, narrativas, resenha, currículo, reclamação e biografia",
+          "objetivo_pedagogico": "Integrar descrição pessoal, e-mails, artigos, narrativas, resenha, currículo, reclamação e biografia sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Escrita",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "descrição pessoal, e-mails, artigos, narrativas, resenha, currículo, reclamação e biografia",
+          "destinos": [
+            "A2-L10-1314-01",
+            "B1-L12-0581-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-14",
+          "paginas": "126-132",
+          "file_licao": "Listening",
+          "tema": "transcrições de escuta das lições e Practical English",
+          "objetivo_pedagogico": "Integrar transcrições de escuta das lições e Practical English sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Escuta",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "transcrições de escuta das lições e Practical English",
+          "destinos": [
+            "A2-L10-1378-01",
+            "B1-L10-1379-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-15",
+          "paginas": "133-152",
+          "file_licao": "Grammar Bank",
+          "tema": "programa gramatical acumulativo B1-B2 com explicações e exercícios",
+          "objetivo_pedagogico": "Integrar programa gramatical acumulativo B1-B2 com explicações e exercícios sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "programa gramatical acumulativo B1-B2 com explicações e exercícios",
+          "destinos": [
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "B1-L14-1203-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-16",
+          "paginas": "153-165",
+          "file_licao": "Vocabulary Banks",
+          "tema": "comida, personalidade, dinheiro, transporte, preposições, esportes, relações, cinema, corpo, educação, casa, trabalho e derivação",
+          "objetivo_pedagogico": "Integrar comida, personalidade, dinheiro, transporte, preposições, esportes, relações, cinema, corpo, educação, casa, trabalho e derivação sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Vocabulário",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "comida, personalidade, dinheiro, transporte, preposições, esportes, relações, cinema, corpo, educação, casa, trabalho e derivação",
+          "destinos": [
+            "B1-L6-0188-01",
+            "B2-L6-0188-02",
+            "B1-L12-0581-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-17",
+          "paginas": "166",
+          "file_licao": "Irregular verbs",
+          "tema": "formas de passado e particípio",
+          "objetivo_pedagogico": "Integrar formas de passado e particípio sem reproduzir a obra",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "formas de passado e particípio",
+          "destinos": [
+            "B1-L8-0321-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1233-18",
+          "paginas": "167-168",
+          "file_licao": "Sound Bank",
+          "tema": "sons vocálicos/consonantais e grafias",
+          "objetivo_pedagogico": "Integrar sons vocálicos/consonantais e grafias sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "sons vocálicos/consonantais e grafias",
+          "destinos": [
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "decisao": "consolidar em unidades existentes",
+          "justificativa": "Objetivos cobertos pelo currículo existente; a fonte amplia procedência e contexto sem justificar micro-unidade.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios ou respostas",
+            "sem imagens, tabelas, transcrições ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        }
+      ],
+      "totais": {
+        "partes": 18,
+        "consolidadas": 17,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      }
+    }
+  ],
+  "comparacao_curricular": {
+    "american_english_file_1_e_2": true,
+    "unidades_atividades_jornada": true,
+    "resultado": "progressão B1-B2 com objetivos já cobertos; procedência ampliada sem novas unidades"
+  }
+}

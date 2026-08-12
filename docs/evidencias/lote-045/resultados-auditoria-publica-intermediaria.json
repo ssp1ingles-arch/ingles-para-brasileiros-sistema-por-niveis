@@ -1,0 +1,23 @@
+{
+  "total": 4,
+  "aprovados": 4,
+  "resultados": [
+    {
+      "teste": "1",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "2",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "3",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "4",
+      "resultado": "APROVADO"
+    }
+  ],
+  "hashes": "1547/1547"
+}

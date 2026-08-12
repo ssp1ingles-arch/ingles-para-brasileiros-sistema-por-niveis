@@ -1,0 +1,29 @@
+{
+  "lote": "045",
+  "intervalo": [
+    1233
+  ],
+  "sequenciais": [
+    {
+      "numero": 1233,
+      "nome": "1233_03_American_English_File_3_-_Student_Book_With_Online_Practice_-_Third.md",
+      "tamanho_bytes": 509143,
+      "total_linhas": 16683,
+      "hash_bruto": "93bfc23f0a9ae3507fc5b0541d97653d386acdba2322c97b7999a3b83d2e32bd",
+      "hash_normalizado": "e15148cec088410507af1711342f2f1493abaef7bcce8dd2bf27825e48e08023",
+      "leitura_integral": true,
+      "status": "mapeada para validação intermediária",
+      "tipo": "livro didático completo extraído como texto",
+      "paginas_presentes": 168,
+      "partes": 18,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1233,
+    "testes": "25/25",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1233; nenhuma fonte posterior foi aberta."
+}

@@ -292,3 +292,9 @@ O livro foi decomposto em objetivos de gramática, vocabulário, pronúncia, esc
 
 Os 12 Files e bancos de apoio foram decompostos em objetivos de gramática, vocabulário, pronúncia, escuta, conversação e escrita. Exercícios, respostas, transcrições, tabelas, imagens, IPA em massa e mídia externa não foram republicados.
 <!-- LOTE-044-MAPEAMENTO:FIM -->
+
+<!-- LOTE-045-MAPEAMENTO:INICIO -->
+## Lote 045 — mapeamento
+
+Os dez Files, cinco episódios funcionais e bancos de apoio foram separados por objetivo de gramática, vocabulário, pronúncia, escuta, conversação e escrita. Todo conteúdo útil recebeu destino e somente metadados sanitizados foram publicados.
+<!-- LOTE-045-MAPEAMENTO:FIM -->

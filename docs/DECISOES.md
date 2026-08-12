@@ -361,3 +361,9 @@
 
 1231 foi mapeada por objetivos A2-B1 em 169 páginas, sem reprodução do livro. 1232 possui corpo didático integralmente idêntico e foi consolidada como extração alternativa, preservando 1231 como canônica.
 <!-- LOTE-044-DECISOES:FIM -->
+
+<!-- LOTE-045-DECISOES:INICIO -->
+## Decisões do lote 045
+
+1233 foi mapeada por objetivos B1-B2 em 168 páginas e consolidada somente em destinos existentes. Não foram criadas unidades ou atividades, nem reproduzidos exercícios, respostas, transcrições, tabelas, imagens ou IPA em massa.
+<!-- LOTE-045-DECISOES:FIM -->
