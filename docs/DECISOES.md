@@ -379,3 +379,9 @@
 
 1235 foi mapeada por objetivos reais B1–C1 em 169 páginas e consolidada somente em destinos existentes. Não foram criadas unidades ou atividades, nem reproduzidos exercícios, respostas, transcrições, tabelas, imagens, mídia ou IPA em massa.
 <!-- LOTE-047-DECISOES:FIM -->
+
+<!-- LOTE-048-DECISOES:INICIO -->
+## Decisões do lote 048
+
+1236 possui corpo didático integralmente idêntico a 1235 e foi consolidada como extração alternativa, preservando 1235 como canônica e sem republicação.
+<!-- LOTE-048-DECISOES:FIM -->

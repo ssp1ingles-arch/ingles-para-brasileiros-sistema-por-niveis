@@ -310,3 +310,9 @@ A comparação 1233×1234 confirmou igualdade integral do corpo, paginação, Fi
 
 Os dez Files, vinte lições, cinco revisões, cinco episódios funcionais e bancos de apoio foram separados em 18 blocos por objetivo de gramática, vocabulário, pronúncia, escuta, conversação e escrita. Todo conteúdo útil recebeu destino específico e somente metadados sanitizados foram incorporados.
 <!-- LOTE-047-MAPEAMENTO:FIM -->
+
+<!-- LOTE-048-MAPEAMENTO:INICIO -->
+## Lote 048 — mapeamento
+
+A comparação 1235×1236 confirmou igualdade integral do corpo, paginação, Files, lições, exemplos, exercícios, respostas e índices. Somente metadados sanitizados da relação entre fontes foram registrados.
+<!-- LOTE-048-MAPEAMENTO:FIM -->

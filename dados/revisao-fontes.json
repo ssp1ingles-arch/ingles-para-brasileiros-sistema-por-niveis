@@ -1421,6 +1421,12 @@
       "169 páginas presentes; 10 Files, 20 lições, revisões e seções de apoio mapeadas; zero conteúdo útil sem destino"
     ]
   },
+  "1236": {
+    "estado": "duplicata",
+    "secoes": [
+      "extração alternativa com corpo didático integralmente idêntico a 1235; somente frontmatter de migração difere"
+    ]
+  },
   "1252": {
     "estado": "integralmente classificada antecipadamente",
     "secoes": [

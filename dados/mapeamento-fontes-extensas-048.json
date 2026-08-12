@@ -1,0 +1,826 @@
+{
+  "lote": "048",
+  "fontes": [
+    {
+      "numero": 1236,
+      "nome_completo": "1236_04_American_English_File_4_-_Student_Book_With_Online_Practice_-_Third_Edition_D30_2.md",
+      "tamanho_bytes": 615068,
+      "total_linhas": 18473,
+      "hash_bruto": "2ae71a5de1989ddf7fda06a5ae7e064f2838f8770a3d187b528045077f01e52c",
+      "hash_normalizado": "10e61da92c76dd7155bb6763b6d14443fefc0d2317f0ada75be0015ce25f6974",
+      "leitura_integral": true,
+      "tipo": "extração alternativa",
+      "paginacao": {
+        "marcadores": 169,
+        "presentes": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169
+        ],
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "fora_de_ordem": []
+      },
+      "integridade": {
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "problemas_ocr": [
+          "palavras coladas recorrentes",
+          "espaçamento irregular",
+          "glifos editoriais pontuais"
+        ],
+        "palavras_coladas": true,
+        "glifos_anomalos": true,
+        "corrupcao_global": false
+      },
+      "estrutura": {
+        "files": 10,
+        "licoes": 20,
+        "revisoes": 5,
+        "testes": 5,
+        "indices": 1,
+        "exercicios": "presentes nas lições e bancos",
+        "respostas": "presentes em seções de apoio",
+        "referencias_audio_video_online": "numerosas; mídia externa não incluída",
+        "capitulos": [
+          "Files 1-10",
+          "Colloquial English 1-5",
+          "Communication",
+          "Writing",
+          "Listening",
+          "Grammar Bank",
+          "Vocabulary Bank",
+          "Appendix",
+          "Irregular verbs",
+          "Sound Bank"
+        ]
+      },
+      "partes": [
+        {
+          "registro": "1236-01",
+          "paginas": "1-6",
+          "file_licao": "Editorial",
+          "tema": "frontmatter, créditos, sumário, visão do curso e acesso on-line",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "frontmatter, créditos, sumário, visão do curso e acesso on-line",
+          "destinos": [],
+          "decisao": "descartar material editorial",
+          "justificativa": "Sem objetivo linguístico independente publicável.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": "material editorial ou dependente de mídia"
+        },
+        {
+          "registro": "1236-02",
+          "paginas": "7-16",
+          "file_licao": "File 1 + Colloquial English 1",
+          "tema": "formação de perguntas, auxiliares, dedução, adjetivos compostos e entrevista de emprego",
+          "objetivo_pedagogico": "Integrar formação de perguntas, auxiliares, dedução, adjetivos compostos e entrevista de emprego sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "formação de perguntas, auxiliares, dedução, adjetivos compostos e entrevista de emprego",
+          "destinos": [
+            "A2-L20-1163-01",
+            "B1-L14-1203-01",
+            "B1-L12-0581-01"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-03",
+          "paginas": "17-26",
+          "file_licao": "File 2 + Review 1&2",
+          "tema": "present perfect simples/contínuo, saúde, idade, adjetivos substantivados, ordem adjetival e moda",
+          "objetivo_pedagogico": "Integrar present perfect simples/contínuo, saúde, idade, adjetivos substantivados, ordem adjetival e moda sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "present perfect simples/contínuo, saúde, idade, adjetivos substantivados, ordem adjetival e moda",
+          "destinos": [
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "B2-L6-0237-02"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-04",
+          "paginas": "27-36",
+          "file_licao": "File 3 + Colloquial English 2",
+          "tema": "tempos narrativos, advérbios, viagens aéreas, histórias e livros",
+          "objetivo_pedagogico": "Integrar tempos narrativos, advérbios, viagens aéreas, histórias e livros sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "tempos narrativos, advérbios, viagens aéreas, histórias e livros",
+          "destinos": [
+            "A2-L9-0440-01",
+            "B1-L14-1203-01",
+            "B1-L15-0841-01"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-05",
+          "paginas": "37-46",
+          "file_licao": "File 4 + Review 3&4",
+          "tema": "futuro perfeito/contínuo, condicionais, orações temporais, clima, risco e expressões com take",
+          "objetivo_pedagogico": "Integrar futuro perfeito/contínuo, condicionais, orações temporais, clima, risco e expressões com take sem reproduzir a obra",
+          "nivel_cefr": "B2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "futuro perfeito/contínuo, condicionais, orações temporais, clima, risco e expressões com take",
+          "destinos": [
+            "B1-L4-0093-04",
+            "B1-L3-0055-03",
+            "B2-L6-0237-02"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-06",
+          "paginas": "47-56",
+          "file_licao": "File 5 + Colloquial English 3",
+          "tema": "condicionais irreais, wish, sobrevivência, arrependimento, sentimentos e desperdício",
+          "objetivo_pedagogico": "Integrar condicionais irreais, wish, sobrevivência, arrependimento, sentimentos e desperdício sem reproduzir a obra",
+          "nivel_cefr": "B2",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "condicionais irreais, wish, sobrevivência, arrependimento, sentimentos e desperdício",
+          "destinos": [
+            "B2-L5-0159-03",
+            "B1-L14-1203-01",
+            "B2-L5-0134-04"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-07",
+          "paginas": "57-66",
+          "file_licao": "File 6 + Review 5&6",
+          "tema": "used to/be used to/get used to, gerúndio/infinitivo, sono e música",
+          "objetivo_pedagogico": "Integrar used to/be used to/get used to, gerúndio/infinitivo, sono e música sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "used to/be used to/get used to, gerúndio/infinitivo, sono e música",
+          "destinos": [
+            "B1-L15-0830-01",
+            "B1-L16-0896-01",
+            "B1-L6-0188-01"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-08",
+          "paginas": "67-76",
+          "file_licao": "File 7 + Colloquial English 4",
+          "tema": "modais no passado, sentidos, argumentação, preferência, corpo, atuação e desempenho",
+          "objetivo_pedagogico": "Integrar modais no passado, sentidos, argumentação, preferência, corpo, atuação e desempenho sem reproduzir a obra",
+          "nivel_cefr": "B2-C1",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "modais no passado, sentidos, argumentação, preferência, corpo, atuação e desempenho",
+          "destinos": [
+            "B2-L5-0159-03",
+            "B1-L14-1203-01",
+            "C1-L7-0308-02"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-09",
+          "paginas": "77-86",
+          "file_licao": "File 8 + Review 7&8",
+          "tema": "passiva avançada, causativa, estruturas impessoais, reporting verbs, crime e mídia",
+          "objetivo_pedagogico": "Integrar passiva avançada, causativa, estruturas impessoais, reporting verbs, crime e mídia sem reproduzir a obra",
+          "nivel_cefr": "B2-C1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "passiva avançada, causativa, estruturas impessoais, reporting verbs, crime e mídia",
+          "destinos": [
+            "B2-L6-0188-02",
+            "B1-L14-1203-01",
+            "C1-L7-0308-02"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-10",
+          "paginas": "87-96",
+          "file_licao": "File 9 + Colloquial English 5",
+          "tema": "contraste e finalidade, substantivos incontáveis/plurais, publicidade, cidades e formação de palavras",
+          "objetivo_pedagogico": "Integrar contraste e finalidade, substantivos incontáveis/plurais, publicidade, cidades e formação de palavras sem reproduzir a obra",
+          "nivel_cefr": "B2-C1",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "contraste e finalidade, substantivos incontáveis/plurais, publicidade, cidades e formação de palavras",
+          "destinos": [
+            "B2-L5-0134-04",
+            "B2-L5-0136-05",
+            "B2-L6-0237-02"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-11",
+          "paginas": "97-106",
+          "file_licao": "File 10 + Review 9&10",
+          "tema": "quantificadores avançados, artigos, ciência, probabilidade, discurso e apresentações",
+          "objetivo_pedagogico": "Integrar quantificadores avançados, artigos, ciência, probabilidade, discurso e apresentações sem reproduzir a obra",
+          "nivel_cefr": "B2-C1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "quantificadores avançados, artigos, ciência, probabilidade, discurso e apresentações",
+          "destinos": [
+            "A2-L5-0151-04",
+            "B1-L14-1203-01",
+            "C1-L7-0308-02"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-12",
+          "paginas": "107-115",
+          "file_licao": "Communication",
+          "tema": "tarefas comunicativas de perguntas indiretas, narrativas, emergências, argumentos, crime e publicidade",
+          "objetivo_pedagogico": "Integrar tarefas comunicativas de perguntas indiretas, narrativas, emergências, argumentos, crime e publicidade sem reproduzir a obra",
+          "nivel_cefr": "B1-C1",
+          "habilidade_principal": "Conversação",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "tarefas comunicativas de perguntas indiretas, narrativas, emergências, argumentos, crime e publicidade",
+          "destinos": [
+            "A2-L20-1163-01",
+            "B1-L15-0841-01"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-13",
+          "paginas": "116-125",
+          "file_licao": "Writing",
+          "tema": "e-mail informal, conto, texto argumentativo, blog, relatório e apresentação",
+          "objetivo_pedagogico": "Integrar e-mail informal, conto, texto argumentativo, blog, relatório e apresentação sem reproduzir a obra",
+          "nivel_cefr": "B1-C1",
+          "habilidade_principal": "Escrita",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "e-mail informal, conto, texto argumentativo, blog, relatório e apresentação",
+          "destinos": [
+            "A2-L10-1314-01",
+            "B1-L12-0581-01",
+            "C1-L7-0308-02"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-14",
+          "paginas": "126-132",
+          "file_licao": "Listening",
+          "tema": "transcrições das lições e entrevistas",
+          "objetivo_pedagogico": "Integrar transcrições das lições e entrevistas sem reproduzir a obra",
+          "nivel_cefr": "B1-C1",
+          "habilidade_principal": "Escuta",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "transcrições das lições e entrevistas",
+          "destinos": [
+            "A2-L10-1378-01",
+            "B1-L10-1379-01"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-15",
+          "paginas": "133-152",
+          "file_licao": "Grammar Bank",
+          "tema": "programa gramatical acumulativo B1-C1 com explicações e exercícios",
+          "objetivo_pedagogico": "Integrar programa gramatical acumulativo B1-C1 com explicações e exercícios sem reproduzir a obra",
+          "nivel_cefr": "B1-C1",
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "programa gramatical acumulativo B1-C1 com explicações e exercícios",
+          "destinos": [
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "C1-L7-0308-02"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-16",
+          "paginas": "153-162",
+          "file_licao": "Vocabulary Banks",
+          "tema": "saúde, moda, viagens, advérbios, clima, sentimentos, verbos, corpo, negócios e derivação",
+          "objetivo_pedagogico": "Integrar saúde, moda, viagens, advérbios, clima, sentimentos, verbos, corpo, negócios e derivação sem reproduzir a obra",
+          "nivel_cefr": "B1-C1",
+          "habilidade_principal": "Vocabulário",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "saúde, moda, viagens, advérbios, clima, sentimentos, verbos, corpo, negócios e derivação",
+          "destinos": [
+            "B1-L6-0188-01",
+            "B2-L6-0188-02",
+            "B1-L12-0581-01"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-17",
+          "paginas": "163-166",
+          "file_licao": "Appendix, irregular verbs e Sound Bank",
+          "tema": "padrões verbais, formas irregulares, sons e grafias",
+          "objetivo_pedagogico": "Integrar padrões verbais, formas irregulares, sons e grafias sem reproduzir a obra",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "padrões verbais, formas irregulares, sons e grafias",
+          "destinos": [
+            "B1-L8-0321-01",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "decisao": "consolidar procedência na canônica 1235",
+          "justificativa": "Objetivos cobertos por destinos curriculares existentes; amplia procedência e nuance sem microfragmentação.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": null
+        },
+        {
+          "registro": "1236-18",
+          "paginas": "167-169",
+          "file_licao": "Editorial",
+          "tema": "créditos, direitos, marca e metadados finais",
+          "objetivo_pedagogico": null,
+          "nivel_cefr": null,
+          "habilidade_principal": "Gramática",
+          "habilidades_secundarias": [
+            "Leitura",
+            "Escuta",
+            "Conversação"
+          ],
+          "conteudo_linguistico": "créditos, direitos, marca e metadados finais",
+          "destinos": [],
+          "decisao": "descartar material editorial",
+          "justificativa": "Sem objetivo linguístico independente publicável.",
+          "procedencia": "fonte",
+          "restricoes": [
+            "sem texto integral",
+            "sem exercícios, respostas ou transcrições",
+            "sem imagens, tabelas ou IPA em massa"
+          ],
+          "elegivel_jornada": false,
+          "elegivel_atividade": false,
+          "motivo_descarte": "material editorial ou dependente de mídia"
+        }
+      ],
+      "totais": {
+        "partes": 18,
+        "consolidadas": 16,
+        "descartadas": 2,
+        "uteis_sem_destino": 0
+      },
+      "relacao_canonica": {
+        "canonica": 1235,
+        "corpo_didatico_identico": true,
+        "decisao": "consolidar sem republicação"
+      }
+    }
+  ],
+  "comparacao_integral": {
+    "fontes": [
+      1235,
+      1236
+    ],
+    "tamanhos": [
+      615067,
+      615068
+    ],
+    "linhas": [
+      18473,
+      18473
+    ],
+    "hashes_brutos": [
+      "65af7336aaee928938de658249b80cf02c494d799b0d77e5635519913777f0cd",
+      "2ae71a5de1989ddf7fda06a5ae7e064f2838f8770a3d187b528045077f01e52c"
+    ],
+    "hashes_normalizados": [
+      "c6220174a8e7ebb994ca35abfc06b3a2ed52658583610d3abed31f779a7aa187",
+      "10e61da92c76dd7155bb6763b6d14443fefc0d2317f0ada75be0015ce25f6974"
+    ],
+    "hash_corpo_sem_frontmatter": [
+      "ce6a55d62944dc25da3a64c45c9539e2dc8e7263235cb21c580deac7b48b1bb8",
+      "ce6a55d62944dc25da3a64c45c9539e2dc8e7263235cb21c580deac7b48b1bb8"
+    ],
+    "hash_corpo_normalizado": [
+      "84a8d0eb38389da42a9d237d9d431634924bbc5395a1794c3dca4366303855ec",
+      "84a8d0eb38389da42a9d237d9d431634924bbc5395a1794c3dca4366303855ec"
+    ],
+    "corpo_didatico_integral_igual": true,
+    "paginacao_igual": true,
+    "ordem_igual": true,
+    "files_licoes_exemplos_exercicios_respostas_indices_iguais": true,
+    "edicao": "mesma terceira edição",
+    "conteudo_exclusivo": "somente frontmatter de migração: id e origem MD/PDF",
+    "classificacao": "extração alternativa",
+    "canonica": 1235
+  }
+}
