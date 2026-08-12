@@ -1,0 +1,20 @@
+{
+  "resultado": "aprovado com correções curriculares",
+  "estados": {
+    "sem conteúdo didático": 29,
+    "duplicata integral": 836,
+    "administrativa": 27,
+    "integralmente classificada": 620,
+    "índice/navegação": 35
+  },
+  "amostras": {
+    "duplicatas": 60,
+    "nao_duplicadas": 100,
+    "extensas": 25
+  },
+  "duplicatas_sem_canonica": 0,
+  "conteudo_util_sem_destino": 0,
+  "procedencias_adicionadas": 1619,
+  "unidades_afetadas": 387,
+  "raizes_canonicas_promovidas": 16
+}

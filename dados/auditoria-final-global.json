@@ -1,0 +1,150 @@
+{
+  "resultado": "aprovado com correções curriculares",
+  "fechamento": {
+    "total": 1547,
+    "estados": {
+      "sem conteúdo didático": 29,
+      "duplicata integral": 836,
+      "administrativa": 27,
+      "integralmente classificada": 620,
+      "índice/navegação": 35
+    }
+  },
+  "persistencia_054": true,
+  "amostras": {
+    "duplicatas": 60,
+    "nao_duplicadas": 100,
+    "extensas": 25
+  },
+  "divergencias": {
+    "duplicatas_sem_canonica": 0,
+    "fontes_uteis_sem_destino": 0,
+    "procedencias_ausentes_corrigidas": 1619,
+    "ciclos_de_duplicata_corrigidos": 16
+  },
+  "raizes_canonicas_promovidas": [
+    {
+      "raiz": 1057,
+      "membros": [
+        6,
+        1057
+      ]
+    },
+    {
+      "raiz": 1058,
+      "membros": [
+        8,
+        1058
+      ]
+    },
+    {
+      "raiz": 1059,
+      "membros": [
+        7,
+        1059
+      ]
+    },
+    {
+      "raiz": 1060,
+      "membros": [
+        2,
+        1060
+      ]
+    },
+    {
+      "raiz": 1061,
+      "membros": [
+        5,
+        1061
+      ]
+    },
+    {
+      "raiz": 1062,
+      "membros": [
+        13,
+        1062
+      ]
+    },
+    {
+      "raiz": 1063,
+      "membros": [
+        10,
+        1063
+      ]
+    },
+    {
+      "raiz": 1064,
+      "membros": [
+        14,
+        1064
+      ]
+    },
+    {
+      "raiz": 1065,
+      "membros": [
+        12,
+        1065
+      ]
+    },
+    {
+      "raiz": 1066,
+      "membros": [
+        15,
+        1066
+      ]
+    },
+    {
+      "raiz": 1072,
+      "membros": [
+        16,
+        1072
+      ]
+    },
+    {
+      "raiz": 1075,
+      "membros": [
+        4,
+        1075
+      ]
+    },
+    {
+      "raiz": 1076,
+      "membros": [
+        11,
+        1076
+      ]
+    },
+    {
+      "raiz": 654,
+      "membros": [
+        19,
+        20,
+        654,
+        655,
+        1124
+      ]
+    },
+    {
+      "raiz": 927,
+      "membros": [
+        3,
+        927
+      ]
+    },
+    {
+      "raiz": 974,
+      "membros": [
+        9,
+        974
+      ]
+    }
+  ],
+  "impacto": {
+    "fontes_confirmadas": 1547,
+    "decisoes_corrigidas": 1635,
+    "unidades_afetadas": 387,
+    "atividades_afetadas": 0,
+    "jornada_afetada": 0,
+    "cobertura": 100
+  }
+}

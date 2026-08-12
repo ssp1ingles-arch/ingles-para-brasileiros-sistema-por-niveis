@@ -1,0 +1,15 @@
+{
+  "resultado": "APROVADO",
+  "hashes": {
+    "aprovados": 1547,
+    "total": 1547
+  },
+  "rotas_locais": 11,
+  "seguranca": {
+    "arquivos_proibidos": [],
+    "arquivos_maiores_25mb": [],
+    "segredos": 0,
+    "caminhos_pessoais_novos": 0,
+    "conteudo_bruto_novo": 0
+  }
+}

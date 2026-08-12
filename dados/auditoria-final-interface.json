@@ -1,0 +1,3662 @@
+{
+  "rotas_locais": 11,
+  "testes_interacao": {
+    "aprovados": 69,
+    "total": 69
+  },
+  "desktop_e_celular": true,
+  "console_erros": 0,
+  "overflow": 0,
+  "sobreposicoes": 0,
+  "localstorage_preservado": true,
+  "procedencia_tecnica_exposta": false,
+  "amostra_fontes_nao_duplicadas": [
+    {
+      "numero": 1,
+      "nome": "0001_#(Base).md",
+      "hash_bruto": "e470b7691135e7621954a69ca9c59243e9324ee405e134c71eaad8e855d3b168",
+      "hash_normalizado": "014052bcd4e1fe24c40cda8e29aeeaa54932e8196a4477abccb3a562be4b0e25",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 805,
+      "linhas": 18,
+      "paginas": 0,
+      "destinos": [
+        "A2-L4-0111-01",
+        "A2-GRAM-0005",
+        "A2-L11-1336-01",
+        "B1-L5-0164-01",
+        "A2-L3-0066-02",
+        "A1-GRAM-0011",
+        "A2-L8-0336-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 35,
+      "nome": "0035_01_KNOW_Sentido_01_SABER.md",
+      "hash_bruto": "120ec023b80d5c2752424d0e87fad40f73a31de9070330b129423cd91a6d9b1a",
+      "hash_normalizado": "ff57e1cf2d1abf57b527833095d2568116b6ed2a1c8bd903cf2f3816ca18b2f8",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11906,
+      "linhas": 301,
+      "paginas": 5,
+      "destinos": [
+        "A1-L3-0035-01",
+        "A2-L3-0035-02",
+        "A2-L3-0035-03",
+        "A2-L3-0035-04",
+        "B2-L20-1170-02",
+        "A2-L5-0157-01",
+        "A2-L11-1336-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 47,
+      "nome": "0047_01_THINK_Lembrar_Imaginar.md",
+      "hash_bruto": "e238105a4f2e70e77e6779ecdeb489a11b13471176e80ddfe2741bf83658096e",
+      "hash_normalizado": "8817a6d557bca8680fa23ae9b1da90905938f7495e53c98b35c98aaa9b4e0fff",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 12124,
+      "linhas": 297,
+      "paginas": 4,
+      "destinos": [
+        "B1-L3-0047-01",
+        "B2-L3-0047-02",
+        "B2-L3-0047-03",
+        "B2-L3-0047-04",
+        "B1-L4-0072-01",
+        "A2-L3-0066-02",
+        "A2-L11-1336-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 58,
+      "nome": "0058_02_BEGIN_Comecar.md",
+      "hash_bruto": "80cf30f013a3f7b08a7db212798b2ec3e3bbc2edb008b27b00d5b187a4b11a62",
+      "hash_normalizado": "766c2a8f359285d8f57d79daffb838cf69f33a0140473963564ff375b179feb6",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11802,
+      "linhas": 302,
+      "paginas": 5,
+      "destinos": [
+        "A2-L3-0058-01",
+        "B1-L3-0058-02",
+        "B1-L3-0058-03",
+        "B1-L3-0058-04",
+        "A1-L3-0035-01",
+        "A2-L11-1336-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 70,
+      "nome": "0070_02_KNOW_Sentido_02_CONHECER.md",
+      "hash_bruto": "ad8d93c770ea9b9fbbaa82425029cb8e7e6f47dc489511a760b75e88e3efb424",
+      "hash_normalizado": "1ad1e48e90d6456701b6ede595ce1dbe992038cdca68e13fdd6d07bd40ab83a3",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11861,
+      "linhas": 297,
+      "paginas": 4,
+      "destinos": [
+        "A1-L4-0070-01",
+        "A2-L4-0070-02",
+        "A2-L4-0070-03",
+        "A2-L4-0070-04",
+        "B2-L20-1170-02",
+        "A2-L5-0169-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 82,
+      "nome": "0082_02_SELL_Vender.md",
+      "hash_bruto": "33bee81819a24af0a348bb80b95490e68713bee594d111bf6fa206cbaf4b4890",
+      "hash_normalizado": "3f8f8559a10d8f4afa4366b65fd5b6c455b38ddd3c63f289ccef985962368bdb",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11365,
+      "linhas": 301,
+      "paginas": 5,
+      "destinos": [
+        "A1-L4-0082-01",
+        "A2-L4-0082-02",
+        "A2-L4-0082-03",
+        "A2-L4-0082-04",
+        "A2-L3-0053-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 97,
+      "nome": "0097_03_Contractions_Im_Youre_Dont_Wont.md",
+      "hash_bruto": "ea401022dc615e61f84e770261c2aa3e1b89bcdb383f0dd6caec421d7379ee1d",
+      "hash_normalizado": "4a92dc01cea307a8baacf236f62a022f56c41a9c0b759fa19f576563d0287a3a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 7124,
+      "linhas": 154,
+      "paginas": 2,
+      "destinos": [
+        "A1-PRON-0001",
+        "A1-PRON-0002",
+        "A2-PRON-0001",
+        "B1-PRON-0001",
+        "B2-PRON-0001",
+        "A2-L5-0121-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 110,
+      "nome": "0110_03_MUST_HAVE_TO_Dever_Ter_Que.md",
+      "hash_bruto": "7d092f5230f6e2c1bc583c25ca26ce9b1bfce2652c4f89413e238f34d903b3ca",
+      "hash_normalizado": "c2c5b4841d52d60708aff2df8576a12664327ed7e62db80def2456889087717f",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 4113,
+      "linhas": 109,
+      "paginas": 2,
+      "destinos": [
+        "A2-L4-0110-01",
+        "B1-L4-0110-02",
+        "B1-L4-0110-03",
+        "B1-L4-0110-04"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 121,
+      "nome": "0121_03_Sem_Artigo_Quando_NAO_usar.md",
+      "hash_bruto": "a260ccaba4ef7bf70c8cc36491df04a5a36dbd9001fef81390acd2dde4a331c5",
+      "hash_normalizado": "4b388e98cda7e1574c09537fc50243fcaf8632cbde58d78fcec9d0618b09d484",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 5033,
+      "linhas": 132,
+      "paginas": 2,
+      "destinos": [
+        "A2-L5-0121-01",
+        "A2-L5-0121-02",
+        "A2-L5-0121-03",
+        "B1-L5-0121-04",
+        "B1-L5-0121-05",
+        "A1-L4-0104-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 134,
+      "nome": "0134_04_DESPITE_Apesar_De.md",
+      "hash_bruto": "bcbd991d5d865d0fb61b13b09af6e6ac383e18428e49a98d43bf401c4b2c9540",
+      "hash_normalizado": "65c2ac4d8b59b633b6fa0c7d087e364a3ca8db0844dfcae3809d8b07516f9846",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 4983,
+      "linhas": 125,
+      "paginas": 2,
+      "destinos": [
+        "B1-L5-0134-01",
+        "B1-L5-0134-02",
+        "B1-L5-0134-03",
+        "B2-L5-0134-04",
+        "B2-L5-0134-05",
+        "A2-L4-0111-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 147,
+      "nome": "0147_04_HAVE_Sentido_04_BEBER.md",
+      "hash_bruto": "536667e96065a7fd5642c89272921902150802e6ab6b449fb69e1376d23e9a70",
+      "hash_normalizado": "c9278fbba5df0a7ee78216bd61583505f57211feb66aa40d6e63102e9e0f84eb",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11919,
+      "linhas": 297,
+      "paginas": 4,
+      "destinos": [
+        "A2-L5-0147-01",
+        "A2-L5-0147-02",
+        "A2-L5-0147-03",
+        "A2-L5-0147-04",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 159,
+      "nome": "0159_04_SHOULD_Deveria_Conselho.md",
+      "hash_bruto": "6e67f131a51ae943425b61db81d18c50e84f0934efc443cb8d8b59670e024ab4",
+      "hash_normalizado": "6e5a42a0488e6dd3f80b452c3f91cc5bcaa86f7b40a4569b6e6e8d5d7cf1df18",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 3899,
+      "linhas": 107,
+      "paginas": 2,
+      "destinos": [
+        "B1-L5-0159-01",
+        "B1-L5-0159-02",
+        "B2-L5-0159-03",
+        "B2-L5-0159-04",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 173,
+      "nome": "0173_05_COULD_YOU_WOULD_MIND_Pedido_Educado.md",
+      "hash_bruto": "78125a7407a5241ae7e19e968a325b5514fbab394be65510393fe28288bb7018",
+      "hash_normalizado": "68121a95142ac609ead4079e2167b4a75bc162634ce931d4a0e78afd3caf5ba3",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 5619,
+      "linhas": 137,
+      "paginas": 2,
+      "destinos": [
+        "B1-L6-0173-01",
+        "B2-L6-0173-02",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 186,
+      "nome": "0186_05_MEET_Conhecer_Encontrar.md",
+      "hash_bruto": "eed3561a49c9a6c6cda885b0aa7c8c1ac45d08f72d02236e55c6768182d4392d",
+      "hash_normalizado": "414e33f86fd895f0f461b0d166c836ddbbb4ced2c5f06167ad56f688d0fb664e",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11930,
+      "linhas": 301,
+      "paginas": 5,
+      "destinos": [
+        "A2-L6-0186-01",
+        "B1-L6-0186-02",
+        "B2-L20-1170-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 199,
+      "nome": "0199_05_WHY_Por_Que.md",
+      "hash_bruto": "9ef40126c357fe855dc08e7acbc78bb3ae310d9b16dc270b04d9baadd1cf12c6",
+      "hash_normalizado": "5fe45b778f730c264c24cbd0f77934cc0b726ce3284ce7508e37f438e3a3b2e0",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 6067,
+      "linhas": 165,
+      "paginas": 2,
+      "destinos": [
+        "A1-L6-0199-01",
+        "A2-L6-0199-02",
+        "B2-L20-1170-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 212,
+      "nome": "0212_06_HAVE_Sentido_11_SENTIR.md",
+      "hash_bruto": "6cafcdc6aa15a1990058a3632e7cef3da7045498e5c373e640c51e17205ebecb",
+      "hash_normalizado": "c53c88e4ee8a62136f8fd261a4df1e17c2c335c26b668c5e732e94d3bfda87a1",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11978,
+      "linhas": 297,
+      "paginas": 4,
+      "destinos": [
+        "B1-L6-0212-01",
+        "B1-L6-0212-02",
+        "A2-L4-0090-06"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 226,
+      "nome": "0226_06_THROUGH_ACROSS_Percurso.md",
+      "hash_bruto": "17d03ae35dc29d52bda753895cdbd028416b722c7471d01d688d92bef22dc5b4",
+      "hash_normalizado": "e2976487e6b385e38934b68c7446512dab2b1c09807962fd4f668d69cf55875d",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 4076,
+      "linhas": 113,
+      "paginas": 2,
+      "destinos": [
+        "A2-L6-0226-01",
+        "B1-L6-0226-02",
+        "B2-L20-1170-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 239,
+      "nome": "0239_07_BE_Sentido_03_FICAR.md",
+      "hash_bruto": "3914a9313afd5cba7b0830e0ac0b93c61c1896de557ef84cd76e4937d657e3f4",
+      "hash_normalizado": "5adf235e9a88e60a8607bc6b7698189db7885083c887fc99a19a5f608a82e9f0",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 10976,
+      "linhas": 296,
+      "paginas": 4,
+      "destinos": [
+        "A2-L6-0239-01",
+        "B1-L6-0239-02",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 254,
+      "nome": "0254_07_NOR_Nem_Tambem_Nao.md",
+      "hash_bruto": "f98176253f30b712017fa9f721678c35df3524d327889007b562ace51917aa20",
+      "hash_normalizado": "cace84d441f88e1a10ef20fc8e49b73065a246bf653b8c1b1387438f5e2d5108",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 3866,
+      "linhas": 103,
+      "paginas": 2,
+      "destinos": [
+        "B1-L7-0254-01",
+        "B2-L7-0254-02",
+        "B2-L20-1170-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 267,
+      "nome": "0267_08_CHANGE_Mudar.md",
+      "hash_bruto": "2e89a17193880be4bc5d8034a47c50bbbec0b7c4e1fea77f8dd00b0a3ddf83e0",
+      "hash_normalizado": "c2816f878791f32d1a0073ebab2ce117cf8fb9f1a8d5619e905d59aad104924b",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11689,
+      "linhas": 301,
+      "paginas": 5,
+      "destinos": [
+        "A2-L7-0267-01",
+        "B1-L7-0267-02",
+        "B2-L3-0047-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 281,
+      "nome": "0281_08_IN_ADDITION_Alem_Disso.md",
+      "hash_bruto": "5e5bfdf6f2e28b3aff29430604530a7017561195358ea8105858df246b2a7006",
+      "hash_normalizado": "f6fdd60767da637caa55314f58ff19083420e951556554ee966c41a356c3b973",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 5150,
+      "linhas": 125,
+      "paginas": 2,
+      "destinos": [
+        "B2-L7-0281-01",
+        "B2-L7-0281-02",
+        "B2-L20-1170-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 295,
+      "nome": "0295_09_AS_A_RESULT_Como_Resultado.md",
+      "hash_bruto": "2f44db089bd4004e279e669b3be78c68634a640f96450513774b5df996fdad91",
+      "hash_normalizado": "13620caef9fb65a9380984dce83bbd537513df83579e7bb9863db98978ab6bf4",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 4859,
+      "linhas": 115,
+      "paginas": 2,
+      "destinos": [
+        "B2-L7-0295-01",
+        "B2-L7-0295-02",
+        "A1-L4-0082-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 308,
+      "nome": "0308_09_IN_OTHER_WORDS_Ou_Seja.md",
+      "hash_bruto": "3a0aedcd0030a0d61a78ccdf4a9df416aa62a30a7a17e013d49a10885037fc63",
+      "hash_normalizado": "4d0fa5992a626c23155838e48d50647b91bf5c4c782d5add6fb5ef2482511ba6",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 4879,
+      "linhas": 121,
+      "paginas": 2,
+      "destinos": [
+        "B2-L7-0308-01",
+        "C1-L7-0308-02",
+        "A1-L8-0358-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 321,
+      "nome": "0321_10_BE_Sentido_06_JA_ESTEVE.md",
+      "hash_bruto": "f01855d60d8e3db89b1d20e5d6dbdfae6bf77caffa1e1dbeb2ea9218a994c64e",
+      "hash_normalizado": "c78390de9f44acc18f50020b250f3fda7f959024a3848487a84970f7dd787aeb",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11751,
+      "linhas": 296,
+      "paginas": 4,
+      "destinos": [
+        "B1-L8-0321-01",
+        "B2-L8-0321-02",
+        "B2-L8-0321-03",
+        "A1-L3-0060-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 336,
+      "nome": "0336_10_LIKE_Sentido_01_GOSTAR.md",
+      "hash_bruto": "f6ea6770bc43ddb5488df53b46317a83fcf723aa88baf3e2acaa0fb4793b4a4f",
+      "hash_normalizado": "7b010f9a8ea1059127bbcb753841dad15784870c4046ef51c975f2359fa74519",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11360,
+      "linhas": 302,
+      "paginas": 5,
+      "destinos": [
+        "A1-L8-0336-01",
+        "A2-L8-0336-02",
+        "B2-L6-0231-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 350,
+      "nome": "0350_11_ENJOY_Aproveitar.md",
+      "hash_bruto": "0b3fe024cee2875b53ecab41264423f4840367d575c78fe0d831852f5cf5195a",
+      "hash_normalizado": "1f092b457fe8b968fce60faa0f630e6a19594301be75dcb951f9f5e3b3431be9",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11863,
+      "linhas": 302,
+      "paginas": 5,
+      "destinos": [
+        "A2-L8-0350-01",
+        "B1-L8-0350-02",
+        "B1-L4-0110-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 364,
+      "nome": "0364_11_SHARE_Compartilhar.md",
+      "hash_bruto": "1d43fd28f74ad5d32a072cf6a1d30771261144c33036093d67c3370ee8fad8c5",
+      "hash_normalizado": "918c44b242e1e1498079fb26ffb275314c4dd5d5906a08ef0005760ee5e017e0",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 12057,
+      "linhas": 301,
+      "paginas": 5,
+      "destinos": [
+        "A2-L8-0364-01",
+        "B1-L8-0364-02",
+        "A2-L4-0086-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 378,
+      "nome": "0378_12_MEAN_Significar.md",
+      "hash_bruto": "7d10f9f2020f97d1fa35371fafe97396fbab4ee7b703993af954b82d12b03a52",
+      "hash_normalizado": "0b56c6135c5a85716835ab4dbae2cb6ab4e16213d5defd3314bf8c46891cdd29",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11366,
+      "linhas": 301,
+      "paginas": 5,
+      "destinos": [
+        "A2-L8-0378-01",
+        "B1-L8-0378-02",
+        "A2-L4-0082-04"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 392,
+      "nome": "0392_13_LIVE_Morar_Viver.md",
+      "hash_bruto": "d6e34df9c513ed49e1400ec1679df2f429a678c4270ef4ee8da67dde148c9ad6",
+      "hash_normalizado": "fedbf28db86d7649e503b7ddbbb0d1bacca62c7c650c76081503169a8bb0c8ac",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11658,
+      "linhas": 302,
+      "paginas": 5,
+      "destinos": [
+        "A1-L8-0392-01",
+        "A2-L8-0392-02",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 406,
+      "nome": "0406_14_RUN_Correr_Gerenciar.md",
+      "hash_bruto": "f77317985f4d2f570c04ad430a6dd4bf8b1701f0e5f38a5b43f45145355454cd",
+      "hash_normalizado": "c853edb062ed7471c740c222d13f074538a098b863611b3f88b944374a045b7d",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11950,
+      "linhas": 302,
+      "paginas": 5,
+      "destinos": [
+        "A2-L9-0406-01",
+        "B1-L9-0406-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 422,
+      "nome": "0422_16_TAKE_Sentido_02_TOMAR_TIRAR.md",
+      "hash_bruto": "94cda6c855f4bdb394a23d3a2af049bb69aba06746eb06a55f70a4cd963418c8",
+      "hash_normalizado": "1ec9e6ce8dd56bcaf0ddec11ab40eb633d6da41ce929fac9bb84816b30dd70aa",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11993,
+      "linhas": 297,
+      "paginas": 4,
+      "destinos": [
+        "A2-L9-0422-01",
+        "B1-L9-0422-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 436,
+      "nome": "0436_19_LEAVE_Sentido_01_SAIR_DEIXAR.md",
+      "hash_bruto": "c81256eed3ad6694148915a5e904050ca0ffa83881208525cc4973728ca22234",
+      "hash_normalizado": "8a8ea067fa1ea77782b81cbfd2b87bdcbf4b21d9678aa9978dca10ac1278fc19",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11992,
+      "linhas": 302,
+      "paginas": 5,
+      "destinos": [
+        "A2-L9-0436-01",
+        "B1-L9-0436-01",
+        "B1-L4-0088-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 446,
+      "nome": "0446_20_WORK_Sentido_01_TRABALHAR.md",
+      "hash_bruto": "89acb56549aed14a94167c2d74a7005012b315eb35ff7b336c4ef08257fa3ec4",
+      "hash_normalizado": "cd06c3a9f22b580aa13412fd08a4eee743a5b4f28dd90a4430b7ab070e33acce",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 11637,
+      "linhas": 301,
+      "paginas": 5,
+      "destinos": [
+        "A2-L9-0446-01",
+        "B1-L9-0446-01",
+        "A2-L4-0078-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 460,
+      "nome": "0460_HANDOFF_PAINEL_PRINCIPAL.md",
+      "hash_bruto": "2d8a81d3a428c72c423def8f0068112cf7cae3f2ae249e85aea0158bb4e9d67d",
+      "hash_normalizado": "765b1a12409b8c211c6ddd11247472b5f5b481a8b92a95bb5f7e41b2f25f7eb9",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 14298,
+      "linhas": 407,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 475,
+      "nome": "0475_BEGIN_Sentido_01_COMEÇAR.md",
+      "hash_bruto": "b61949ea5ebfbffb66fd899ae03c1b2a06107f3e82fa6a880f77093b700906a0",
+      "hash_normalizado": "766c2a8f359285d8f57d79daffb838cf69f33a0140473963564ff375b179feb6",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 12006,
+      "linhas": 302,
+      "paginas": 5,
+      "destinos": [
+        "A2-L10-0475-01",
+        "B1-L10-0475-02",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 494,
+      "nome": "0494_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+      "hash_bruto": "618b09a10bec7a34c7bb97f2dbf6ff8484e102fc4af987525a9eb612866d7637",
+      "hash_normalizado": "826475690ead87d0672e667ee83eb6dce12fd1cf46c8acfbb92c4f2fb6729f9a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 616158,
+      "linhas": 12043,
+      "paginas": 285,
+      "destinos": [
+        "B1-L10-0494-01",
+        "B1-L10-0494-02",
+        "B2-L10-0494-03",
+        "B2-L10-0494-04",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 526,
+      "nome": "0526_GUIA_MESTRE_DE_INGLÊS_—_ENGENHARIA_GRAMATICAL.md",
+      "hash_bruto": "3275175222f7049ed2bc0f53883c97dd905840d5bcc313f422e868069c0c7abd",
+      "hash_normalizado": "a3faad9a6fb1f80816dbed6e9eb766eb0140a8f4b30efb6cf34b2ecd25cad186",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 56078,
+      "linhas": 1553,
+      "paginas": 32,
+      "destinos": [
+        "A2-L11-0526-01",
+        "B1-L11-0526-02",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 536,
+      "nome": "0536_HAVE_Sentido_04_BEBER.md",
+      "hash_bruto": "f6ecf2ea101d541846c5f3a72ea1d026e7a22dd39b3b600529e8f1d05097594e",
+      "hash_normalizado": "c9278fbba5df0a7ee78216bd61583505f57211feb66aa40d6e63102e9e0f84eb",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 12095,
+      "linhas": 297,
+      "paginas": 4,
+      "destinos": [
+        "A2-L11-0536-01",
+        "B1-L11-0536-02",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 561,
+      "nome": "0561_input1b.md",
+      "hash_bruto": "59f2a20e08aaf9b8c3a930afe6168dd8e978efb9850e01ec89c5acd61e6c386c",
+      "hash_normalizado": "d12abda1f14f66fd7c8918f123a4fb2b0788958aeedd8c9f8431670724479786",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 665,
+      "linhas": 19,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0563-01",
+        "A2-L5-0130-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 575,
+      "nome": "0575_input1ee.md",
+      "hash_bruto": "06600ac9c126c6c9c39efd6fcc40c9db35188573555c85866000506b28c88170",
+      "hash_normalizado": "cad99260ec02d74319e88ada9c3ce80ea6bbfe3289233ce6b8c8b9e13bd65db4",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1064,
+      "linhas": 33,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0575-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 589,
+      "nome": "0589_input4a.md",
+      "hash_bruto": "6aa2d9ed3c90239b8c77ebb5029be5cbd879fbb7ecd570280309111594432db8",
+      "hash_normalizado": "1ed72349d5b6868e0a575271f25b0d6933afac1b406a57ee5a191de351a9c304",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 905,
+      "linhas": 30,
+      "paginas": 0,
+      "destinos": [
+        "B1-L12-0589-01",
+        "A2-L11-1336-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 611,
+      "nome": "0611_Livro_Memorização_para_aprender_idiomas_-_Marcos_da_Costa_Gois-1.md",
+      "hash_bruto": "d66cfc7a291814488fd781019ee93a70703f8055aed5125bcd08c963e4b92377",
+      "hash_normalizado": "62404869c846671d0fde06ca96766fc08a57e4e39759b9e8eca43c6b931c77cd",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 260597,
+      "linhas": 4469,
+      "paginas": 121,
+      "destinos": [
+        "A2-L4-0110-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 742,
+      "nome": "0742_QW_GRAM_G5_02_POSICAO_EMBAIXO_ACIMA_AO_LADO_ENTRE_ATRAS.md",
+      "hash_bruto": "c2610ac5502cc656ff84ed7873233e850fd07f48e8afd856ea23eaa594d3c773",
+      "hash_normalizado": "2ddcfb9c9355e28e25a385ac248f490e8ebacd62143acd471e98d606cdb95d4e",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 4258,
+      "linhas": 109,
+      "paginas": 2,
+      "destinos": [
+        "A2-L14-0742-01",
+        "A2-L3-0066-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 801,
+      "nome": "0801_HANDOFF_SISTEMAS_03_04_05_2.md",
+      "hash_bruto": "e0b498272ea14f1e1bcdf9254a95ffe26e727be1f7b1ea683d3657b3d9986127",
+      "hash_normalizado": "b31edd992ec5156088371c7744f718ba755c65b0865cc3484f8cb9fccbc97e55",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 17014,
+      "linhas": 480,
+      "paginas": 0,
+      "destinos": [
+        "A2-L3-0066-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 821,
+      "nome": "0821_sistema11_conteudo.md",
+      "hash_bruto": "8fcf0eae8c80c77592274055c5cd38ef1ea3609cda8343265c450de8449fcfad",
+      "hash_normalizado": "159f3df62ded97e0c49ed3ff665d46a0d3c73aeea0ea9527d6d82d7978cb818d",
+      "estado_principal": "índice/navegação",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 29232,
+      "linhas": 675,
+      "paginas": 0,
+      "destinos": [
+        "B2-L3-0063-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 828,
+      "nome": "0828_sistema18_conteudo.md",
+      "hash_bruto": "d06cb560522971653874dee240c110b6869905c1a98731d821f4676900208b2d",
+      "hash_normalizado": "5886da9081d08662d6a6f7ee39cc9d81e584369c3fe50789bc6af02701c85621",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 13199,
+      "linhas": 240,
+      "paginas": 0,
+      "destinos": [
+        "A2-L15-0828-01",
+        "A2-L4-0082-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 835,
+      "nome": "0835_sistema25_conteudo.md",
+      "hash_bruto": "0287ffda575007ae8307c3c7075f1396a0cd5a2dae31ee4b6bb66c492cf62df3",
+      "hash_normalizado": "51abcc80eb97dbcafc3b751387710ac929ea53169e2e8e73eb9399d99ef10b76",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 37277,
+      "linhas": 557,
+      "paginas": 0,
+      "destinos": [
+        "B1-L15-0835-01",
+        "A2-L4-0080-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 843,
+      "nome": "0843_sistema7_conteudo.md",
+      "hash_bruto": "2e81bbec4db3edc052fa1a886f70f8cf998d608463d475afae5c68ad2acbe5c1",
+      "hash_normalizado": "ffe549c90a6cc782041d18170467be9d54439c3175e3b858b580d061a0cbe04a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 67904,
+      "linhas": 1697,
+      "paginas": 0,
+      "destinos": [
+        "B2-L15-0843-01",
+        "A2-L4-0082-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 878,
+      "nome": "0878_✨✅_Prompt_Universal_—_Inglês_para_Brasileiros_(versão_2.3).md",
+      "hash_bruto": "64492f0395d1a1a4f4081e2914b5e30fe8e038ae354f0cb7481b425c675ab515",
+      "hash_normalizado": "23b73fe8636e410300bcc7859c245f1631b2d790159305d78b3c1e124f9d992c",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 4506,
+      "linhas": 105,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 887,
+      "nome": "0887_06_Grammar_And_Usage_For_Better_Writing.md",
+      "hash_bruto": "6190a1066f554c6224c175d93cb234b1cd905203cd42ff92a0165141a99480d7",
+      "hash_normalizado": "7691892ad8e7a0c07c1951da7ed9eb2217be2ee97e95a4761341aa4c6727108a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR",
+        "antecipada"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 411756,
+      "linhas": 12128,
+      "paginas": 267,
+      "destinos": [
+        "B1-L15-0887-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 894,
+      "nome": "0894_livro05.md",
+      "hash_bruto": "5c63d0c6a4c48c13194bbeec44938dbdc470576784475d0a54cdcff4887bffe0",
+      "hash_normalizado": "3cd021b717f97995f37e50729289c612501a6351983d800de0261d01e0e960f5",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 20049,
+      "linhas": 410,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 901,
+      "nome": "0901_get-coloquial.md",
+      "hash_bruto": "f66daaeffd7b00581bd81a5933959378b5adfe4b2d3f35090357c42d64c49f61",
+      "hash_normalizado": "b54fa989f9952065756c3aab207177135871659ee6ede3e4ab2598013d95533e",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 14872,
+      "linhas": 873,
+      "paginas": 0,
+      "destinos": [
+        "B1-L16-0901-01",
+        "A2-L5-0128-05"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 974,
+      "nome": "0974_HAVE_Completo_17_Sentidos.md",
+      "hash_bruto": "fdcad3eb89fe68ee4d9b6b1d6427c529816b83cbf17ac5fe50bf42da10ae0cbe",
+      "hash_normalizado": "63d2c13fbe90c0a9e293be7faf6a653d93ad8c364d923619d81d81772b6b1d60",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 194523,
+      "linhas": 4841,
+      "paginas": 68,
+      "destinos": [
+        "B1-L20-1170-01",
+        "A2-L4-0068-03",
+        "A2-L4-0111-01",
+        "A1-L5-0168-03",
+        "A2-L11-1336-01",
+        "B1-L8-0324-01",
+        "A2-L8-0336-02",
+        "B1-L6-0185-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1064,
+      "nome": "1064_VERBO_10_THINK_Completo.md",
+      "hash_bruto": "65e1b3549c738640034c2955db5a7149ae07533d3c9a43708ebe9148a4437e7a",
+      "hash_normalizado": "84f9867dd63d8c508c5b3045a38b49b7103d80b48934c158ce653d1ede7144da",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 35335,
+      "linhas": 869,
+      "paginas": 13,
+      "destinos": [
+        "B2-L20-1170-02",
+        "A1-L4-0070-01",
+        "A1-L8-0354-01",
+        "A2-L4-0088-01",
+        "A2-L11-1336-01",
+        "A2-L9-0440-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1097,
+      "nome": "1097_in-on-at-e-quantificadores.md",
+      "hash_bruto": "fc193556de1e680474fcb72007c130fa4ef71ff72cc8cc9631345df9b3c7a3f7",
+      "hash_normalizado": "ff0a06dff67eb6525e7e3d1581cce775adaaa02e507ef2446b1fa466a30e908c",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 18409,
+      "linhas": 487,
+      "paginas": 0,
+      "destinos": [
+        "A1-GRAM-0006",
+        "A1-GRAM-0019",
+        "A2-GRAM-0007",
+        "A2-L6-0186-01",
+        "A2-L14-0762-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1162,
+      "nome": "1162_conectivos-question-words.md",
+      "hash_bruto": "157f504ff65aa070f2ba8da770ce2df96c1c38a0bcac19a14227b804a592ae05",
+      "hash_normalizado": "0ba410f1ffd45fb0de5bb1f549ef3bf1fb4ef01e083215f50b06c5fb42aca9b8",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte média"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 134293,
+      "linhas": 1964,
+      "paginas": 0,
+      "destinos": [
+        "A1-GRAM-0004",
+        "A1-GRAM-0005",
+        "A1-GRAM-0010",
+        "A1-L4-1521-01",
+        "A1-L4-1521-03",
+        "A1-L6-0199-01",
+        "A1-L6-0203-01",
+        "A1-L6-0216-01",
+        "A2-GRAM-0003",
+        "A2-GRAM-0012",
+        "A2-L5-0115-01",
+        "A2-L5-0115-02",
+        "A2-L5-0128-01",
+        "A2-L5-0128-02",
+        "A2-L5-0128-05",
+        "A2-L5-0130-01",
+        "A2-L5-0130-02",
+        "A2-L5-0130-03",
+        "A2-L5-0130-04",
+        "A2-L5-0130-05",
+        "A2-L5-0130-06",
+        "A2-L5-0151-01",
+        "A2-L5-0166-01",
+        "A2-L5-0166-02",
+        "A2-L5-0166-03",
+        "A2-L5-0166-04",
+        "A2-L5-0166-05",
+        "A2-L5-0166-06",
+        "A2-L5-0169-01",
+        "A2-L5-0169-02",
+        "A2-L5-0169-03",
+        "A2-L5-0169-04",
+        "A2-L5-0169-05",
+        "A2-L5-0169-06",
+        "A2-L6-0199-02",
+        "A2-L6-0201-01",
+        "A2-L6-0216-02",
+        "A2-L6-0235-01",
+        "A2-L7-0262-01",
+        "A2-L7-0265-01",
+        "A2-L8-0346-01",
+        "A2-L8-0352-01",
+        "A2-L11-0526-01",
+        "A2-L14-0752-01",
+        "B1-L5-0113-01",
+        "B1-L5-0115-03",
+        "B1-L5-0115-04",
+        "B1-L5-0134-01",
+        "B1-L5-0134-02",
+        "B1-L5-0134-03",
+        "B1-L5-0136-02",
+        "B1-L5-0136-04",
+        "B1-L5-0162-01",
+        "B1-L5-0162-02",
+        "B1-L6-0197-01",
+        "B1-L6-0218-01",
+        "B1-L6-0218-02",
+        "B1-L6-0231-01",
+        "B1-L6-0235-02",
+        "B1-L7-0254-01",
+        "B1-L7-0260-01",
+        "B1-L7-0262-02",
+        "B1-L7-0265-02",
+        "B1-L7-0291-01",
+        "B1-L7-0319-01",
+        "B1-L8-0322-02",
+        "B1-L8-0324-01",
+        "B1-L8-0332-01",
+        "B1-L8-0344-01",
+        "B1-L8-0352-02",
+        "B1-L8-0368-01",
+        "B1-L8-0374-02",
+        "B2-L5-0113-03",
+        "B2-L5-0113-04",
+        "B2-L5-0134-04",
+        "B2-L5-0134-05",
+        "B2-L5-0136-01",
+        "B2-L5-0136-03",
+        "B2-L5-0136-05",
+        "B2-L5-0162-03",
+        "B2-L5-0162-04",
+        "B2-L6-0189-01",
+        "B2-L6-0189-02",
+        "B2-L6-0197-02",
+        "B2-L6-0224-01",
+        "B2-L6-0224-02",
+        "B2-L6-0231-02",
+        "B2-L7-0254-02",
+        "B2-L7-0260-02",
+        "B2-L7-0275-01",
+        "B2-L7-0275-02",
+        "B2-L7-0281-01",
+        "B2-L7-0281-02",
+        "B2-L7-0295-01",
+        "B2-L7-0295-02",
+        "B2-L7-0306-01",
+        "B2-L7-0306-02",
+        "B2-L7-0308-01",
+        "B2-L7-0319-02",
+        "B2-L8-0324-02",
+        "B2-L8-0332-02",
+        "B2-L8-0368-02",
+        "C1-L5-0113-02",
+        "C1-L7-0308-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1169,
+      "nome": "1169_index_6.md",
+      "hash_bruto": "1443342287f8644693698226d48c909bd957614afa12355a337c1c8b686c1c14",
+      "hash_normalizado": "a34ba8016b2b333a557d2a73be89e1da820487043520e12ba8d32f3eb8f2c698",
+      "estado_principal": "índice/navegação",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 2857,
+      "linhas": 95,
+      "paginas": 0,
+      "destinos": [],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1176,
+      "nome": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+      "hash_bruto": "e213ea50ec28dd0b3c05421ca125fea1c36c124dd2eedd68da87bb372c54746c",
+      "hash_normalizado": "b69183cb3662aa11650b591093e8d05926fcbb67968caf9414229b008ecebd1f",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 377483,
+      "linhas": 13474,
+      "paginas": 367,
+      "destinos": [
+        "A2-L4-0090-07",
+        "A2-L11-0505-01",
+        "A2-L4-0111-01",
+        "A2-L3-0060-04",
+        "A2-L3-0066-02",
+        "A2-L4-0068-03",
+        "B1-L4-0072-01",
+        "A1-L3-0041-01",
+        "A2-L4-0082-03",
+        "A2-L4-0090-02",
+        "B2-L10-0494-03",
+        "A2-L3-0060-03",
+        "B1-L3-0063-01",
+        "A2-L5-0166-06",
+        "B1-L3-0053-03",
+        "A2-L4-0110-01",
+        "A2-L3-0041-03",
+        "A2-L4-0070-04",
+        "A2-L3-0066-03",
+        "B1-L3-0037-02",
+        "A2-L5-0119-01",
+        "A2-L4-0084-03",
+        "B2-L3-0039-02",
+        "A1-GRAM-0002",
+        "A2-L4-0102-04",
+        "A2-L4-0082-02",
+        "B1-L4-0110-03",
+        "A2-L4-0104-02",
+        "A1-L4-0082-01",
+        "A1-L4-0102-01",
+        "A2-L4-0090-06",
+        "B2-L3-0039-03",
+        "B1-L3-0058-02",
+        "A2-L5-0156-03",
+        "A1-L3-0060-01",
+        "B1-L10-1180-01",
+        "A2-L4-0104-03",
+        "A2-L9-0440-01",
+        "B1-L3-0053-04",
+        "A2-L4-0088-01",
+        "A2-L3-0055-01",
+        "A2-L3-0041-04",
+        "B2-L3-0047-02",
+        "B2-L3-0051-01",
+        "A2-L4-0095-02",
+        "B2-L3-0045-02",
+        "A1-L4-0086-01",
+        "A2-L4-0070-02",
+        "A2-L4-0086-03",
+        "A1-L3-0066-01",
+        "B2-L4-0072-02",
+        "B1-L4-0080-02",
+        "A2-L3-0058-01",
+        "A1-L3-0043-01",
+        "A2-L7-0267-01",
+        "B1-L4-0093-04",
+        "A2-L4-0102-02",
+        "A1-L5-0145-01",
+        "B1-L3-0058-03",
+        "A2-L3-0035-03",
+        "A2-L4-0102-03",
+        "A2-L9-0408-01",
+        "A2-L3-0035-02",
+        "A1-L3-0035-01",
+        "A2-L4-0070-03",
+        "A2-L3-0049-03",
+        "A1-L4-0070-01",
+        "B2-L3-0047-03",
+        "A1-GRAM-0021",
+        "A1-L4-0104-01",
+        "A2-L4-0086-02",
+        "A2-L4-0104-04",
+        "B1-L3-0047-01",
+        "A1-L4-0100-01",
+        "A2-L3-0043-02",
+        "A2-L4-0080-01",
+        "B1-L5-0164-01",
+        "A2-L3-0043-03",
+        "A1-L4-0095-01",
+        "B2-L4-0072-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1189,
+      "nome": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+      "hash_bruto": "9c684c6ffcb7e11df4bb08aebc7273e9abf174458f8d397b74c080fbaba2e872",
+      "hash_normalizado": "bf41cc58842910e56b98877c93a4b16b36ca8133e026b1b092d1f842da224846",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 434734,
+      "linhas": 10993,
+      "paginas": 361,
+      "destinos": [
+        "A2-L11-1336-01",
+        "A2-VOC-0001",
+        "A1-L3-0066-01",
+        "A2-L6-0193-02",
+        "A2-L4-0070-04",
+        "B1-L8-0368-01",
+        "B1-L9-0456-01",
+        "A2-L4-0102-03",
+        "A2-L3-0035-03",
+        "A1-L4-0104-01",
+        "A1-L4-0070-01",
+        "A1-L4-0084-01",
+        "A2-L4-0092-15",
+        "B2-L4-0108-03",
+        "A2-L9-0440-01",
+        "A1-L4-1521-03",
+        "A2-L9-0458-01",
+        "B1-L5-0113-01",
+        "A1-L4-0086-01",
+        "A1-L4-1521-01",
+        "B1-L5-0164-02",
+        "B1-L20-1163-02",
+        "B2-L10-1388-01",
+        "A1-L3-0035-01",
+        "A1-L4-0100-01",
+        "B1-L12-0581-01",
+        "A1-L4-0068-01",
+        "A2-L9-0424-01",
+        "A2-L4-0111-01",
+        "A2-L3-0035-02",
+        "A2-L3-0066-02",
+        "A1-L5-0145-04",
+        "A2-L20-1163-01",
+        "A1-L8-0340-01",
+        "A2-L4-0092-40",
+        "B1-L8-0332-01",
+        "B1-L5-0115-03",
+        "A2-L7-0312-01",
+        "A2-L5-0160-01",
+        "A2-L4-0080-01",
+        "B1-L5-0142-03",
+        "A1-L4-0095-01",
+        "B1-L4-0080-02",
+        "B1-L5-0153-01",
+        "A2-L7-0267-01",
+        "A2-L4-0092-36",
+        "A2-L4-0095-02",
+        "B2-L6-0188-02",
+        "A2-L9-0442-01",
+        "B2-L3-0063-03",
+        "A2-L4-0104-04",
+        "B1-L8-0344-01",
+        "B2-L7-0308-01",
+        "B1-L5-0149-02",
+        "A2-L4-0070-02",
+        "A2-L5-0115-01",
+        "B1-L5-0126-01",
+        "A2-L5-0157-02",
+        "A1-L6-0216-01",
+        "A2-L4-0092-16",
+        "A2-L4-0086-04",
+        "B1-L8-0324-01",
+        "B1-L4-0072-01",
+        "A2-L8-0358-02",
+        "A1-L7-0264-01",
+        "B2-L20-1170-02",
+        "B2-L7-0295-01",
+        "B1-L6-0173-01",
+        "B1-L5-0153-03",
+        "B1-L5-0164-01",
+        "B1-VOC-0001",
+        "B1-L3-0063-01",
+        "B1-L8-0322-02",
+        "A2-L3-0058-01",
+        "A2-L4-0086-02",
+        "A1-GRAM-0021",
+        "A2-L5-0166-05",
+        "A2-L8-0374-01",
+        "A2-L5-0128-05",
+        "B2-L4-0072-03",
+        "A2-L5-0160-02",
+        "A2-L4-0092-09",
+        "A2-L8-0348-01",
+        "A1-VERB-0002",
+        "A1-L5-0145-02",
+        "A2-L15-0822-01",
+        "A1-L4-0102-01",
+        "B1-L14-0885-01",
+        "B1-L5-0126-02",
+        "B1-L4-0093-04",
+        "C1-L14-1396-01",
+        "A2-L3-0043-02",
+        "B2-L4-0072-04",
+        "A2-L5-0128-02",
+        "B1-L9-0426-01",
+        "A2-L5-0138-02",
+        "B1-L15-0827-01",
+        "A1-L5-0168-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1199,
+      "nome": "1199_livro02_3.md",
+      "hash_bruto": "2dbe7652cd964a21e383e85b107ff945e9f14dbfa37cf3b9c90136fd9be06fe2",
+      "hash_normalizado": "70b3e39243c42cb5388ff92ab442fb4ca02a8fe38908840ef789332ce8d911e9",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 33452,
+      "linhas": 1019,
+      "paginas": 0,
+      "destinos": [
+        "A2-L3-0066-02",
+        "A2-L8-0400-01",
+        "A2-L11-1336-01",
+        "A1-L4-0070-01",
+        "B2-L6-0188-02",
+        "B1-L6-0201-02",
+        "B1-L8-0324-01",
+        "A2-L9-0440-01",
+        "A2-L5-0169-01",
+        "B1-L5-0126-01",
+        "A2-L9-0416-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1207,
+      "nome": "1207_3771AE3B-8F5A-4D88-88E2-A8766F3E8FFC.md",
+      "hash_bruto": "3d083eb76199536088bf57cb67d03fb50742c395d1690e8d7026b1f996caf298",
+      "hash_normalizado": "b17dce8c4670296cd20394aa0a0f150e070bf0774628b5bb6a7cc92c241a03a2",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 829,
+      "linhas": 21,
+      "paginas": 0,
+      "destinos": [
+        "B1-L5-0164-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1214,
+      "nome": "1214_QW_SALA04_PDF1_CONNECTED_SPEECH_CONNECTED_SPEECH_FLAP_T_2.md",
+      "hash_bruto": "46905b5b97e77fc3ff2bfc1303010add307cb512e18fe525cd50c476c35bcce3",
+      "hash_normalizado": "c0b39ae4ccdca3dea77f7c457c4f01e2d924124a98e28fdfc2f00d8a701488e5",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 6320,
+      "linhas": 139,
+      "paginas": 2,
+      "destinos": [
+        "B2-L10-0461-03",
+        "B1-L15-0841-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1222,
+      "nome": "1222_livro01_4.md",
+      "hash_bruto": "2e91ebc54275e824b4f678037d6ab640c96a91582e920e23f2d357f09d0ff711",
+      "hash_normalizado": "6115c61ab0429559bf5f8dfe8cc43c7528593278bca6765548a50c3eaa0c47c2",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 36894,
+      "linhas": 621,
+      "paginas": 0,
+      "destinos": [
+        "B1-L10-0461-01",
+        "B2-L11-1202-01",
+        "B2-L10-0461-03",
+        "B1-PRON-0001",
+        "B1-L5-0144-01",
+        "B1-L5-0144-02",
+        "B1-L14-1203-01",
+        "B1-L15-0841-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1229,
+      "nome": "1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md",
+      "hash_bruto": "ad6b8fa22efd4d88cc9ef8da4d394fcf5e5ba3dafddae653c90177219bc90a4c",
+      "hash_normalizado": "97777067d8c7bd16dd7a006b3eee70ffa6480910b2fc327c058eb0d21b6b6874",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 399493,
+      "linhas": 16444,
+      "paginas": 166,
+      "destinos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0003",
+        "A1-GRAM-0011",
+        "A1-GRAM-0020",
+        "A1-PRON-0001",
+        "A1-GRAM-0005",
+        "A1-GRAM-0006",
+        "A1-L4-1521-01",
+        "A2-L8-0322-01",
+        "A2-L5-0128-01",
+        "A1-VERB-0001",
+        "A1-VERB-0002",
+        "A2-L7-0297-01",
+        "A2-L8-0336-02",
+        "A2-GRAM-0004",
+        "A2-L9-0440-01",
+        "A1-GRAM-0012",
+        "A1-GRAM-0013",
+        "A2-L4-0111-01",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "A2-GRAM-0006",
+        "A1-GRAM-0021",
+        "A1-GRAM-0022",
+        "A1-GRAM-0014",
+        "A2-GRAM-0015",
+        "A2-GRAM-0016",
+        "B1-L8-0321-01",
+        "B1-L12-0581-01",
+        "A2-L10-1314-01",
+        "A2-L8-0342-01",
+        "B1-L8-0342-02",
+        "A2-L10-1378-01",
+        "B1-L10-1379-01",
+        "A1-GRAM-0017",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A1-L8-0366-01",
+        "A2-L9-0446-01",
+        "A2-L8-0388-01",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1240,
+      "nome": "1240_livro03_5.md",
+      "hash_bruto": "74ca707f91e4653aa4f866398c7b002c764f7c9fe75b6d5d36514531a04d0430",
+      "hash_normalizado": "a0f41befb004d87857accc027b6df8a62d88f6cf4d0979e9b7bb80bfa9aef586",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 47972,
+      "linhas": 1754,
+      "paginas": 0,
+      "destinos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1254,
+      "nome": "1254_index_10.md",
+      "hash_bruto": "c2b5ae5601096316e6492c8ec8d145ad158c808650f53e7c8e6e33e88328fde7",
+      "hash_normalizado": "c7851386d0983f16bdbbfaafc426f572a7fdeecb3fec77fb942bef9ff55f5d9a",
+      "estado_principal": "índice/navegação",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 3382,
+      "linhas": 84,
+      "paginas": 0,
+      "destinos": [],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1261,
+      "nome": "1261_01_English_Grammar_in_Use_Book_with_Answers_A_Self-Study_Reference_and_Practice_Book_for_Intermediate_Learners.md",
+      "hash_bruto": "cc34507d03460ca89e0c073c776065b2ee714598153b3dfcc32da3978c01bd70",
+      "hash_normalizado": "998e0e225cd361bd7b9592e50363e5d33cb8617bbe5037ef81747afd178197dd",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 980621,
+      "linhas": 22702,
+      "paginas": 392,
+      "destinos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1272,
+      "nome": "1272_livro03_7.md",
+      "hash_bruto": "9d276e0dc39038cb101d217fdd8e434506437aff5c68f564d4c7f64554bf1537",
+      "hash_normalizado": "cf5e5447b5e9ae56352f387a45f52bcbb75f62e33ce123d572747c874c9d8b69",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 66136,
+      "linhas": 2230,
+      "paginas": 0,
+      "destinos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1284,
+      "nome": "1284_06_Practise_Makes_Perfect__English_Verbs_3rd_Edition.md",
+      "hash_bruto": "9ef2e6b97db9fe5d1e41c76904ca672478548462848eacd2320775202f7f0ab2",
+      "hash_normalizado": "0dae079666b17edd1553feb6eec28a50de08e15a60679355c0fc4f0da5c63dac",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 252929,
+      "linhas": 7404,
+      "paginas": 234,
+      "destinos": [
+        "A2-L9-0440-01",
+        "B1-L8-0321-01",
+        "B2-L6-0188-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B2-L3-0039-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1294,
+      "nome": "1294_livro04_7.md",
+      "hash_bruto": "fab7df1055d234d30da97d641252e02059a71ea891ca30b5a71b284fb22b5cd8",
+      "hash_normalizado": "130a3cbe397342ba09c6726ea27944304d70f9a90092fb84e046574be788fd4f",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 42059,
+      "linhas": 1018,
+      "paginas": 0,
+      "destinos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1302,
+      "nome": "1302_descrever-com-precisao.md",
+      "hash_bruto": "27560312c3e13ca95d7269f993f86259b8df12328a03e327b962ff910be220bc",
+      "hash_normalizado": "34e73a9dd34de40421dc84e6057a034003a4b7d9a12fdb7a09128aa10689416b",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 6864,
+      "linhas": 181,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1309,
+      "nome": "1309_vocabulario-referencia.md",
+      "hash_bruto": "fe332702b638e3f2b1a849901577e53af3ca080594c5601e8d51a3ac02a010a1",
+      "hash_normalizado": "d5a5bcb22ca83d211b418d5fbdf28a31814a8ab153743a2e7af77c79b3928b64",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 9773,
+      "linhas": 279,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1318,
+      "nome": "1318_falar-melhor.md",
+      "hash_bruto": "031239e8a85d13842f87590f64d8e5dd431fda17ce91dcf800065a7cede93bea",
+      "hash_normalizado": "82dff54993f68d88c82d58ded8d257ff41276f7d788286de7a36a19b717de31b",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 12215,
+      "linhas": 337,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1325,
+      "nome": "1325_pilar2-1000-frases.md",
+      "hash_bruto": "6dca48945793b71aded228b38bcde78d92007e0f94d05181cda53caed4d06557",
+      "hash_normalizado": "66d3111102197264788be99af9f87658b254d6c7db60b9fea03b03151d150f44",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 81327,
+      "linhas": 3147,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1332,
+      "nome": "1332_All_Ears_English___AEE_-_Will_Learning_Another_Language_Ruin_Your_English_.md",
+      "hash_bruto": "d1dd39b947e26fcb1193627a5448416ddd59383c828fd02818bbb97b9a1287a4",
+      "hash_normalizado": "3fd0d5c5baa97c79839e1d28722b85a5d43ec0723394c4599ee1e89e8684b61c",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "antecipada"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 20615,
+      "linhas": 691,
+      "paginas": 0,
+      "destinos": [
+        "B2-L12-1332-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1339,
+      "nome": "1339_canal-basic-english-speaking.md",
+      "hash_bruto": "b037134107579a8eb747a1852f840195ead9236240bea6bcc595b2482ee7fc12",
+      "hash_normalizado": "8ef22926aed356d521b80e92cc8b1b3b21e3efa598c59c82f5e2d0508793424e",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "livro extenso"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 179814,
+      "linhas": 9800,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1347,
+      "nome": "1347_canal-english-with-collins.md",
+      "hash_bruto": "caad52802bdf93073665caf70ea13baefb5f08dfac2a31cae2b8b1f3f14214b0",
+      "hash_normalizado": "0e350c5095ad8bace9183e534e50223b674c31de102254498d4998e83317b121",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 24410,
+      "linhas": 525,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1354,
+      "nome": "1354_Daily_English_Talk___Childhood_Memories_in_English___What_Lily_and_Tom_Remember.md",
+      "hash_bruto": "713dc49dd52840858f26711f4fca6fb430f3d5c83fc177b20d026d271d52431a",
+      "hash_normalizado": "5b41145bb501c8bc5dd0b0a0173ff8427f15f2bef7148784b2acfd9f98abb6d5",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "antecipada"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 18061,
+      "linhas": 1569,
+      "paginas": 0,
+      "destinos": [
+        "B1-L10-1354-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1361,
+      "nome": "1361_English_Coach_Chad___English_SHADOWING_Practice__Listen,_Learn,_Repeat_&_Shadow__Repeat_After_Me.md",
+      "hash_bruto": "5944bdc0c3a0d3de39fc6ac1592af810d7ba8d2043f7a33c771141dfec567602",
+      "hash_normalizado": "bd2de27153a9ae04c836b674b3388749b9f9c03fc6a9a66e9ea652dcbea21652",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "antecipada"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 12539,
+      "linhas": 505,
+      "paginas": 0,
+      "destinos": [
+        "B2-L13-1359-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1368,
+      "nome": "1368_English_Evolution_Step_1___Improve_English_Practice__Transportation_in_English.md",
+      "hash_bruto": "6b28038153ad4b136416e276012524a528b800e3b4c57ff51126cf2cfd607d13",
+      "hash_normalizado": "5536d37ac426f3a649d7408cf5b7adf73d192e997f0978d194fde30a7b978933",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 12815,
+      "linhas": 1229,
+      "paginas": 0,
+      "destinos": [
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1375,
+      "nome": "1375_English_is_EZ_with_Connor___how_to__actually__improve_your_English_speaking_skills.md",
+      "hash_bruto": "ab828518260b85f2dbceb63e644014c1ef4fa59d73806af96cbfc7aee15f683a",
+      "hash_normalizado": "c2cdee7c0cece7050604f95930546a668681b55b78e41ad5b4148927398e16f8",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 23633,
+      "linhas": 1877,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1382,
+      "nome": "1382_English_With_Collins___Como_falar_inglês_melhor_RÁPIDO_(Técnicas_simples_que_funcionam).md",
+      "hash_bruto": "29e6b982d215a095dcc566a528f445e673e0f3a7b6847a13e72a79adbb4de6ae",
+      "hash_normalizado": "5691471e75721f5e12672ed0ab3c6f35288fbfb22a6e6b87584fc9cf1e877467",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 29551,
+      "linhas": 2569,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1390,
+      "nome": "1390_REGRAS_10.md",
+      "hash_bruto": "b1554ac05e3c64de64494cc83cedbfca251b49175f329fb4ab0fd15d210abff0",
+      "hash_normalizado": "c7bc8f6f57a693727177a4e01b74be8a9944fe997971fbf99a41074056823bb3",
+      "estado_principal": "administrativa",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1945,
+      "linhas": 39,
+      "paginas": 0,
+      "destinos": [],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1400,
+      "nome": "1400_livro02_9.md",
+      "hash_bruto": "aa7e8635b46d31a2bb97393841351d71e789e1e6907fd8f551a584a031a85ccf",
+      "hash_normalizado": "765868ea371c69074a0e6e3e9518446e247b6c812759a59a09b54c2a4a6d31e8",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte média"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 160846,
+      "linhas": 3613,
+      "paginas": 0,
+      "destinos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1411,
+      "nome": "1411_livro01_11.md",
+      "hash_bruto": "4cef30835af07e6ae26c7480b70bd57510250889456f8b72347999edd3c9f862",
+      "hash_normalizado": "dceb5e64036d16e592ca9091519387e63dec53efa943e090a263cdd5e1336ac5",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 82877,
+      "linhas": 3035,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1421,
+      "nome": "1421_04_B2-First_4_With_Answers_For_Schools.md",
+      "hash_bruto": "982c432ec7de52c60cab16ea5c5823732bdf0e2efdbab897125a37f2c313e7cc",
+      "hash_normalizado": "ff11533660b620ce96ec8d224074a3b5137d039af5a9001429830c1c68ef2b68",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "antecipada"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 217693,
+      "linhas": 7538,
+      "paginas": 175,
+      "destinos": [
+        "B2-L16-1415-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1430,
+      "nome": "1430_livro05_5.md",
+      "hash_bruto": "e7961cc3f10032851735ae90bd47f7e384cf1f3108d7ecccbc2879a0d5fbdcdb",
+      "hash_normalizado": "e4340f65156b2b6f773786c399e5071add91b7f27b289540593f1ba0b490ecca",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 70930,
+      "linhas": 1264,
+      "paginas": 0,
+      "destinos": [
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1443,
+      "nome": "1443_07_English_Pronunciation_in_Use._Advanced.md",
+      "hash_bruto": "6d2d052b3fcaf75467009508beccd25000ff7c128412de68567c85b9e362ceaf",
+      "hash_normalizado": "99378b88254e962fd3f5098b0fa1094b94d479a4633e5ac60024124f623ee15b",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "antecipada"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 444759,
+      "linhas": 12504,
+      "paginas": 191,
+      "destinos": [
+        "C1-L13-1443-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1453,
+      "nome": "1453_livro06_4.md",
+      "hash_bruto": "e2f8bb54bb8671151c4459dc6122ea369abb0e300411f3b3da78871d66e4b3ad",
+      "hash_normalizado": "d7df66329b205dc05c2f4adc04babd3ab888dc305c98a0e247960effa5c71b94",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte média"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 104252,
+      "linhas": 2372,
+      "paginas": 0,
+      "destinos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1462,
+      "nome": "1462_03_Grammar_and_Vocabulary_for_Cambridge_Advanced_and_Proficiency.md",
+      "hash_bruto": "8eba823ee9643d2761c55c907f82acb8aa85062c57d25e5d6a146c66e568dfe0",
+      "hash_normalizado": "5133c1cb2d4c180f08527ea7c1e29fcec49b09fbcd70ab129d75d0c149c8a010",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "antecipada"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 966053,
+      "linhas": 20352,
+      "paginas": 287,
+      "destinos": [
+        "C2-L14-1462-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1471,
+      "nome": "1471_livro01_14.md",
+      "hash_bruto": "84c9354a8bd5d54c0ea5af55db3111378890cbcde1cabe7968e540b1e041f3ab",
+      "hash_normalizado": "c39341eeba344a73abdcf3081b74649d7d97f1fe2c18523bdc0d43185a0b0ada",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte média"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 101481,
+      "linhas": 2345,
+      "paginas": 0,
+      "destinos": [
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L12-1435-01",
+        "C1-L16-0881-03",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1478,
+      "nome": "1478_REGRAS_AVANCADO_2.md",
+      "hash_bruto": "157b777a277b1c764afd4bc8cd258c85967a73a993760ccb1b7a3d1511ff7e11",
+      "hash_normalizado": "d6e3f73c333d5195845942f9668a571a63d71a5239ab5fa659b2c444b2ae6d36",
+      "estado_principal": "administrativa",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 5625,
+      "linhas": 79,
+      "paginas": 0,
+      "destinos": [],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1488,
+      "nome": "1488_livro03_15.md",
+      "hash_bruto": "0ac7d2fa6e3c2062aa4616aa0f18be7839906d3df131a5a53a0d4c000e70fa7c",
+      "hash_normalizado": "6004a749f3c6af3b4906b62f862ec11c8082cce0013272b0a69ad0ce398a095d",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 36228,
+      "linhas": 951,
+      "paginas": 0,
+      "destinos": [
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L12-1435-01",
+        "C1-L15-1460-01",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1499,
+      "nome": "1499_index_23.md",
+      "hash_bruto": "343d17e70b3fbac87ab9d699081fcfb15dec9a2dadcdf3ab24211f1e4556539e",
+      "hash_normalizado": "2895b7b10f61b1b49706b509ba4c9253bbfd2bb49b59529a852c3c595cfa3342",
+      "estado_principal": "índice/navegação",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 2458,
+      "linhas": 66,
+      "paginas": 0,
+      "destinos": [],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1510,
+      "nome": "1510_04_English_for_Everyone_Junior_Beginner's_Course.md",
+      "hash_bruto": "11eea80ad6fdbd593d857d3dffb538c5fe0e5b364409fc204027d4f78acbaa0c",
+      "hash_normalizado": "c017f9af746f09851eac6fccd4e85323e145c511332271c96a98ccc4d8185c3e",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "antecipada"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 108197,
+      "linhas": 7421,
+      "paginas": 256,
+      "destinos": [
+        "KIDS-L12-1510-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1518,
+      "nome": "1518_Inglês_em_alguns_minutos___SÉRIE_COMPLETA_PARA_APRENDER_INGLÊS__DESENHO_ANIMADO___INGLÊS_AMERICANO___NÍVEL_BÁSICO.md",
+      "hash_bruto": "44752b722d9f05b6ef14bd59d6f19544ccdda8b28ce9e1ea61ae502ac4154848",
+      "hash_normalizado": "ea3f991ea8c87bcd04167f066fb106026e931d93a9494093cb3424dae9caf36e",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 23361,
+      "linhas": 1471,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1525,
+      "nome": "1525_IMG_7155.md",
+      "hash_bruto": "fd0ed1d5fbe1af47fe4e2139c24316ea3a66b64d65a34e0c4ee1954e0381407d",
+      "hash_normalizado": "ae7f6247e0884060c0a099cc375642db87447c036998e1958206365c698bbee4",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1203,
+      "linhas": 60,
+      "paginas": 0,
+      "destinos": [
+        "B1-L12-0581-01",
+        "B2-L6-0188-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1532,
+      "nome": "1532_nivel-05.md",
+      "hash_bruto": "f3c59f4b72aa6db7404f695cd83fb3993643baa9b29d7c1458df4b7744a7f01a",
+      "hash_normalizado": "ff5ad1c564ecbd22dfe4227b4109abe682e669e3610446454e75815c8be21572",
+      "estado_principal": "índice/navegação",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 3233,
+      "linhas": 67,
+      "paginas": 0,
+      "destinos": [],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1539,
+      "nome": "1539_2000_Palavras_Ingles.md",
+      "hash_bruto": "e82ed49d1cede0da70ae370d6737c05e41066e3f9c9494a59b317266cfdb6591",
+      "hash_normalizado": "176fef2db5259316e4161afe0f2e06f005334b4c6a8ed3d05604df70d57013f0",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 34717,
+      "linhas": 546,
+      "paginas": 14,
+      "destinos": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    },
+    {
+      "numero": 1547,
+      "nome": "1547_sistemas.md",
+      "hash_bruto": "62f44e6a0044a79d637ec270ab6f5608b84f7ea5c5ee6a627de409e8ce8a5b2d",
+      "hash_normalizado": "8250f0f352d938a034db338f5472ff1da58f393ce351c5b17c8a0bd19fe001da",
+      "estado_principal": "índice/navegação",
+      "caracteristicas": [
+        "fonte curta"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 15520,
+      "linhas": 305,
+      "paginas": 0,
+      "destinos": [],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0,
+      "conferencias": [
+        "começo",
+        "meio",
+        "fim",
+        "divisões estruturais"
+      ],
+      "destinos_validos": true
+    }
+  ]
+}

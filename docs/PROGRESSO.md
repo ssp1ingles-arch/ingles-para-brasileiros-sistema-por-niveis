@@ -8,8 +8,8 @@ Atualizado em 2026-08-12 após o lote 054.
 > Bloco calculado automaticamente por `scripts/atualizar-progresso.mjs`. Não editar os números manualmente.
 
 - Total de fontes: **1.547**
-- Fontes integralmente classificadas: **606**
-- Duplicatas consolidadas: **852**
+- Fontes integralmente classificadas: **622**
+- Duplicatas consolidadas: **836**
 - Fontes parcialmente analisadas: **0**
 - Fontes sem conteúdo didático: **89**
 - Total tratado: **1547**

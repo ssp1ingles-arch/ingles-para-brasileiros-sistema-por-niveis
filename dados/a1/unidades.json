@@ -873,6 +873,30 @@
         "arquivo_original": "estruturas-fixas.html",
         "pagina": "documento integral",
         "secao": "seções correspondentes do compêndio"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1201_livro04_3.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0002_#_06_MAKE_Completo.md",
+        "arquivo_original": "#_06_MAKE_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1060_VERBO_06_MAKE_Completo.md",
+        "arquivo_original": "VERBO_06_MAKE_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -970,6 +994,12 @@
         "arquivo_original": "livro01.html",
         "pagina": "16 seções curadas no lote 050",
         "secao": "objetivo curricular consolidado sem republicação"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -2040,6 +2070,12 @@
         "arquivo_original": "QW_GRAM_G5_01_IN_ON_AT_LUGAR_IN_ON_AT_DENTRO_SOBRE_EM.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0031"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ]
   },
@@ -2385,6 +2421,24 @@
         "arquivo_original": "livro01.html",
         "pagina": "16 seções curadas no lote 050",
         "secao": "objetivo curricular consolidado sem republicação"
+      },
+      {
+        "arquivo": "1200_livro03_3.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0005_#_COME_Completo.md",
+        "arquivo_original": "#_COME_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1061_VERBO_07_COME_Completo.md",
+        "arquivo_original": "VERBO_07_COME_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -2671,6 +2725,48 @@
         "arquivo_original": "livro01.html",
         "pagina": "16 seções curadas no lote 050",
         "secao": "objetivo curricular consolidado sem republicação"
+      },
+      {
+        "arquivo": "0031_01_IN_ON_AT_Lugar.md",
+        "arquivo_original": "01_IN_ON_AT_Lugar.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0051_01_WHEREAS_Enquanto_Que.md",
+        "arquivo_original": "01_WHEREAS_Enquanto_Que.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1195_04_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 2 Beginner A Complete Self-Study Program.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1196_05_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "05_English for Everyone Practice Book Level 2 Beginner A Complete Self-Study Program.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0012_#_SEE_Completo.md",
+        "arquivo_original": "#_SEE_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1065_VERBO_11_SEE_Completo.md",
+        "arquivo_original": "VERBO_11_SEE_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -2860,6 +2956,24 @@
         "arquivo_original": "livro01.html",
         "pagina": "16 seções curadas no lote 050",
         "secao": "objetivo curricular consolidado sem republicação"
+      },
+      {
+        "arquivo": "0166_04_WHERE_Onde_Aonde.md",
+        "arquivo_original": "04_WHERE_Onde_Aonde.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ]
   },
@@ -2940,6 +3054,18 @@
         "arquivo_original": "QW_GRAM_G4_02_ON_TEMPO_ON_DIAS_DATAS.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0076"
+      },
+      {
+        "arquivo": "0440_2_-_exemplo_secundário_01.md",
+        "arquivo_original": "2 - exemplo secundário 01.PNG",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -3029,6 +3155,24 @@
         "arquivo_original": "QW_GRAM_G4_02_ON_TEMPO_ON_DIAS_DATAS.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0076"
+      },
+      {
+        "arquivo": "1201_livro04_3.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0004_#_CALL_Completo.md",
+        "arquivo_original": "#_CALL_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1075_VERBO_23_CALL_Completo.md",
+        "arquivo_original": "VERBO_23_CALL_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -4140,6 +4284,18 @@
         "arquivo_original": "QW_GRAM_G4_03_IN_TEMPO_IN_MESES_ANOS_PERIODOS.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0106"
+      },
+      {
+        "arquivo": "0438_19_MAKE_Sentido_02_CAUSAR_DEIXAR.md",
+        "arquivo_original": "19_MAKE_Sentido_02_CAUSAR_DEIXAR.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -4351,6 +4507,30 @@
         "arquivo_original": "livro01.html",
         "pagina": "16 seções curadas no lote 050",
         "secao": "objetivo curricular consolidado sem republicação"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -4543,6 +4723,126 @@
         "arquivo_original": "KNOW_Sentido_01_SABER.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0035"
+      },
+      {
+        "arquivo": "0038_01_Pronomes_Sujeito_EU_VOCE_ELE_ELA.md",
+        "arquivo_original": "01_Pronomes_Sujeito_EU_VOCE_ELE_ELA.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0055_01_WILL_SHALL_Futuro_Decisao_Promessa.md",
+        "arquivo_original": "01_WILL_SHALL_Futuro_Decisao_Promessa.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0057_02_Artigo_THE_O_A_OS_AS.md",
+        "arquivo_original": "02_Artigo_THE_O_A_OS_AS.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0058_02_BEGIN_Comecar.md",
+        "arquivo_original": "02_BEGIN_Comecar.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0752_QW_GRAM_G7_01_FREQUENCY_ADV_SEMPRE_NORMALMENTE_AS_VEZES_RARAMENTE_NUNCA.md",
+        "arquivo_original": "QW_GRAM_G7_01_FREQUENCY_ADV_SEMPRE_NORMALMENTE_AS_VEZES_RARAMENTE_NUNCA.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1174_livro05_2.md",
+        "arquivo_original": "livro05.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1193_03_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "03_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1194_04_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1195_04_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 2 Beginner A Complete Self-Study Program.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1196_05_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "05_English for Everyone Practice Book Level 2 Beginner A Complete Self-Study Program.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0003_#_BE_Completo.md",
+        "arquivo_original": "#_BE_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0927_BE_Verbo_Completo_v3.md",
+        "arquivo_original": "BE_Verbo_Completo_v3.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -4628,6 +4928,54 @@
         "arquivo_original": "SPEAK_Sentido_01_FALAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0041"
+      },
+      {
+        "arquivo": "0142_04_GO_Sair_Apagar.md",
+        "arquivo_original": "04_GO_Sair_Apagar.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0218_06_IF_Se_Condicao.md",
+        "arquivo_original": "06_IF_Se_Condicao.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0760_QW_GRAM_G8_03_A_FEW_A_LITTLE_ALGUNS_POUCOS_UM_POUCO.md",
+        "arquivo_original": "QW_GRAM_G8_03_A_FEW_A_LITTLE_ALGUNS_POUCOS_UM_POUCO.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1171_livro02_2.md",
+        "arquivo_original": "livro02.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -4713,6 +5061,60 @@
         "arquivo_original": "START_Sentido_01_COME├çAR___INICIAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0043"
+      },
+      {
+        "arquivo": "0256_07_TRY_Tentar.md",
+        "arquivo_original": "07_TRY_Tentar.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1172_livro03_2.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0010_#_KNOW_Completo.md",
+        "arquivo_original": "#_KNOW_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1063_VERBO_09_KNOW_Completo.md",
+        "arquivo_original": "VERBO_09_KNOW_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -4798,6 +5200,18 @@
         "arquivo_original": "WAKE_Sentido_01_ACORDAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0049"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -4887,6 +5301,114 @@
         "arquivo_original": "QW_CONJ_BUT_MAS_POREM_CONTRASTE.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0060"
+      },
+      {
+        "arquivo": "0024_01_AT_Horas_Momentos.md",
+        "arquivo_original": "01_AT_Horas_Momentos.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0201_06_AS_SOON_AS_AT_FIRST_AT_LEAST_Tempo.md",
+        "arquivo_original": "06_AS_SOON_AS_AT_FIRST_AT_LEAST_Tempo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0275_08_FOR_Pois_Formal.md",
+        "arquivo_original": "08_FOR_Pois_Formal.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0321_10_BE_Sentido_06_JA_ESTEVE.md",
+        "arquivo_original": "10_BE_Sentido_06_JA_ESTEVE.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0338_10_MISS_Sentir_Falta_Perder.md",
+        "arquivo_original": "10_MISS_Sentir_Falta_Perder.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0410_15_DRIVE_Dirigir.md",
+        "arquivo_original": "15_DRIVE_Dirigir.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0478_BRING_Sentido_01_TRAZER.md",
+        "arquivo_original": "BRING_Sentido_01_TRAZER.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0505_Explicação_e_aplicação.md",
+        "arquivo_original": "Explicação e aplicação.docx",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0836_sistema26_conteudo.md",
+        "arquivo_original": "sistema26_conteudo.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1172_livro03_2.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1184_LIVRO_05_Livro_Memorização_para_aprender_idiomas_-_Marcos_da_Costa_Gois-1.md",
+        "arquivo_original": "LIVRO_05_Livro Memorização para aprender idiomas - Marcos da Costa Gois-1.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0004_#_CALL_Completo.md",
+        "arquivo_original": "#_CALL_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1075_VERBO_23_CALL_Completo.md",
+        "arquivo_original": "VERBO_23_CALL_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -4966,6 +5488,96 @@
         "arquivo_original": "HAVE_Sentido_02_POSSUIR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0066"
+      },
+      {
+        "arquivo": "0065_02_Content_vs_Function_Words_Stress.md",
+        "arquivo_original": "02_Content_vs_Function_Words_Stress.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0068_02_HOW_LONG_FAR_OLD_MUCH_Medidas.md",
+        "arquivo_original": "02_HOW_LONG_FAR_OLD_MUCH_Medidas.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0093_03_AS_SOON_AS_Assim_Que.md",
+        "arquivo_original": "03_AS_SOON_AS_Assim_Que.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0402_14_LEAD_Liderar_Levar.md",
+        "arquivo_original": "14_LEAD_Liderar_Levar.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1200_livro03_3.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0007_#_GET_Completo.md",
+        "arquivo_original": "#_GET_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0013_#_TAKE_Completo.md",
+        "arquivo_original": "#_TAKE_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1059_VERBO_05_GET_Completo.md",
+        "arquivo_original": "VERBO_05_GET_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1062_VERBO_08_TAKE_Completo.md",
+        "arquivo_original": "VERBO_08_TAKE_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -5052,6 +5664,54 @@
         "arquivo_original": "estruturas-fixas.html",
         "pagina": "documento integral",
         "secao": "seções correspondentes do compêndio"
+      },
+      {
+        "arquivo": "0885_04_Grammar_And_Usage_For_Better_Writing.md",
+        "arquivo_original": "04_Grammar And Usage For Better Writing.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1171_livro02_2.md",
+        "arquivo_original": "livro02.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -5137,6 +5797,144 @@
         "arquivo_original": "KNOW_Sentido_02_CONHECER.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0070"
+      },
+      {
+        "arquivo": "0567_input1cc.md",
+        "arquivo_original": "input1cc.jpeg",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0609_lista_verbos_S001.md",
+        "arquivo_original": "lista_verbos_S001.png",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1172_livro03_2.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1184_LIVRO_05_Livro_Memorização_para_aprender_idiomas_-_Marcos_da_Costa_Gois-1.md",
+        "arquivo_original": "LIVRO_05_Livro Memorização para aprender idiomas - Marcos da Costa Gois-1.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1193_03_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "03_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1194_04_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1195_04_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 2 Beginner A Complete Self-Study Program.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1196_05_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "05_English for Everyone Practice Book Level 2 Beginner A Complete Self-Study Program.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1199_livro02_3.md",
+        "arquivo_original": "livro02.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0004_#_CALL_Completo.md",
+        "arquivo_original": "#_CALL_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0010_#_KNOW_Completo.md",
+        "arquivo_original": "#_KNOW_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0014_#_THINK_Completo.md",
+        "arquivo_original": "#_THINK_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1063_VERBO_09_KNOW_Completo.md",
+        "arquivo_original": "VERBO_09_KNOW_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1064_VERBO_10_THINK_Completo.md",
+        "arquivo_original": "VERBO_10_THINK_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1075_VERBO_23_CALL_Completo.md",
+        "arquivo_original": "VERBO_23_CALL_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -5224,6 +6022,60 @@
         "arquivo_original": "SELL_Sentido_01_VENDER.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0082"
+      },
+      {
+        "arquivo": "0038_01_Pronomes_Sujeito_EU_VOCE_ELE_ELA.md",
+        "arquivo_original": "01_Pronomes_Sujeito_EU_VOCE_ELE_ELA.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0295_09_AS_A_RESULT_Como_Resultado.md",
+        "arquivo_original": "09_AS_A_RESULT_Como_Resultado.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -5311,6 +6163,48 @@
         "arquivo_original": "SLEEP_Sentido_01_DORMIR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0084"
+      },
+      {
+        "arquivo": "0074_02_NEVERTHELESS_Mesmo_Assim.md",
+        "arquivo_original": "02_NEVERTHELESS_Mesmo_Assim.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -5399,6 +6293,96 @@
         "arquivo_original": "TALK_Sentido_01_CONVERSAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0086"
+      },
+      {
+        "arquivo": "0037_01_Phrasal_GET_up_out_back_over.md",
+        "arquivo_original": "01_Phrasal_GET_up_out_back_over.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0056_02___Livro_Inglês_Conversação_para_viagem-Michaelis_tour_Completo.md",
+        "arquivo_original": "02 _ Livro Inglês Conversação para viagem-Michaelis tour Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0060_02_BUT_Mas_Porem.md",
+        "arquivo_original": "02_BUT_Mas_Porem.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0312_09_NEED_Sentido_01_PRECISAR.md",
+        "arquivo_original": "09_NEED_Sentido_01_PRECISAR.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0822_sistema12_conteudo.md",
+        "arquivo_original": "sistema12_conteudo.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0890_livro01.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1172_livro03_2.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Conversação",
@@ -5480,6 +6464,18 @@
         "arquivo_original": "QW_WHAT_O_QUE_QUE_QUAL.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0090"
+      },
+      {
+        "arquivo": "0524_gramatica-em-tabelas.md",
+        "arquivo_original": "gramatica-em-tabelas.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Gramática",
@@ -5537,7 +6533,21 @@
     "subpainel": "Interação e prática integrada",
     "ordem_subpainel": 2,
     "ordem_pedagogica": 40,
-    "subpainel_anterior": "frases de conversação"
+    "subpainel_anterior": "frases de conversação",
+    "fontes": [
+      {
+        "arquivo": "0092_03___120_frases_para_uma_conversa_em_inglês_(LM10-Livro_digital).md",
+        "arquivo_original": "03 _ 120 frases para uma conversa em inglês (LM10-Livro digital).pdf",
+        "pagina": "Página 2",
+        "secao": "## Página 2"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      }
+    ]
   },
   {
     "id": "A1-L4-0095-01",
@@ -5606,6 +6616,84 @@
         "arquivo_original": "BELIEVE_Sentido_01_ACREDITAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0095"
+      },
+      {
+        "arquivo": "0033_01_IT_IS_THERE_IS_ARE_Impessoal.md",
+        "arquivo_original": "01_IT_IS_THERE_IS_ARE_Impessoal.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0153_04_NOTICE_Notar_Perceber.md",
+        "arquivo_original": "04_NOTICE_Notar_Perceber.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0324_10_FOR_EXAMPLE_Por_Exemplo.md",
+        "arquivo_original": "10_FOR_EXAMPLE_Por_Exemplo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0010_#_KNOW_Completo.md",
+        "arquivo_original": "#_KNOW_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1063_VERBO_09_KNOW_Completo.md",
+        "arquivo_original": "VERBO_09_KNOW_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -6455,6 +7543,42 @@
         "arquivo_original": "02 _ Livro Inglês Conversação para viagem-Michaelis tour Completo.pdf",
         "pagina": "páginas 13, 29–30, 152, 160",
         "secao": "procedência consolidada no macrolote 054"
+      },
+      {
+        "arquivo": "0033_01_IT_IS_THERE_IS_ARE_Impessoal.md",
+        "arquivo_original": "01_IT_IS_THERE_IS_ARE_Impessoal.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -6536,6 +7660,96 @@
         "arquivo_original": "HAVE_Sentido_03_TOMAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0102"
+      },
+      {
+        "arquivo": "0031_01_IN_ON_AT_Lugar.md",
+        "arquivo_original": "01_IN_ON_AT_Lugar.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0062_02_CAN_COULD_Poder_Conseguir.md",
+        "arquivo_original": "02_CAN_COULD_Poder_Conseguir.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0162_04_SO_Entao_Portanto.md",
+        "arquivo_original": "04_SO_Entao_Portanto.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0287_08_WANT_Sentido_02_QUERER_FAZER.md",
+        "arquivo_original": "08_WANT_Sentido_02_QUERER_FAZER.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0426_17_GIVE_Sentido_01_DAR.md",
+        "arquivo_original": "17_GIVE_Sentido_01_DAR.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1193_03_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "03_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1194_04_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -6617,6 +7831,90 @@
         "arquivo_original": "HEAR_Sentido_01_OUVIR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0104"
+      },
+      {
+        "arquivo": "0119_03_Phrasal_TURN_PUT_TAKE.md",
+        "arquivo_original": "03_Phrasal_TURN_PUT_TAKE.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0121_03_Sem_Artigo_Quando_NAO_usar.md",
+        "arquivo_original": "03_Sem_Artigo_Quando_NAO_usar.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1172_livro03_2.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1175_livro06.md",
+        "arquivo_original": "livro06.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1182_LIVRO_04_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+        "arquivo_original": "LIVRO_04_Segredo da Fluência - Como aprender Inglês com Música - Leonardo de Mello (2016).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1184_LIVRO_05_Livro_Memorização_para_aprender_idiomas_-_Marcos_da_Costa_Gois-1.md",
+        "arquivo_original": "LIVRO_05_Livro Memorização para aprender idiomas - Marcos da Costa Gois-1.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0006_#_DO_Completo.md",
+        "arquivo_original": "#_DO_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1057_VERBO_03_DO_Completo.md",
+        "arquivo_original": "VERBO_03_DO_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Verbos",
@@ -7533,6 +8831,18 @@
         "arquivo_original": "02 _ Livro Inglês Conversação para viagem-Michaelis tour Completo.pdf",
         "pagina": "páginas 1–5, 7–16, 18–22, 24–30, 32–33, 35–37, 39–65, 68, 70–81, 83–92, 94–95, 99–101, 105–110, 113, 115–130, 132–140, 142–145, 149–151, 153–154, 156–157, 164",
         "secao": "procedência consolidada no macrolote 054"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ]
   },
@@ -7606,6 +8916,12 @@
         "arquivo_original": "conectivos-question-words.html",
         "pagina": "documento HTML/Markdown integral",
         "secao": "conectivo ou question word correspondente"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ]
   },
@@ -7682,6 +8998,12 @@
         "arquivo_original": "QW_GRAM_G1_03_POSSESSIVE_MEU_SEU_DELE_DELA_NOSSO_DELES_S001.pdf",
         "pagina": "páginas/seções do Markdown",
         "secao": "duplicata textual de 0120"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ]
   },
@@ -7986,6 +9308,24 @@
         "arquivo_original": "HAVE_Sentido_07_ALMO├çAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0145"
+      },
+      {
+        "arquivo": "0416_15_TAKE_Sentido_01_PEGAR_LEVAR.md",
+        "arquivo_original": "15_TAKE_Sentido_01_PEGAR_LEVAR.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1176_LIVRO_01_1000_melhores_dicas_para_aprender_inglês.md",
+        "arquivo_original": "LIVRO_01_1000 melhores dicas para aprender inglês.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Conversação",
@@ -8071,6 +9411,12 @@
         "arquivo_original": "HAVE_Sentido_07_ALMO├çAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0145"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Conversação",
@@ -8241,6 +9587,12 @@
         "arquivo_original": "HAVE_Sentido_07_ALMO├çAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0145"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "habilidade_principal": "Conversação",
@@ -8408,6 +9760,24 @@
         "arquivo_original": "BE_Sentido_01_SER.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0168"
+      },
+      {
+        "arquivo": "0841_sistema5_conteudo.md",
+        "arquivo_original": "sistema5_conteudo.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ]
   },
@@ -8487,6 +9857,36 @@
         "arquivo_original": "BE_Sentido_01_SER.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0168"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1193_03_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "03_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1194_04_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0009_#_HAVE_Completo.md",
+        "arquivo_original": "#_HAVE_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0974_HAVE_Completo_17_Sentidos.md",
+        "arquivo_original": "HAVE_Completo_17_Sentidos.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ]
   },
@@ -9496,6 +10896,12 @@
         "arquivo_original": "SEE_Sentido_01_VER.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0193"
+      },
+      {
+        "arquivo": "1172_livro03_2.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "ordem_global": 60,
@@ -9595,6 +11001,12 @@
         "arquivo_original": "conectivos-question-words.html",
         "pagina": "documento HTML/Markdown integral",
         "secao": "conectivo ou question word correspondente"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "ordem_global": 61,
@@ -10033,6 +11445,12 @@
         "arquivo_original": "conectivos-question-words.html",
         "pagina": "documento HTML/Markdown integral",
         "secao": "conectivo ou question word correspondente"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "ordem_global": 66,
@@ -10368,6 +11786,36 @@
         "arquivo_original": "BE_Sentido_04_H├ü___TEM___EXISTE.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0264"
+      },
+      {
+        "arquivo": "1173_livro04_2.md",
+        "arquivo_original": "livro04.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1200_livro03_3.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0004_#_CALL_Completo.md",
+        "arquivo_original": "#_CALL_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1075_VERBO_23_CALL_Completo.md",
+        "arquivo_original": "VERBO_23_CALL_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ]
   },
@@ -10539,6 +11987,18 @@
         "arquivo_original": "LIKE_Sentido_01_GOSTAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0336"
+      },
+      {
+        "arquivo": "1195_04_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 2 Beginner A Complete Self-Study Program.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1196_05_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "05_English for Everyone Practice Book Level 2 Beginner A Complete Self-Study Program.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "ordem_global": 72,
@@ -10629,6 +12089,12 @@
         "arquivo_original": "OPEN_Sentido_01_ABRIR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0340"
+      },
+      {
+        "arquivo": "1189_01_English_for_Everyone_English_Grammar_Guide_A_Comprehensive_Visual_Reference.md",
+        "arquivo_original": "01_English for Everyone English Grammar Guide A Comprehensive Visual Reference.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "ordem_global": 73,
@@ -10713,6 +12179,30 @@
         "arquivo_original": "GO_Sentido_01_IR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0354"
+      },
+      {
+        "arquivo": "1193_03_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "03_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1194_04_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0014_#_THINK_Completo.md",
+        "arquivo_original": "#_THINK_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1064_VERBO_10_THINK_Completo.md",
+        "arquivo_original": "VERBO_10_THINK_Completo.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "ordem_global": 74,
@@ -10803,6 +12293,18 @@
         "arquivo_original": "LEARN_Sentido_01_APRENDER.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0358"
+      },
+      {
+        "arquivo": "0308_09_IN_OTHER_WORDS_Ou_Seja.md",
+        "arquivo_original": "09_IN_OTHER_WORDS_Ou_Seja.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "ordem_global": 75,
@@ -10983,6 +12485,54 @@
         "arquivo_original": "PLAY_Sentido_01_JOGAR_TOCAR.pdf",
         "pagina": "mesmas páginas/seções da canônica normalizada",
         "secao": "duplicata textual de 0362"
+      },
+      {
+        "arquivo": "0038_01_Pronomes_Sujeito_EU_VOCE_ELE_ELA.md",
+        "arquivo_original": "01_Pronomes_Sujeito_EU_VOCE_ELE_ELA.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0041_01_SPEAK_Falar.md",
+        "arquivo_original": "01_SPEAK_Falar.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0177_05_GO_Combinar.md",
+        "arquivo_original": "05_GO_Combinar.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "0204_06_CATCH_Pegar_Apanhar.md",
+        "arquivo_original": "06_CATCH_Pegar_Apanhar.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1170_livro01_2.md",
+        "arquivo_original": "livro01.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1191_02_English_for_Everyone_English_Vocabulary_Builder_(DK_English_for_Everyone)_(English_Edition).md",
+        "arquivo_original": "02_English for Everyone English Vocabulary Builder (DK English for Everyone) (English Edition).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1193_03_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "03_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1194_04_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+        "arquivo_original": "04_English for Everyone Practice Book Level 1 Beginner A Complete Self-Study Program.pdf",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "ordem_global": 77,
@@ -11265,6 +12815,18 @@
         "arquivo_original": "ingles-do-zero.html",
         "pagina": "documento integral",
         "secao": "seções correspondentes do compêndio"
+      },
+      {
+        "arquivo": "1172_livro03_2.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
+      },
+      {
+        "arquivo": "1186_LIVRO_06_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+        "arquivo_original": "LIVRO_06_Como não aprender Inglês ( PDFDrive.com ).md",
+        "pagina": "páginas ou seções registradas nos mapeamentos históricos",
+        "secao": "procedência recuperada pela auditoria final global"
       }
     ],
     "ordem_global": 80,

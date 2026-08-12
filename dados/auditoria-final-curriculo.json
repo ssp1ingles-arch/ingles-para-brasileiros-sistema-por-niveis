@@ -1,0 +1,15 @@
+{
+  "unidades": 834,
+  "ids_unicos": 834,
+  "niveis": {
+    "a1": 80,
+    "a2": 360,
+    "b1": 270,
+    "b2": 95,
+    "c1": 18,
+    "c2": 5,
+    "kids": 6
+  },
+  "subpaineis": 95,
+  "procedencias_adicionadas": 0
+}

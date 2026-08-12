@@ -1,0 +1,13 @@
+{
+  "fontes_com_um_destino": 223,
+  "fontes_com_multiplos_destinos": 1226,
+  "editoriais_sem_destino": 51,
+  "duplicatas_sem_destino": 47,
+  "conteudo_util_sem_destino": 0,
+  "destinos_inexistentes": 0,
+  "procedencias_adicionadas": 0,
+  "procedencias_adicionadas_nesta_execucao": 0,
+  "procedencias_ausentes_corrigidas_desde_head": 1619,
+  "unidades_afetadas": 387,
+  "fontes_sem_destino": []
+}

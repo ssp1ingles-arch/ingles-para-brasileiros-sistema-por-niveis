@@ -1,0 +1,2680 @@
+{
+  "total": 100,
+  "fontes": [
+    {
+      "numero": 17,
+      "nome": "0017_#Regra.md",
+      "hash_bruto": "0ad00dc5d30bb814fbf7b7bbea9bce1499c86a6fb1a4afa44aa8e144ac330689",
+      "hash_normalizado": "da994b5b315e02e2ea62b881c9b76f3ca4eaf2fdadddc506f342add248ac28b6",
+      "estado_principal": "administrativa",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1202,
+      "linhas": 42,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01",
+        "B1-L3-0037-03",
+        "A2-L9-0416-01",
+        "A2-L4-0111-01",
+        "A2-L6-0193-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 18,
+      "nome": "0018_01___1000_melhores_dicas_para_aprender_inglês.md",
+      "hash_bruto": "211544a2c981354f30902a75b0f7dca97c4744ef921cc4caeab3b9d21a1f2aa8",
+      "hash_normalizado": "8440f8ef5555b19f061c2513a414760bab316ce1de58aafad1183d37be516592",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "extração alternativa",
+        "livro extenso",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": 1176,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 856511,
+      "linhas": 16768,
+      "paginas": 367,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L4-0082-03",
+        "A2-L4-0092-19",
+        "A2-L7-0300-02",
+        "A2-L5-0169-01",
+        "A2-L11-1336-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 56,
+      "nome": "0056_02___Livro_Inglês_Conversação_para_viagem-Michaelis_tour_Completo.md",
+      "hash_bruto": "f8edca670a8a08e72942cb9ae8408c168fdd411fa2dcf2277de15b2b1e1118bf",
+      "hash_normalizado": "3c07f12e1aeeed2c7ca09e5d4df32295c51c029d80a14f897913d2b774d8d04d",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "extração alternativa",
+        "livro extenso",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": 1178,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 134321,
+      "linhas": 8116,
+      "paginas": 164,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01",
+        "B2-L20-1170-02",
+        "A1-L4-0086-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 92,
+      "nome": "0092_03___120_frases_para_uma_conversa_em_inglês_(LM10-Livro_digital).md",
+      "hash_bruto": "3e5a60ff2df689d895eabfc5f4b6fe0e51882274d479f5dd03d8ad4ed143ffda",
+      "hash_normalizado": "c16259b295d98401dc698478049f9b44181696c88194fcc870524f46bd39be35",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 21687,
+      "linhas": 1215,
+      "paginas": 61,
+      "destinos": [
+        "A1-L4-0092-01",
+        "A2-L4-0092-02",
+        "A2-L4-0092-03",
+        "A2-L4-0092-04",
+        "A2-L4-0092-05",
+        "A2-L4-0092-06",
+        "A2-L4-0092-07",
+        "A2-L4-0092-08",
+        "A2-L4-0092-09",
+        "A2-L4-0092-10",
+        "A2-L4-0092-11",
+        "A2-L4-0092-12",
+        "A2-L4-0092-13",
+        "A2-L4-0092-14",
+        "A2-L4-0092-15",
+        "A2-L4-0092-16",
+        "A2-L4-0092-17",
+        "A2-L4-0092-18",
+        "A2-L4-0092-19",
+        "A2-L4-0092-20",
+        "A2-L4-0092-21",
+        "A2-L4-0092-22",
+        "A2-L4-0092-23",
+        "A2-L4-0092-24",
+        "A2-L4-0092-25",
+        "A2-L4-0092-26",
+        "A2-L4-0092-27",
+        "A2-L4-0092-28",
+        "A2-L4-0092-29",
+        "A2-L4-0092-30",
+        "A2-L4-0092-31",
+        "A2-L4-0092-32",
+        "A2-L4-0092-33",
+        "A2-L4-0092-34",
+        "A2-L4-0092-35",
+        "A2-L4-0092-36",
+        "A2-L4-0092-37",
+        "A2-L4-0092-38",
+        "A2-L4-0092-39",
+        "A2-L4-0092-40",
+        "A2-L4-0092-41",
+        "A2-L4-0092-42",
+        "A2-L4-0092-43",
+        "A2-L4-0092-44",
+        "A2-L4-0092-45",
+        "B2-L20-1170-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 318,
+      "nome": "0318_1_-_exemplo_principal.md",
+      "hash_bruto": "37bea9245ed36a6f801928a4799d804cef3a7b0c3472b41b1b36d439d15018ae",
+      "hash_normalizado": "8c94d949b48d94fb4dd833d4e5f644a90451cc1655c710f703064e4b2c991fd2",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1328,
+      "linhas": 83,
+      "paginas": 0,
+      "destinos": [
+        "A2-L8-0318-01",
+        "A2-L4-0090-06"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 440,
+      "nome": "0440_2_-_exemplo_secundário_01.md",
+      "hash_bruto": "d9bdb22e19a6cc5dda4f86648f66ef8ae6229ddb9a415969af2391db757418c4",
+      "hash_normalizado": "ed2dc08c8b45aa54ac92068044e0b7c41cda6cc9fdece5f6f9a20f90742079c3",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1012,
+      "linhas": 48,
+      "paginas": 0,
+      "destinos": [
+        "A2-L9-0440-01",
+        "A1-GRAM-0015"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 441,
+      "nome": "0441_2_-_exemplo_secundário_02.md",
+      "hash_bruto": "a0a7cb301e840b5f25edda00fdd35629411fcd48e2eb2c0337fc8d66a148181b",
+      "hash_normalizado": "3e61bf9f5a3bf6b2b47e43e24b5261151fd4e4f25fe9467d8981b0d5404dd2b9",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 920,
+      "linhas": 35,
+      "paginas": 0,
+      "destinos": [
+        "A2-L9-0441-01",
+        "A2-L9-0408-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 442,
+      "nome": "0442_2_-_exemplo_secundário_03.md",
+      "hash_bruto": "a0624291887202516be828a5f4ba6ada854e0af85449297bc3cef3defab11e90",
+      "hash_normalizado": "f6a177680c4048bf9a4b2bdcc2e06e0b8c9a7d251c7db9627dfd64109377f004",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1015,
+      "linhas": 36,
+      "paginas": 0,
+      "destinos": [
+        "A2-L9-0442-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 443,
+      "nome": "0443_2_-_exemplo_secundário_04.md",
+      "hash_bruto": "0d45e8d5e6d0ab0c19c652a5734a41ccc8f1ba779b896688bb235fd216786663",
+      "hash_normalizado": "38e462a151f85c2e75e0b5c06e847ef9d87dfd96a4a1f6b2569cbc5995303d6c",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1566,
+      "linhas": 58,
+      "paginas": 0,
+      "destinos": [
+        "B2-L9-0443-01",
+        "A2-L9-0440-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 464,
+      "nome": "0464_sequencia_aprendizado_s1_s27.md",
+      "hash_bruto": "458854f1474ee6e902dfef1e60cf36024bdc517a6256b4cfc9812de7d175f416",
+      "hash_normalizado": "9aec337621bb2efc7e7b7ab694e70fe550fca515fbcfad65094931a1e1f99e41",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 3343,
+      "linhas": 122,
+      "paginas": 0,
+      "destinos": [
+        "A2-L4-0088-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 491,
+      "nome": "0491_COMO_APRENDER_INGLÊS_(MAURO_VERGARA).md",
+      "hash_bruto": "615a17751942c7bb4174f933d72d3fc7ec72851dfc0af7ec11b3db6e1caba1f1",
+      "hash_normalizado": "5389c3658e66630d14884460ca284524276733ff5b5bb3124972586756efa1a9",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 195559,
+      "linhas": 3477,
+      "paginas": 63,
+      "destinos": [
+        "A2-L5-0117-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 492,
+      "nome": "0492_Como_aprender_inglês_de_maneira_natural.md",
+      "hash_bruto": "24408f6f82823f5446587ad6fd75170688fd5ba2c85acbaaba316e8c2c081d9e",
+      "hash_normalizado": "f37c2637964eef75c4dec5ebf4ae3d978966be22d597831583cd4cd54b39212b",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 38143,
+      "linhas": 1311,
+      "paginas": 52,
+      "destinos": [
+        "A1-L4-0070-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 494,
+      "nome": "0494_Como_não_aprender_Inglês_(_PDFDrive.com_).md",
+      "hash_bruto": "618b09a10bec7a34c7bb97f2dbf6ff8484e102fc4af987525a9eb612866d7637",
+      "hash_normalizado": "826475690ead87d0672e667ee83eb6dce12fd1cf46c8acfbb92c4f2fb6729f9a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 616158,
+      "linhas": 12043,
+      "paginas": 285,
+      "destinos": [
+        "B1-L10-0494-01",
+        "B1-L10-0494-02",
+        "B2-L10-0494-03",
+        "B2-L10-0494-04",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 527,
+      "nome": "0527_Guia_Prático_Para_Aprender_Inglês_-_Universidade_do_Inglês.md",
+      "hash_bruto": "77bbf454621799c7da1fb4745155ea753028fb4874a498346152db85476ad5bf",
+      "hash_normalizado": "b2af51fd656363caf3c2ddb32d03aee8be7401e94722e889cd97bb5b7ad3e1c0",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 260135,
+      "linhas": 5152,
+      "paginas": 162,
+      "destinos": [
+        "A1-L3-0041-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 554,
+      "nome": "0554_IMG_5716.md",
+      "hash_bruto": "a2475f02913cbab30731d6e2bd800cd4c3472d1eb8f1bdb6b0573b2d19662292",
+      "hash_normalizado": "7d033f5603da8215e07eec80e35bc81050954b5401357fdc02bec765a7b2c9a1",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 936,
+      "linhas": 34,
+      "paginas": 0,
+      "destinos": [
+        "B1-L3-0045-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 557,
+      "nome": "0557_input1a.md",
+      "hash_bruto": "e1b5eaf48c7542bd8ed739c2a9f79e7d168aef69bea82306974e81cca33b10b7",
+      "hash_normalizado": "8b99cc85536f1997733c9009937e0dd0e1da6daafdf0f3b838ee5cec8188394f",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 648,
+      "linhas": 19,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0559-01",
+        "A2-L4-0068-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 558,
+      "nome": "0558_input1a_S001.md",
+      "hash_bruto": "dda25bdb20e99412b4ad5539d986b9b68343e54efa299d5da3799aa29e156b61",
+      "hash_normalizado": "120c9260a8aaa6466a0afdabbab9faa42e8ee4a49663b1fd550a8a6fab13ea33",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0557",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B2-L3-0047-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 559,
+      "nome": "0559_input1aa.md",
+      "hash_bruto": "ade1f940715b2058d9f9518a4834f428c5f6f56fd3fac32fda1f50d18fa50238",
+      "hash_normalizado": "3b32e187be79c2044b294847ad31623c65b02aef23a1d1554e75bc7de7939c99",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1126,
+      "linhas": 33,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0559-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 560,
+      "nome": "0560_input1aa_S001.md",
+      "hash_bruto": "7e0876598a6f3ad4f323eb77854db42e45da5c0d13bcb9ca968b4bc9848dfe77",
+      "hash_normalizado": "e54172ff8b485f6e7dba464d4372688a46eae02bb0d33746f28c5068bf3eaf56",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0559",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 712,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 561,
+      "nome": "0561_input1b.md",
+      "hash_bruto": "59f2a20e08aaf9b8c3a930afe6168dd8e978efb9850e01ec89c5acd61e6c386c",
+      "hash_normalizado": "d12abda1f14f66fd7c8918f123a4fb2b0788958aeedd8c9f8431670724479786",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 665,
+      "linhas": 19,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0563-01",
+        "A2-L5-0130-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 562,
+      "nome": "0562_input1b_S001.md",
+      "hash_bruto": "ac9f8ddeeee760bbe60ea36a9c5396ffbdedafe9a8d45b25b358c93d9e4d8f28",
+      "hash_normalizado": "cb8c576141a8e03f71d5e153616a31267a585fcd17d698f0e4d05ac70e3796df",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0561",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "A1-GRAM-0021"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 563,
+      "nome": "0563_input1bb.md",
+      "hash_bruto": "3bbbac92df9a659bc3213a5e3a3b4ef883e6f3b7d6dace95b9300549d542dabb",
+      "hash_normalizado": "f768592948e9246d5e718e7c8acb540ff9890935b0f5fee9b32e19d3bee4d027",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1219,
+      "linhas": 34,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0563-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 564,
+      "nome": "0564_input1bb_S001.md",
+      "hash_bruto": "9ff47befee901a921911ff78c5d630b764edbb1e076585184c54cb21c72f2fc5",
+      "hash_normalizado": "83de4ee74578f7c9dbd9422971c08ca2c35d9d850ffed7112ef408eec252e7c6",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0563",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 712,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 565,
+      "nome": "0565_input1c.md",
+      "hash_bruto": "f13066097f762488607b1a3afd93fe908dadf4f04bbf38d9994fcf1318a1b503",
+      "hash_normalizado": "b1e5f25d6349fc687893456a0b327f823b0cb754cc6d2caeb9f610915945f69a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 654,
+      "linhas": 19,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0567-01",
+        "B1-L4-0072-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 566,
+      "nome": "0566_input1c_S001.md",
+      "hash_bruto": "7c7d7f9236bbb574579c204dcf793fe506c1f51f4ef7e02097d52f43e5f07a83",
+      "hash_normalizado": "e41f8f6fbef1b888548905c4277b7b102a8ce20bcbaaff38cf9763616d329be2",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0565",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "A2-L11-0505-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 567,
+      "nome": "0567_input1cc.md",
+      "hash_bruto": "b6ec30ff8bbcc8611b2f330e5286812e4fbf91de060ed6883da5ee38887182d9",
+      "hash_normalizado": "48ce716d3fdc4b9aad506e7015eea65e376d6b0b097c0647b41b78cc2752e1a9",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1118,
+      "linhas": 33,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0567-01",
+        "A1-L4-0070-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 568,
+      "nome": "0568_input1cc_S001.md",
+      "hash_bruto": "609aa3ba542654609622ac61f43a0c523b62137de17804c7787f354739a319d7",
+      "hash_normalizado": "43d82a33ddd65aa2c017c125db16441c5eb85a7538320a88561fc4d1d4fe5443",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0567",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 712,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 569,
+      "nome": "0569_input1d.md",
+      "hash_bruto": "4092170035bd9b0778306a513050bc3a1d5413cb5acb0b70d94b94276e61fa22",
+      "hash_normalizado": "32cc4b13e706b06fcf6ad5b7eb98fa2b1f88165ee87cfeefbe38b3786948586a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 625,
+      "linhas": 20,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0571-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 570,
+      "nome": "0570_input1d_S001.md",
+      "hash_bruto": "06240aaf1c616002f9a30779ee32f92cd409d459aaec860d1d24a9969b6562a8",
+      "hash_normalizado": "941ae5dd9cda58668a15a2fcedab92cf5342c673ee27ef7c4d37418524dab08d",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0569",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 819,
+      "linhas": 18,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 571,
+      "nome": "0571_input1dd.md",
+      "hash_bruto": "b2781b62db823f71eae6bc0e9bb26b190107bb986d1fdced1b15ec224c7e96f6",
+      "hash_normalizado": "55b20dfbf7b6f3ef1bd97ecbac0f4977dee113cbb2872e11974e93f376ca2c98",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1224,
+      "linhas": 33,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0571-01",
+        "A2-L4-0070-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 572,
+      "nome": "0572_input1dd_S001.md",
+      "hash_bruto": "c4c59fd58d4b5edf8eabf2f18f5b65faa243eca8499b39df82f21a0d157db451",
+      "hash_normalizado": "7b15e41c0c9d9b1b737b683f282a9cafe880abcb70fae5094e186081149a40b6",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0571",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 712,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "A2-L4-0082-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 573,
+      "nome": "0573_input1e.md",
+      "hash_bruto": "082c3c7673729f2a585f8074abb9027fe05a464e3f1df29fb087894615a61ba5",
+      "hash_normalizado": "b13bf7540d252466686b2b5330e9e136ac2d7618cd8ee5c4573fc75f79bd2a66",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 653,
+      "linhas": 19,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0575-01",
+        "A2-L4-0090-06"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 574,
+      "nome": "0574_input1e_S001.md",
+      "hash_bruto": "0d6d3224752bd3c5f94bb85fa7af19eb5406019564e73f99e79b2bdd9ec16485",
+      "hash_normalizado": "f7ad7b49239fdbc8395f2d7893b9ab9288ece48abd61a4cd9bdba5e1f639126a",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0573",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "A2-L3-0060-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 575,
+      "nome": "0575_input1ee.md",
+      "hash_bruto": "06600ac9c126c6c9c39efd6fcc40c9db35188573555c85866000506b28c88170",
+      "hash_normalizado": "cad99260ec02d74319e88ada9c3ce80ea6bbfe3289233ce6b8c8b9e13bd65db4",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1064,
+      "linhas": 33,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0575-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 576,
+      "nome": "0576_input1ee_S001.md",
+      "hash_bruto": "f0a4fe97956726655177360796a5e552d26d5b952650fd1ab2a709a1fa6bf0f7",
+      "hash_normalizado": "abb15d5f75dc46b6faa17d588f2bfd85fe238b7350dea328ec222a9ea193c6a9",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0575",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 712,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 577,
+      "nome": "0577_input2a.md",
+      "hash_bruto": "4c490168cbdcd59d4b0ad4b7f3dc9b9b26f61543ae5c720378924b1eda65913d",
+      "hash_normalizado": "96125c355b61c29ddf1a6e8b76f43badea9acf8ac461445017b56cda26b3853f",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1571,
+      "linhas": 58,
+      "paginas": 0,
+      "destinos": [
+        "B1-L12-0577-01",
+        "B2-L3-0045-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 578,
+      "nome": "0578_input2a_S001.md",
+      "hash_bruto": "89171d1049db4dd507d53e7cde264a32c5032b02da02905227e066592ce6c737",
+      "hash_normalizado": "99a48a2e555f7e806812672df586de2b7252a1e6c69e7a28050f84757b61dfd8",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0577",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-0070-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 579,
+      "nome": "0579_input2b.md",
+      "hash_bruto": "654aa57873dad6a9ee79e597b3f47c78b1c18844e23832fb3d1511ebf7813422",
+      "hash_normalizado": "fd457378936ba82cc689da6ee2336530919deef93decb5155538a12490013644",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1536,
+      "linhas": 61,
+      "paginas": 0,
+      "destinos": [
+        "A2-L12-0579-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 580,
+      "nome": "0580_input2b_S001.md",
+      "hash_bruto": "2581d724ee874353a6f11ae6216694ba22acc7a11ef8705a331e122528ae4673",
+      "hash_normalizado": "9d0001744a0c45ba8e2d32c6347216c1fcb76479125313b484422fc077fad718",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0579",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "A1-L3-0060-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 581,
+      "nome": "0581_input2c.md",
+      "hash_bruto": "a6c18a95b94405ae0912f3ae7d7ba2293879343997a2317ad42487ca0fca6372",
+      "hash_normalizado": "09383ab12a848e720c20267c9ab45c335dd44ea9ddef0c41f5152d706bb57328",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1789,
+      "linhas": 61,
+      "paginas": 0,
+      "destinos": [
+        "B1-L12-0581-01",
+        "B1-L6-0230-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 582,
+      "nome": "0582_input2c_S001.md",
+      "hash_bruto": "04635b58a12ac96af09bd724fa19bd293a033960704e8c92c5984fa8a2755cbe",
+      "hash_normalizado": "b8e3343b83fe1ca37dc0ed81a4a865e365544bcab6ea9832dcc99cfee3754564",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0581",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 583,
+      "nome": "0583_input3a.md",
+      "hash_bruto": "b842ce4ec2ce544ae126817af62ee713ecfa45696accc2454e2e3b5cf7e32c0b",
+      "hash_normalizado": "c3c9064c8157ea790264e844362061345e7ffb7a7f3d58190d2233cfbaf4fe38",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1506,
+      "linhas": 138,
+      "paginas": 0,
+      "destinos": [
+        "A2-L9-0440-01",
+        "B1-L3-0058-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 584,
+      "nome": "0584_input3a_S001.md",
+      "hash_bruto": "0db16962a0b844e1ffd3ba267cca7c93b0c333f7249e70721aaaa22509c16d9b",
+      "hash_normalizado": "99886fa64f525c362dd819f77dcd15856c279a0c19245418da0b286c522e481e",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0583",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 585,
+      "nome": "0585_input3b.md",
+      "hash_bruto": "9a86d137a25b88f493a0f000c8a7d244ac27e39164655fde1657a54c8ab84173",
+      "hash_normalizado": "c5c856f710b6fd2846afca87afb8572f80c0036b59b8aad3f4acf4431bfd60db",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1515,
+      "linhas": 139,
+      "paginas": 0,
+      "destinos": [
+        "A2-L9-0440-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 586,
+      "nome": "0586_input3b_S001.md",
+      "hash_bruto": "199e1119d662b82b6abc8d0d538726dd3299d9b0fb36b3fc64eccf62c0cf1305",
+      "hash_normalizado": "9e51f2b440ee1b8760ece6eb0be4d38a554e92bb54382c3cf17e867486324065",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0585",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 587,
+      "nome": "0587_input3c.md",
+      "hash_bruto": "0e7d535cb63d448c85ba809ad9f5f738c5bcc224f939f2ab2038784dc6977c87",
+      "hash_normalizado": "1ffb24731480f44f818cef95edb6c76287eeb899bd03584f20b17eb52ce68751",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1536,
+      "linhas": 139,
+      "paginas": 0,
+      "destinos": [
+        "A2-L9-0440-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 588,
+      "nome": "0588_input3c_S001.md",
+      "hash_bruto": "e10a3d98c44640de6fc5c2312feb1d5df70e53083439eb2f2954c3b553b85c8c",
+      "hash_normalizado": "18506d34da211a63e7011df77056887bb37a9d5bdb2fe9c44550943758c91d83",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0587",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 589,
+      "nome": "0589_input4a.md",
+      "hash_bruto": "6aa2d9ed3c90239b8c77ebb5029be5cbd879fbb7ecd570280309111594432db8",
+      "hash_normalizado": "1ed72349d5b6868e0a575271f25b0d6933afac1b406a57ee5a191de351a9c304",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 905,
+      "linhas": 30,
+      "paginas": 0,
+      "destinos": [
+        "B1-L12-0589-01",
+        "A2-L11-1336-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 590,
+      "nome": "0590_input4a_S001.md",
+      "hash_bruto": "ba6bf20bfbb0af2f6fee48246a8db3515162c65c59ba6e9abff4b0c938b09226",
+      "hash_normalizado": "a9cdd3d275d8e590d547c175794279ad7848970993ab0552625dd721b780f58a",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0589",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L8-0321-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 591,
+      "nome": "0591_input4b.md",
+      "hash_bruto": "db17b3580daf391d61b5aea6c0edc776893c30afee8d98c31fd7633b9687d499",
+      "hash_normalizado": "5e596007ac2bf93b6f3093e6f1b5f40f6198e2a742ecc5915529119fba1fc54c",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 952,
+      "linhas": 30,
+      "paginas": 0,
+      "destinos": [
+        "B1-L12-0589-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 592,
+      "nome": "0592_input4b_S001.md",
+      "hash_bruto": "f04ed6688cda82bab5a1eeb984c141599b4ca790049261b849be02cbbe71de85",
+      "hash_normalizado": "6b54480deee345a0378407f820224df98b1ef534f37a4099fa6e7612f3d2d790",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0591",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 593,
+      "nome": "0593_input4c.md",
+      "hash_bruto": "cd71374f5712db5a53ee2cf3deae23954065682913a6892a4d642b1b31cc5953",
+      "hash_normalizado": "1cb038c2aff12d14d4e7cbbc8e2a30ab86f2407357fe0686d45f9642a4116733",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 939,
+      "linhas": 28,
+      "paginas": 0,
+      "destinos": [
+        "B1-L12-0589-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 594,
+      "nome": "0594_input4c_S001.md",
+      "hash_bruto": "eaf54eb468441a5ab895ed570329c805508593e52dcc36a676f25478ffda8c19",
+      "hash_normalizado": "a166fd1a6f087f7e36e663841c41284d2a5cbc115091254657a0321e2195746c",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0593",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "A2-L11-1336-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 595,
+      "nome": "0595_input4d.md",
+      "hash_bruto": "d94be4e2fa0c24711d55e58373b223bde3ca9047df5bd72c97b18092924841cf",
+      "hash_normalizado": "cd09c725fe594602ef120ffb2f1dbfa56069e0591c032022171b8c921f3f359a",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 718,
+      "linhas": 22,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 596,
+      "nome": "0596_input4d_S001.md",
+      "hash_bruto": "93ad1437228875ee19c35c0ea6e7aa3be83556d4fefdc4a68d2278db0dbc71f9",
+      "hash_normalizado": "769ceb823ac1e280cea080293f35ccad30914e16805ead9d4f9810c9b0a49be5",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0595",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 707,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 608,
+      "nome": "0608_lista_verbos.md",
+      "hash_bruto": "31056c11f80868f22413b787724831c3aa6e1ac998dcc61f04ec8ca4f5172b87",
+      "hash_normalizado": "ecab750813752fe5466ae8f4695cb7c8fb816debddfa72bb26c62bf3eb4acb0d",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1355,
+      "linhas": 93,
+      "paginas": 0,
+      "destinos": [
+        "A2-L4-0086-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 609,
+      "nome": "0609_lista_verbos_S001.md",
+      "hash_bruto": "5f8f1fe9df9a08204b7bd5ddf0f08cf66e4703ece0c5a4eb56dd1f473a3ee4e2",
+      "hash_normalizado": "d363fee49046dc031dbe28d2c3f96a49f32d7a8dc1bd87191a5cf57d8583ce0a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 2392,
+      "linhas": 118,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-0070-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 611,
+      "nome": "0611_Livro_Memorização_para_aprender_idiomas_-_Marcos_da_Costa_Gois-1.md",
+      "hash_bruto": "d66cfc7a291814488fd781019ee93a70703f8055aed5125bcd08c963e4b92377",
+      "hash_normalizado": "62404869c846671d0fde06ca96766fc08a57e4e39759b9e8eca43c6b931c77cd",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 260597,
+      "linhas": 4469,
+      "paginas": 121,
+      "destinos": [
+        "A2-L4-0110-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 624,
+      "nome": "0624_O_Guia_definitivo_para_aprender_inglês_mais_rápido.md",
+      "hash_bruto": "083c13dea151abce688e73cfff1d0ca9087b7c187219bace84f481b37775055f",
+      "hash_normalizado": "8605a00075387e573f9690174fa33c5f72460006040639b3d4228e0d217e912c",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 16356,
+      "linhas": 582,
+      "paginas": 23,
+      "destinos": [
+        "A2-L8-0326-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 639,
+      "nome": "0639_proverbio.md",
+      "hash_bruto": "bbb9e210e1190ad556532058acf520103bb34de5d9cf92bb10222c87e8e011cd",
+      "hash_normalizado": "be7f94ac603da3ead466c7a30c0110c3d84b18eb204c30997970035e75b1749c",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1553,
+      "linhas": 85,
+      "paginas": 0,
+      "destinos": [
+        "B2-L3-0047-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 811,
+      "nome": "0811_Segredo_da_Fluência_-_Como_aprender_Inglês_com_Música_-_Leonardo_de_Mello_(2016).md",
+      "hash_bruto": "3e0a6bdf305f3763c84c91acc72ecabafe3c9456cfc021fd0fd22271588c55fa",
+      "hash_normalizado": "00c309e97c9f83dace073ecd9f34d3d2164283e0a5d0406b1df3192c62c2b0a1",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 196790,
+      "linhas": 7812,
+      "paginas": 201,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 814,
+      "nome": "0814_sequencia_aprendizado_s1_s27_2.md",
+      "hash_bruto": "905d9d61681ecfd66480502feb3d8f3c4edf0f0c9158e6a4a4a850432634acfb",
+      "hash_normalizado": "a61923b384f7802571efdf72ebd5ab64a8bd89ddeb74d63c2c679e183448bea8",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "0464",
+      "validacao_duplicidade": "hash do original idêntico; Markdown duplicado é marcador sanitizado",
+      "tamanho_bytes": 795,
+      "linhas": 17,
+      "paginas": 0,
+      "destinos": [
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 817,
+      "nome": "0817_Short_Stories_in_English_for_Beginners.md",
+      "hash_bruto": "175845575fe0f3eeba3f4782903a90a8d3ca0eeeec70dc5b90276e15a251edd3",
+      "hash_normalizado": "ea75662352c5ac7b541a808dc2f509c51cb16974078573a27dbbe92aaf81091a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 819767,
+      "linhas": 15252,
+      "paginas": 305,
+      "destinos": [
+        "B1-L15-0817-01",
+        "A2-L4-0068-03"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 882,
+      "nome": "0882_02_Everything_You_Need_to_Ace_English_Language_Arts_in_One_Big_Fat_Notebook,_2nd_Edition_2.md",
+      "hash_bruto": "57c66e20dcd132a4c1ced69b786aab113a10a8b5fcb773e551801a45d375e1f8",
+      "hash_normalizado": "81a3622ce1fabec1f8497c55f836036abc3d97435e0b0d15cd3e1d4d83d1cc18",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 521972,
+      "linhas": 14846,
+      "paginas": 511,
+      "destinos": [
+        "B1-L16-0881-01",
+        "B2-L16-0881-02",
+        "C1-L16-0881-03",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 887,
+      "nome": "0887_06_Grammar_And_Usage_For_Better_Writing.md",
+      "hash_bruto": "6190a1066f554c6224c175d93cb234b1cd905203cd42ff92a0165141a99480d7",
+      "hash_normalizado": "7691892ad8e7a0c07c1951da7ed9eb2217be2ee97e95a4761341aa4c6727108a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR",
+        "antecipada"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 411756,
+      "linhas": 12128,
+      "paginas": 267,
+      "destinos": [
+        "B1-L15-0887-01",
+        "B1-L20-1170-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 888,
+      "nome": "0888_07_The_Infographic_Guide_to_Grammar.md",
+      "hash_bruto": "3f73c92b11f41d776d9aac135d6b2b7edf419dcdc1b7c202bdc37222c0c6c07e",
+      "hash_normalizado": "816213838841c9898f99c5c8c0fccd39cb4979ad5311684f8adcb3eefdf03a73",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 156949,
+      "linhas": 5329,
+      "paginas": 123,
+      "destinos": [
+        "A2-L3-0066-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 897,
+      "nome": "0897_Cap_01.md",
+      "hash_bruto": "8bbfabc60d1f469a04664bb828c6a784ee42b40789ac2fab839a124762195114",
+      "hash_normalizado": "4041e7a603cf708a570ea9f3e11c05873b83d83bf0e16955f6bbcbcce928d154",
+      "estado_principal": "sem conteúdo didático",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1501,
+      "linhas": 83,
+      "paginas": 0,
+      "destinos": [
+        "A2-L9-0416-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1194,
+      "nome": "1194_04_English_for_Everyone_Practice_Book_Level_1_Beginner_A_Complete_Self-Study_Program.md",
+      "hash_bruto": "1d74415187c35ad8f45d23b099b0d24071609a76faba03a9ece522fd84f9bb57",
+      "hash_normalizado": "4aeb161b51c8abd20e4379e4fb0dbad5393a2fae320f6219eab4c4be54b42ed1",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 130330,
+      "linhas": 5761,
+      "paginas": 176,
+      "destinos": [
+        "A2-L11-1336-01",
+        "A2-GRAM-0005",
+        "A1-L3-0035-01",
+        "A1-L4-0070-01",
+        "B1-L5-0164-01",
+        "B1-L8-0334-02",
+        "B1-L3-0063-01",
+        "A1-L5-0168-03",
+        "A2-L9-0416-01",
+        "A1-L8-0354-01",
+        "A2-L7-0300-02",
+        "A2-L4-0111-01",
+        "A2-L9-0444-01",
+        "A2-L8-0334-01",
+        "A2-L3-0066-02",
+        "A2-L4-0102-02",
+        "A1-L4-0102-01",
+        "A2-GRAM-0012",
+        "A2-L9-0432-01",
+        "A2-L9-0434-01",
+        "A1-L8-0362-01",
+        "B1-L8-0324-01",
+        "A2-L5-0138-01",
+        "B2-L10-1388-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1196,
+      "nome": "1196_05_English_for_Everyone_Practice_Book_Level_2_Beginner_A_Complete_Self-Study_Program.md",
+      "hash_bruto": "67c5e3bead0cf8ae248b465a6119a5281eb570173556974660b2108f9716efbd",
+      "hash_normalizado": "90d722900a21aec39d6e21cef171431db77079f886f00cc85f0eb99338cf5791",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 189557,
+      "linhas": 6799,
+      "paginas": 184,
+      "destinos": [
+        "B1-L5-0164-01",
+        "A2-L9-0416-01",
+        "A2-L11-1336-01",
+        "B1-L8-0368-01",
+        "A2-L8-0388-01",
+        "A1-L4-0070-01",
+        "B2-L10-1388-01",
+        "A1-GRAM-0014",
+        "A2-L4-0088-01",
+        "B2-L7-0308-01",
+        "A2-L4-0111-01",
+        "A2-L5-0169-01",
+        "A2-L5-0157-01",
+        "B1-L15-0831-01",
+        "A1-L8-0336-01",
+        "A2-L9-0440-01",
+        "B2-L6-0188-02",
+        "A2-L5-0132-01",
+        "B1-L9-0432-01",
+        "B1-L4-0080-02",
+        "A2-L10-1378-01",
+        "A1-L3-0035-01",
+        "A2-L4-0082-02",
+        "B1-L8-0321-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1202,
+      "nome": "1202_01_American_English_Pronunciation_Rachels.md",
+      "hash_bruto": "9392519fc777e3c6c1f83fd62cbd1d4f6e97ca43fa5ab5f51c4d08a2c604ff97",
+      "hash_normalizado": "88841e8dee914b11759e445ea521fc3e62ad7e3920943744e7fc7bb4d7bc2cd5",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR",
+        "antecipada"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 429884,
+      "linhas": 11562,
+      "paginas": 290,
+      "destinos": [
+        "B2-L11-1202-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1205,
+      "nome": "1205_2E6834F9-E31A-4992-8A29-F6622BD1EBED.md",
+      "hash_bruto": "34d44feba27e3250f03ca8ed0666c5e7f80a7af5f00c1758fcad08b002ba43e5",
+      "hash_normalizado": "a0cbb98d7e59dab8648cdd194fb7027b7882b974d61b1669f2b813c695b897b2",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 850,
+      "linhas": 21,
+      "paginas": 0,
+      "destinos": [
+        "B1-L3-0055-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1206,
+      "nome": "1206_3314942F-07CF-487C-9C83-707A4EB8B493.md",
+      "hash_bruto": "e8e1cb1b661528abfea96ed4d00769ba7a0e5e8ac9f2986dc49ba5d293fc20c3",
+      "hash_normalizado": "6b78c6f2874317500bc03b1988ee4d54835956152e6ea7128ba3e0d69a1e396f",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 840,
+      "linhas": 21,
+      "paginas": 0,
+      "destinos": [
+        "B1-L6-0230-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1207,
+      "nome": "1207_3771AE3B-8F5A-4D88-88E2-A8766F3E8FFC.md",
+      "hash_bruto": "3d083eb76199536088bf57cb67d03fb50742c395d1690e8d7026b1f996caf298",
+      "hash_normalizado": "b17dce8c4670296cd20394aa0a0f150e070bf0774628b5bb6a7cc92c241a03a2",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 829,
+      "linhas": 21,
+      "paginas": 0,
+      "destinos": [
+        "B1-L5-0164-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1208,
+      "nome": "1208_5BF22F4E-00A0-4208-BD32-7304A40F8BAF.md",
+      "hash_bruto": "e82b6b3669409f7d79204c5db3b225414746e75ae1cd9812e887de9cabc868d2",
+      "hash_normalizado": "3ddf323b3c2a92d8b32a85a73c5ccbdcdf781b71a392b8248e7cc8557581c73e",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 852,
+      "linhas": 22,
+      "paginas": 0,
+      "destinos": [
+        "B1-L5-0164-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1209,
+      "nome": "1209_5E10C803-A29D-47EF-9925-F11EB874201E.md",
+      "hash_bruto": "fa2f4c03eadc0cf2886f53d556bd8a03e9aced508465e8eb8f4690ab2668d81c",
+      "hash_normalizado": "ac2b4742e8822b4fd4f755df9cf7b7088a19e9b23d633c134ce0554cc615c824",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 840,
+      "linhas": 21,
+      "paginas": 0,
+      "destinos": [
+        "B1-L5-0164-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1210,
+      "nome": "1210_820B6A28-0D00-414B-9AC3-DFBE93D13F4E.md",
+      "hash_bruto": "8869fb9a56b9adceca47b8a9b9817ba0f33aa67fb4e6dd27b787612c64af00e5",
+      "hash_normalizado": "1ac5da33cc2f3356efb5e056967f2481a41ea7a93fb0af90360ee937da65bba0",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 846,
+      "linhas": 21,
+      "paginas": 0,
+      "destinos": [
+        "A2-VERB-0001"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1211,
+      "nome": "1211_A513BBF1-660F-425A-89DF-128DF888FE65.md",
+      "hash_bruto": "92adc38f25c1da4a1a543afeb491fbb6b1cb36b3cb438a24ae67559716390274",
+      "hash_normalizado": "9fbd4e39237743ce24e92ea527bdf95df3d63bb6b74f78d636363e033b7ecf7d",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 847,
+      "linhas": 22,
+      "paginas": 0,
+      "destinos": [
+        "B1-L5-0164-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1212,
+      "nome": "1212_C403A60B-9EDA-4826-B134-DFDE49801CA7.md",
+      "hash_bruto": "e54f9b13e5d0b883b301d9785d7fbf2fe520215504f9b924e4f91d6ea98a0b25",
+      "hash_normalizado": "ddcf28dfc9fe127c747661948196402795bc25d419e9fa0c30a917052bee09a3",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 827,
+      "linhas": 21,
+      "paginas": 0,
+      "destinos": [
+        "B1-L5-0164-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1213,
+      "nome": "1213_E29CFFA1-923C-4363-9DBF-C2D88DC28A01.md",
+      "hash_bruto": "4d7d149a76b71462586aa7fb66008700566abfe164db6e5a819a9069a9c85356",
+      "hash_normalizado": "bc8ebc32698a7f3ee4336597a1d5da8a952b957420f1d24fa23cb3a228b6aa98",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 857,
+      "linhas": 22,
+      "paginas": 0,
+      "destinos": [
+        "B1-L5-0144-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1299,
+      "nome": "1299_English_Tenses_Table.md",
+      "hash_bruto": "faff728b19d5345c9b1833ece69b39272ddb8361615924847bf58ddb755177bd",
+      "hash_normalizado": "04fe0bb6b4f7f4518d9c8785e5833408254c2f3a9519a7bab4b1bd2a45058b9a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1164,
+      "linhas": 88,
+      "paginas": 0,
+      "destinos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1300,
+      "nome": "1300_Sistema_09_—_3_tempos_003.md",
+      "hash_bruto": "445f25ebc74193129e014b04fd40012ffcc0b6cf04aa650d4239419779d30b80",
+      "hash_normalizado": "ded20fa8306aa04c355c3de8ce8cfaf3185f5912134bc47f2a2adeacf962cf3e",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1695,
+      "linhas": 117,
+      "paginas": 0,
+      "destinos": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1326,
+      "nome": "1326_pilar3-padroes.md",
+      "hash_bruto": "8842ef15e8d67b65d4e283da3d0575f15e9a7a78285689e168e8afba125bb69d",
+      "hash_normalizado": "41591e1a210eb4b9728fdf9aaf6cc4560e2cdfcb74e8b504ec7a84e864d6fe3b",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 8675,
+      "linhas": 325,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1454,
+      "nome": "1454_livro07_2.md",
+      "hash_bruto": "b442dcaafa2924e1c60497eaabcf6fe5275fa87d31c7ffb702bb083c5e00519d",
+      "hash_normalizado": "c40c221f71ec628e1d383d297dc5a2a0ecf58460137319ee9748f197f28794d8",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "curadoria derivada",
+        "fonte curta",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 65846,
+      "linhas": 1662,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A2-L10-1314-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1463,
+      "nome": "1463_04_Grammar_and_Vocabulary_for_Cambridge_Advanced_and_Proficiency.md",
+      "hash_bruto": "253976bd8fdd7b1b01c1538a5d0103b1797352ff6e307fc49d05e8cccf918491",
+      "hash_normalizado": "4617c9d60387ba68ddbb1fefe613ff9c00d745da05b075a6eb6d7f076eb4245e",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1483795,
+      "linhas": 15547,
+      "paginas": 287,
+      "destinos": [
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L12-1435-01",
+        "C1-L15-1460-01",
+        "C1-L12-1408-01",
+        "C1-L13-1443-01",
+        "C1-L14-1396-01",
+        "C1-L16-0881-03",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "C2-L13-1468-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1465,
+      "nome": "1465_05_Close-up_-_2nd_-_C1_Workbook.md",
+      "hash_bruto": "87ba373c11744af7fdfa49d3c09ca61669f5ca09e296bdf333b5f581a9338f4b",
+      "hash_normalizado": "e93214d531d9747d19a7ee7fda20bec452db88c0c928b26b63d014ef54e11771",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 529139,
+      "linhas": 10962,
+      "paginas": 193,
+      "destinos": [
+        "C1-L12-1435-01",
+        "C1-L16-0881-03",
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L15-1460-01",
+        "C1-L13-1443-01",
+        "C1-L14-1396-01",
+        "C2-L13-1468-01",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "C1-L12-1408-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1466,
+      "nome": "1466_05_Close-up_-_2nd_-_C1_Workbook_2.md",
+      "hash_bruto": "9a33728845acb67592f36ca167e8b242a434552c83e9e4511204894e8eeaa9e0",
+      "hash_normalizado": "e93214d531d9747d19a7ee7fda20bec452db88c0c928b26b63d014ef54e11771",
+      "estado_principal": "duplicata integral",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR",
+        "conteúdo previamente incorporado"
+      ],
+      "canonica_relacionada": "1465",
+      "validacao_duplicidade": "corpo normalizado idêntico",
+      "tamanho_bytes": 529140,
+      "linhas": 10962,
+      "paginas": 193,
+      "destinos": [],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1467,
+      "nome": "1467_05_New_English_File_-_Advanced_Level._Student's_Book.md",
+      "hash_bruto": "f1c138490b89cf1e4f2170dd8085217f83fd3eca01fec95a63b4fe92bac53a7e",
+      "hash_normalizado": "266c815732cd858103e1882cd26515c0bec9d718b22672bae6d8061b235c46c7",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 606688,
+      "linhas": 17741,
+      "paginas": 171,
+      "destinos": [
+        "C1-L12-1435-01",
+        "C1-L16-0881-03",
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L13-1445-01",
+        "C2-L14-1462-01",
+        "C1-L15-1460-01",
+        "C1-L13-1443-01",
+        "C1-L14-1396-01",
+        "C1-L12-1408-01",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "C2-L13-1468-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1520,
+      "nome": "1520_Captura_de_tela_2026-08-05_094507.md",
+      "hash_bruto": "04933990250ab066304034074728f3f9502f06a51ca366d9b3125a3ac66cc2e6",
+      "hash_normalizado": "d53128f2e8d36b2e1b46dec9babf23b3e330be83180b2288e609f14e44396e79",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1787,
+      "linhas": 34,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1521,
+      "nome": "1521_IMG_7151.md",
+      "hash_bruto": "63e4b58a5a6e55cde5e016566fec6d362fc24dca0da376ba3e61e229a1080fc0",
+      "hash_normalizado": "cb669433edeb976d16e36631153b04f36eaeac6dbccee4bfb9f6eab9e6d57777",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1593,
+      "linhas": 99,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A1-L4-1521-03",
+        "A2-L4-1521-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1522,
+      "nome": "1522_IMG_7152.md",
+      "hash_bruto": "a649a02b908e3f7fb177db19e28fc0b2f688b35a0e103d0d0af564dd8c934f0d",
+      "hash_normalizado": "6fd34bd81ba9306b4ecc7ac29e7a41cdb82fd4e4388e81ac9a48aba66f7587c7",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1770,
+      "linhas": 105,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1523,
+      "nome": "1523_IMG_7153.md",
+      "hash_bruto": "01eb27141fc9e38899e321990e4361910bb104f0b4ba3c41af44136fffc8eaa0",
+      "hash_normalizado": "18d64838d7d617706b9ee52f5ad4bdf1fb77e7176ef8be7dfb905c3412241b45",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1151,
+      "linhas": 55,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1524,
+      "nome": "1524_IMG_7154.md",
+      "hash_bruto": "e26f83a80fddd64ab50f9c1c94f0121ee3740fa33f86838e2845fe3f8c0b4d0f",
+      "hash_normalizado": "fa04f93c0fbcf626462380c8890a5c3b047ced052c8000bc7cf6194092df86a1",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1269,
+      "linhas": 68,
+      "paginas": 0,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1525,
+      "nome": "1525_IMG_7155.md",
+      "hash_bruto": "fd0ed1d5fbe1af47fe4e2139c24316ea3a66b64d65a34e0c4ee1954e0381407d",
+      "hash_normalizado": "ae7f6247e0884060c0a099cc375642db87447c036998e1958206365c698bbee4",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "extração de imagem",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 1203,
+      "linhas": 60,
+      "paginas": 0,
+      "destinos": [
+        "B1-L12-0581-01",
+        "B2-L6-0188-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1540,
+      "nome": "1540_Amy_Gillett-Speak_English_Like_An_American.md",
+      "hash_bruto": "520c24d5b38a4762f2750e9d9254b5c0e07097429612111460acd7849e714189",
+      "hash_normalizado": "961481f0dd202052d6871ea0fb6bad574336c1621afaa7f8182eee5dc57c600e",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 189194,
+      "linhas": 6006,
+      "paginas": 175,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1541,
+      "nome": "1541_English_Fluency_for_Advanced_English_Speaker_(Whitney_Nelson).md",
+      "hash_bruto": "655d7da4d805044506900fc1c007d2910366f8d1ae1729a82e6117f3eb0dd170",
+      "hash_normalizado": "3a8f294faaf62c7ea5dddcaaf8bcc2034b59c8fb8244624da250baa04a59ec09",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte média",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 125860,
+      "linhas": 4532,
+      "paginas": 241,
+      "destinos": [
+        "C1-L12-1435-01",
+        "C1-L16-0881-03",
+        "C1-L12-1439-01",
+        "C2-L12-1437-01",
+        "C1-L12-1408-01",
+        "C1-L13-1443-01",
+        "C1-L14-1396-01",
+        "C1-L15-1460-01",
+        "C2-L13-1445-01",
+        "C1-L12-1433-01",
+        "C1-L15-1458-01",
+        "C2-L14-1462-01",
+        "C2-L13-1468-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1542,
+      "nome": "1542_How_to_improve_English_speak_in_7_days.md",
+      "hash_bruto": "aa7c52ab3716eedd79a6a442fdbc3c9cdd9487b52029d9d6db0aef79dbe3a464",
+      "hash_normalizado": "35f49743c5f59a66fc1c5fb2632ecd8f7f90d63f6e3e3845101bea068efc7b5a",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 47873,
+      "linhas": 1656,
+      "paginas": 32,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1543,
+      "nome": "1543_how_to_speak_english_fluently_(Janet_Gerber).md",
+      "hash_bruto": "fd526f349c3b134398d15e4dd31a20141fdb4977564202594a8bb8f3b4bfd5ae",
+      "hash_normalizado": "d70325f79a0623a9cbe9c00554c1cdea0676e2ba7a6edab27a6ae82e688a96f5",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 67938,
+      "linhas": 2479,
+      "paginas": 129,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01",
+        "A2-L8-0388-01",
+        "B2-L6-0188-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1544,
+      "nome": "1544_How_to_Speak_English_Fluently_(Yogesh_Verman).md",
+      "hash_bruto": "7c68be8fdea2570f52745552a5999f5a94a7636d7d555bf8813834cfa7cc58f7",
+      "hash_normalizado": "31342f699413540ed069ec2e1fc4564a494ac3de35f8a64b2dc85632015491b3",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte média",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 106419,
+      "linhas": 4967,
+      "paginas": 245,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1545,
+      "nome": "1545_Student's_book_-_Basic_English_for_workplace_comunication.md",
+      "hash_bruto": "5e53bc768467b003b952d8f2816f6cc70be6b0b46ced9e3024f59ee46283c6f2",
+      "hash_normalizado": "b913c81b70e1281e0625d6eb6dd13051ca6acc432b9fc15a662753322ae39cdb",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "livro extenso",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 197206,
+      "linhas": 5669,
+      "paginas": 149,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    },
+    {
+      "numero": 1546,
+      "nome": "1546_The_English_Fluency_Formula.md",
+      "hash_bruto": "836583ee839e7c950e6a367f6fadc5e06dc88dcc36d78228ee4512653594a122",
+      "hash_normalizado": "8a8dd739c4a4460633f5c8e1c9fd5dea35b7db66eea159e061d9665f17c5d8dc",
+      "estado_principal": "integralmente classificada",
+      "caracteristicas": [
+        "fonte curta",
+        "OCR"
+      ],
+      "canonica_relacionada": null,
+      "validacao_duplicidade": null,
+      "tamanho_bytes": 76872,
+      "linhas": 4138,
+      "paginas": 124,
+      "destinos": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01"
+      ],
+      "conteudo_util_sem_destino": 0,
+      "u_fffd": 0,
+      "cid": 0
+    }
+  ],
+  "com_u_fffd": [],
+  "com_cid": []
+}
