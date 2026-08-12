@@ -1,0 +1,28 @@
+{
+  "lote": "046",
+  "intervalo": [
+    1234
+  ],
+  "sequenciais": [
+    {
+      "numero": 1234,
+      "nome": "1234_03_American_English_File_3_-_Student_Book_With_Online_Practice_-_Third_2.md",
+      "tamanho_bytes": 509144,
+      "total_linhas": 16683,
+      "hash_bruto": "16f99f91724f36b8598417f244e761a5a0db966c4f4bbac0822386865caa573d",
+      "hash_normalizado": "23099cabffe63e85b06da89ff212b722de840f9d175bcedfdbf156dd71a5f750",
+      "leitura_integral": true,
+      "status": "duplicata por corpo didático integral",
+      "paginas_presentes": 168,
+      "partes": 18,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1234,
+    "testes": "25/25",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1234; nenhuma fonte posterior foi aberta."
+}

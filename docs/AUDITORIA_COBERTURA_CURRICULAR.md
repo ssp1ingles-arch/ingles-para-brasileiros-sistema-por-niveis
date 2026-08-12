@@ -217,3 +217,9 @@ Cobertura 82,42% → 82,55%; 834 unidades, 1.977 atividades, 95 subpainéis e Jo
 
 Cobertura 82,55% → 82,61%; 834 unidades, 1.977 atividades, 95 subpainéis e Jornada 806+28 preservados.
 <!-- LOTE-045-COBERTURA:FIM -->
+
+<!-- LOTE-046-COBERTURA:INICIO -->
+## Atualização curricular — lote 046
+
+Cobertura 82,61% → 82,68%; currículo, atividades, subpainéis e Jornada preservados.
+<!-- LOTE-046-COBERTURA:FIM -->

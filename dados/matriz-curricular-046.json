@@ -1,0 +1,47 @@
+{
+  "versao": "046",
+  "gerado_em": "2026-08-12T12:27:25.087Z",
+  "comparacao": {
+    "antes": {
+      "tratadas": 1278,
+      "pendentes": 269,
+      "cobertura": 82.61
+    },
+    "depois": {
+      "tratadas": 1279,
+      "pendentes": 268,
+      "cobertura": 82.68
+    }
+  },
+  "unidades": 834,
+  "atividades": 1977,
+  "subpaineis": 95,
+  "por_nivel": {
+    "A1": 80,
+    "A2": 360,
+    "B1": 270,
+    "B2": 95,
+    "C1": 18,
+    "C2": 5,
+    "KIDS": 6
+  },
+  "por_habilidade": {
+    "Conversação": 103,
+    "Escrita": 7,
+    "Escuta": 15,
+    "Gramática": 282,
+    "Inglês acadêmico": 15,
+    "Inglês profissional": 5,
+    "Leitura": 13,
+    "Pronúncia": 21,
+    "Verbos": 339,
+    "Vocabulário": 34
+  },
+  "impacto": "1234 consolidada como extração alternativa de 1233; currículo preservado.",
+  "lacunas_abertas": [
+    "escuta objetiva",
+    "inglês profissional",
+    "Kids legítimo",
+    "C2 comprovado"
+  ]
+}

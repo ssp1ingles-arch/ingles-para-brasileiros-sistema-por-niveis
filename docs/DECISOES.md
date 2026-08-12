@@ -367,3 +367,9 @@
 
 1233 foi mapeada por objetivos B1-B2 em 168 páginas e consolidada somente em destinos existentes. Não foram criadas unidades ou atividades, nem reproduzidos exercícios, respostas, transcrições, tabelas, imagens ou IPA em massa.
 <!-- LOTE-045-DECISOES:FIM -->
+
+<!-- LOTE-046-DECISOES:INICIO -->
+## Decisões do lote 046
+
+1234 possui corpo didático integralmente idêntico a 1233 e foi consolidada como extração alternativa, preservando 1233 como canônica e sem republicação.
+<!-- LOTE-046-DECISOES:FIM -->

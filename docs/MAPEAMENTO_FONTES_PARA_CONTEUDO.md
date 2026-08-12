@@ -298,3 +298,9 @@ Os 12 Files e bancos de apoio foram decompostos em objetivos de gramática, voca
 
 Os dez Files, cinco episódios funcionais e bancos de apoio foram separados por objetivo de gramática, vocabulário, pronúncia, escuta, conversação e escrita. Todo conteúdo útil recebeu destino e somente metadados sanitizados foram publicados.
 <!-- LOTE-045-MAPEAMENTO:FIM -->
+
+<!-- LOTE-046-MAPEAMENTO:INICIO -->
+## Lote 046 — mapeamento
+
+A comparação 1233×1234 confirmou igualdade integral do corpo, paginação, Files, lições, exercícios, respostas e índices. Somente metadados sanitizados foram registrados.
+<!-- LOTE-046-MAPEAMENTO:FIM -->
