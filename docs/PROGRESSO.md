@@ -1,6 +1,6 @@
 # Progresso
 
-Atualizado em 2026-08-12 após o lote 050.
+Atualizado em 2026-08-12 após o lote 051.
 
 <!-- ESTADO-ATUAL:INICIO -->
 ## Estado atual confirmado
@@ -8,13 +8,13 @@ Atualizado em 2026-08-12 após o lote 050.
 > Bloco calculado automaticamente por `scripts/atualizar-progresso.mjs`. Não editar os números manualmente.
 
 - Total de fontes: **1.547**
-- Fontes integralmente classificadas: **445**
-- Duplicatas consolidadas: **792**
+- Fontes integralmente classificadas: **498**
+- Duplicatas consolidadas: **809**
 - Fontes parcialmente analisadas: **0**
-- Fontes sem conteúdo didático: **46**
-- Total tratado: **1283**
-- Fontes não analisadas: **264**
-- Cobertura real: **82,93%** (`1283 ÷ 1.547`)
+- Fontes sem conteúdo didático: **54**
+- Total tratado: **1361**
+- Fontes não analisadas: **186**
+- Cobertura real: **87,98%** (`1361 ÷ 1.547`)
 - Unidades publicadas: **834**
 - Por nível: A1 **80**; A2 **360**; B1 **270**; B2 **95**; C1 **18**; C2 **5**; Kids **6**
 - Habilidade principal: Conversação **103**; Escrita **7**; Escuta **15**; Gramática **282**; Inglês acadêmico **15**; Inglês profissional **5**; Leitura **13**; Pronúncia **21**; Verbos **339**; Vocabulário **34**
@@ -24,7 +24,7 @@ Atualizado em 2026-08-12 após o lote 050.
 - Testes executados e aprovados: **1468/1468**
 - Rotas HTML existentes: **11** — `estudar.html`, `index.html`, `jornada.html`, `niveis/a1/index.html`, `niveis/a2/index.html`, `niveis/b1/index.html`, `niveis/b2/index.html`, `niveis/c1/index.html`, `niveis/c2/index.html`, `niveis/kids/index.html`, `praticar.html`
 - Última fonte sequencial tratada: `1238_livro01_5.md`
-- Próxima fonte sequencial: `1239_livro02_5.md`
+- Próxima fonte sequencial: `1325_pilar2-1000-frases.md`
 <!-- ESTADO-ATUAL:FIM -->
 
 ## Lote 007

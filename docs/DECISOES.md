@@ -397,3 +397,8 @@
 
 1238 é uma curadoria derivada com sobreposição extensa a 1229/1230. A seleção bilíngue reorganiza quatro situações funcionais e os Files 1–12, mas não acrescenta objetivo linguístico independente; a procedência foi ampliada em destinos existentes sem republicar exemplos, traduções ou diálogos.
 <!-- LOTE-050-DECISOES:FIM -->
+<!-- MACROLOTE-051-DECISOES:INICIO -->
+## Decisões do macrolote 051
+
+O intervalo pendente 1239–1324 foi processado como macrolote único: 78 fontes integralmente decididas em seis checkpoints, incluindo curadorias, livros canônicos, extrações alternativas, índices, fontes de imagem e regras administrativas. Conteúdo útil foi consolidado somente em destinos existentes; não foram criadas unidades ou atividades e nenhuma reprodução extensa foi versionada.
+<!-- MACROLOTE-051-DECISOES:FIM -->

@@ -19123,9 +19123,23 @@
       "arquivo_original": "livro02.html",
       "sistema_origem": "N3 · Sistema 11 — American English File",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1240",
@@ -19135,9 +19149,26 @@
       "arquivo_original": "livro03.html",
       "sistema_origem": "N3 · Sistema 11 — American English File",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1241",
@@ -19147,9 +19178,19 @@
       "arquivo_original": "livro04.html",
       "sistema_origem": "N3 · Sistema 11 — American English File",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01"
+      ]
     },
     {
       "id": "1242",
@@ -19159,9 +19200,30 @@
       "arquivo_original": "01_English Grammar in Use Supplementary Exercises Book Fifth Edition.md",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1243",
@@ -19170,9 +19232,9 @@
       "sha256": "643f3200b39d1e921d0f5681540cb0ffa7f1848c78f8cccd2bd45f844d8f6733",
       "arquivo_original": "01_English Grammar in Use Supplementary Exercises Book Fifth Edition.pdf",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1242",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1242",
       "unidades": []
     },
     {
@@ -19183,9 +19245,30 @@
       "arquivo_original": "02_Grammar - Grammar -Basic Grammar in Use Student's Book with Answers.md",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1245",
@@ -19194,9 +19277,9 @@
       "sha256": "5688ffaf8bba726d82b9152ee9c768ea79aab41bc552fa9843660f89de403c3d",
       "arquivo_original": "02_Grammar - Grammar -Basic Grammar in Use Student's Book with Answers.pdf",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1244",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1244",
       "unidades": []
     },
     {
@@ -19207,9 +19290,30 @@
       "arquivo_original": "03_English Collocations in Use Intermediate Book.md",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1247",
@@ -19218,9 +19322,9 @@
       "sha256": "2c2fc24379f3401a585a57c9a56cb707d88a9e7504ff16d3bde43730709d6541",
       "arquivo_original": "03_English Collocations in Use Intermediate Book.pdf",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1246",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1246",
       "unidades": []
     },
     {
@@ -19231,9 +19335,27 @@
       "arquivo_original": "04_Basic Grammar in Use Student's Book.md",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1249",
@@ -19242,9 +19364,9 @@
       "sha256": "6b891c12c40fe038ef1332e3235135507bdcaf985de16394665d18cb02608f82",
       "arquivo_original": "04_Basic Grammar in Use Student's Book.pdf",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1248",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1248",
       "unidades": []
     },
     {
@@ -19255,9 +19377,31 @@
       "arquivo_original": "05_English Phrasal Verbs in Use Intermediate Sb With Answers 2Ed.md",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A2-L9-0440-01",
+        "B1-L8-0321-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1251",
@@ -19266,9 +19410,9 @@
       "sha256": "eadf9be46a9d16d921cd5a3a5642c50b089399983162f7507efc4f9eaad5489d",
       "arquivo_original": "05_English Phrasal Verbs in Use Intermediate Sb With Answers 2Ed.pdf",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1250",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1250",
       "unidades": []
     },
     {
@@ -19307,8 +19451,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; leitura integral e todos os blocos decididos no macrolote 051",
       "unidades": []
     },
     {
@@ -19319,9 +19463,23 @@
       "arquivo_original": "livro01.html",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1256",
@@ -19331,9 +19489,26 @@
       "arquivo_original": "livro02.html",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1257",
@@ -19343,9 +19518,27 @@
       "arquivo_original": "livro03.html",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1258",
@@ -19355,9 +19548,27 @@
       "arquivo_original": "livro04.html",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1259",
@@ -19367,9 +19578,30 @@
       "arquivo_original": "livro05.html",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1260",
@@ -19379,9 +19611,26 @@
       "arquivo_original": "livro06.html",
       "sistema_origem": "N3 · Sistema 12 — Exercícios e Vocabulário",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1261",
@@ -19391,9 +19640,30 @@
       "arquivo_original": "01_English Grammar in Use Book with Answers A Self-Study Reference and Practice Book for Intermediate Learners.md",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1262",
@@ -19402,9 +19672,9 @@
       "sha256": "637dc4277edcdff6452114ab7996f5bc4195b6631b85d5a268b897c126950668",
       "arquivo_original": "01_English Grammar in Use Book with Answers A Self-Study Reference and Practice Book for Intermediate Learners.pdf",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1261",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1261",
       "unidades": []
     },
     {
@@ -19415,9 +19685,27 @@
       "arquivo_original": "02_Grammar Practice for Intermediate Students.md",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1264",
@@ -19426,9 +19714,9 @@
       "sha256": "560918f2c0ea0af08769348cfcd5b7705e5a086a8acae8a3515d02acda0d0b8a",
       "arquivo_original": "02_Grammar Practice for Intermediate Students.pdf",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1263",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1263",
       "unidades": []
     },
     {
@@ -19439,9 +19727,30 @@
       "arquivo_original": "03_Oxford-Guide-to-English-Grammar.md",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1266",
@@ -19450,9 +19759,9 @@
       "sha256": "9d663c66e5922fc5ee917cdb05025dabebd31adfd9375129de4a7554b0518288",
       "arquivo_original": "03_Oxford-Guide-to-English-Grammar.pdf",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1265",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1265",
       "unidades": []
     },
     {
@@ -19463,9 +19772,30 @@
       "arquivo_original": "04_English Grammar A Resource Book for Students.md",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1268",
@@ -19474,9 +19804,9 @@
       "sha256": "30d0e808cc16b93b4b14158b83a980fd22b863c791511610178fe4f54b0181ba",
       "arquivo_original": "04_English Grammar A Resource Book for Students.pdf",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1267",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1267",
       "unidades": []
     },
     {
@@ -19487,8 +19817,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; leitura integral e todos os blocos decididos no macrolote 051",
       "unidades": []
     },
     {
@@ -19499,9 +19829,27 @@
       "arquivo_original": "livro01.html",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1271",
@@ -19511,9 +19859,27 @@
       "arquivo_original": "livro02.html",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1272",
@@ -19523,9 +19889,23 @@
       "arquivo_original": "livro03.html",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01"
+      ]
     },
     {
       "id": "1273",
@@ -19535,9 +19915,22 @@
       "arquivo_original": "livro04.html",
       "sistema_origem": "N3 · Sistema 13 — Gramática em Uso",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01"
+      ]
     },
     {
       "id": "1274",
@@ -19547,9 +19940,30 @@
       "arquivo_original": "01_Practice Makes Perfect Complete English All-in-One for ESL Learners.md",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1275",
@@ -19558,9 +19972,9 @@
       "sha256": "34a4dfdcac4db8dbfd7de85f79209bb50e43f3e2b22ee0e81ba1dbc190725075",
       "arquivo_original": "01_Practice Makes Perfect Complete English All-in-One for ESL Learners.pdf",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1274",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1274",
       "unidades": []
     },
     {
@@ -19571,9 +19985,30 @@
       "arquivo_original": "02_English Vocabulary in Use. Elementary. 3rd Edition.md",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1277",
@@ -19582,9 +20017,9 @@
       "sha256": "d175b6f3adb8de2c74017484490f55a0689cc539db8b82894204595b1724a985",
       "arquivo_original": "02_English Vocabulary in Use. Elementary. 3rd Edition.pdf",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1276",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1276",
       "unidades": []
     },
     {
@@ -19623,9 +20058,30 @@
       "arquivo_original": "04_Grammar - Grammar in Use Intermediate Student's.md",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1281",
@@ -19634,9 +20090,9 @@
       "sha256": "ef0165ae700b8392706bd475af1a2032772858e123c05e21c3d530283e23f183",
       "arquivo_original": "04_Grammar - Grammar in Use Intermediate Student's.pdf",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1280",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1280",
       "unidades": []
     },
     {
@@ -19647,9 +20103,27 @@
       "arquivo_original": "05_Practice Makes Perfect English Vocabulary for Beginning ESL Learners, Premium Fourth Edition.md",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1283",
@@ -19658,9 +20132,9 @@
       "sha256": "69482b5bbcd2090976152a4357a799060ffb9687b65ff390f31a7cc880b61484",
       "arquivo_original": "05_Practice Makes Perfect English Vocabulary for Beginning ESL Learners, Premium Fourth Edition.pdf",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1282",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1282",
       "unidades": []
     },
     {
@@ -19671,9 +20145,28 @@
       "arquivo_original": "06_Practise Makes Perfect_ English Verbs 3rd Edition.md",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A2-L9-0440-01",
+        "B1-L8-0321-01",
+        "B2-L6-0188-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1285",
@@ -19682,9 +20175,9 @@
       "sha256": "276844816cd18062efd9cb388a9e62b036ee70b6dc5382a750048e222f3ead24",
       "arquivo_original": "06_Practise Makes Perfect_ English Verbs 3rd Edition.pdf",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1284",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1284",
       "unidades": []
     },
     {
@@ -19695,9 +20188,30 @@
       "arquivo_original": "07_English Vocabulary in Use Upper-Intermediate.md",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1287",
@@ -19706,9 +20220,9 @@
       "sha256": "6ef28c955e68c917cc2f64537865cd34cb53b12608b684ba0252aa53402d6cbd",
       "arquivo_original": "07_English Vocabulary in Use Upper-Intermediate.pdf",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1286",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1286",
       "unidades": []
     },
     {
@@ -19719,9 +20233,30 @@
       "arquivo_original": "08_English Vocabulary in Use Upper-intermediate With answers.md",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1289",
@@ -19730,9 +20265,9 @@
       "sha256": "0b0d658be7b3c0307d94e94d2f9e6691c6aeb0e1b414b0df16e528bbf7d8fad7",
       "arquivo_original": "08_English Vocabulary in Use Upper-intermediate With answers.pdf",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1288",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1288",
       "unidades": []
     },
     {
@@ -19743,8 +20278,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; leitura integral e todos os blocos decididos no macrolote 051",
       "unidades": []
     },
     {
@@ -19755,9 +20290,26 @@
       "arquivo_original": "livro01.html",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1292",
@@ -19767,9 +20319,27 @@
       "arquivo_original": "livro02.html",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1293",
@@ -19779,9 +20349,26 @@
       "arquivo_original": "livro03.html",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1294",
@@ -19791,9 +20378,27 @@
       "arquivo_original": "livro04.html",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1295",
@@ -19803,9 +20408,23 @@
       "arquivo_original": "livro05.html",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1296",
@@ -19815,9 +20434,23 @@
       "arquivo_original": "livro06.html",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1297",
@@ -19827,9 +20460,30 @@
       "arquivo_original": "livro07.html",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1298",
@@ -19839,9 +20493,26 @@
       "arquivo_original": "livro08.html",
       "sistema_origem": "N3 · Sistema 14 — In Use Series",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01"
+      ]
     },
     {
       "id": "1299",
@@ -19851,9 +20522,17 @@
       "arquivo_original": "English Tenses Table.JPG",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte curta extraída de imagem; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1300",
@@ -19863,9 +20542,17 @@
       "arquivo_original": "Sistema 09 — 3 tempos 003.PNG",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte curta extraída de imagem; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1301",
@@ -19875,9 +20562,22 @@
       "arquivo_original": "contrastes-de-vocabulario.html",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1302",
@@ -19887,9 +20587,22 @@
       "arquivo_original": "descrever-com-precisao.html",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1303",
@@ -19899,9 +20612,17 @@
       "arquivo_original": "duvidas-gramatica.html",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1304",
@@ -19911,9 +20632,22 @@
       "arquivo_original": "falsos-cognatos.html",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1305",
@@ -19923,8 +20657,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; leitura integral e todos os blocos decididos no macrolote 051",
       "unidades": []
     },
     {
@@ -19935,9 +20669,26 @@
       "arquivo_original": "presente-e-palavras-do-trabalho.html",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1307",
@@ -19947,8 +20698,8 @@
       "arquivo_original": "REGRAS.md",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; leitura integral e todos os blocos decididos no macrolote 051",
       "unidades": []
     },
     {
@@ -19959,8 +20710,8 @@
       "arquivo_original": "RESUMO_SISTEMA09.md",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "regra administrativa; leitura integral e todos os blocos decididos no macrolote 051",
       "unidades": []
     },
     {
@@ -19971,9 +20722,22 @@
       "arquivo_original": "vocabulario-referencia.html",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1310",
@@ -19983,9 +20747,26 @@
       "arquivo_original": "went-ou-gone.html",
       "sistema_origem": "N3 · Sistema 15 — Dúvidas Pontuais",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A2-L9-0440-01",
+        "B1-L8-0321-01",
+        "B2-L6-0188-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1311",
@@ -19995,9 +20776,30 @@
       "arquivo_original": "01_Speak English 30 Days to Better English.md",
       "sistema_origem": "N3 · Sistema 21 — Pronúncia & Conversação",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1312",
@@ -20006,9 +20808,9 @@
       "sha256": "f86c80b9bb726e1b609868682877a86a2cbc55355895b574fb76dc6c8e0ea6eb",
       "arquivo_original": "01_Speak English 30 Days to Better English.pdf",
       "sistema_origem": "N3 · Sistema 21 — Pronúncia & Conversação",
-      "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "duplicata_de": "1311",
+      "estado_revisao": "duplicata",
+      "secoes": "extração alternativa integral de 1311",
       "unidades": []
     },
     {
@@ -20075,9 +20877,30 @@
       "arquivo_original": "04_Pronouncing American English.pdf",
       "sistema_origem": "N3 · Sistema 21 — Pronúncia & Conversação",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "fonte canônica nova; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1318",
@@ -20087,9 +20910,29 @@
       "arquivo_original": "falar-melhor.html",
       "sistema_origem": "N3 · Sistema 21 — Pronúncia & Conversação",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02"
+      ]
     },
     {
       "id": "1319",
@@ -20099,8 +20942,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N3 · Sistema 21 — Pronúncia & Conversação",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; leitura integral e todos os blocos decididos no macrolote 051",
       "unidades": []
     },
     {
@@ -20111,9 +20954,29 @@
       "arquivo_original": "livro01.html",
       "sistema_origem": "N3 · Sistema 21 — Pronúncia & Conversação",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1321",
@@ -20123,9 +20986,26 @@
       "arquivo_original": "livro03.html",
       "sistema_origem": "N3 · Sistema 21 — Pronúncia & Conversação",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01",
+        "A2-L10-1314-01",
+        "B1-L12-0581-01"
+      ]
     },
     {
       "id": "1322",
@@ -20135,9 +21015,24 @@
       "arquivo_original": "livro04.html",
       "sistema_origem": "N3 · Sistema 21 — Pronúncia & Conversação",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-PRON-0001",
+        "B2-L11-1202-01",
+        "B2-L11-1316-01",
+        "A1-L4-1521-01",
+        "A2-L5-0128-01",
+        "B1-L15-0841-01",
+        "A2-L10-1378-01"
+      ]
     },
     {
       "id": "1323",
@@ -20147,8 +21042,8 @@
       "arquivo_original": "index.html",
       "sistema_origem": "N4 · Sistema 16 — Prática Completa · 4 Pilares",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
+      "estado_revisao": "sem conteúdo didático",
+      "secoes": "índice ou navegação; leitura integral e todos os blocos decididos no macrolote 051",
       "unidades": []
     },
     {
@@ -20159,9 +21054,22 @@
       "arquivo_original": "pilar1-frases-crescentes.html",
       "sistema_origem": "N4 · Sistema 16 — Prática Completa · 4 Pilares",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "curadoria derivada; leitura integral e todos os blocos decididos no macrolote 051",
+      "unidades": [
+        "A1-GRAM-0001",
+        "A1-GRAM-0005",
+        "A2-GRAM-0004",
+        "A2-GRAM-0012",
+        "A2-GRAM-0013",
+        "B1-L8-0321-01",
+        "B2-L3-0039-02",
+        "A1-L4-0100-01",
+        "A1-L6-0179-01",
+        "A2-L8-0388-01",
+        "B1-L12-0581-01",
+        "B2-L6-0188-02"
+      ]
     },
     {
       "id": "1325",

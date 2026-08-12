@@ -247,3 +247,8 @@ Cobertura 82,81% → 82,87%; 834 unidades, 1.977 atividades, 95 subpainéis e Jo
 
 Cobertura 82,87% → 82,93%; 834 unidades, 1.977 atividades, 95 subpainéis e Jornada 806+28 preservados.
 <!-- LOTE-050-COBERTURA:FIM -->
+<!-- MACROLOTE-051-COBERTURA:INICIO -->
+## Atualização curricular — macrolote 051
+
+Cobertura 82,93% → 87,98%; 834 unidades, 1.977 atividades, 95 subpainéis e Jornada 806+28 preservados. O avanço corresponde a 78 fontes e 5,05 pontos percentuais.
+<!-- MACROLOTE-051-COBERTURA:FIM -->

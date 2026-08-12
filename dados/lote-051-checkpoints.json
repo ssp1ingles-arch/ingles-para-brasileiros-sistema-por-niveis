@@ -1,0 +1,132 @@
+{
+  "lote": "051",
+  "frequencia": 13,
+  "checkpoints": [
+    {
+      "checkpoint": 1,
+      "intervalo": [
+        1239,
+        1251
+      ],
+      "fontes_concluidas": 13,
+      "total_acumulado": 13,
+      "ultima_fonte": 1251,
+      "proxima_fonte": 1254,
+      "conteudo_util_sem_destino": 0,
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 2,
+      "intervalo": [
+        1254,
+        1266
+      ],
+      "fontes_concluidas": 13,
+      "total_acumulado": 26,
+      "ultima_fonte": 1266,
+      "proxima_fonte": 1267,
+      "conteudo_util_sem_destino": 0,
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 3,
+      "intervalo": [
+        1267,
+        1281
+      ],
+      "fontes_concluidas": 13,
+      "total_acumulado": 39,
+      "ultima_fonte": 1281,
+      "proxima_fonte": 1282,
+      "conteudo_util_sem_destino": 0,
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 4,
+      "intervalo": [
+        1282,
+        1294
+      ],
+      "fontes_concluidas": 13,
+      "total_acumulado": 52,
+      "ultima_fonte": 1294,
+      "proxima_fonte": 1295,
+      "conteudo_util_sem_destino": 0,
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 5,
+      "intervalo": [
+        1295,
+        1307
+      ],
+      "fontes_concluidas": 13,
+      "total_acumulado": 65,
+      "ultima_fonte": 1307,
+      "proxima_fonte": 1308,
+      "conteudo_util_sem_destino": 0,
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 6,
+      "intervalo": [
+        1308,
+        1324
+      ],
+      "fontes_concluidas": 13,
+      "total_acumulado": 78,
+      "ultima_fonte": 1324,
+      "proxima_fonte": null,
+      "conteudo_util_sem_destino": 0,
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    }
+  ]
+}

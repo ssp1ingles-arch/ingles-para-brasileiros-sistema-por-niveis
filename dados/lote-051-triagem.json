@@ -1,0 +1,566 @@
+{
+  "lote": "051",
+  "meta": [
+    1239,
+    1324
+  ],
+  "fontes": [
+    {
+      "numero": 1239,
+      "nome": "1239_livro02_5.md",
+      "bytes": 42883,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1240,
+      "nome": "1240_livro03_5.md",
+      "bytes": 47972,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1241,
+      "nome": "1241_livro04_4.md",
+      "bytes": 44364,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1242,
+      "nome": "1242_01_English_Grammar_in_Use_Supplementary_Exercises_Book_Fifth_Edition.md",
+      "bytes": 271573,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1243,
+      "nome": "1243_01_English_Grammar_in_Use_Supplementary_Exercises_Book_Fifth_Edition_2.md",
+      "bytes": 271574,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1244,
+      "nome": "1244_02_Grammar_-_Grammar_-Basic_Grammar_in_Use_Student's_Book_with_Answers.md",
+      "bytes": 561659,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1245,
+      "nome": "1245_02_Grammar_-_Grammar_-Basic_Grammar_in_Use_Student's_Book_with_Answers_2.md",
+      "bytes": 561660,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1246,
+      "nome": "1246_03_English_Collocations_in_Use_Intermediate_Book.md",
+      "bytes": 514000,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1247,
+      "nome": "1247_03_English_Collocations_in_Use_Intermediate_Book_2.md",
+      "bytes": 514001,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1248,
+      "nome": "1248_04_Basic_Grammar_in_Use_Student's_Book.md",
+      "bytes": 441461,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1249,
+      "nome": "1249_04_Basic_Grammar_in_Use_Student's_Book_2.md",
+      "bytes": 441462,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1250,
+      "nome": "1250_05_English_Phrasal_Verbs_in_Use_Intermediate_Sb_With_Answers_2Ed.md",
+      "bytes": 472936,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1251,
+      "nome": "1251_05_English_Phrasal_Verbs_in_Use_Intermediate_Sb_With_Answers_2Ed_2.md",
+      "bytes": 472937,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1254,
+      "nome": "1254_index_10.md",
+      "bytes": 3382,
+      "complexidade": "índice ou navegação",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1255,
+      "nome": "1255_livro01_6.md",
+      "bytes": 15876,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1256,
+      "nome": "1256_livro02_6.md",
+      "bytes": 72777,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1257,
+      "nome": "1257_livro03_6.md",
+      "bytes": 75100,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1258,
+      "nome": "1258_livro04_5.md",
+      "bytes": 53961,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1259,
+      "nome": "1259_livro05_3.md",
+      "bytes": 46210,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1260,
+      "nome": "1260_livro06_2.md",
+      "bytes": 46696,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1261,
+      "nome": "1261_01_English_Grammar_in_Use_Book_with_Answers_A_Self-Study_Reference_and_Practice_Book_for_Intermediate_Learners.md",
+      "bytes": 980621,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1262,
+      "nome": "1262_01_English_Grammar_in_Use_Book_with_Answers_A_Self-Study_Reference_and_Practice_Book_for_Intermediate_Learners_2.md",
+      "bytes": 980622,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1263,
+      "nome": "1263_02_Grammar_Practice_for_Intermediate_Students.md",
+      "bytes": 241019,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1264,
+      "nome": "1264_02_Grammar_Practice_for_Intermediate_Students_2.md",
+      "bytes": 241020,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1265,
+      "nome": "1265_03_Oxford-Guide-to-English-Grammar.md",
+      "bytes": 922025,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1266,
+      "nome": "1266_03_Oxford-Guide-to-English-Grammar_2.md",
+      "bytes": 922026,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1267,
+      "nome": "1267_04_English_Grammar_A_Resource_Book_for_Students.md",
+      "bytes": 651752,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1268,
+      "nome": "1268_04_English_Grammar_A_Resource_Book_for_Students_2.md",
+      "bytes": 651753,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1269,
+      "nome": "1269_index_11.md",
+      "bytes": 2752,
+      "complexidade": "índice ou navegação",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1270,
+      "nome": "1270_livro01_7.md",
+      "bytes": 169190,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1271,
+      "nome": "1271_livro02_7.md",
+      "bytes": 35952,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1272,
+      "nome": "1272_livro03_7.md",
+      "bytes": 66136,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1273,
+      "nome": "1273_livro04_6.md",
+      "bytes": 35869,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1274,
+      "nome": "1274_01_Practice_Makes_Perfect_Complete_English_All-in-One_for_ESL_Learners.md",
+      "bytes": 1067878,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1275,
+      "nome": "1275_01_Practice_Makes_Perfect_Complete_English_All-in-One_for_ESL_Learners_2.md",
+      "bytes": 1067879,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1276,
+      "nome": "1276_02_English_Vocabulary_in_Use._Elementary._3rd_Edition.md",
+      "bytes": 288243,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1277,
+      "nome": "1277_02_English_Vocabulary_in_Use._Elementary._3rd_Edition_2.md",
+      "bytes": 288244,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1280,
+      "nome": "1280_04_Grammar_-_Grammar_in_Use_Intermediate_Student's.md",
+      "bytes": 884547,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1281,
+      "nome": "1281_04_Grammar_-_Grammar_in_Use_Intermediate_Student's_2.md",
+      "bytes": 884548,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1282,
+      "nome": "1282_05_Practice_Makes_Perfect_English_Vocabulary_for_Beginning_ESL_Learners,_Premium_Fourth_Edition.md",
+      "bytes": 198230,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1283,
+      "nome": "1283_05_Practice_Makes_Perfect_English_Vocabulary_for_Beginning_ESL_Learners,_Premium_Fourth_Edition_2.md",
+      "bytes": 198231,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1284,
+      "nome": "1284_06_Practise_Makes_Perfect__English_Verbs_3rd_Edition.md",
+      "bytes": 252929,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1285,
+      "nome": "1285_06_Practise_Makes_Perfect__English_Verbs_3rd_Edition_2.md",
+      "bytes": 252930,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1286,
+      "nome": "1286_07_English_Vocabulary_in_Use_Upper-Intermediate.md",
+      "bytes": 716980,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1287,
+      "nome": "1287_07_English_Vocabulary_in_Use_Upper-Intermediate_2.md",
+      "bytes": 716981,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1288,
+      "nome": "1288_08_English_Vocabulary_in_Use_Upper-intermediate_With_answers.md",
+      "bytes": 670612,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1289,
+      "nome": "1289_08_English_Vocabulary_in_Use_Upper-intermediate_With_answers_2.md",
+      "bytes": 670613,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1290,
+      "nome": "1290_index_12.md",
+      "bytes": 4528,
+      "complexidade": "índice ou navegação",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1291,
+      "nome": "1291_livro01_8.md",
+      "bytes": 53255,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1292,
+      "nome": "1292_livro02_8.md",
+      "bytes": 56720,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1293,
+      "nome": "1293_livro03_8.md",
+      "bytes": 32581,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1294,
+      "nome": "1294_livro04_7.md",
+      "bytes": 42059,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1295,
+      "nome": "1295_livro05_4.md",
+      "bytes": 106578,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1296,
+      "nome": "1296_livro06_3.md",
+      "bytes": 53066,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1297,
+      "nome": "1297_livro07.md",
+      "bytes": 232643,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1298,
+      "nome": "1298_livro08.md",
+      "bytes": 34643,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1299,
+      "nome": "1299_English_Tenses_Table.md",
+      "bytes": 1164,
+      "complexidade": "fonte curta extraída de imagem",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1300,
+      "nome": "1300_Sistema_09_—_3_tempos_003.md",
+      "bytes": 1695,
+      "complexidade": "fonte curta extraída de imagem",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1301,
+      "nome": "1301_contrastes-de-vocabulario.md",
+      "bytes": 6741,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1302,
+      "nome": "1302_descrever-com-precisao.md",
+      "bytes": 6864,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1303,
+      "nome": "1303_duvidas-gramatica.md",
+      "bytes": 16692,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1304,
+      "nome": "1304_falsos-cognatos.md",
+      "bytes": 20610,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1305,
+      "nome": "1305_index_13.md",
+      "bytes": 2667,
+      "complexidade": "índice ou navegação",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1306,
+      "nome": "1306_presente-e-palavras-do-trabalho.md",
+      "bytes": 9889,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1307,
+      "nome": "1307_REGRAS_8.md",
+      "bytes": 1906,
+      "complexidade": "regra administrativa",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1308,
+      "nome": "1308_RESUMO_SISTEMA09.md",
+      "bytes": 2770,
+      "complexidade": "regra administrativa",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1309,
+      "nome": "1309_vocabulario-referencia.md",
+      "bytes": 9773,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1310,
+      "nome": "1310_went-ou-gone.md",
+      "bytes": 8394,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1311,
+      "nome": "1311_01_Speak_English_30_Days_to_Better_English.md",
+      "bytes": 269782,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1312,
+      "nome": "1312_01_Speak_English_30_Days_to_Better_English_2.md",
+      "bytes": 269783,
+      "complexidade": "duplicata provável",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1317,
+      "nome": "1317_04_Pronouncing_American_English_2.md",
+      "bytes": 366676,
+      "complexidade": "fonte canônica nova",
+      "livro_extenso": true
+    },
+    {
+      "numero": 1318,
+      "nome": "1318_falar-melhor.md",
+      "bytes": 12215,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1319,
+      "nome": "1319_index_14.md",
+      "bytes": 2584,
+      "complexidade": "índice ou navegação",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1320,
+      "nome": "1320_livro01_9.md",
+      "bytes": 17952,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1321,
+      "nome": "1321_livro03_9.md",
+      "bytes": 18901,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1322,
+      "nome": "1322_livro04_8.md",
+      "bytes": 15808,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1323,
+      "nome": "1323_index_15.md",
+      "bytes": 1386,
+      "complexidade": "índice ou navegação",
+      "livro_extenso": false
+    },
+    {
+      "numero": 1324,
+      "nome": "1324_pilar1-frases-crescentes.md",
+      "bytes": 12263,
+      "complexidade": "curadoria derivada",
+      "livro_extenso": false
+    }
+  ],
+  "antecipadas_no_intervalo": [
+    1252,
+    1253,
+    1278,
+    1279,
+    1313,
+    1314,
+    1315,
+    1316
+  ],
+  "observacao": "Triagem somente leitura usada para ordenar complexidade; não substituiu a leitura integral."
+}

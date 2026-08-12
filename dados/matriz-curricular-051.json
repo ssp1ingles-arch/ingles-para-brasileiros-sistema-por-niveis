@@ -1,0 +1,55 @@
+{
+  "versao": "051",
+  "gerado_em": "2026-08-12T14:15:38.861Z",
+  "comparacao": {
+    "antes": {
+      "tratadas": 1283,
+      "pendentes": 264,
+      "cobertura": 82.93
+    },
+    "depois": {
+      "tratadas": 1361,
+      "pendentes": 186,
+      "cobertura": 87.98
+    }
+  },
+  "unidades": 834,
+  "atividades": 1977,
+  "subpaineis": 95,
+  "por_nivel": {
+    "A1": 80,
+    "A2": 360,
+    "B1": 270,
+    "B2": 95,
+    "C1": 18,
+    "C2": 5,
+    "KIDS": 6
+  },
+  "por_habilidade": {
+    "Conversação": 103,
+    "Escrita": 7,
+    "Escuta": 15,
+    "Gramática": 282,
+    "Inglês acadêmico": 15,
+    "Inglês profissional": 5,
+    "Leitura": 13,
+    "Pronúncia": 21,
+    "Verbos": 339,
+    "Vocabulário": 34
+  },
+  "impacto": "78 fontes integralmente decididas; currículo, interface, atividades e Jornada preservados.",
+  "lacunas_abertas": [
+    "escuta objetiva",
+    "inglês profissional",
+    "Kids legítimo",
+    "C2 comprovado"
+  ],
+  "categorias": {
+    "curadoria derivada": 33,
+    "fonte canônica nova": 18,
+    "duplicata": 17,
+    "índice ou navegação": 6,
+    "fonte curta extraída de imagem": 2,
+    "regra administrativa": 2
+  }
+}

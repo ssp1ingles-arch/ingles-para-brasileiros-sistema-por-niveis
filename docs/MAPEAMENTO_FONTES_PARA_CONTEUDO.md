@@ -328,3 +328,8 @@ Frontmatter, apresentação, métricas históricas, quatro cartões de livros e 
 
 As 16 seções, 34 blocos e 174 pares declarados foram mapeados em 17 blocos decisórios A1–B1. A apresentação foi descartada editorialmente e todo conteúdo útil recebeu destino específico já existente.
 <!-- LOTE-050-MAPEAMENTO:FIM -->
+<!-- MACROLOTE-051-MAPEAMENTO:INICIO -->
+## Macrolote 051 — mapeamento
+
+Foram tratadas 78 fontes pendentes entre 1239 e 1324, sem recontar oito fontes antecipadas. A classificação agregada registrou 33 curadorias derivadas, 18 fontes canônicas novas, 17 duplicatas, seis índices, duas fontes curtas extraídas de imagem e duas regras administrativas. Todos os blocos receberam decisão, destino ou descarte justificado.
+<!-- MACROLOTE-051-MAPEAMENTO:FIM -->
