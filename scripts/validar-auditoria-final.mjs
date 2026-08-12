@@ -8,6 +8,7 @@ const exigir = (condicao, mensagem) => { if (!condicao) falhas.push(mensagem); }
 const estados = ler('dados/auditoria-final-estados-fontes.json');
 const duplicatas = ler('dados/auditoria-final-duplicatas.json');
 const global = ler('dados/auditoria-final-global.json');
+const destinos = ler('dados/auditoria-final-destinos-procedencias.json');
 const manifesto054 = ler('dados/lote-054-manifesto.json');
 const mapa = ler('dados/mapa-fontes.json');
 const revisao = ler('dados/revisao-fontes.json');
@@ -21,6 +22,10 @@ exigir(fontes.every(f => principais.has(f.estado_principal)), 'estado principal 
 exigir((estados.estados.parcial || 0) === 0, 'há fonte parcial');
 exigir(fontes.every(f => /^[a-f0-9]{64}$/.test(f.hash_bruto)), 'hash ausente ou inválido');
 exigir(global.divergencias.fontes_uteis_sem_destino === 0, 'conteúdo útil sem destino');
+exigir(global.divergencias.procedencias_ausentes_corrigidas === 1619, 'linha de base de 1.619 procedências alterada');
+exigir(global.impacto.unidades_afetadas === 387 && destinos.unidades_afetadas === 387, 'linha de base de 387 unidades afetadas alterada');
+exigir(global.raizes_canonicas_promovidas.length === 16, 'linha de base de 16 raízes canônicas alterada');
+exigir(estados.estados['sem conteúdo didático'] === 29 && estados.estados.administrativa === 27 && estados.estados['índice/navegação'] === 35, 'estados editoriais exclusivos divergentes');
 exigir(duplicatas.problemas.length === 0 && duplicatas.amostra_manual.length >= 60, 'duplicatas sem canônica ou amostra insuficiente');
 for (const f of fontes.filter(x => x.estado_principal === 'duplicata integral')) {
   const c = +f.canonica_relacionada;

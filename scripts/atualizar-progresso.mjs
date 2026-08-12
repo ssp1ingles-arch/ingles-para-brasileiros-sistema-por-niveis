@@ -16,6 +16,9 @@ const mapa = ler('mapa-fontes.json');
 const atividades = ler('atividades.json');
 const jornadas = ler('jornadas.json');
 const subpaineis = ler('subpaineis.json');
+const auditoriaFinal = fs.existsSync(path.join(dados, 'auditoria-final-estados-fontes.json'))
+  ? ler('auditoria-final-estados-fontes.json')
+  : null;
 
 const contar = (lista, chave) => Object.fromEntries([...new Set(lista.map(x => x[chave] || 'Não informado'))]
   .sort((a, b) => a.localeCompare(b, 'pt-BR'))
@@ -25,6 +28,17 @@ const integral = estados.filter(x => x.includes('integralmente classificada')).l
 const duplicatas = estados.filter(x => x === 'duplicata').length;
 const parciais = estados.filter(x => x.includes('parcial')).length;
 const semDidatico = estados.filter(x => x.includes('sem conteúdo didático')).length;
+const estadosEditoriais = auditoriaFinal
+  ? ['sem conteúdo didático', 'administrativa', 'índice/navegação'].reduce((n, estado) => n + (auditoriaFinal.estados[estado] || 0), 0)
+  : null;
+const editoriaisForaDoEstadoBruto = auditoriaFinal
+  ? auditoriaFinal.fontes.filter(fonte => ['administrativa', 'índice/navegação'].includes(fonte.estado_principal)
+      && !String(revisao[String(fonte.numero).padStart(4, '0')]?.estado).includes('sem conteúdo didático'))
+  : [];
+if (auditoriaFinal && (semDidatico !== 89 || estadosEditoriais !== 91
+  || editoriaisForaDoEstadoBruto.map(fonte => fonte.numero).join(',') !== '1220,1226')) {
+  throw new Error('Divergência na reconciliação dos estados editoriais da linha de base ff316c6.');
+}
 const tratados = integral + duplicatas + parciais + semDidatico;
 const totalFontes = mapa.total || mapa.arquivos.length;
 const cobertura = (tratados / totalFontes * 100).toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
@@ -177,7 +191,9 @@ const bloco = `<!-- ESTADO-ATUAL:INICIO -->
 - Fontes integralmente classificadas: **${integral}**
 - Duplicatas consolidadas: **${duplicatas}**
 - Fontes parcialmente analisadas: **${parciais}**
-- Fontes sem conteúdo didático: **${semDidatico}**
+- Revisões com estado bruto \`sem conteúdo didático\`: **${semDidatico}**
+${auditoriaFinal ? `- Estados editoriais exclusivos da auditoria final: **${estadosEditoriais}** — sem conteúdo didático **${auditoriaFinal.estados['sem conteúdo didático']}**, administrativas **${auditoriaFinal.estados.administrativa}** e índice/navegação **${auditoriaFinal.estados['índice/navegação']}**.
+- Reconciliação reproduzível: os **2** casos adicionais são \`1220\` (índice/hub) e \`1226\` (documentação administrativa com resumo curricular e três procedências). Ambos permanecem \`integralmente classificada\` na revisão bruta; por isso entram nos 91 estados editoriais exclusivos, mas não nas 89 revisões com estado \`sem conteúdo didático\`.` : ''}
 - Total tratado: **${tratados}**
 - Fontes não analisadas: **${totalFontes - tratados}**
 - Cobertura real: **${cobertura}%** (\`${tratados} ÷ ${totalFontes.toLocaleString('pt-BR')}\`)

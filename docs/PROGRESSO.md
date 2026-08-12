@@ -11,7 +11,9 @@ Atualizado em 2026-08-12 após o lote 054.
 - Fontes integralmente classificadas: **622**
 - Duplicatas consolidadas: **836**
 - Fontes parcialmente analisadas: **0**
-- Fontes sem conteúdo didático: **89**
+- Revisões com estado bruto `sem conteúdo didático`: **89**
+- Estados editoriais exclusivos da auditoria final: **91** — sem conteúdo didático **29**, administrativas **27** e índice/navegação **35**.
+- Reconciliação reproduzível: os **2** casos adicionais são `1220` (índice/hub) e `1226` (documentação administrativa com resumo curricular e três procedências). Ambos permanecem `integralmente classificada` na revisão bruta; por isso entram nos 91 estados editoriais exclusivos, mas não nas 89 revisões com estado `sem conteúdo didático`.
 - Total tratado: **1547**
 - Fontes não analisadas: **0**
 - Cobertura real: **100,00%** (`1547 ÷ 1.547`)
