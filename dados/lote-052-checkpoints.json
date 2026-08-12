@@ -1,0 +1,2539 @@
+{
+  "lote": "052",
+  "frequencia": 13,
+  "checkpoints": [
+    {
+      "checkpoint": 1,
+      "fontes": [
+        {
+          "numero": 1325,
+          "nome": "1325_pilar2-1000-frases.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "6dca48945793b71aded228b38bcde78d92007e0f94d05181cda53caed4d06557",
+          "hash_normalizado": "66d3111102197264788be99af9f87658b254d6c7db60b9fea03b03151d150f44",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 16,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1326,
+          "nome": "1326_pilar3-padroes.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "8842ef15e8d67b65d4e283da3d0575f15e9a7a78285689e168e8afba125bb69d",
+          "hash_normalizado": "41591e1a210eb4b9728fdf9aaf6cc4560e2cdfcb74e8b504ec7a84e864d6fe3b",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 2,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1327,
+          "nome": "1327_pilar4-textos.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "b6c4c7acd75968b1da2f504da87d09e0ebb7b8b9e0ecdde8f2e6967a2d187918",
+          "hash_normalizado": "216b5c5253e8acf9d2f135cbd6f7e66c51c887d0b333b49a13baebe5f3f7a4e8",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 7,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1328,
+          "nome": "1328_REGRAS_9.md",
+          "estado_principal": "administrativa",
+          "classificacao": "regra administrativa",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "4ec441e970c380d6298571d48538e48dcdbeb1211c4a52ac2e37f086d5ee7879",
+          "hash_normalizado": "5035de91f4876eb64715685a14cefbb8895375991e843ddfa695a13b4308b71e",
+          "duplicata_de": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 6,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1331,
+          "nome": "1331_All_Ears_English___2649_-_3_dicas_para_começar_a_pensar_em_inglês.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "ffe01d562fe5c616d649f9f810c6a885c854c918d4a2bde8354a2f89308a86e4",
+          "hash_normalizado": "a9ab11fc5c136377c6564d8c34e192775e25f76f99bb8fd5be669be99e0fa74a",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 8,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1333,
+          "nome": "1333_Aprenda_Inglês_com_Kendry___Pare_de_Estudar_Inglês_Comece_a_Assistir_Filmes.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "bc2e0165e03a1957eb30256a000348747b70fb4607b1872b741cc3ecc4b1f8c1",
+          "hash_normalizado": "d47e01b207d4ec1394815896837b78e4eb87105194614d369bf60286ebafbf68",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 20,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1334,
+          "nome": "1334_Aprenda_Inglês_com_Kendry___Aprenda_Inglês_Através_De_Filmes_Em_Inglês_Com_Legendas_Em_Português_(4).md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "d7baaa684defc64e82b6076a07c3f40ee5c161bf38fa403a2e0b61d52f5a0fca",
+          "hash_normalizado": "80972602c3182bb0e98c4b2defbfd18b197f6e4698c31fdf5ad301bd7cef97a9",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 6,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1337,
+          "nome": "1337_canal-all-ears-english.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "6448f94ac06b767a6c4595c7f4dad36d158fd7ebab92e77d58f05f17099ce716",
+          "hash_normalizado": "a109d97eda9a4e3eb56ba264ebd17dfc473abdd580ca4d6b057d2f6c3c65ed12",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A2-L10-1314-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 13,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1338,
+          "nome": "1338_canal-aprenda-ingles-com-kendry.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "3f87160470c1a13bef9943684f483164e68277587d0c346c430efbab2b314ee6",
+          "hash_normalizado": "f87076396cbd7760503f8b7d217ccaae59cebe5f8c849c547e258a6ae26faaab",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 7,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1339,
+          "nome": "1339_canal-basic-english-speaking.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte média"
+          ],
+          "hash_bruto": "b037134107579a8eb747a1852f840195ead9236240bea6bcc595b2482ee7fc12",
+          "hash_normalizado": "8ef22926aed356d521b80e92cc8b1b3b21e3efa598c59c82f5e2d0508793424e",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 3,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1341,
+          "nome": "1341_canal-derek-polyglot-escola-de-idiomas.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "affdb6e8d79e440e2f270724b815a817b1e7b739ebf0e38ed60bfeee8bbdc296",
+          "hash_normalizado": "0bc691052ed56da4122d04c741d45028db7f8b3239a45b430866c9381e90eae4",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 3,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1342,
+          "nome": "1342_canal-english-coach-chad.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "28bea1ee50f7205af779506bc82703367d7959dfd0c70137cc914d4b6717332c",
+          "hash_normalizado": "18d43e680d2b0b663b2a941a6eaa94b35529103c5c41302d5c2be4986bfcecde",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 22,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1343,
+          "nome": "1343_canal-english-cozy-chat.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "e9d885868a580a5a500853340eabee0141865deb02bff93fef9adaa3b71b212b",
+          "hash_normalizado": "ea7fb49926025b5bafb051b525b82137b309a76495bef42231a19ffb8daadac5",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 4,
+          "leitura_integral": true
+        }
+      ],
+      "quantidade": 13,
+      "ultima_fonte": 1343,
+      "proxima_fonte": 1344,
+      "total_acumulado": 13,
+      "conteudo_util_sem_destino": 0,
+      "amostra_manual": {
+        "numero": 1325,
+        "checkpoint": 1,
+        "conferencias": [
+          "começo",
+          "meio",
+          "fim",
+          "todas as divisões estruturais"
+        ],
+        "secoes_uteis_verificadas": true,
+        "secoes_descartadas_verificadas": false,
+        "destinos_validos": true,
+        "nuance_perdida": false,
+        "decisao_confirmada": true
+      },
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "hashes": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 2,
+      "fontes": [
+        {
+          "numero": 1344,
+          "nome": "1344_canal-english-evolution-step-1.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "54f23c8f1f8069a489e13e07154ec483444a69b6274d5a7800d3dabfee455e35",
+          "hash_normalizado": "64e855236ede9dc54610826256bed60abee02a3139409a86fd8d43a5fac9d74b",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 19,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1345,
+          "nome": "1345_canal-english-is-ez-with-connor.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "livro extenso"
+          ],
+          "hash_bruto": "d0f784cfb4db1040069833bcca4f9b197f422efe7307eae0301e74e74b438530",
+          "hash_normalizado": "dc86b127ed4c7ccdfb4d334b697a38e4de9f1998fc84de34c9c2864b4dc4a568",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 7,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1346,
+          "nome": "1346_canal-english-speaking-tv.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "livro extenso"
+          ],
+          "hash_bruto": "5571c2dc38486c5accf66c7c29fe2d6562b93ec21e4174d7d123c6e3d1bfdefc",
+          "hash_normalizado": "e5e92a2c2a6fb86ddb9d72e6e5529cdc37aa04ef93b419d83ffe2c71c98145ae",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 11,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1347,
+          "nome": "1347_canal-english-with-collins.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "caad52802bdf93073665caf70ea13baefb5f08dfac2a31cae2b8b1f3f14214b0",
+          "hash_normalizado": "0e350c5095ad8bace9183e534e50223b674c31de102254498d4998e83317b121",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 4,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1348,
+          "nome": "1348_canal-english-with-kayla-kayla.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "c3b9c0e0cd698b3cc0057343617ba247b5f61e1b5f16ac97abded87419de3454",
+          "hash_normalizado": "bd00977dffae586b74b790c0a2510d2eae4dded91c87fdc4f950f049156f2911",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 4,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1349,
+          "nome": "1349_canal-fale-ingles-agora.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "2916bd80ed17d40db084b2117b4dbfb7f6a5641d9598739f6941ae963a9251f3",
+          "hash_normalizado": "dcb40a596856566f2d36f4ca32d38563beaa9eb529570500c442cf6c305cba55",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 5,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1350,
+          "nome": "1350_canal-ingles-com-frases.md",
+          "estado_principal": "índice/navegação",
+          "classificacao": "índice ou navegação",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "c956c3b94ebab1583ad8c8109b406b032da8da51fa9eefcf8000db7ddbfcb11e",
+          "hash_normalizado": "679fffdc0dec8d7b0ed93ee9fa143556ba5d56b4c5be45abdf625576ab3859a8",
+          "duplicata_de": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 3,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1351,
+          "nome": "1351_canal-luke-s-english-podcast.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "2d1548b26696e4d4d0b7f8eebc647fe4a2a568b9b43de7ad5b04852943479460",
+          "hash_normalizado": "a2c537f3adc584ee25df453664002347f69e58190a20c717392d2b151048b15c",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 7,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1352,
+          "nome": "1352_canal-the-whole-human-experience.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "1b42ee093579f00e0485edc1f0063c3475e14865543d2eed1d951cd533e65fbc",
+          "hash_normalizado": "32bf594aa78941b1764e06c049a0368190bd37a2d5da5c5a04b92242692cd02d",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 4,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1353,
+          "nome": "1353_Daily_American_English___Stop_Studying_English,_Watch_Movies!_(Learn_Native_English).md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "b410d2499575be3a974f90eb93f032c19f322249e8032f758173ddb014b4dd6a",
+          "hash_normalizado": "807de9c96cf1cba5f02063011d8f3e19449affaac0fc2cbd6436a5da1e6a8374",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 20,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1355,
+          "nome": "1355_Derek_Polyglot_-_Escola_de_Idiomas___1000_FRASES_PARA_APRENDER_INGLÊS_-_PARTE_1_-_(_ÁUDIO__PORTUGUÊS_x_INGLÊS).md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte média"
+          ],
+          "hash_bruto": "5b21e2ecfd369396c25f1f2e3c9ed08a092b523fb58b6fc9ea494264d6061f8b",
+          "hash_normalizado": "de37cb7b1ce791fde3bfab89482014ad73e0902b666488195db7a053fa7bd120",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L8-0388-01",
+            "A2-L10-1314-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 20,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1356,
+          "nome": "1356_Derek_Polyglot_-_Escola_de_Idiomas___Aprenda_1200_FRASES_em_INGLÊS_para_usar_em_27_situações_diferentes.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "24b088f0179ff630dce2ff5d4f18e3d555b78621090e603d9f5c885cb387f26e",
+          "hash_normalizado": "bf478330486bceb5e99534a6103eb73ac23fd231428694221625e3719b2bb737",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01",
+            "B1-L12-0581-01",
+            "A2-L8-0388-01",
+            "B2-L6-0188-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 20,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1357,
+          "nome": "1357_English_Coach_Chad___English_SPEAKING_Practice_-_Let_s_say_it_together!.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "f8779e73cc3c5a23eb9621aa23f3aed960921644e3af7915d3d7aa5e74071bc0",
+          "hash_normalizado": "13ecb8b57c9596a12657a25cac59d8f06ea2897c893f5a7b137bd63fbbb5e1f7",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 6,
+          "leitura_integral": true
+        }
+      ],
+      "quantidade": 13,
+      "ultima_fonte": 1357,
+      "proxima_fonte": 1360,
+      "total_acumulado": 26,
+      "conteudo_util_sem_destino": 0,
+      "amostra_manual": {
+        "numero": 1344,
+        "checkpoint": 2,
+        "conferencias": [
+          "começo",
+          "meio",
+          "fim",
+          "todas as divisões estruturais"
+        ],
+        "secoes_uteis_verificadas": true,
+        "secoes_descartadas_verificadas": false,
+        "destinos_validos": true,
+        "nuance_perdida": false,
+        "decisao_confirmada": true
+      },
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "hashes": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 3,
+      "fontes": [
+        {
+          "numero": 1360,
+          "nome": "1360_English_Coach_Chad___SHADOWING_+_Speaking_Practice_=_English_Fluecy_Training.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "4de1bf5d1804ef152b68e2adfa6aad21f94c738634ea00c42e3da6bc6b00a994",
+          "hash_normalizado": "45aed3e99d3c470b34a6f0c20a8435a126b202fd7c0e596db477e6b05e245494",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 5,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1365,
+          "nome": "1365_English_Evolution_Step_1___Improve_English_Practice___English_Grammar_Tenses_A1.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "78ad30b97cbfb18382e2dcf8b9c845e1ff6b20a9652d4ff277d9868f335bc801",
+          "hash_normalizado": "57f17dd0b8a7ec2567394a10410406e8999cc472993417446a3ae65863eecbcd",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 19,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1366,
+          "nome": "1366_English_Evolution_Step_1___Improve_English_Practice__Real-life_Sentences_A1_to_A2.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "a62a94d09e4a2789705795dc7c867c23489bfb4494ffd3b3472d2fcadc7aaf59",
+          "hash_normalizado": "4e337e83b5c4e72d5469f961383d7fafa3ed9bbafff9138e08bbcadb50995b87",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 12,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1367,
+          "nome": "1367_English_Evolution_Step_1___Improve_English_Practice__Real-life_Sentences_From_A1_to_A2.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "99be510e5fa0523a2c9ba9d4b8005ecf94c3ab89e785329e5576e8ef81cb30f2",
+          "hash_normalizado": "b87be3adec007d20d8b2ad623f2217fc5c30da24d0bf7e2baeea8c8270e02356",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 10,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1368,
+          "nome": "1368_English_Evolution_Step_1___Improve_English_Practice__Transportation_in_English.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "6b28038153ad4b136416e276012524a528b800e3b4c57ff51126cf2cfd607d13",
+          "hash_normalizado": "5536d37ac426f3a649d7408cf5b7adf73d192e997f0978d194fde30a7b978933",
+          "duplicata_de": null,
+          "destinos": [
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 16,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1369,
+          "nome": "1369_English_Evolution_Step_1___Improve_English_Speaking_Practice__Action_Verbs_And_Phrases.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "15c45a228eb1bf9b69a474b03c3c7186a79f629e62f5a49ba83c1b5c0f47c2cb",
+          "hash_normalizado": "b5dfd7a88e1a58b0edcd407513f4ade8e91c4b5a9894b368f7dc898a7fb3a5c8",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L8-0388-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 5,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1370,
+          "nome": "1370_English_Evolution_Step_1___Improve_English__A1_English_Prepositions_&_Phrasal_Verbs.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "23ebb6673e01179da83328fa97a4dbec6e63ea5f74f632f3234405df8a1eae81",
+          "hash_normalizado": "92e97f1c1ad36d73000a0ca3dccfd5d6957ae8b29f42a57dd32f7da8d91d8e11",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 14,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1371,
+          "nome": "1371_English_Evolution_Step_1___Improve_English__Action_Verbs_In_English_A2_Examples.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "e35f0a08a386a9dde4484774b8ba2fab386cec9ecc3d556b127cfb85b85b9e24",
+          "hash_normalizado": "a86da9ebd4a0a4f7b97b67c4ba349b34fd0da15c49f6efb13bb41691a23a1128",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 12,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1372,
+          "nome": "1372_English_Evolution_Step_1___Improve_English__Action_Verbs_With_Pronouns_in_English_A1.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "f75f59104df9f034b3d65d7d8b64182ba8b34886a2f703540504fc9741e381b9",
+          "hash_normalizado": "89a7ea383a06f8a2696bcd0a3f02bb6cc66af5000bfb17cfd89a2fd32cc7e4bd",
+          "duplicata_de": null,
+          "destinos": [
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01",
+            "A2-L8-0388-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 17,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1373,
+          "nome": "1373_English_Evolution_Step_1___Personal_Pronouns_In_English_Grammar_for_(A1–C2).md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "0274904e43ad2dd770e59c33f53d47c9b15925744ad4ebe4ea1f90b27e65cce0",
+          "hash_normalizado": "5209dc53b427f2ee4a4a49068ff2197fad5d9e49ffbf06cd582627f9682ec90f",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 20,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1374,
+          "nome": "1374_English_is_EZ_with_Connor___how_to__actually__improve_your_English_speaking_skills_2.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "3674e30b2bddf285a547811a405e90f35f725661e202ad6a89fc86fec1706db5",
+          "hash_normalizado": "67674702c6242f62b7f51e63f50f251b681fc99a91fdf344e57abd299034c9c0",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 2,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1375,
+          "nome": "1375_English_is_EZ_with_Connor___how_to__actually__improve_your_English_speaking_skills.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "ab828518260b85f2dbceb63e644014c1ef4fa59d73806af96cbfc7aee15f683a",
+          "hash_normalizado": "c2cdee7c0cece7050604f95930546a668681b55b78e41ad5b4148927398e16f8",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 3,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1376,
+          "nome": "1376_English_is_EZ_with_Connor___the_BEST_way_to_improve_English_speaking_skills___4.5_Hours_of_Super_Sentences_speaking_practice.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "livro extenso"
+          ],
+          "hash_bruto": "a3691453182a98bd6dc98e3c0fcae7acb0cf920e616dd9c76a188e59d3da5770",
+          "hash_normalizado": "26c06eb62e29d72a1e61e9e46629ffebd3855a67f1597b6ecb392b64069e513d",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 13,
+          "leitura_integral": true
+        }
+      ],
+      "quantidade": 13,
+      "ultima_fonte": 1376,
+      "proxima_fonte": 1382,
+      "total_acumulado": 39,
+      "conteudo_util_sem_destino": 0,
+      "amostra_manual": {
+        "numero": 1360,
+        "checkpoint": 3,
+        "conferencias": [
+          "começo",
+          "meio",
+          "fim",
+          "todas as divisões estruturais"
+        ],
+        "secoes_uteis_verificadas": true,
+        "secoes_descartadas_verificadas": false,
+        "destinos_validos": true,
+        "nuance_perdida": false,
+        "decisao_confirmada": true
+      },
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "hashes": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 4,
+      "fontes": [
+        {
+          "numero": 1382,
+          "nome": "1382_English_With_Collins___Como_falar_inglês_melhor_RÁPIDO_(Técnicas_simples_que_funcionam).md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "29e6b982d215a095dcc566a528f445e673e0f3a7b6847a13e72a79adbb4de6ae",
+          "hash_normalizado": "5691471e75721f5e12672ed0ab3c6f35288fbfb22a6e6b87584fc9cf1e877467",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 20,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1383,
+          "nome": "1383_English_With_Kayla_(Kayla)___Ouça_e_Repita__FALE_inglês_comigo.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "5a08c9c5e3ae7502b2bff4312246720aff7bd91674b6573bb0f31cc8740797d4",
+          "hash_normalizado": "8ae1df7011578ef3fde866d4ca956f2231f0d4dcf4a9e9aa0a0a110b8f312d45",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 20,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1384,
+          "nome": "1384_Fale_inglês_agora___500_PERGUNTAS_E_RESPOSTAS_EM_INGLÊS_PARA_TREINAR_CONVERSAÇÃO_TODOS_OS_DIAS_🎧✨_INGLÊS_NA_PRÁTICA(1).md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "ae5bb44a972649bfc0c9f6d803cae1e5d1f3787ff2b0bfe5e3764e54d50fb420",
+          "hash_normalizado": "551850369edea600cc0ce31ed72b5762ffeeac1bbc7c72587bdbff66c6216996",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 20,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1385,
+          "nome": "1385_Fale_inglês_agora___500_PERGUNTAS_E_RESPOSTAS_EM_INGLÊS_PARA_TREINAR_CONVERSAÇÃO_TODOS_OS_DIAS_🎧✨_INGLÊS_NA_PRÁTICA.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "f02f7fdca043929b603c20ea8b0df81fea71a085b43cf00fc804c982d6bf958e",
+          "hash_normalizado": "0c70279f8cb4b3e69243b85de378ca7b6003f5703feff1ae86823b5ccad47f6c",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 20,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1386,
+          "nome": "1386_index_16.md",
+          "estado_principal": "índice/navegação",
+          "classificacao": "índice ou navegação",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "caf80bebef7764379d4f41f9c2068a38ec4c6fedfd78ea6177f1d336ef3aef61",
+          "hash_normalizado": "17de228ab08c1a3b498e210d24d2329ee7b56c13d0d185dbe1bce852ef578b63",
+          "duplicata_de": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 17,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1387,
+          "nome": "1387_Inglês_com_Frases___Aprenda_a_falar_Inglês_montando_frases._Aula_de_Inglês_para_conversação._#38.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "3d4ac5fdb73716e4fa68dae2e7d9da4e79d0277c595ba10734e0b1836a18f287",
+          "hash_normalizado": "a0a95042cae46e63a7a2f9c09076997d358ebf7bd9b6c65631a21a9b1cbdc186",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 16,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1389,
+          "nome": "1389_Luke_s_English_Podcast___How_to_Learn_English_with_my_podcast_🎧_[959].md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "7e23aa11edc5ce4264adfb4ababb88f2e9375063437f354a853fdb7315f5e79e",
+          "hash_normalizado": "06b8ad87b85bc25f54839adb007314732555c864cbebe5ced0391a3e89b5f404",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 4,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1390,
+          "nome": "1390_REGRAS_10.md",
+          "estado_principal": "administrativa",
+          "classificacao": "regra administrativa",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "b1554ac05e3c64de64494cc83cedbfca251b49175f329fb4ab0fd15d210abff0",
+          "hash_normalizado": "c7bc8f6f57a693727177a4e01b74be8a9944fe997971fbf99a41074056823bb3",
+          "duplicata_de": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 6,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1391,
+          "nome": "1391_The_Whole_Human_Experience___A_More_Human_Way_to_Learn_Languages___Valentina_Mazeikaite.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "fonte curta"
+          ],
+          "hash_bruto": "6d50464837c03befce1e70e42860e92e946bd94fbdc53800265bb540d4e18b51",
+          "hash_normalizado": "ee51eb35d097ba0acd6d4a6378261200d05c82f722d7bcc9f0eff6db2d5f773d",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "B2-L6-0188-02",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 20,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1392,
+          "nome": "1392_01_American_Accent_Training.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "livro extenso"
+          ],
+          "hash_bruto": "d96b4df1e15c1c31ac27c304b91da1ab82c6c1142b40b11e860f0d4d9940fcc5",
+          "hash_normalizado": "8476b3af9976580561953ab40aa1792ce94ec88f6c198ca7cb6e1491d316ea3d",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 208,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1393,
+          "nome": "1393_01_American_Accent_Training_2.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "livro extenso"
+          ],
+          "hash_bruto": "8834d5e8645dd44376589458a5c7ad2e7a941fa5980923fb8efce96c4f2a8ed4",
+          "hash_normalizado": "8476b3af9976580561953ab40aa1792ce94ec88f6c198ca7cb6e1491d316ea3d",
+          "duplicata_de": 1392,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 208,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1394,
+          "nome": "1394_02_Mastering_the_American_Accent_(Lisa_Mojsin)_(z-lib.org).md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "fonte canônica nova",
+          "caracteristicas": [
+            "livro extenso"
+          ],
+          "hash_bruto": "e00457cee2aa3ce10f40fd1d23059a537eb909a3ac47904aa1c9e499012d9b82",
+          "hash_normalizado": "f091e8face5603c6a5de8c8f3a176c4b2f7da4afaa623a32a1b494028e2148fe",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 211,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1395,
+          "nome": "1395_02_Mastering_the_American_Accent_(Lisa_Mojsin)_(z-lib.org)_2.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "livro extenso"
+          ],
+          "hash_bruto": "6c3614e2dda2c073cb3c4d16732d8027d0d5be4813c7b6a879723f48b9a3677f",
+          "hash_normalizado": "f091e8face5603c6a5de8c8f3a176c4b2f7da4afaa623a32a1b494028e2148fe",
+          "duplicata_de": 1394,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 211,
+          "leitura_integral": true
+        }
+      ],
+      "quantidade": 13,
+      "ultima_fonte": 1395,
+      "proxima_fonte": 1398,
+      "total_acumulado": 52,
+      "conteudo_util_sem_destino": 0,
+      "amostra_manual": {
+        "numero": 1382,
+        "checkpoint": 4,
+        "conferencias": [
+          "começo",
+          "meio",
+          "fim",
+          "todas as divisões estruturais"
+        ],
+        "secoes_uteis_verificadas": true,
+        "secoes_descartadas_verificadas": false,
+        "destinos_validos": true,
+        "nuance_perdida": false,
+        "decisao_confirmada": true
+      },
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "hashes": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 5,
+      "fontes": [
+        {
+          "numero": 1398,
+          "nome": "1398_index_17.md",
+          "estado_principal": "índice/navegação",
+          "classificacao": "índice ou navegação",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "7dac5a96ca69bf7dc59043fc43a7fabb3ca0a1091ff3ee724585a733ebdeb093",
+          "hash_normalizado": "abd6a63cec029f1102d1f787c8696aacf98905610967676c413dcc6e58cb6d88",
+          "duplicata_de": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 4,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1399,
+          "nome": "1399_livro01_10.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte média"
+          ],
+          "hash_bruto": "6f21f18dd4a7f44f43ce7d2a8f58d3a4e35b6b52a1d4026062e6d6411d1e81e8",
+          "hash_normalizado": "5ec32cc601079a94a58f3da8fa51857d456632691e3d8a6d22feacd1ffccaabc",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 48,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1400,
+          "nome": "1400_livro02_9.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte média"
+          ],
+          "hash_bruto": "aa7e8635b46d31a2bb97393841351d71e789e1e6907fd8f551a584a031a85ccf",
+          "hash_normalizado": "765868ea371c69074a0e6e3e9518446e247b6c812759a59a09b54c2a4a6d31e8",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 16,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1401,
+          "nome": "1401_livro03_10.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "bb8224c3462e79968519832dfb8a99e70131b57c1445885399f143d77e0b2e5b",
+          "hash_normalizado": "5efb66d843ffbf5d18276eec2b8e81035eb289c286717c5d0014bca6f7185543",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 19,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1407,
+          "nome": "1407_03_English_for_Everyone_Course_Book_Level_3_Intermediate_A_Complete_Self-Study_Programme_2.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "livro extenso"
+          ],
+          "hash_bruto": "31d1ee0d4fce0a699f431239132dfea3c20516a92842345e79885d40f33703ec",
+          "hash_normalizado": "0374e1d4d0bc0a6e3374ff97b6a5bffda3260f93968b0fd7430580d772662f7b",
+          "duplicata_de": 1406,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 264,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1410,
+          "nome": "1410_index_18.md",
+          "estado_principal": "índice/navegação",
+          "classificacao": "índice ou navegação",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "5beaf922c3ec005b527414196d62e888ab16ffbe4dec6f8a89bbf7315dff1f97",
+          "hash_normalizado": "9b05094877e7669fc4044fe3503a4dbf694dab079f158349e87652ee6097e7e5",
+          "duplicata_de": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 5,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1411,
+          "nome": "1411_livro01_11.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "4cef30835af07e6ae26c7480b70bd57510250889456f8b72347999edd3c9f862",
+          "hash_normalizado": "dceb5e64036d16e592ca9091519387e63dec53efa943e090a263cdd5e1336ac5",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 35,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1412,
+          "nome": "1412_livro02_10.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "a65d0071e5a7105f5da052c20691b51d66cfe95f6645c60fe5ba7078475617db",
+          "hash_normalizado": "fb487496e995185b7d64f14468f758ad2cc55628c0e032d8fe1c155d6207b800",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 33,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1413,
+          "nome": "1413_livro03_11.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "0c717d8f7227b82c39350c6fc5a7b0f6fc4cbc1f5a75bdd09fb952e598540f7b",
+          "hash_normalizado": "b9d145b6617cf45a386c6ed006d8c05004a68a5fa814f0b0b563307767b41060",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 29,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1414,
+          "nome": "1414_livro04_9.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "92579cd66c0ac2e763f130adc26171eb33709c2e3b8cd99600e502d955c1c80e",
+          "hash_normalizado": "9d59ef88c29823f4e75e687b98069f4817eec6257c0945a5bade21a36589c673",
+          "duplicata_de": null,
+          "destinos": [
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "B2-L6-0188-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 31,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1425,
+          "nome": "1425_index_19.md",
+          "estado_principal": "índice/navegação",
+          "classificacao": "índice ou navegação",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "3c0f275ef4acc3b2ef0f20d0cc8c30eba6f4c8a3d11c51a5cc6411bcee8dc7b3",
+          "hash_normalizado": "26a4c5e11b75732af9dd48208c45ae32b6d427974122106317a5fa7b3ec1f234",
+          "duplicata_de": null,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 6,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1426,
+          "nome": "1426_livro01_12.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "7993bb3a35ff68b6249142f65c3ab6a4e7a89f75ef1bb062c18199491886addb",
+          "hash_normalizado": "69f33eee0232a1b93003a60ea14db273b5749eb0119c50ba977523f2dadf6eff",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 16,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1427,
+          "nome": "1427_livro02_11.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "4cac05db7786410219caa47377af35ab0e80812e71565f23650768182a820462",
+          "hash_normalizado": "8d2d6501982188e7b2b81652047ede477f708e9da209604fd1c0d85353b2f65c",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 17,
+          "leitura_integral": true
+        }
+      ],
+      "quantidade": 13,
+      "ultima_fonte": 1427,
+      "proxima_fonte": 1428,
+      "total_acumulado": 65,
+      "conteudo_util_sem_destino": 0,
+      "amostra_manual": {
+        "numero": 1398,
+        "checkpoint": 5,
+        "conferencias": [
+          "começo",
+          "meio",
+          "fim",
+          "todas as divisões estruturais"
+        ],
+        "secoes_uteis_verificadas": false,
+        "secoes_descartadas_verificadas": true,
+        "destinos_validos": true,
+        "nuance_perdida": false,
+        "decisao_confirmada": true
+      },
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "hashes": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    },
+    {
+      "checkpoint": 6,
+      "fontes": [
+        {
+          "numero": 1428,
+          "nome": "1428_livro03_12.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "d62eb33c0403c7c4043d4aef639aa85b54f3775f34e6cd1fbf60c52374d43df6",
+          "hash_normalizado": "c7c492c3e90535b738374085e6460b929f9c9a9bdf7a176c23ed994f96289741",
+          "duplicata_de": null,
+          "destinos": [
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 17,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1429,
+          "nome": "1429_livro04_10.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "2e94e68a075bcb938174ee0b6052167ff0e0e31bff55fa7506bf1a9bdcd71b96",
+          "hash_normalizado": "9f60339c42600e01213fd2c469257ceca6a441f4f0600e7fc14517a9bc5265b3",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 18,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1430,
+          "nome": "1430_livro05_5.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "e7961cc3f10032851735ae90bd47f7e384cf1f3108d7ecccbc2879a0d5fbdcdb",
+          "hash_normalizado": "e4340f65156b2b6f773786c399e5071add91b7f27b289540593f1ba0b490ecca",
+          "duplicata_de": null,
+          "destinos": [
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 17,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1444,
+          "nome": "1444_07_English_Pronunciation_in_Use._Advanced_2.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "livro extenso"
+          ],
+          "hash_bruto": "f6cd10cd2e4ecbbe7971e50855abb248abdb0864c6e56bf437d4881fd6afe14f",
+          "hash_normalizado": "99378b88254e962fd3f5098b0fa1094b94d479a4633e5ac60024124f623ee15b",
+          "duplicata_de": 1443,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 191,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1446,
+          "nome": "1446_08_Reactivate_Your_Grammar_And_Vocabulary_C1C2_-_Exams_2.md",
+          "estado_principal": "duplicata integral",
+          "classificacao": "duplicata",
+          "caracteristicas": [
+            "livro extenso"
+          ],
+          "hash_bruto": "8d9da5075a286efd6632605707d163244387b92b67a08f795f17a65bf9b86fdf",
+          "hash_normalizado": "e0f2f18b8a00e8c868645f52ec714b724363f6b4929a7ca85eaa8a2115daf573",
+          "duplicata_de": 1445,
+          "destinos": [],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 259,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1448,
+          "nome": "1448_livro01_13.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "2fed01314848bbe101cef6e0f1028e9c6daa5ccafaa6c733c88b0b477355d168",
+          "hash_normalizado": "4092391900d6d705edf8821a69cce197c557d62dd3e2f1ef512faa4e0e8f13ca",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 21,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1449,
+          "nome": "1449_livro02_12.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "bedc22adc13d5afe300a23a4123fcdfcc72bcefd5380c35692716554ce930eed",
+          "hash_normalizado": "8365dcf29d4739ba9ee5d13dcea5853941e08b9c2f52829e6951e81f231e7904",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A2-L10-1314-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 21,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1450,
+          "nome": "1450_livro03_13.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "35ea46fd6cb712998ed278e468ff348d6b9c30f1b7edeee7f9fa76c9d6c5ad90",
+          "hash_normalizado": "821d64b98d33af49cc57c1aed5492edb65298a0861cca12e3e610a884474ae16",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 29,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1451,
+          "nome": "1451_livro04_11.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "19b5930fc33642c661b4a0cd4b01979f2df900cb8592488021f2f97691e91fc5",
+          "hash_normalizado": "c4009c485631670d8a55e41fa4680dfff09cc7d3efa9f24b7cb1ba41071036a4",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 30,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1452,
+          "nome": "1452_livro05_6.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "7100ea7f2dc7fd1dcb08774ad7178dfde1085837638b0795db2f3adc7e3a969d",
+          "hash_normalizado": "487cd6511a52a81892092112256eb76041708087f4d0871e000efc97c6612b01",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 19,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1453,
+          "nome": "1453_livro06_4.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte média"
+          ],
+          "hash_bruto": "e2f8bb54bb8671151c4459dc6122ea369abb0e300411f3b3da78871d66e4b3ad",
+          "hash_normalizado": "d7df66329b205dc05c2f4adc04babd3ab888dc305c98a0e247960effa5c71b94",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A2-L10-1314-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 31,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1454,
+          "nome": "1454_livro07_2.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "b442dcaafa2924e1c60497eaabcf6fe5275fa87d31c7ffb702bb083c5e00519d",
+          "hash_normalizado": "c40c221f71ec628e1d383d297dc5a2a0ecf58460137319ee9748f197f28794d8",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-PRON-0001",
+            "B2-L11-1202-01",
+            "B2-L11-1316-01",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 27,
+          "leitura_integral": true
+        },
+        {
+          "numero": 1455,
+          "nome": "1455_livro08_2.md",
+          "estado_principal": "integralmente classificada",
+          "classificacao": "curadoria derivada",
+          "caracteristicas": [
+            "curadoria derivada",
+            "fonte curta"
+          ],
+          "hash_bruto": "2155fe49cc560609ae926894e7f2e90a65b5e0ab52f46925cb70422d6984b66e",
+          "hash_normalizado": "a3ba23d51030ece41b46782cab4f9100f19191126fce39fdba52ccc95e03757d",
+          "duplicata_de": null,
+          "destinos": [
+            "A1-GRAM-0001",
+            "A1-GRAM-0005",
+            "A2-GRAM-0004",
+            "A2-GRAM-0012",
+            "A2-GRAM-0013",
+            "B1-L8-0321-01",
+            "B2-L3-0039-02",
+            "A1-L4-0100-01",
+            "A1-L6-0179-01",
+            "A2-L8-0388-01",
+            "B1-L12-0581-01",
+            "B2-L6-0188-02",
+            "A1-L4-1521-01",
+            "A2-L5-0128-01",
+            "B1-L15-0841-01",
+            "A2-L10-1378-01",
+            "A2-L10-1314-01"
+          ],
+          "conteudo_util_sem_destino": 0,
+          "secoes_decididas": 22,
+          "leitura_integral": true
+        }
+      ],
+      "quantidade": 13,
+      "ultima_fonte": 1455,
+      "proxima_fonte": 1456,
+      "total_acumulado": 78,
+      "conteudo_util_sem_destino": 0,
+      "amostra_manual": {
+        "numero": 1428,
+        "checkpoint": 6,
+        "conferencias": [
+          "começo",
+          "meio",
+          "fim",
+          "todas as divisões estruturais"
+        ],
+        "secoes_uteis_verificadas": true,
+        "secoes_descartadas_verificadas": false,
+        "destinos_validos": true,
+        "nuance_perdida": false,
+        "decisao_confirmada": true
+      },
+      "validacoes_incrementais": {
+        "json": true,
+        "javascript": true,
+        "ids_unicos": true,
+        "destinos_validos": true,
+        "prerequisitos_preservados": true,
+        "hashes": true,
+        "arvores_externas_intactas": true,
+        "arquivos_proibidos": 0
+      }
+    }
+  ]
+}
