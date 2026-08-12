@@ -1,0 +1,28 @@
+{
+  "lote": "047",
+  "intervalo": [
+    1235
+  ],
+  "sequenciais": [
+    {
+      "numero": 1235,
+      "nome": "1235_04_American_English_File_4_-_Student_Book_With_Online_Practice_-_Third_Edition_D30.md",
+      "tamanho_bytes": 615067,
+      "total_linhas": 18473,
+      "hash_bruto": "65af7336aaee928938de658249b80cf02c494d799b0d77e5635519913777f0cd",
+      "hash_normalizado": "c6220174a8e7ebb994ca35abfc06b3a2ed52658583610d3abed31f779a7aa187",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "paginas_presentes": 169,
+      "partes": 18,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1235,
+    "testes": "24/24",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1235; nenhuma fonte posterior foi aberta."
+}

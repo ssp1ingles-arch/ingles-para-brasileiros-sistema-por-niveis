@@ -304,3 +304,9 @@ Os dez Files, cinco episódios funcionais e bancos de apoio foram separados por 
 
 A comparação 1233×1234 confirmou igualdade integral do corpo, paginação, Files, lições, exercícios, respostas e índices. Somente metadados sanitizados foram registrados.
 <!-- LOTE-046-MAPEAMENTO:FIM -->
+
+<!-- LOTE-047-MAPEAMENTO:INICIO -->
+## Lote 047 — mapeamento
+
+Os dez Files, vinte lições, cinco revisões, cinco episódios funcionais e bancos de apoio foram separados em 18 blocos por objetivo de gramática, vocabulário, pronúncia, escuta, conversação e escrita. Todo conteúdo útil recebeu destino específico e somente metadados sanitizados foram incorporados.
+<!-- LOTE-047-MAPEAMENTO:FIM -->

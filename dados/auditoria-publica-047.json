@@ -1,0 +1,16 @@
+{
+  "lote": "047",
+  "resultado": "APROVADO",
+  "arquivo_fonte": {
+    "hashes_conferidos": 1547,
+    "hashes_aprovados": 1547,
+    "modificacoes": 0
+  },
+  "publicacao": {
+    "arquivos_proibidos": 0,
+    "segredos_ou_credenciais": 0,
+    "caminhos_pessoais_novos": 0,
+    "conteudo_bruto_novo": 0,
+    "staged_analisado": 913
+  }
+}

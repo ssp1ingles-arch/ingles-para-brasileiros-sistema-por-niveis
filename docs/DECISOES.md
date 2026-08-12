@@ -373,3 +373,9 @@
 
 1234 possui corpo didático integralmente idêntico a 1233 e foi consolidada como extração alternativa, preservando 1233 como canônica e sem republicação.
 <!-- LOTE-046-DECISOES:FIM -->
+
+<!-- LOTE-047-DECISOES:INICIO -->
+## Decisões do lote 047
+
+1235 foi mapeada por objetivos reais B1–C1 em 169 páginas e consolidada somente em destinos existentes. Não foram criadas unidades ou atividades, nem reproduzidos exercícios, respostas, transcrições, tabelas, imagens, mídia ou IPA em massa.
+<!-- LOTE-047-DECISOES:FIM -->

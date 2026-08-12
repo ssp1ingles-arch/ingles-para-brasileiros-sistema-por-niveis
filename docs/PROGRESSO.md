@@ -1,6 +1,6 @@
 # Progresso
 
-Atualizado em 2026-08-12 após o lote 046.
+Atualizado em 2026-08-12 após o lote 047.
 
 <!-- ESTADO-ATUAL:INICIO -->
 ## Estado atual confirmado
@@ -8,13 +8,13 @@ Atualizado em 2026-08-12 após o lote 046.
 > Bloco calculado automaticamente por `scripts/atualizar-progresso.mjs`. Não editar os números manualmente.
 
 - Total de fontes: **1.547**
-- Fontes integralmente classificadas: **443**
+- Fontes integralmente classificadas: **444**
 - Duplicatas consolidadas: **791**
 - Fontes parcialmente analisadas: **0**
 - Fontes sem conteúdo didático: **45**
-- Total tratado: **1279**
-- Fontes não analisadas: **268**
-- Cobertura real: **82,68%** (`1279 ÷ 1.547`)
+- Total tratado: **1280**
+- Fontes não analisadas: **267**
+- Cobertura real: **82,74%** (`1280 ÷ 1.547`)
 - Unidades publicadas: **834**
 - Por nível: A1 **80**; A2 **360**; B1 **270**; B2 **95**; C1 **18**; C2 **5**; Kids **6**
 - Habilidade principal: Conversação **103**; Escrita **7**; Escuta **15**; Gramática **282**; Inglês acadêmico **15**; Inglês profissional **5**; Leitura **13**; Pronúncia **21**; Verbos **339**; Vocabulário **34**
@@ -23,8 +23,8 @@ Atualizado em 2026-08-12 após o lote 046.
 - Atividades: **1977** — identificar_contraste **30**; parear **655**; producao_autorrevisao **755**; reordenar **537**
 - Testes executados e aprovados: **1468/1468**
 - Rotas HTML existentes: **11** — `estudar.html`, `index.html`, `jornada.html`, `niveis/a1/index.html`, `niveis/a2/index.html`, `niveis/b1/index.html`, `niveis/b2/index.html`, `niveis/c1/index.html`, `niveis/c2/index.html`, `niveis/kids/index.html`, `praticar.html`
-- Última fonte sequencial tratada: `1234_03_American_English_File_3_-_Student_Book_With_Online_Practice_-_Third_2.md`
-- Próxima fonte sequencial: `1235_04_American_English_File_4_-_Student_Book_With_Online_Practice_-_Third_Edition_D30.md`
+- Última fonte sequencial tratada: `1235_04_American_English_File_4_-_Student_Book_With_Online_Practice_-_Third_Edition_D30.md`
+- Próxima fonte sequencial: `1236_04_American_English_File_4_-_Student_Book_With_Online_Practice_-_Third_Edition_D30_2.md`
 <!-- ESTADO-ATUAL:FIM -->
 
 ## Lote 007
