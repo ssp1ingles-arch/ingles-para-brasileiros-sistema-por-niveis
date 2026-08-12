@@ -1,0 +1,525 @@
+{
+  "lote": "040",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1223,
+        1224
+      ],
+      "executada_apos_validacao_1223": true,
+      "tamanhos": [
+        28490,
+        44886
+      ],
+      "hashes_brutos": [
+        "006f5ba3e73ff8feb67ca9e4a651f3f50f51c137becba552d99846ebd5b5215d",
+        "85dd2e03ccf543cb36548c01608e217ec19db70ae312bc7573ab425d9564fc08"
+      ],
+      "hashes_normalizados": [
+        "217d42d920bb5b99309f14ad8df0f3ca2654bc39f1fbfc5ea0cbe5fd967baf3c",
+        "deeb69af8f606cc666dc41677c5fd786de6d3598f446adcd0ce26b8648460cef"
+      ],
+      "corpo_integral_igual": false,
+      "estrutura_igual": false,
+      "secoes": [
+        6,
+        22
+      ],
+      "tema_1223": "inventário de sons e regras",
+      "tema_1224": "diagnóstico de contrastes e erros",
+      "sobreposicao": "vogais, ditongos, consoantes e stress com organização diferente",
+      "conteudo_exclusivo_1223": "inventário completo, clusters, plural/-ed e sufixos",
+      "conteudo_exclusivo_1224": "substituições, pares mínimos, consequências de sentido, ritmo e entonação",
+      "classificacao": "fontes independentes e complementares, não duplicatas",
+      "decisao": "consolidar procedências em destinos existentes"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1223,
+      "nome_completo": "1223_livro02_4.md",
+      "tipo": "curadoria didática de sistema de sons",
+      "tamanho_bytes": 28490,
+      "hash_bruto": "006f5ba3e73ff8feb67ca9e4a651f3f50f51c137becba552d99846ebd5b5215d",
+      "hash_normalizado": "217d42d920bb5b99309f14ad8df0f3ca2654bc39f1fbfc5ea0cbe5fd967baf3c",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "secoes_presentes": 6,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "secoes_didaticas": 6,
+        "subsecoes": 20,
+        "itens_declarados": 183,
+        "sons_mapeados": 41,
+        "ipa": true,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": false,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "relacao_fontes_anteriores": {
+        "obra_base": 1202,
+        "duplicata_integral_da_obra_base": false,
+        "curadoria_derivada": true,
+        "complementar_a_1222": true
+      },
+      "partes": [
+        {
+          "id": "vogais",
+          "secao": 1,
+          "natureza": "onze vogais, articulação e pares mínimos",
+          "decisao": "consolidar procedência em unidade existente",
+          "destino_curricular_especifico": "B2-L11-1202-01",
+          "justificativa": "Inventário vocálico pertence à unidade da obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "ditongos",
+          "secao": 2,
+          "natureza": "seis ditongos, movimento articulatório e pares mínimos",
+          "decisao": "consolidar procedência em unidade existente",
+          "destino_curricular_especifico": "B2-L11-1202-01",
+          "justificativa": "Inventário de ditongos pertence à unidade da obra-base.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "consoantes",
+          "secao": 3,
+          "natureza": "vinte e quatro consoantes, voz, articulação e contrastes",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B2-L11-1202-01",
+          "destinos_adicionais": [
+            "B1-L14-1203-01"
+          ],
+          "justificativa": "Inventário e contrastes articulatórios já têm destinos amplos específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "encontros",
+          "secao": 4,
+          "natureza": "encontros consonantais iniciais, mediais e finais",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B2-L11-1202-01",
+          "destinos_adicionais": [
+            "B1-L14-1203-01"
+          ],
+          "justificativa": "Prática articulatória de clusters integra os destinos existentes.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "plural-ed",
+          "secao": 5,
+          "natureza": "realizações de plural -s/-es e passado -ed",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B2-L11-1202-01",
+          "destinos_adicionais": [
+            "B1-L14-1203-01"
+          ],
+          "justificativa": "Regras morfofonológicas e inteligibilidade já são cobertas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "tonica",
+          "secao": 6,
+          "natureza": "tônica de palavras longas, sufixos, compostos e siglas",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B2-L11-1202-01",
+          "destinos_adicionais": [
+            "B1-L14-1203-01"
+          ],
+          "justificativa": "Stress lexical e prática de ritmo já possuem destinos específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "ipa-tabelas-interface",
+          "secao": "transversal",
+          "natureza": "IPA, tabelas, listas extensas, exemplos, cabeçalho e busca",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Objetivos destinados sem republicar recorte extenso, tabelas ou interface.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 7,
+        "consolidadas": 6,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Curadoria classificada por objetivos; somente procedências sanitizadas."
+    },
+    {
+      "numero": 1224,
+      "nome_completo": "1224_livro03_4.md",
+      "tipo": "curadoria didática por contrastes e erros de pronúncia",
+      "tamanho_bytes": 44886,
+      "hash_bruto": "85dd2e03ccf543cb36548c01608e217ec19db70ae312bc7573ab425d9564fc08",
+      "hash_normalizado": "deeb69af8f606cc666dc41677c5fd786de6d3598f446adcd0ce26b8648460cef",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "blocos_presentes": 22,
+        "ausentes": [],
+        "repetidos": [],
+        "vazios": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false,
+        "contagem_visual_ausente": true
+      },
+      "estrutura": {
+        "blocos_didaticos": 22,
+        "licoes_declaradas": 42,
+        "ipa": true,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_presentes": true,
+        "respostas_presentes": false,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "relacao_fontes_anteriores": {
+        "obra_base": 1203,
+        "duplicata_integral_da_obra_base": false,
+        "curadoria_derivada": true,
+        "sobreposicao_com_1223": "ampla nos sons, distinta por método diagnóstico e pares mínimos",
+        "conteudo_exclusivo": "mapa de substituições, consequências lexicais, stress, ritmo, entonação e foco brasileiro"
+      },
+      "partes": [
+        {
+          "id": "bloco-01",
+          "secao": 1,
+          "natureza": "i longo e curto",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-02",
+          "secao": 2,
+          "natureza": "eɪ, ɛ e æ",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-03",
+          "secao": 3,
+          "natureza": "æ e ɑ",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-04",
+          "secao": 4,
+          "natureza": "ʌ, oʊ e ɔ",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-05",
+          "secao": 5,
+          "natureza": "u e ʊ",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-06",
+          "secao": 6,
+          "natureza": "r vocálico e schwa",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-07",
+          "secao": 7,
+          "natureza": "ditongos aʊ, aɪ e ɔɪ",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-08",
+          "secao": 8,
+          "natureza": "stress lexical",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-09",
+          "secao": 9,
+          "natureza": "stress de frase",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-10",
+          "secao": 10,
+          "natureza": "contração, blending e redução",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-11",
+          "secao": 11,
+          "natureza": "entonação",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-12",
+          "secao": 12,
+          "natureza": "s e z",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-13",
+          "secao": 13,
+          "natureza": "t e d",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-14",
+          "secao": 14,
+          "natureza": "TH surdo",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-15",
+          "secao": 15,
+          "natureza": "TH sonoro",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-16",
+          "secao": 16,
+          "natureza": "ʃ e tʃ",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-17",
+          "secao": 17,
+          "natureza": "ʒ, dʒ e j",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-18",
+          "secao": 18,
+          "natureza": "p e b",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-19",
+          "secao": 19,
+          "natureza": "f, v e b",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-20",
+          "secao": 20,
+          "natureza": "h e w",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-21",
+          "secao": 21,
+          "natureza": "l e r",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "bloco-22",
+          "secao": 22,
+          "natureza": "oclusivas finais e nasais",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "destinos_adicionais": [
+            "B2-L11-1202-01"
+          ],
+          "justificativa": "Contrastes articulatórios, pares mínimos, stress e ritmo já possuem destinos curriculares amplos e específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "exercicios-respostas-tabelas-editorial",
+          "secao": "transversal",
+          "natureza": "pares, exercícios, traduções, tabelas, IPA, diálogos e interface",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Os objetivos foram destinados sem republicação extensa ou respostas.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 23,
+        "consolidadas": 22,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Curadoria classificada sem republicar exercícios, pares, tabelas ou IPA."
+    }
+  ]
+}

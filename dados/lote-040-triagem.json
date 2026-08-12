@@ -1,0 +1,42 @@
+{
+  "lote": "040",
+  "intervalo": [
+    1223,
+    1224
+  ],
+  "sequenciais": [
+    {
+      "numero": 1223,
+      "nome": "1223_livro02_4.md",
+      "tamanho_bytes": 28490,
+      "hash_bruto": "006f5ba3e73ff8feb67ca9e4a651f3f50f51c137becba552d99846ebd5b5215d",
+      "hash_normalizado": "217d42d920bb5b99309f14ad8df0f3ca2654bc39f1fbfc5ea0cbe5fd967baf3c",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "curadoria didática de sistema de sons",
+      "secoes": 6,
+      "partes": 7,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1224,
+      "nome": "1224_livro03_4.md",
+      "tamanho_bytes": 44886,
+      "hash_bruto": "85dd2e03ccf543cb36548c01608e217ec19db70ae312bc7573ab425d9564fc08",
+      "hash_normalizado": "deeb69af8f606cc666dc41677c5fd786de6d3598f446adcd0ce26b8648460cef",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "curadoria didática por contrastes e erros de pronúncia",
+      "blocos": 22,
+      "partes": 23,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1223,
+    "testes": "17/17",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1224, antes de 1225; fontes independentes e complementares."
+}

@@ -1,0 +1,74 @@
+{
+  "total": 17,
+  "aprovados": 17,
+  "resultados": [
+    {
+      "teste": "leitura",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "seções",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "decisões",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "destinos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero sem destino",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "integridade",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "UTF-8",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem automação",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sem reprodução",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "sanitização",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash bruto",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash normalizado",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "estrutura",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "834 IDs",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1977 atividades",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "95 subpainéis",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "barreira",
+      "resultado": "APROVADO"
+    }
+  ]
+}

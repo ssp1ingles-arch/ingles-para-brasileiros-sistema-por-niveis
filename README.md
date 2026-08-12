@@ -32,7 +32,7 @@ As auditorias de rotas exigem o servidor local em execução. Consulte `docs/PRO
 
 ## Checkpoint
 
-Após o lote 039: 1.267 de 1.547 fontes tratadas (81,90%), 834 unidades, 95 subpainéis, 1.977 atividades, Jornada com 806 unidades presentes e 28 complementares, 1.264/1.264 testes e 11/11 rotas.
+Após o lote 040: 1.269 de 1.547 fontes tratadas (82,03%), 834 unidades, 95 subpainéis, 1.977 atividades, Jornada com 806 unidades presentes e 28 complementares, 1.312/1.312 testes e 11/11 rotas.
 
 O progresso deve ser atualizado exclusivamente por:
 

@@ -329,3 +329,11 @@
 - Destinar suas quinze seções a unidades existentes de stress, contrações, reduções, T americano, linking, entonação e prática dialogada.
 - Não republicar tabelas, listas, IPA, diálogos ou recortes extensos; preservar interface, Jornada, IDs e localStorage; encerrar antes de 1223.
 <!-- LOTE-039-DECISOES:FIM -->
+
+<!-- LOTE-040-DECISOES:INICIO -->
+## Decisões do lote 040
+
+- 1223: inventário de sons e regras consolidado em unidades existentes.
+- 1224: mapa diagnóstico de 22 contrastes consolidado sem republicar exercícios, IPA ou tabelas.
+- Fontes independentes e complementares; encerramento antes de 1225.
+<!-- LOTE-040-DECISOES:FIM -->

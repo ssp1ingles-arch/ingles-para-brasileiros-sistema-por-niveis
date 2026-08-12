@@ -262,3 +262,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1221 reúne seis seções de registro coloquial, expressões, respostas, chunks cotidianos e linguagem digital. 1222 reúne quinze seções técnicas de pronúncia e é uma curadoria própria da obra-base 1202, com sobreposição parcial a 1214–1218. Ambas foram consolidadas em destinos existentes, sem reprodução extensa.
 <!-- LOTE-039-MAPEAMENTO:FIM -->
+
+<!-- LOTE-040-MAPEAMENTO:INICIO -->
+## Lote 040 — mapeamento
+
+1223 cobre o sistema de sons; 1224 cobre confusões articulatórias, pares mínimos, stress, ritmo e entonação. Procedências sanitizadas em B1-L14-1203-01 e B2-L11-1202-01.
+<!-- LOTE-040-MAPEAMENTO:FIM -->

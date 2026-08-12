@@ -6904,6 +6904,18 @@
         "arquivo_original": "livro01.html",
         "pagina": "página HTML didática",
         "secao": "objetivo curricular classificado"
+      },
+      {
+        "arquivo": "1223_livro02_4.md",
+        "arquivo_original": "livro02.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
+      },
+      {
+        "arquivo": "1224_livro03_4.md",
+        "arquivo_original": "livro03.html",
+        "pagina": "página HTML didática",
+        "secao": "objetivo curricular classificado"
       }
     ]
   },
