@@ -143,6 +143,10 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-041/resultados-validacao-041.json'
   ,'docs/evidencias/lote-041/resultados-comparacao-041.json'
   ,'docs/evidencias/lote-041/resultados-rotas-041.json'
+  ,'docs/evidencias/lote-042/resultados-intermediarios-1227.json'
+  ,'docs/evidencias/lote-042/resultados-validacao-042.json'
+  ,'docs/evidencias/lote-042/resultados-comparacao-042.json'
+  ,'docs/evidencias/lote-042/resultados-rotas-042.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);
@@ -245,6 +249,10 @@ if (ultimoLote >= 40 && !progresso.includes(marcadorLote040)) {
 const marcadorLote041 = '<!-- LOTE-041-PROGRESSO:INICIO -->';
 if (ultimoLote >= 41 && !progresso.includes(marcadorLote041)) {
   progresso = `${progresso.trim()}\n\n${marcadorLote041}\n## Lote 041\n\n- Sequenciais: 1225–1226; fonte didática e documentação administrativa integralmente classificadas.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1226_REGRAS_7.md\`; próxima: \`1227_Sistema_02_—_Reduções_do_Inglês_Real_v01.md\`.\n<!-- LOTE-041-PROGRESSO:FIM -->\n`;
+}
+const marcadorLote042 = '<!-- LOTE-042-PROGRESSO:INICIO -->';
+if (ultimoLote >= 42 && !progresso.includes(marcadorLote042)) {
+  progresso = `${progresso.trim()}\n\n${marcadorLote042}\n## Lote 042\n\n- Sequenciais: 1227–1228; duas fontes didáticas integralmente classificadas.\n- Relação: fontes independentes com sobreposição parcial em reduções; 1227 traz taxonomia ampla e 1228 organiza o verbo think em contraste escrito-falado.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1228_verbo-think.md\`; próxima: \`1229_01_American_English_File_1_-_Student_Book_Pk_-_03Edition.md\`.\n<!-- LOTE-042-PROGRESSO:FIM -->\n`;
 }
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);

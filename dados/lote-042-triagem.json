@@ -1,0 +1,42 @@
+{
+  "lote": "042",
+  "intervalo": [
+    1227,
+    1228
+  ],
+  "sequenciais": [
+    {
+      "numero": 1227,
+      "nome": "1227_Sistema_02_—_Reduções_do_Inglês_Real_v01.md",
+      "tamanho_bytes": 7646,
+      "hash_bruto": "67849a00eb1f1ab1319e9b6d59c7137375fd2c45fd26369ae02d6fb928a4de5c",
+      "hash_normalizado": "578b774fe53bf0c9eb413f78d1a8655d5950fc3bd5d1403e322e56cdfe8c3ae6",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "fonte didática com notas de implementação",
+      "secoes": 8,
+      "partes": 9,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1228,
+      "nome": "1228_verbo-think.md",
+      "tamanho_bytes": 3462,
+      "hash_bruto": "ba1c5e22c3f949aa3066d6868a3e1fa7c81f91c3f67aba9c358433d7f48c2899",
+      "hash_normalizado": "7fdcbced3b40334c0e79dcd66f9e27a84c03089309f268c2ee384e044cbf139c",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "página didática gramatical com contraste escrito-falado",
+      "secoes": 3,
+      "partes": 4,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1227,
+    "testes": "18/18",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1228, antes de 1229."
+}

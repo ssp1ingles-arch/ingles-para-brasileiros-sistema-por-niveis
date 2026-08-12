@@ -343,3 +343,9 @@
 
 1225 classificada em destinos existentes; 1226 tratada como documentação administrativa com resumo curricular já coberto. Encerrado antes de 1227.
 <!-- LOTE-041-DECISOES:FIM -->
+
+<!-- LOTE-042-DECISOES:INICIO -->
+## Decisões do lote 042
+
+1227 consolidada com notas técnicas descartadas; 1228 separada entre gramática, reduções e TH. Encerrado antes de 1229.
+<!-- LOTE-042-DECISOES:FIM -->

@@ -193,3 +193,9 @@ Cobertura: 81,90% → 82,03%. Preservados 834 unidades, 1.977 atividades, 95 sub
 
 Cobertura 82,03% → 82,16%; totais preservados.
 <!-- LOTE-041-COBERTURA:FIM -->
+
+<!-- LOTE-042-COBERTURA:INICIO -->
+## Atualização curricular — lote 042
+
+Cobertura 82,16% → 82,29%; totais preservados.
+<!-- LOTE-042-COBERTURA:FIM -->

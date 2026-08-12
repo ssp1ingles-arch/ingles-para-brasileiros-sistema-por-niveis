@@ -1,0 +1,261 @@
+{
+  "lote": "042",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1227,
+        1228
+      ],
+      "executada_apos_validacao_1227": true,
+      "tamanhos": [
+        7646,
+        3462
+      ],
+      "hashes_brutos": [
+        "67849a00eb1f1ab1319e9b6d59c7137375fd2c45fd26369ae02d6fb928a4de5c",
+        "ba1c5e22c3f949aa3066d6868a3e1fa7c81f91c3f67aba9c358433d7f48c2899"
+      ],
+      "hashes_normalizados": [
+        "578b774fe53bf0c9eb413f78d1a8655d5950fc3bd5d1403e322e56cdfe8c3ae6",
+        "7fdcbced3b40334c0e79dcd66f9e27a84c03089309f268c2ee384e044cbf139c"
+      ],
+      "corpo_integral_igual": false,
+      "estrutura_igual": false,
+      "secoes": [
+        8,
+        3
+      ],
+      "tema_1227": "taxonomia ampla de reduções",
+      "tema_1228": "um verbo em nove tempos com contraste escrito-falado",
+      "sobreposicao": "gonna, gotta, formas fracas, contração e percepção auditiva",
+      "conteudo_exclusivo_1227": "cinco tipos, progressão e notas técnicas",
+      "conteudo_exclusivo_1228": "paradigma gramatical de think e contraste think/thought",
+      "classificacao": "fontes independentes com sobreposição parcial",
+      "decisao": "destinar separadamente gramática, reduções e pronúncia"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1227,
+      "nome_completo": "1227_Sistema_02_—_Reduções_do_Inglês_Real_v01.md",
+      "tipo": "fonte didática com notas de implementação",
+      "tamanho_bytes": 7646,
+      "hash_bruto": "67849a00eb1f1ab1319e9b6d59c7137375fd2c45fd26369ae02d6fb928a4de5c",
+      "hash_normalizado": "578b774fe53bf0c9eb413f78d1a8655d5950fc3bd5d1403e322e56cdfe8c3ae6",
+      "leitura_integral": true,
+      "paginacao": {
+        "secoes_presentes": 8,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "secoes_didaticas": 7,
+        "secao_tecnica": 1,
+        "subsecoes": 4,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_sugeridos": true,
+        "respostas": 0,
+        "ipa": true,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "relacao_anteriores": {
+        "fonte_quase_correspondente": 1225,
+        "corpo_didatico_equivalente": true,
+        "duplicata_integral": false,
+        "conteudo_exclusivo": "contexto pedagógico inicial e notas de implementação técnica"
+      },
+      "partes": [
+        {
+          "id": "contracoes",
+          "natureza": "contrações",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B1-PRON-0001",
+          "justificativa": "Coberto em 1225 e destino existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "coloquiais",
+          "natureza": "reduções coloquiais",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B1-L5-0144-01",
+          "destinos_adicionais": [
+            "B1-L5-0144-02"
+          ],
+          "justificativa": "Coberto em destinos existentes.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "pronomes",
+          "natureza": "reduções com pronomes",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "justificativa": "Connected speech existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "formas-fracas",
+          "natureza": "formas fracas",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B1-L10-0461-01",
+          "destinos_adicionais": [
+            "B2-L10-0461-03"
+          ],
+          "justificativa": "Stress e connected speech existentes.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "elisao",
+          "natureza": "elisões",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "justificativa": "Destino existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "contextos",
+          "natureza": "exemplos progressivos e situações",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B1-L15-0841-01",
+          "justificativa": "Prática existente; não automatizar exercícios.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "percepcao",
+          "natureza": "contexto pedagógico e percepção auditiva",
+          "decisao": "consolidar procedência",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "justificativa": "Objetivo de percepção existente.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "implementacao",
+          "natureza": "blocos expansíveis, interação, ditado e transcrição aproximada",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Instruções técnicas não são lição nem autorização para gerar atividades.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "tabelas-ipa-exemplos",
+          "natureza": "tabelas, IPA e exemplos extensos",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Não republicar material extenso.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 9,
+        "consolidadas": 7,
+        "descartadas": 2,
+        "uteis_sem_destino": 0
+      }
+    },
+    {
+      "numero": 1228,
+      "nome_completo": "1228_verbo-think.md",
+      "tipo": "página didática gramatical com contraste escrito-falado",
+      "tamanho_bytes": 3462,
+      "hash_bruto": "ba1c5e22c3f949aa3066d6868a3e1fa7c81f91c3f67aba9c358433d7f48c2899",
+      "hash_normalizado": "7fdcbced3b40334c0e79dcd66f9e27a84c03089309f268c2ee384e044cbf139c",
+      "leitura_integral": true,
+      "paginacao": {
+        "secoes_presentes": 3,
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "conteudo_gramatical": true,
+        "contraste_escrito_falado": true,
+        "tempos_modos": 9,
+        "reducoes": true,
+        "pronuncia": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "navegacao": true,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "partes": [
+        {
+          "id": "tempos-think",
+          "natureza": "nove tempos e modos com think",
+          "decisao": "consolidar procedência em unidade existente",
+          "destino_curricular_especifico": "B1-L5-0164-01",
+          "justificativa": "O verbo pensar/refletir já possui destino lexical e gramatical específico.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "reducoes",
+          "natureza": "going to, gotta, would, will, was, could, had e -ing",
+          "decisao": "consolidar procedência em unidades existentes",
+          "destino_curricular_especifico": "B1-L5-0144-01",
+          "destinos_adicionais": [
+            "B1-PRON-0001",
+            "B2-L10-0461-03"
+          ],
+          "justificativa": "Reduções e formas fracas já possuem destinos específicos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "th",
+          "natureza": "contraste think/thought e articulação do TH",
+          "decisao": "consolidar procedência em unidade existente",
+          "destino_curricular_especifico": "B1-L14-1203-01",
+          "justificativa": "Articulação e contraste sonoro já cobertos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "tabelas-aproximacoes-interface",
+          "natureza": "tabelas, transcrição aproximada, exemplos e navegação",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Não publicar pseudo-fonética, tabelas ou exemplos extensos.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 4,
+        "consolidadas": 3,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      }
+    }
+  ]
+}

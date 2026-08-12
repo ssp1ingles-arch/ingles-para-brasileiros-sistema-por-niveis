@@ -274,3 +274,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 Reduções destinadas sem republicação; regras técnicas descartadas.
 <!-- LOTE-041-MAPEAMENTO:FIM -->
+
+<!-- LOTE-042-MAPEAMENTO:INICIO -->
+## Lote 042 — mapeamento
+
+Fontes independentes com sobreposição parcial em reduções.
+<!-- LOTE-042-MAPEAMENTO:FIM -->
