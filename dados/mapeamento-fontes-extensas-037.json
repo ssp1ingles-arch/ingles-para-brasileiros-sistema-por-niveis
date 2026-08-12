@@ -1,0 +1,266 @@
+{
+  "lote": "037",
+  "comparacoes_integrais": [
+    {
+      "fontes": [
+        1217,
+        1218
+      ],
+      "executada_apos_validacao_1217": true,
+      "tamanhos": [
+        7141,
+        16164
+      ],
+      "hashes_brutos": [
+        "51fafb4b2374c8684b5639c2fb8624c8db2ae7addf2edb59d0069ad66ddc9919",
+        "03379197475d215f23721da9ee322b0105dda9d048d0c19180271fbef6b58e98"
+      ],
+      "hashes_normalizados": [
+        "c7e361d57e951c14c543a5f8e2031aa0d6755e1b8f86b1def043376cf921f5a2",
+        "b4a8488dee005c56118f8e0afe99982b8718d017b27326be2303a19b6bd01ac3"
+      ],
+      "corpo_integral_igual": false,
+      "estrutura_igual": false,
+      "paginacao": "1217 tem duas páginas; 1218 é uma página HTML agregadora com quatro blocos",
+      "tema_1217": "reduções informais de fala",
+      "tema_1218": "compilação de connected speech, stress, contrações e reduções informais",
+      "sobreposicao": "1217 está integralmente contida como o quarto bloco de 1218",
+      "conteudo_1217_integralmente_contido": true,
+      "conteudo_exclusivo_1217": false,
+      "conteudo_exclusivo_1218": "três blocos anteriores já classificados (1214–1216) e elementos de interface sem valor curricular",
+      "classificacao": "fontes distintas por estrutura; 1218 é compilação sem conteúdo didático exclusivo e não uma duplicata integral de 1217",
+      "decisao": "consolidar separadamente as procedências sem criar unidades, atividades, painéis ou subpainéis"
+    }
+  ],
+  "fontes": [
+    {
+      "numero": 1217,
+      "nome_completo": "1217_QW_SALA04_PDF4_GONNA_WANNA_GONNA_WANNA_GOTTA_KINDA_REDUCOES_INFORMAIS_2.md",
+      "tipo": "extração nativa de PDF didático curto",
+      "tamanho_bytes": 7141,
+      "hash_bruto": "51fafb4b2374c8684b5639c2fb8624c8db2ae7addf2edb59d0069ad66ddc9919",
+      "hash_normalizado": "2ba72101832b18403a8e45a7f345d5de1bc23cfb824f90293c7530c89a3dc1bc",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": true,
+        "presentes": [
+          1,
+          2
+        ],
+        "ausentes": [],
+        "repetidas": [],
+        "vazias": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "paginas": 2,
+        "secoes_uteis": 2,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "indices": 0,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "duplicidade": {
+        "canonica": 144,
+        "duplicata_intermediaria": 781,
+        "corpo_integral_igual": true,
+        "estrutura_igual": true,
+        "paginacao_igual": true,
+        "hash_normalizado_igual": true,
+        "conteudo_exclusivo": false
+      },
+      "partes": [
+        {
+          "id": "reducoes-pagina-1",
+          "paginas": [
+            1
+          ],
+          "natureza": "gonna, wanna, gotta, hafta, oughta, kinda e reduções associadas",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L5-0144-01",
+          "justificativa": "O corpo é integralmente idêntico à fonte canônica 0144, já publicada neste destino.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "reducoes-pagina-2",
+          "paginas": [
+            2
+          ],
+          "natureza": "dunno, lemme, gimme, gotcha, whatcha, ya e redução de pronomes",
+          "decisao": "consolidar procedência em unidade existente",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L5-0144-02",
+          "justificativa": "O corpo é integralmente idêntico à fonte canônica 0144, já publicada neste destino.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "tabelas-exemplos-editorial",
+          "paginas": [
+            1,
+            2
+          ],
+          "natureza": "tabelas, exemplos, traduções, instruções de uso e resumo repetidos",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Conteúdo já integralmente coberto e impróprio para republicação extensa.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 3,
+        "consolidadas": 2,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Duplicata integral; somente metadados, hashes, decisão e procedência sanitizada serão registrados."
+    },
+    {
+      "numero": 1218,
+      "nome_completo": "1218_entender-nativos.md",
+      "tipo": "extração de página HTML agregadora",
+      "tamanho_bytes": 16164,
+      "hash_bruto": "03379197475d215f23721da9ee322b0105dda9d048d0c19180271fbef6b58e98",
+      "hash_normalizado": "b4a8488dee005c56118f8e0afe99982b8718d017b27326be2303a19b6bd01ac3",
+      "leitura_integral": true,
+      "paginacao": {
+        "possui_marcadores": false,
+        "blocos_presentes": 4,
+        "ausentes": [],
+        "repetidos": [],
+        "vazios": [],
+        "continua": true
+      },
+      "integridade": {
+        "utf8_valido": true,
+        "caracteres_substituicao": 0,
+        "marcadores_cid": 0,
+        "ocr_aplicado": false,
+        "ocr_insuficiente": false,
+        "corrupcao": false
+      },
+      "estrutura": {
+        "pagina_agregadora": true,
+        "blocos_didaticos": 4,
+        "navegacao_ou_interface": true,
+        "explicacoes": true,
+        "exemplos": true,
+        "traducoes": true,
+        "exercicios_formais": 0,
+        "respostas": 0,
+        "material_editorial": true,
+        "imagens_publicadas": 0
+      },
+      "cobertura": {
+        "fontes_contidas": [
+          1214,
+          1215,
+          1216,
+          1217
+        ],
+        "blocos_integralmente_contidos": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "conteudo_didatico_exclusivo": false
+      },
+      "partes": [
+        {
+          "id": "connected-speech-flap-t",
+          "natureza": "connected speech, Flap T, linking, elision, assimilation, intrusion e treino",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B2-L10-0461-03",
+          "destinos_adicionais": [
+            "B1-L15-0841-01"
+          ],
+          "justificativa": "Bloco integral de 1214, já decidido e coberto por destinos existentes.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "content-function-stress",
+          "natureza": "palavras de conteúdo e função, stress e estratégia de escuta",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L10-0461-01",
+          "destinos_adicionais": [
+            "B1-L14-1203-01",
+            "B1-L15-0841-01"
+          ],
+          "justificativa": "Bloco integral de 1215, já decidido e coberto por destinos existentes.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "contracoes",
+          "natureza": "contrações afirmativas, negativas, temporais e interrogativas",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "A1-B2",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "A1-PRON-0001",
+          "destinos_adicionais": [
+            "A1-PRON-0002",
+            "A2-PRON-0001",
+            "B1-PRON-0001",
+            "B2-PRON-0001"
+          ],
+          "justificativa": "Bloco integral de 1216, já decidido e coberto por destinos existentes.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "reducoes-informais",
+          "natureza": "gonna, wanna, gotta, kinda, dunno, lemme, gimme e reduções associadas",
+          "decisao": "consolidar procedência em unidades existentes",
+          "nivel_cefr": "B1",
+          "habilidade_principal": "Pronúncia",
+          "destino_curricular_especifico": "B1-L5-0144-01",
+          "destinos_adicionais": [
+            "B1-L5-0144-02"
+          ],
+          "justificativa": "Bloco integral de 1217/0144, já coberto por destinos existentes.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        },
+        {
+          "id": "navegacao-interface-editorial",
+          "natureza": "cabeçalho, navegação, contagem, busca vazia, alertas e resumos repetitivos",
+          "decisao": "descartar",
+          "destino_curricular_especifico": null,
+          "justificativa": "Interface e enquadramento editorial não constituem objetivo curricular autônomo.",
+          "elegivel_atividade": false,
+          "elegivel_jornada": false
+        }
+      ],
+      "totais": {
+        "partes": 5,
+        "consolidadas": 4,
+        "descartadas": 1,
+        "uteis_sem_destino": 0
+      },
+      "observacao_publica": "Compilação de quatro blocos já classificados; somente metadados, hashes, decisões e procedências sanitizadas serão registrados."
+    }
+  ]
+}

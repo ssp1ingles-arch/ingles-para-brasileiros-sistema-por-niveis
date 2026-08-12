@@ -1,0 +1,42 @@
+{
+  "total": 9,
+  "aprovados": 9,
+  "resultados": [
+    {
+      "teste": "ordem",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "fontes",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash bruto distinto",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "hash normalizado distinto",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "corpos distintos",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "estruturas distintas",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "1217 contida em 1218",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "zero exclusivo em 1217",
+      "resultado": "APROVADO"
+    },
+    {
+      "teste": "classificação da compilação",
+      "resultado": "APROVADO"
+    }
+  ]
+}

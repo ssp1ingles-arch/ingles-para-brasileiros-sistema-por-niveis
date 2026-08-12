@@ -299,3 +299,13 @@
 - Registrar que 1216 já estava tratada como duplicata por hash; a comparação do lote não altera esse histórico.
 - Não publicar páginas, tabelas, exemplos, traduções ou editorial; encerrar antes de 1217.
 <!-- LOTE-036-DECISOES:FIM -->
+
+<!-- LOTE-037-DECISOES:INICIO -->
+## Decisões do lote 037
+
+- Ler 1217 integralmente e concluir a validação intermediária antes de abrir 1218.
+- Tratar 1217 como duplicata integral de 0144/0781 após igualdade do corpo e do hash normalizado.
+- Tratar 1218 como página agregadora dos quatro blocos 1214–1217, sem conteúdo didático exclusivo.
+- Consolidar somente procedências em destinos existentes; não criar unidades, atividades, painéis ou subpainéis.
+- Preservar integralmente interface, Jornada, IDs, ordens, progresso, revisão, retomada e localStorage; encerrar antes de 1219.
+<!-- LOTE-037-DECISOES:FIM -->

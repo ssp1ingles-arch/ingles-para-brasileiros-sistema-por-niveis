@@ -244,3 +244,9 @@ O intervalo 1183–1185 foi decidido. A fonte 1184 possui 121 seções: 55 conso
 
 1215 consolida stress de frase e palavras funcionais; 1216 consolida contrações e já constava como duplicata integral de fonte anterior. Somente procedência sanitizada foi registrada.
 <!-- LOTE-036-MAPEAMENTO:FIM -->
+
+<!-- LOTE-037-MAPEAMENTO:INICIO -->
+## Lote 037 — mapeamento
+
+1217 repete integralmente a fonte canônica 0144 e a duplicata 0781. A página 1218 agrega integralmente os conteúdos já classificados em 1214–1217. As procedências foram consolidadas em destinos existentes, sem republicação de páginas, tabelas, exemplos, traduções ou elementos de interface.
+<!-- LOTE-037-MAPEAMENTO:FIM -->

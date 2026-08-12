@@ -119,6 +119,14 @@ const resultadosTestes = [
   ,'docs/evidencias/lote-035/resultados-validacao-035.json'
   ,'docs/evidencias/lote-035/resultados-comparacao-035.json'
   ,'docs/evidencias/lote-035/resultados-rotas-035.json'
+  ,'docs/evidencias/lote-036/resultados-intermediarios-1215.json'
+  ,'docs/evidencias/lote-036/resultados-validacao-036.json'
+  ,'docs/evidencias/lote-036/resultados-comparacao-036.json'
+  ,'docs/evidencias/lote-036/resultados-rotas-036.json'
+  ,'docs/evidencias/lote-037/resultados-intermediarios-1217.json'
+  ,'docs/evidencias/lote-037/resultados-validacao-037.json'
+  ,'docs/evidencias/lote-037/resultados-comparacao-037.json'
+  ,'docs/evidencias/lote-037/resultados-rotas-037.json'
 ].map(arquivo => {
   const resultado = JSON.parse(fs.readFileSync(path.join(raiz, arquivo), 'utf8'));
   if (resultado.total !== resultado.aprovados) throw new Error(`Suíte registrada com falhas: ${arquivo}`);
@@ -201,6 +209,10 @@ if (ultimoLote >= 34 && !progresso.includes(marcadorLote034)) {
 const marcadorLote035 = '<!-- LOTE-035-PROGRESSO:INICIO -->';
 if (ultimoLote >= 35 && !progresso.includes(marcadorLote035)) {
   progresso = `${progresso.trim()}\n\n${marcadorLote035}\n## Lote 035\n\n- Sequenciais: 1213–1214; um fragmento visual e um PDF curto integralmente classificados.\n- Relação: fontes independentes com sobreposição temática parcial em pronúncia natural.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1214_QW_SALA04_PDF1_CONNECTED_SPEECH_CONNECTED_SPEECH_FLAP_T_2.md\`; próxima: \`1215_QW_SALA04_PDF2_CONTENT_FUNCTION_CONTENT_WORDS_FUNCTION_WORDS_STRESS_2.md\`.\n<!-- LOTE-035-PROGRESSO:FIM -->\n`;
+}
+const marcadorLote037 = '<!-- LOTE-037-PROGRESSO:INICIO -->';
+if (ultimoLote >= 37 && !progresso.includes(marcadorLote037)) {
+  progresso = `${progresso.trim()}\n\n${marcadorLote037}\n## Lote 037\n\n- Sequenciais: 1217–1218; uma duplicata integral e uma página agregadora integralmente classificada.\n- Relação: 1217 repete 0144/0781; 1218 contém integralmente os quatro blocos 1214–1217 e não possui conteúdo didático exclusivo.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1218_entender-nativos.md\`; próxima: \`1219_erros-de-som.md\`.\n<!-- LOTE-037-PROGRESSO:FIM -->\n`;
 }
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);

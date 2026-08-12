@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const raiz = path.resolve(import.meta.dirname, '..');
+const mapa = JSON.parse(fs.readFileSync(path.join(raiz, 'dados/mapeamento-fontes-extensas-037.json'), 'utf8'));
+const comparacao = mapa.comparacoes_integrais[0];
+const verificacoes = [comparacao.executada_apos_validacao_1217, comparacao.fontes.join(',') === '1217,1218', comparacao.hashes_brutos[0] !== comparacao.hashes_brutos[1], comparacao.hashes_normalizados[0] !== comparacao.hashes_normalizados[1], comparacao.corpo_integral_igual === false, comparacao.estrutura_igual === false, comparacao.conteudo_1217_integralmente_contido === true, comparacao.conteudo_exclusivo_1217 === false, comparacao.classificacao.includes('compilação')];
+const nomes = ['ordem', 'fontes', 'hash bruto distinto', 'hash normalizado distinto', 'corpos distintos', 'estruturas distintas', '1217 contida em 1218', 'zero exclusivo em 1217', 'classificação da compilação'];
+const resultado = {total: verificacoes.length, aprovados: verificacoes.filter(Boolean).length, resultados: verificacoes.map((valor, indice) => ({teste: nomes[indice], resultado: valor ? 'APROVADO' : 'FALHOU'}))};
+fs.mkdirSync(path.join(raiz, 'docs/evidencias/lote-037'), {recursive: true});
+fs.writeFileSync(path.join(raiz, 'docs/evidencias/lote-037/resultados-comparacao-037.json'), `${JSON.stringify(resultado, null, 2)}\n`);
+console.log(`COMPARAÇÃO 037: ${resultado.aprovados}/${resultado.total}`);
+if (resultado.aprovados !== resultado.total) process.exit(1);

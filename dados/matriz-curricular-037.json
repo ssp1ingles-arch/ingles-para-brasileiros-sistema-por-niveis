@@ -1,0 +1,47 @@
+{
+  "versao": "037",
+  "gerado_em": "2026-08-12T01:17:26.286Z",
+  "comparacao": {
+    "antes": {
+      "tratadas": 1261,
+      "pendentes": 286,
+      "cobertura": 81.51
+    },
+    "depois": {
+      "tratadas": 1263,
+      "pendentes": 284,
+      "cobertura": 81.64
+    }
+  },
+  "unidades": 834,
+  "atividades": 1977,
+  "subpaineis": 95,
+  "por_nivel": {
+    "A1": 80,
+    "A2": 360,
+    "B1": 270,
+    "B2": 95,
+    "C1": 18,
+    "C2": 5,
+    "KIDS": 6
+  },
+  "por_habilidade": {
+    "Conversação": 103,
+    "Escrita": 7,
+    "Escuta": 15,
+    "Gramática": 282,
+    "Inglês acadêmico": 15,
+    "Inglês profissional": 5,
+    "Leitura": 13,
+    "Pronúncia": 21,
+    "Verbos": 339,
+    "Vocabulário": 34
+  },
+  "impacto": "1217 foi confirmada como duplicata integral de 0144/0781; 1218 foi classificada como compilação integral dos blocos 1214–1217, sem conteúdo didático exclusivo.",
+  "lacunas_abertas": [
+    "escuta objetiva",
+    "inglês profissional",
+    "Kids legítimo",
+    "C2 comprovado"
+  ]
+}

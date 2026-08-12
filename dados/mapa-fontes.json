@@ -18492,9 +18492,12 @@
       "arquivo_original": "QW_SALA04_PDF4_GONNA_WANNA_GONNA_WANNA_GOTTA_KINDA_REDUCOES_INFORMAIS.pdf",
       "sistema_origem": "N3 · Sistema 10 — Reduções e Pronúncia",
       "duplicata_de": "[CAMINHO_LOCAL_REMOVIDO]/Claude Code Projetos\\\\Inglês para Brasileiros - Escolha seu Caminho\\\\N1 · Sistema 03 — Inglês do Zero · Base Completa\\\\04_Gonna_Wanna_Gotta_Kinda_Reducoes.pdf",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "duplicata",
+      "secoes": "corpo integral igual a 0144 e 0781; páginas 1–2 consolidadas nos destinos B1 existentes",
+      "unidades": [
+        "B1-L5-0144-01",
+        "B1-L5-0144-02"
+      ]
     },
     {
       "id": "1218",
@@ -18504,9 +18507,21 @@
       "arquivo_original": "entender-nativos.html",
       "sistema_origem": "N3 · Sistema 10 — Reduções e Pronúncia",
       "duplicata_de": "",
-      "estado_revisao": "não analisada",
-      "secoes": null,
-      "unidades": []
+      "estado_revisao": "integralmente classificada",
+      "secoes": "quatro blocos integralmente contidos e já cobertos por 1214–1217; interface e editorial descartados",
+      "unidades": [
+        "B2-L10-0461-03",
+        "B1-L15-0841-01",
+        "B1-L10-0461-01",
+        "B1-L14-1203-01",
+        "A1-PRON-0001",
+        "A1-PRON-0002",
+        "A2-PRON-0001",
+        "B1-PRON-0001",
+        "B2-PRON-0001",
+        "B1-L5-0144-01",
+        "B1-L5-0144-02"
+      ]
     },
     {
       "id": "1219",

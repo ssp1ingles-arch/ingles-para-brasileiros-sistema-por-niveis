@@ -1,0 +1,20 @@
+{
+  "lote": "037",
+  "resultado": "APROVADO",
+  "arquivo_fonte": {
+    "hashes_conferidos": 1547,
+    "hashes_aprovados": 1547,
+    "modificacoes": 0
+  },
+  "publicacao": {
+    "segredos_ou_credenciais": 0,
+    "caminhos_pessoais_novos": 0,
+    "pdfs_ou_livros_novos": 0,
+    "imagens_de_fontes_novas": 0,
+    "ocr_integral_novo": 0,
+    "conteudo_bruto_novo": 0,
+    "arquivos_maiores_25mb": 0,
+    "links_simbolicos_ou_junctions": 0
+  },
+  "observacao": "Somente metadados, hashes, contagens, decisões e destinos curriculares sanitizados."
+}

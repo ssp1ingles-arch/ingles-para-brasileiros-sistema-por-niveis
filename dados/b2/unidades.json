@@ -58,6 +58,12 @@
         "arquivo_original": "QW_SALA04_PDF3_CONTRACTIONS_CONTRACOES_ESSENCIAIS_FALA_NATURAL.pdf",
         "pagina": "páginas/seções do Markdown",
         "secao": "duplicata textual de 0097"
+      },
+      {
+        "arquivo": "1218_entender-nativos.md",
+        "arquivo_original": "entender-nativos.html",
+        "pagina": "página HTML agregadora",
+        "secao": "bloco curricular já classificado"
       }
     ],
     "habilidade_principal": "Pronúncia",
@@ -6621,7 +6627,21 @@
     "ordem_nivel": 79,
     "ordem_pedagogica": 79,
     "ordem_painel": 3,
-    "ordem_subpainel": 2
+    "ordem_subpainel": 2,
+    "fontes": [
+      {
+        "arquivo": "0461_HANDOFF_SISTEMA28.md",
+        "arquivo_original": "HANDOFF_SISTEMA28.md",
+        "pagina": "páginas/seções indicadas no Markdown",
+        "secao": "7. PILAR 3 — CONNECTED SPEECH"
+      },
+      {
+        "arquivo": "1218_entender-nativos.md",
+        "arquivo_original": "entender-nativos.html",
+        "pagina": "página HTML agregadora",
+        "secao": "bloco curricular já classificado"
+      }
+    ]
   },
   {
     "id": "B2-L10-0494-03",

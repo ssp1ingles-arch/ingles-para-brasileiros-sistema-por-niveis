@@ -1,0 +1,42 @@
+{
+  "lote": "037",
+  "intervalo": [
+    1217,
+    1218
+  ],
+  "sequenciais": [
+    {
+      "numero": 1217,
+      "nome": "1217_QW_SALA04_PDF4_GONNA_WANNA_GONNA_WANNA_GOTTA_KINDA_REDUCOES_INFORMAIS_2.md",
+      "tamanho_bytes": 7141,
+      "hash_bruto": "51fafb4b2374c8684b5639c2fb8624c8db2ae7addf2edb59d0069ad66ddc9919",
+      "hash_normalizado": "2ba72101832b18403a8e45a7f345d5de1bc23cfb824f90293c7530c89a3dc1bc",
+      "leitura_integral": true,
+      "status": "duplicata",
+      "tipo": "extração nativa de PDF didático curto",
+      "paginas": 2,
+      "partes": 3,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1218,
+      "nome": "1218_entender-nativos.md",
+      "tamanho_bytes": 16164,
+      "hash_bruto": "03379197475d215f23721da9ee322b0105dda9d048d0c19180271fbef6b58e98",
+      "hash_normalizado": "b4a8488dee005c56118f8e0afe99982b8718d017b27326be2303a19b6bd01ac3",
+      "leitura_integral": true,
+      "status": "integralmente classificada",
+      "tipo": "extração de página HTML agregadora",
+      "blocos": 4,
+      "partes": 5,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1217,
+    "testes": "17/17",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1218, antes de 1219; 1217 é duplicata integral e 1218 é compilação sem conteúdo didático exclusivo."
+}

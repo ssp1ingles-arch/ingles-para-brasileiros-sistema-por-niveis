@@ -304,6 +304,12 @@
         "arquivo_original": "QW_SALA04_PDF3_CONTRACTIONS_CONTRACOES_ESSENCIAIS_FALA_NATURAL.pdf",
         "pagina": "páginas/seções do Markdown",
         "secao": "duplicata textual de 0097"
+      },
+      {
+        "arquivo": "1218_entender-nativos.md",
+        "arquivo_original": "entender-nativos.html",
+        "pagina": "página HTML agregadora",
+        "secao": "bloco curricular já classificado"
       }
     ],
     "habilidade_principal": "Pronúncia",
@@ -5003,6 +5009,18 @@
         "arquivo_original": "QW_SALA04_PDF4_GONNA_WANNA_GONNA_WANNA_GOTTA_KINDA_REDUCOES_INFORMAIS.pdf",
         "pagina": "páginas/seções do Markdown",
         "secao": "duplicata de 0144"
+      },
+      {
+        "arquivo": "1217_QW_SALA04_PDF4_GONNA_WANNA_GONNA_WANNA_GOTTA_KINDA_REDUCOES_INFORMAIS_2.md",
+        "arquivo_original": "QW_SALA04_PDF4_GONNA_WANNA_GONNA_WANNA_GOTTA_KINDA_REDUCOES_INFORMAIS.pdf",
+        "pagina": "páginas 1–2",
+        "secao": "duplicata integral de 0144"
+      },
+      {
+        "arquivo": "1218_entender-nativos.md",
+        "arquivo_original": "entender-nativos.html",
+        "pagina": "página HTML agregadora",
+        "secao": "bloco curricular já classificado"
       }
     ]
   },
@@ -5078,6 +5096,18 @@
         "arquivo_original": "QW_SALA04_PDF4_GONNA_WANNA_GONNA_WANNA_GOTTA_KINDA_REDUCOES_INFORMAIS.pdf",
         "pagina": "páginas/seções do Markdown",
         "secao": "duplicata de 0144"
+      },
+      {
+        "arquivo": "1217_QW_SALA04_PDF4_GONNA_WANNA_GONNA_WANNA_GOTTA_KINDA_REDUCOES_INFORMAIS_2.md",
+        "arquivo_original": "QW_SALA04_PDF4_GONNA_WANNA_GONNA_WANNA_GOTTA_KINDA_REDUCOES_INFORMAIS.pdf",
+        "pagina": "páginas 1–2",
+        "secao": "duplicata integral de 0144"
+      },
+      {
+        "arquivo": "1218_entender-nativos.md",
+        "arquivo_original": "entender-nativos.html",
+        "pagina": "página HTML agregadora",
+        "secao": "bloco curricular já classificado"
       }
     ]
   },
@@ -17625,7 +17655,21 @@
     "ordem_nivel": 208,
     "ordem_pedagogica": 208,
     "ordem_painel": 3,
-    "ordem_subpainel": 2
+    "ordem_subpainel": 2,
+    "fontes": [
+      {
+        "arquivo": "0461_HANDOFF_SISTEMA28.md",
+        "arquivo_original": "HANDOFF_SISTEMA28.md",
+        "pagina": "páginas/seções indicadas no Markdown",
+        "secao": "5. PILAR 1 — 50 REDUÇÕES ESSENCIAIS"
+      },
+      {
+        "arquivo": "1218_entender-nativos.md",
+        "arquivo_original": "entender-nativos.html",
+        "pagina": "página HTML agregadora",
+        "secao": "bloco curricular já classificado"
+      }
+    ]
   },
   {
     "id": "B1-L10-0466-02",
@@ -20077,6 +20121,12 @@
         "arquivo_original": "03_English Pronunciation Made Simple.pdf",
         "pagina": "páginas/seções do Markdown",
         "secao": "duplicata dirigida de 1203"
+      },
+      {
+        "arquivo": "1218_entender-nativos.md",
+        "arquivo_original": "entender-nativos.html",
+        "pagina": "página HTML agregadora",
+        "secao": "bloco curricular já classificado"
       }
     ],
     "confianca_classificacao": "alta",
@@ -20578,6 +20628,12 @@
         "arquivo_original": "sistema5_conteudo.md",
         "pagina": "páginas/seções do Markdown",
         "secao": "recorte funcional após leitura integral"
+      },
+      {
+        "arquivo": "1218_entender-nativos.md",
+        "arquivo_original": "entender-nativos.html",
+        "pagina": "página HTML agregadora",
+        "secao": "bloco curricular já classificado"
       }
     ],
     "confianca_classificacao": "alta",
