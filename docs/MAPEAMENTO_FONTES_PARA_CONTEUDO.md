@@ -286,3 +286,9 @@ Fontes independentes com sobreposição parcial em reduções.
 
 O livro foi decomposto em objetivos de gramática, vocabulário, pronúncia, escuta, comunicação e escrita; nenhum painel ou unidade por livro foi criado. Exercícios, respostas, transcrições, tabelas e material visual não foram republicados.
 <!-- LOTE-043-MAPEAMENTO:FIM -->
+
+<!-- LOTE-044-MAPEAMENTO:INICIO -->
+## Lote 044 — mapeamento
+
+Os 12 Files e bancos de apoio foram decompostos em objetivos de gramática, vocabulário, pronúncia, escuta, conversação e escrita. Exercícios, respostas, transcrições, tabelas, imagens, IPA em massa e mídia externa não foram republicados.
+<!-- LOTE-044-MAPEAMENTO:FIM -->

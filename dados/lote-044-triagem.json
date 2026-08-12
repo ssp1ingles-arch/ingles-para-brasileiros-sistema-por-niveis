@@ -1,0 +1,44 @@
+{
+  "lote": "044",
+  "intervalo": [
+    1231,
+    1232
+  ],
+  "sequenciais": [
+    {
+      "numero": 1231,
+      "nome": "1231_02_American_English_File_2_-_Student_Book_With_Online_Practice_-_Third_Edition.md",
+      "tamanho_bytes": 457285,
+      "total_linhas": 16722,
+      "hash_bruto": "8df1f3a889d25cd970953a3e07059cd4baae27cc6ded5c0e4482a5f1fd13a08e",
+      "hash_normalizado": "ad01bf2192fc72d4a978d73e276fef764ee84a3408450bc4c7fbeef4b2bfa88c",
+      "leitura_integral": true,
+      "status": "mapeada para validação intermediária",
+      "tipo": "livro didático completo extraído como texto",
+      "paginas_presentes": 169,
+      "partes": 21,
+      "sem_destino_util": 0
+    },
+    {
+      "numero": 1232,
+      "nome": "1232_02_American_English_File_2_-_Student_Book_With_Online_Practice_-_Third_Edition_2.md",
+      "tamanho_bytes": 457286,
+      "total_linhas": 16722,
+      "hash_bruto": "ff755732119ac84f4f5e2e3c40a442e314a0a7b5fcb77fd23296df24d22c42c9",
+      "hash_normalizado": "70f6c27c28b0555f3f75eda94f0fb9f2bfa546a74febe512e2985080b0de8f6d",
+      "leitura_integral": true,
+      "status": "duplicata por corpo didático integral",
+      "tipo": "extração alternativa do mesmo livro didático",
+      "paginas_presentes": 169,
+      "partes": 21,
+      "sem_destino_util": 0
+    }
+  ],
+  "validacao_intermediaria": {
+    "pendente": false,
+    "encerrada_em": 1231,
+    "testes": "25/25",
+    "aprovada": true
+  },
+  "observacao": "Lote encerrado em 1232, antes de 1233."
+}

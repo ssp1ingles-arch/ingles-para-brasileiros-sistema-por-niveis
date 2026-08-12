@@ -355,3 +355,9 @@
 
 1229 foi mapeada por blocos curriculares A1-A2, com página 166 e lição 9A ausentes registradas. 1230 possui corpo didático integralmente idêntico e foi consolidada como extração alternativa, preservando 1229 como canônica.
 <!-- LOTE-043-DECISOES:FIM -->
+
+<!-- LOTE-044-DECISOES:INICIO -->
+## Decisões do lote 044
+
+1231 foi mapeada por objetivos A2-B1 em 169 páginas, sem reprodução do livro. 1232 possui corpo didático integralmente idêntico e foi consolidada como extração alternativa, preservando 1231 como canônica.
+<!-- LOTE-044-DECISOES:FIM -->
