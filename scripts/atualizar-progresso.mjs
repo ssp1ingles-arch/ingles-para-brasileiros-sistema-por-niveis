@@ -278,5 +278,16 @@ const marcadorLote043 = '<!-- LOTE-043-PROGRESSO:INICIO -->';
 if (ultimoLote >= 43 && !progresso.includes(marcadorLote043)) {
   progresso = `${progresso.trim()}\n\n${marcadorLote043}\n## Lote 043\n\n- Sequenciais: 1229–1230; uma obra didática integralmente classificada e uma extração alternativa consolidada como duplicata.\n- Relação: corpos didáticos idênticos após remoção dos metadados de migração; 1229 preservada como canônica.\n- Integridade: 166 páginas presentes (1–165 e 167), página 166 e lição 9A ausentes na extração, sem inferência de conteúdo.\n- Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.\n- Última: \`1230_01_American_English_File_1_-_Student_Book_Pk_-_03Edition_2.md\`; próxima: \`1231_02_American_English_File_2_-_Student_Book_With_Online_Practice_-_Third_Edition.md\`.\n<!-- LOTE-043-PROGRESSO:FIM -->\n`;
 }
+const integracao2019Path = path.join(dados, 'integracao-2019-english-lote-001.json');
+if (fs.existsSync(integracao2019Path)) {
+  const integracao = JSON.parse(fs.readFileSync(integracao2019Path, 'utf8'));
+  const inicio = '<!-- INTEGRACAO-2019-ENGLISH:INICIO -->';
+  const fim = '<!-- INTEGRACAO-2019-ENGLISH:FIM -->';
+  const revisadas = 1;
+  const percentual = (revisadas / 93 * 100).toFixed(2).replace('.', ',');
+  const blocoIntegracao = `${inicio}\n## Integração 2019 English\n\n- Fontes de conversão aprovadas: **91**; complementares: **2**.\n- Fontes editorialmente revisadas: **${revisadas}/93** (**${percentual}%**).\n- Fontes integradas com conteúdo novo: **0**; fontes sem conteúdo novo: **1**.\n- Seções examinadas: **${integracao.contagens.secoes_examinadas}**; já cobertas: **${integracao.contagens.ja_cobertas}**; pendentes: **${93 - revisadas} fontes**.\n- Lote 001: índice curricular BBC English Plus integralmente decidido, sem alterar as 834 unidades, 1.977 atividades, 95 subpainéis ou a Jornada.\n- Próxima seção exata: \`${integracao.proxima_secao_exata}\`.\n${fim}`;
+  const rx = new RegExp(`${inicio}[\\s\\S]*?${fim}`);
+  progresso = rx.test(progresso) ? progresso.replace(rx, blocoIntegracao) : `${progresso.trim()}\n\n${blocoIntegracao}\n`;
+}
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);

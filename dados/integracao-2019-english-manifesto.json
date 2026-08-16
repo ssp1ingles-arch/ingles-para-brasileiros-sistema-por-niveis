@@ -1,0 +1,758 @@
+{
+  "schema_version": 1,
+  "integracao": "2019 English",
+  "fonte_somente_leitura": "D:/AI/3_Coversão_em_marldown/2019_English/01_arquivos_extraídos_e_convertidos_em_md",
+  "totais": {
+    "markdown_didaticos": 93,
+    "aprovados": 91,
+    "complementares": 2,
+    "originais_representados": 2024
+  },
+  "criterio_ordem": "ordem do array itens no manifesto-fonte, filtrada por status aprovado",
+  "itens": [
+    {
+      "ordem_manifesto": 1,
+      "nome": "BBC_English_Plus_indice_do_curso_PT_EN.md",
+      "sha256_saida": "e95c6a537cd507031ef04e7f29511d8db3d91931070459ee602fdbcdb95cfd31",
+      "status_conversao": "aprovado",
+      "status_editorial": "revisado_sem_conteudo_novo",
+      "lote_integracao": "001"
+    },
+    {
+      "ordem_manifesto": 2,
+      "nome": "BBC_English_Plus_transcricoes_PT_EN.md",
+      "sha256_saida": "7058fae0c94163a7870a5ce6cae34d444e5f8f15b94acf85388ffd45908d1689",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 3,
+      "nome": "BBC_English_Plus_vocabulario_PT_EN.md",
+      "sha256_saida": "4359bf1b9736bf2f8cae932e8897e98047b820a0ee2f45dd9e578c3c21b648d2",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 4,
+      "nome": "Curso_de_Ingl_s_-_Wizard_Ebook.md",
+      "sha256_saida": "503984f89d16047d146ed0c7ec6fd2bfed55bbfcd37e6380694cace3787b5f25",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 5,
+      "nome": "Curso_de_Ingl_s_BBC_English_Plus_BBC_English_Plus_CD21.artgenone_ES_Book21ES.md",
+      "sha256_saida": "ada040df0f8ce9de9de89827390aed6426b38b01ffb0b20840fad4f630875c72",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 6,
+      "nome": "Curso_de_Ingl_s_First_Steps_Agora_Eu_Falo_Aula_1_-_OS_Pontos_B_sicos_de_Ingl_s_Que_Ningu_m_Ensina_Aula_1_-_O_B_sico_que_a_maioria_ignora_-_Aula.md",
+      "sha256_saida": "2cc749b17b3fff8a73824ebf0e24d8c7fe9b1d716fe43dd21a2f7876fdd08cef",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 7,
+      "nome": "Curso_de_Ingl_s_First_Steps_Agora_Eu_Falo_Aula_1_-_OS_Pontos_B_sicos_de_Ingl_s_Que_Ningu_m_Ensina_Aula_1_-_O_B_sico_que_a_maioria_ignora_-_Exerc_cios.md",
+      "sha256_saida": "468ff6fe237e1aa4b5c59c8a4240a51ba5c228e77d55e53197f419787cff15af",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 8,
+      "nome": "Curso_de_Ingl_s_First_Steps_Agora_Eu_Falo_Aula_2_-_Por_que_frases_s_o_mais_importantes_que_palavras_soltas_Aula_2_-_Como_construir_frases_em_Ingl_s_-_Aula.md",
+      "sha256_saida": "068ada93e1d04c1813d7e5f502c0ea982a2a6e5e6c33e6d523b8a770f8a7b206",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 9,
+      "nome": "Curso_de_Ingl_s_First_Steps_Agora_Eu_Falo_Aula_3_-_Como_Treinar_de_Verdade_Sua_Escuta_e_Fala_em_Ingl_s_1_-_2_-_Um_dia_na_vida_de_Christina.md",
+      "sha256_saida": "fb8f57aad7c85e4bf479f4a5b6791cf2d43997e64f625a1ac394dbb669e66cc3",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 10,
+      "nome": "Curso_de_Ingl_s_First_Steps_Agora_Eu_Falo_Aula_3_-_Como_Treinar_de_Verdade_Sua_Escuta_e_Fala_em_Ingl_s_2_-_Um_dia_na_vida_de_Christina.md",
+      "sha256_saida": "d51dbcd89a9d5a97a626cc9d4bb4d3bc612fbd0b5966bf025acafb407333e17f",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 11,
+      "nome": "Curso_de_Ingl_s_First_Steps_Agora_Eu_Falo_Aula_4_-_Um_Caminho_Sem_Volta_Para_Flu_ncia_em_Ingl_s_1_-_Quetion_rio.md",
+      "sha256_saida": "a0b9ec583a887e563eccc8e407d5fa8355aa74bc15cc747d85a5511fac672b81",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 12,
+      "nome": "Curso_de_Ingl_s_First_Steps_Agora_Eu_Falo_Aula_5_-_udio_em_Ingl_s_com_texto_para_baixar_-_Viagens_Podcast_Viajar_preciso.md",
+      "sha256_saida": "437e3e8cbe86e74e2efc583d1e9490ae2cb5b8a3a71baca338b49dcb4af8bacb",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 13,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_01_LIVRO_01.md",
+      "sha256_saida": "5c0e938fa46838023bcccb07bf5bebf26bcbb3d5da19e6edc07edef96f2d98ea",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 14,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_02_LIVRO_02.md",
+      "sha256_saida": "d9f669cb325b14175837b442ef3b90fcd676d9e9dd2c3e3ef739f3d4eefd3a79",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 15,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_03_LIVRO_03.md",
+      "sha256_saida": "84de84c97e16340f010ebdbae70268c2978dc7f5690942ed4d0394dc71319005",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 16,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_04_LIVRO_04.md",
+      "sha256_saida": "223f36dc7f5ffaa35542284881a735589817be275a59b9d5620d82b1d2853a49",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 17,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_05_LIVRO_05.md",
+      "sha256_saida": "a6b4c39b11b2eda9211d5a9fdd442ca04541dd0fd59d87cceaab86f5c84f48d6",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 18,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_06_LIVRO_06.md",
+      "sha256_saida": "41ff1c572904e8fe05e3570c8a4cb3f534ca5ae8f007f80b6d5e97221c097662",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 19,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_07_LIVRO_07.md",
+      "sha256_saida": "d2df8de81defc3ecf7514fb688ffd45f632b9fe86c73fa341c95107c01100a35",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 20,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_08_LIVRO_08.md",
+      "sha256_saida": "39508ca21f6ff57e6d57859941825622185d29f21d323f7cbf7e04beab9d0416",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 21,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_09_LIVRO_09.md",
+      "sha256_saida": "6aed682ec10fb49b31edadbce2a23f08cb0a77c29a1fc39f6282fe79d4c13cae",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 22,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_10_LIVRO_10.md",
+      "sha256_saida": "b236e2b0bba266ec8fae0300eef1e4ea828555617dedcd947e9987dbf8398bb3",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 23,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_11_LIVRO_11.md",
+      "sha256_saida": "157eb23499cd2b10c94a71f4b7d9c4fcfe7b807fc0e0222f867127ca667e9e63",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 24,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_12_LIVRO_12.md",
+      "sha256_saida": "4d015570d096d5c5fe2def176142331468c473c5b56e2d2c3a67adb082ee2653",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 25,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_13_LIVRO_13.md",
+      "sha256_saida": "7bd462d9e20a1928bceeb2f57aa0aec6d0ee7f6dddedb09eab550a2deb8aad28",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 26,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_14_LIVRO_14.md",
+      "sha256_saida": "e02a64ebff3479b9e4462fe11ea94a3aa03926ee0ac74d55ff2506e89231989c",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 27,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_15_LIVRO_15.md",
+      "sha256_saida": "0aeefb5c0272f2975b23032406748dbb465ae52e29c84a0a54da18ed822b64a8",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 28,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_16_LIVRO_16.md",
+      "sha256_saida": "310f5dd5e15c5a508434fa9b8a0cbbaebe9012e3bfc5a3d1dec2038e710a84ba",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 29,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_17_LIVRO_17.md",
+      "sha256_saida": "7904032cca6bc0eed615f789a9e8ee90a87997a0386353c7c54172202b775c1a",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 30,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_18_LIVRO_18.md",
+      "sha256_saida": "542d454a54f9ce6c0d9f494b684e4cefd5bbdffdb74f7023df2485e2b177160a",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 31,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_19_LIVRO_19.md",
+      "sha256_saida": "60ad43988d41e9d78e4e82e7cd598d69a78cacfb481292e163a2eaa51279ffd9",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 32,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_20_LIVRO_20.md",
+      "sha256_saida": "a37f5733edefdfdd4dfca20382b8875c79e102b9b7f5b4d12af764650cfec6f1",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 33,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_21_LIVRO_21.md",
+      "sha256_saida": "bb862593d318af0c310fcf809f35d2190d3cfb7f911b15a6205b1cbd6da441c3",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 34,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_22_LIVRO_22.md",
+      "sha256_saida": "03b26e58ffbd8a04ab9f9f7a8212d17bb4baa185dc6c15b1952233479e037c04",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 35,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_23_LIVRO_23.md",
+      "sha256_saida": "7a521a415a8e2744c255bc4c2928dd5b162596d47b8332082942a167f720b505",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 36,
+      "nome": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_24_LIVRO_24.md",
+      "sha256_saida": "804a282d031cd68e90f1af4884e00900e1c2e9c553288f960de79c3be309e6fe",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 37,
+      "nome": "F_anatevka_Five_Language_Visual_Dictionary_catalogo.md",
+      "sha256_saida": "7fa4cf22e0745d384f5ddb51193777750f8621749010879671b77990a256beaf",
+      "status_conversao": "complementar",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 38,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Armadilhas_em_ingles.md",
+      "sha256_saida": "950b4c70b098c71bea7f21aba893b6fd6923c456a1eeaf10b980220ea5d7616a",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 39,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_as_the_inspector_said.md",
+      "sha256_saida": "4634e6c7152c5df5c563b77b848a8ff27c72aac1cc249e5aa9d2577b5abade96",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 40,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_B3_-_grammar_points.md",
+      "sha256_saida": "41c285fc49e7baa2022446f71073c5bd7fb46266226c72794377e42f4b7d0826",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 41,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_business_letter.md",
+      "sha256_saida": "c469439d6df493bfd295eb26768b62f4ddc0abb12f13a60924c9c52bd1b1f884",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 42,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Business_Letter_vocabulary.md",
+      "sha256_saida": "8bc7a39dc5a08081348a4b433fddc0302986fdd5fce0cdf333c151e59b1135dd",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 43,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Business_Letter_Writing_Basics.md",
+      "sha256_saida": "d40c48ff6a08c40804fc2cbda112787d4a9db07e6257151ce6bac888b6620e2e",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 44,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_business_vocabulary.md",
+      "sha256_saida": "7c8bcc950229a9b4483f32606a8419faa1effe44c35191583739d38aadd39055",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 45,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Diferen_as_Idiom_ticas_Port_x_Ingl.md",
+      "sha256_saida": "652237a62daa1567c4f7084b341441c406507689d46077322860e0bdaf12d50d",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 46,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Jobsvocabulary.md",
+      "sha256_saida": "07f13bf459b68267405c7f56c65b34e338f6c3bf89044d6a479beedaa9eb3deb",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 47,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_scanner_writing_bel.md",
+      "sha256_saida": "191b48279c20378a50b7dc058e80eb7bc6e91f7f707c8965d5d7392ead8bf734",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 48,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Tenseand.md",
+      "sha256_saida": "3583b4d0055cb47a6944ed2c0efeb1af01f9255fc085a0e98f0f2da446d3b35a",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 49,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_final.md",
+      "sha256_saida": "68e652e03e64f95480967d478c0487c58b14286070dfdb84671964b7063bec5f",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 50,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_place.md",
+      "sha256_saida": "2ddae56df96dd71a7131555b56c4601df84a022c1c91a37c2b409f68cb434902",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 51,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog1.md",
+      "sha256_saida": "dee69de183fcc1ffa7e417d7d012acffc9d76dc76ad9e4b509437d265f57c8a0",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 52,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog2.md",
+      "sha256_saida": "ecfa2796ab20c18b35bdbb9fb5708c65ed9634724a6e2d1b9001aae81703496b",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 53,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog3.md",
+      "sha256_saida": "09c0aa7e4b3a4ff6bd4876225fef3457b6cea3ff4de62cbae5e95ac39d61afc8",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 54,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_TheCarrerLeader.md",
+      "sha256_saida": "49535a87a5a72c2e81b8de701a0789581b6cc1814d0ec589db1aeb9bebb8fb30",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 55,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Vitoria.md",
+      "sha256_saida": "26b9d53b841c1becb795929784e0c6ca8320c26b2ac40cd91529089281cada8f",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 56,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_CHOCOLATE.md",
+      "sha256_saida": "da812ab351f53ec3350c03953145e0654c844f4212c99d5d18eec3c498ab5d60",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 57,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Terri.md",
+      "sha256_saida": "8a43fda30b2d670a65335c647240b77698dc78a9fbb6eab27d6403012be0df3b",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 58,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles01_TheTruthMachine.md",
+      "sha256_saida": "8c976fc70028024f84b4f611774af4f63b8371050bed75acb4e5e9813fda25e3",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 59,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles_A_Companion.md",
+      "sha256_saida": "3777ddf126076f8d12527fa487507c98831a05b0655cabd0326b510d8d6e8b29",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 60,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles_Brazilian_business_dictionary.md",
+      "sha256_saida": "052df590c4ae504758558dd4eb2e8d384451aa018a0eb849b301a3a94d8b1fc4",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 61,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles_Curso_Completo.md",
+      "sha256_saida": "4685875c90a97a14aefee1d5052c666a7dd5578e948d0b8112e2a424b7d28713",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 62,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles_DICT.md",
+      "sha256_saida": "2539a913ca04ccaa841eac6715456b1d7e363f081e1cb05d29d2b9e8d16aaac3",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 63,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles_DictionaryCambridgeEnglishGrammar-CheckYourVocabularyforIELTS.md",
+      "sha256_saida": "bee1e98ade229f4a6c405a443648e29f0e8be04cbbd880a33753b7bb1cbee042",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 64,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles_Football.md",
+      "sha256_saida": "b447b1c895403135f04555681f827e9d4ed3dc1f318783cc7e18fde63cc22437",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 65,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles_Glossary_of_Business_Terms.md",
+      "sha256_saida": "bbefe3522b1b21a74d33ce0fe9e8d491844a100f3f45f6b8da724e497df43496",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 66,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles_Glossary_of_Export_Terms.md",
+      "sha256_saida": "e9f2b4d55131025f07fae7f2aae98ea72e61ff48200be87e25141903c717c72f",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 67,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles_INGLES_-_REGRAS_PARA_PRESENT_PERFECT.md",
+      "sha256_saida": "3ae94aa13b0bd5af992ce50fcd445445896d0592607f5b6d860a076ea9fbc314",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 68,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Ingles_SEC-www-sec-gov-pdf-handbook-pdfWriting_handbook.md",
+      "sha256_saida": "58a04ef3c038d68b1141730f23a825f7ee9b2ffc3ced2cb28037d46f870c93c0",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 69,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_dicas_Ingles.md",
+      "sha256_saida": "359d1b63ceabf1636349721439be6ca4fbcc68043ff6de5ae6c5744c4e08d8ac",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 70,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_Livro_250_Palavras_mais_comuns_em_ingles.md",
+      "sha256_saida": "d43d525491e7668902732840c8985b7d313d7804c35525c970224bcd549d9232",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 71,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_Livro_50_palavras_em_ingl_s.md",
+      "sha256_saida": "d91d1617788609cb82dea385ba4d5efd432a28dd8c34ebbddb8ee97e8a9e86fa",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 72,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_Livro_Essential_Grammar_in_Use.md",
+      "sha256_saida": "48646346c3e7e7ce61ea6d0b6152c5c85983e71c12e898e2864c1fd98bacd126",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 73,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_Mapas_mentais_mapa_mental_vocabulario_ingles_sapatos.md",
+      "sha256_saida": "eaa645e4b501869062f4e86f24d901ca4d3758972d1a3167f597a0b0b2f9979e",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 74,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_Mapas_mentais_mm_prep_ingles.md",
+      "sha256_saida": "7a2676b834a8cf3fa1a6d31a1790d2d43a258ce37f5cdc4662c3fc0f0a737900",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 75,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_Mapas_mentais_mm_simple_present.md",
+      "sha256_saida": "b85be562a0849f11c4e401083674ed092a92dca41897bcdd45fe5c69456a5096",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 76,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_Textos_arquivo_novo-02.08.07_five_hundred_english_questions-vers_o_2007_o_mesmo_500_quest_es_de_ingle.md",
+      "sha256_saida": "acee0826e50d7c61fff13d12a82fff429e6b8dbc1a610034827302a3a215140d",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 77,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_Textos_Prepositions.md",
+      "sha256_saida": "d98ca6e6a67cd8c5f697e59c840e9b621da1eff19b116cb16f5dccef85183447",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 78,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_Textos_SIMPLE_PAST.md",
+      "sha256_saida": "418c5409fb2650b807ab6abead87ef32ff96d4acbe0e52f46fe1cc4295897a49",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 79,
+      "nome": "Ingl_s_Tele_Curso_2_Grau_Inglish_Textos_THERE_TO_BE_-_VERBO_HAVER.md",
+      "sha256_saida": "e3568d96c3e4e85792526d84e4c7443bd6f9074911dd8847cd457b8c375f8269",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 80,
+      "nome": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-sb.md",
+      "sha256_saida": "e7fbaea1b61237fa822f09a2f7318343ac75efff95c16cd9d56e5c0e2810e97d",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 81,
+      "nome": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-wb.md",
+      "sha256_saida": "cd04b0ce9b5396445986c642ae13061d6beed2363bd38d6b3b49bded2fee81ca",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 82,
+      "nome": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-sb.md",
+      "sha256_saida": "ccb71389e7415c5e591ad3c1c4ea72f73d70dcafc128073f723bdddf7a80f822",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 83,
+      "nome": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-wb.md",
+      "sha256_saida": "01ca6d66d8135626e74bbcbaf4f68fbf260ad329f6356fd5d97ba76bdfd4c942",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 84,
+      "nome": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-sb.md",
+      "sha256_saida": "d390bf72f49b5c7d68de150ae349250fdfaecb4712d4c7c386b337dfa42d882b",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 85,
+      "nome": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-wb.md",
+      "sha256_saida": "a7bd10a95e25e9ce631cff650db901447b36b4fc42eb6ee524279ac3dc625486",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 86,
+      "nome": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-sb.md",
+      "sha256_saida": "1892102c09c4529b722ec9ed0af28f4081ccaf39a8e72ee528d4c36ae540c6c7",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 87,
+      "nome": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-wb.md",
+      "sha256_saida": "4250fae3bfa2c9c1b98c93a4c62bdb0e61ab799634f73e2160ac9ba0893647a4",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 88,
+      "nome": "Interchange_4th_Selfstudy_XML_intro.md",
+      "sha256_saida": "ca65ec01862b629b021c154c41ce2198825c7e5a9e835ce9b6e173552c2c1064",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 89,
+      "nome": "Interchange_4th_Selfstudy_XML_level_1.md",
+      "sha256_saida": "25d9aa3cd0d6f23416d43cbb34fead308b79e09bfad17cd4d59f05b6f2d548b6",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 90,
+      "nome": "Interchange_4th_Selfstudy_XML_level_2.md",
+      "sha256_saida": "911dcdad15bd9b0158dfe76e44d6fffe92195aec51a079d129a6b77ef19e7493",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 91,
+      "nome": "Interchange_4th_Selfstudy_XML_level_3.md",
+      "sha256_saida": "61371f309cffd42eae8470690dd2a3390692262a952f816d171b2692e9fd3d24",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 92,
+      "nome": "k_Ingles_Doc5_paginas_visuais.md",
+      "sha256_saida": "5d0bf6686e32b20813d39da745f83ce20ad79a19238d016c71fce55f30e9e8fc",
+      "status_conversao": "complementar",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    },
+    {
+      "ordem_manifesto": 93,
+      "nome": "Outros_Ent_o_vamos_l_Frases_para_voc_aprender_em_ingl_s_e_que_s_o_usadas_no_dia_a_dia_dos_falantes_desse_idioma.md",
+      "sha256_saida": "dda44445534d4f547a45d9e048a93fbf87c0a570a4a91dba1ee53d5b765936e6",
+      "status_conversao": "aprovado",
+      "status_editorial": "pendente",
+      "lote_integracao": null
+    }
+  ]
+}

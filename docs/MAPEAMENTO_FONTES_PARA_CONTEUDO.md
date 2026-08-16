@@ -1,5 +1,9 @@
 # Mapeamento de fontes para conteúdo
 
+## Integração 2019 English — lote 001
+
+O índice curricular BBC English Plus foi dividido em 30 seções. Todas foram consolidadas em destinos canônicos A1–B1 já publicados; o mapa completo de seção, CEFR, habilidade e IDs está em `dados/integracao-2019-english-lote-001.json`. Nenhum painel, subpainel, livro, unidade ou atividade foi criado.
+
 O mapa completo está em `dados/mapa-fontes.json`; decisões seção a seção estão em `dados/revisao-fontes.json`; as triagens auditáveis vão de `dados/lote-003-triagem.json` a `dados/lote-011-triagem.json`.
 
 ## Lotes 001–002

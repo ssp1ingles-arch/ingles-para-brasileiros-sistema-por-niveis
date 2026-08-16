@@ -1,0 +1,484 @@
+{
+  "schema_version": 1,
+  "lote": "integracao-2019-english-001",
+  "executado_em": "2026-08-16T14:11:14.160Z",
+  "base_local": "http://127.0.0.1:8000/",
+  "navegador": {
+    "produto": "Google Chrome",
+    "versao": "151.0.7922.138",
+    "executavel": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "headless": true,
+    "perfil": "contexto Playwright isolado"
+  },
+  "resultado": "APROVADO",
+  "cenarios": 22,
+  "tema_escuro": {
+    "tema": "dark",
+    "persistido": "dark",
+    "persistencia_apos_reload": true
+  },
+  "resultados": [
+    {
+      "rota": "index.html",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 1833,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "Inglês para Brasileiros",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "inicio-desktop.png"
+    },
+    {
+      "rota": "niveis/a1/",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 1909,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "A1 — Iniciante",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-a1-desktop.png"
+    },
+    {
+      "rota": "niveis/a2/",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 2971,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "A2 — Básico",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-a2-desktop.png"
+    },
+    {
+      "rota": "niveis/b1/",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 2706,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "B1 — Intermediário",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-b1-desktop.png"
+    },
+    {
+      "rota": "niveis/b2/",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 2263,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "B2 — Intermediário avançado",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-b2-desktop.png"
+    },
+    {
+      "rota": "niveis/c1/",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 1290,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "C1 — Avançado",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-c1-desktop.png"
+    },
+    {
+      "rota": "niveis/c2/",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 1024,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "C2 — Proficiência",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-c2-desktop.png"
+    },
+    {
+      "rota": "niveis/kids/",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 1000,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "Kids — Trilha infantil",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-kids-desktop.png"
+    },
+    {
+      "rota": "estudar.html",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 1192,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "Estudar e revisar",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "estudar-desktop.png"
+    },
+    {
+      "rota": "praticar.html",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 1000,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "Praticar",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "praticar-desktop.png"
+    },
+    {
+      "rota": "jornada.html",
+      "dispositivo": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "http_status": 200,
+      "viewport_largura": 1440,
+      "viewport_altura": 1000,
+      "documento_largura": 1440,
+      "documento_altura": 2738,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "Jornada Guiada",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "jornada-desktop.png"
+    },
+    {
+      "rota": "index.html",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 2959,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "Inglês para Brasileiros",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "inicio-celular.png"
+    },
+    {
+      "rota": "niveis/a1/",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 2208,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "A1 — Iniciante",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-a1-celular.png"
+    },
+    {
+      "rota": "niveis/a2/",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 3449,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "A2 — Básico",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-a2-celular.png"
+    },
+    {
+      "rota": "niveis/b1/",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 3232,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "B1 — Intermediário",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-b1-celular.png"
+    },
+    {
+      "rota": "niveis/b2/",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 2726,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "B2 — Intermediário avançado",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-b2-celular.png"
+    },
+    {
+      "rota": "niveis/c1/",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 1638,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "C1 — Avançado",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-c1-celular.png"
+    },
+    {
+      "rota": "niveis/c2/",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 1334,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "C2 — Proficiência",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-c2-celular.png"
+    },
+    {
+      "rota": "niveis/kids/",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 1197,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "Kids — Trilha infantil",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "niveis-kids-celular.png"
+    },
+    {
+      "rota": "estudar.html",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 1829,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "Estudar e revisar",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "estudar-celular.png"
+    },
+    {
+      "rota": "praticar.html",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 998,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "Praticar",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "praticar-celular.png"
+    },
+    {
+      "rota": "jornada.html",
+      "dispositivo": "celular",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http_status": 200,
+      "viewport_largura": 390,
+      "viewport_altura": 844,
+      "documento_largura": 390,
+      "documento_altura": 1626,
+      "overflow_horizontal": false,
+      "tema": "light",
+      "titulo": "Jornada Guiada",
+      "marcador_perfil_isolado": "integracao-2019-lote-001",
+      "console_erros": [],
+      "pagina_erros": [],
+      "requisicoes_falhas": [],
+      "screenshot": "jornada-celular.png"
+    }
+  ]
+}

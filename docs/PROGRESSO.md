@@ -1,6 +1,6 @@
 # Progresso
 
-Atualizado em 2026-08-12 após o lote 054.
+Atualizado em 2026-08-16 após o lote 054.
 
 <!-- ESTADO-ATUAL:INICIO -->
 ## Estado atual confirmado
@@ -379,3 +379,14 @@ Atualizado em 2026-08-12 após o lote 054.
 - Totais preservados: 834 unidades, 1.977 atividades, 95 subpainéis, Jornada 806+28.
 - Última: `1230_01_American_English_File_1_-_Student_Book_Pk_-_03Edition_2.md`; próxima: `1231_02_American_English_File_2_-_Student_Book_With_Online_Practice_-_Third_Edition.md`.
 <!-- LOTE-043-PROGRESSO:FIM -->
+
+<!-- INTEGRACAO-2019-ENGLISH:INICIO -->
+## Integração 2019 English
+
+- Fontes de conversão aprovadas: **91**; complementares: **2**.
+- Fontes editorialmente revisadas: **1/93** (**1,08%**).
+- Fontes integradas com conteúdo novo: **0**; fontes sem conteúdo novo: **1**.
+- Seções examinadas: **30**; já cobertas: **30**; pendentes: **92 fontes**.
+- Lote 001: índice curricular BBC English Plus integralmente decidido, sem alterar as 834 unidades, 1.977 atividades, 95 subpainéis ou a Jornada.
+- Próxima seção exata: `BBC_English_Plus_transcricoes_PT_EN.md — Unidade 1`.
+<!-- INTEGRACAO-2019-ENGLISH:FIM -->

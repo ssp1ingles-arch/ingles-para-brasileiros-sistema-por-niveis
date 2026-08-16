@@ -1,5 +1,12 @@
 # Decisões
 
+## Integração 2019 English — lote 001
+
+- Usar a ordem do manifesto aprovado e reduzir o primeiro lote a uma fonte porque as três seguintes são extensas.
+- Tratar o índice BBC English Plus como mapa curricular, não como livro ou lição autônoma.
+- Consolidar suas 30 seções em destinos existentes: não há explicação, exemplo ou exercício independente que justifique republicação.
+- Preservar currículo, atividades, IDs, subpainéis, Jornada, interface e `localStorage`; registrar a nova procedência apenas nos dados auditáveis da integração.
+
 - Dados didáticos ficam em JSON; HTML apenas apresenta.
 - O primeiro lote forma uma sequência A1 curta e testável: pronomes → artigos → tempo → lugar.
 - Arquivos foram divididos internamente; apenas seções compatíveis foram publicadas.

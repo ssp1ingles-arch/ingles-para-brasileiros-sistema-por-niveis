@@ -1,0 +1,504 @@
+{
+  "schema_version": 1,
+  "lote": "001",
+  "estado": "integralmente_revisado",
+  "selecao": {
+    "criterio": "primeira fonte aprovada em ordem reproduzível; lote reduzido porque as três fontes seguintes são extensas",
+    "fontes": [
+      "BBC_English_Plus_indice_do_curso_PT_EN.md"
+    ]
+  },
+  "fonte": {
+    "nome": "BBC_English_Plus_indice_do_curso_PT_EN.md",
+    "sha256_saida": "e95c6a537cd507031ef04e7f29511d8db3d91931070459ee602fdbcdb95cfd31",
+    "tipo_origem": "XML",
+    "fontes_originais_representadas": 1
+  },
+  "leitura": {
+    "linhas_logicas": 728,
+    "secoes_unidade": 30,
+    "leitura_integral": true
+  },
+  "contagens": {
+    "secoes_examinadas": 30,
+    "ja_cobertas": 30,
+    "duplicatas_parciais": 0,
+    "exemplos_complementares": 0,
+    "explicacoes_complementares": 0,
+    "exercicios_aproveitaveis": 0,
+    "conteudo_novo": 0,
+    "inadequadas": 0,
+    "revisao_humana": 0
+  },
+  "impacto": {
+    "enriquecimentos_de_conteudo": 0,
+    "unidades_novas": 0,
+    "atividades_novas": 0,
+    "jornadas_alteradas": false,
+    "ids_anteriores_preservados": true
+  },
+  "validacao_visual": {
+    "estado": "aprovado",
+    "cenarios": 22,
+    "navegador": "Google Chrome 151.0.7922.138",
+    "viewports": [
+      "1440x1000",
+      "390x844"
+    ],
+    "console_erros": 0,
+    "overflow_horizontal": 0,
+    "evidencias": "docs/evidencias/integracao-2019-english-lote-001"
+  },
+  "decisoes": [
+    {
+      "secao": "Unidade 1: What's your name?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0001",
+        "A1-PRON-0001",
+        "A1-GRAM-0020"
+      ],
+      "pagina_ou_secao": "Unidade 1",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 2: How are you?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0020",
+        "A1-L4-1521-01"
+      ],
+      "pagina_ou_secao": "Unidade 2",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 3: Can you help me?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-VERB-0001",
+        "A2-L10-0466-01"
+      ],
+      "pagina_ou_secao": "Unidade 3",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 4: Left, right, straight ahead",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0004",
+        "A1-GRAM-0007",
+        "A1-GRAM-0008"
+      ],
+      "pagina_ou_secao": "Unidade 4",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 5: Where are they?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0007",
+        "A1-GRAM-0008",
+        "A1-GRAM-0020"
+      ],
+      "pagina_ou_secao": "Unidade 5",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 6: What's the time?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1",
+      "habilidade": "Vocabulário",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0002",
+        "A1-GRAM-0005",
+        "A1-GRAM-0015"
+      ],
+      "pagina_ou_secao": "Unidade 6",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 7: What's this? What's that?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0004",
+        "A1-GRAM-0014",
+        "A1-GRAM-0022"
+      ],
+      "pagina_ou_secao": "Unidade 7",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 8: I like it very much",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-L8-0360-01",
+        "A2-L4-0068-02"
+      ],
+      "pagina_ou_secao": "Unidade 8",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 9: Have you got any wine?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0021",
+        "A2-GRAM-0011",
+        "A2-L5-0122-01"
+      ],
+      "pagina_ou_secao": "Unidade 9",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 10: What are they doing?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–B1",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "B1-L12-0577-01"
+      ],
+      "pagina_ou_secao": "Unidade 10",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 11: Can I have your name, please?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-VERB-0001",
+        "A1-L4-0086-01"
+      ],
+      "pagina_ou_secao": "Unidade 11",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 12: What does she look like?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Vocabulário",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-L4-1521-03"
+      ],
+      "pagina_ou_secao": "Unidade 12",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 13: No smoking",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A2",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A2-L12-0575-01",
+        "A1-VERB-0002"
+      ],
+      "pagina_ou_secao": "Unidade 13",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 14: It's on the first floor",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0015",
+        "A1-GRAM-0016"
+      ],
+      "pagina_ou_secao": "Unidade 14",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 15: Where's he gone?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A2–B1",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "B1-L8-0321-01",
+        "B1-L15-0844-01"
+      ],
+      "pagina_ou_secao": "Unidade 15",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 16: Going away",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0015",
+        "A2-GRAM-0007"
+      ],
+      "pagina_ou_secao": "Unidade 16",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 17: Buying things",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A2-L9-0418-01"
+      ],
+      "pagina_ou_secao": "Unidade 17",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 18: Why do you like it?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A2–B1",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "B1-L10-0466-02"
+      ],
+      "pagina_ou_secao": "Unidade 18",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 19: What do you need?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A2-GRAM-0011",
+        "A2-VOC-0001"
+      ],
+      "pagina_ou_secao": "Unidade 19",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 20: I sometimes work late",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-L4-1521-03"
+      ],
+      "pagina_ou_secao": "Unidade 20",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 21: Welcome to Britain",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-L4-1521-01"
+      ],
+      "pagina_ou_secao": "Unidade 21",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 22: Who's that?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-L4-1521-01"
+      ],
+      "pagina_ou_secao": "Unidade 22",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 23: What would you like to do?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A2–B1",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-VERB-0001",
+        "A2-L4-0110-01",
+        "B1-L4-0110-02"
+      ],
+      "pagina_ou_secao": "Unidade 23",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 24: How can we get there?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–B1",
+      "habilidade": "Conversação",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A2-L8-0388-01",
+        "B1-L3-0037-02"
+      ],
+      "pagina_ou_secao": "Unidade 24",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 25: Where is it?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0007",
+        "A1-GRAM-0008"
+      ],
+      "pagina_ou_secao": "Unidade 25",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 26: What's the date?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Vocabulário",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0016",
+        "A2-L4-0068-01"
+      ],
+      "pagina_ou_secao": "Unidade 26",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 27: Whose is it?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A1-GRAM-0020",
+        "A1-L5-0120-02"
+      ],
+      "pagina_ou_secao": "Unidade 27",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 28: I enjoy it",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A2–B1",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "B1-L5-0134-03"
+      ],
+      "pagina_ou_secao": "Unidade 28",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 29: How many and how much?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A1–A2",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "A2-GRAM-0012",
+        "A2-GRAM-0013"
+      ],
+      "pagina_ou_secao": "Unidade 29",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    },
+    {
+      "secao": "Unidade 30: What have you done?",
+      "classificacao": "conteúdo já coberto",
+      "nivel_cefr": "A2–B1",
+      "habilidade": "Gramática",
+      "painel": "destinos canônicos existentes",
+      "subpainel": "preservado; nenhum agrupamento por fonte",
+      "pre_requisitos": "os definidos nas unidades canônicas",
+      "destinos_unidades": [
+        "B1-L8-0321-01",
+        "B1-L15-0844-01"
+      ],
+      "pagina_ou_secao": "Unidade 30",
+      "decisao": "registrar procedência no mapeamento do lote; não republicar o índice como lição"
+    }
+  ],
+  "proxima_secao_exata": "BBC_English_Plus_transcricoes_PT_EN.md — Unidade 1"
+}
