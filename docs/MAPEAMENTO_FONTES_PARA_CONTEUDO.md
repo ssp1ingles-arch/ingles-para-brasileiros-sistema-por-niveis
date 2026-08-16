@@ -4,6 +4,10 @@
 
 O índice curricular BBC English Plus foi dividido em 30 seções. Todas foram consolidadas em destinos canônicos A1–B1 já publicados; o mapa completo de seção, CEFR, habilidade e IDs está em `dados/integracao-2019-english-lote-001.json`. Nenhum painel, subpainel, livro, unidade ou atividade foi criado.
 
+## Integração 2019 English — lote 002
+
+A Unidade 1 das transcrições foi dividida em sete blocos A1 de conversação. Cinco foram consolidados em destinos existentes e dois preservam contextos complementares de recepção formal e telefone. A fonte permanece parcial em 1/30 unidades; consulte `dados/integracao-2019-english-lote-002.json`.
+
 O mapa completo está em `dados/mapa-fontes.json`; decisões seção a seção estão em `dados/revisao-fontes.json`; as triagens auditáveis vão de `dados/lote-003-triagem.json` a `dados/lote-011-triagem.json`.
 
 ## Lotes 001–002

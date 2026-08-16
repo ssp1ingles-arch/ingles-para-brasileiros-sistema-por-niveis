@@ -384,9 +384,10 @@ Atualizado em 2026-08-16 após o lote 054.
 ## Integração 2019 English
 
 - Fontes de conversão aprovadas: **91**; complementares: **2**.
-- Fontes editorialmente revisadas: **1/93** (**1,08%**).
-- Fontes integradas com conteúdo novo: **0**; fontes sem conteúdo novo: **1**.
-- Seções examinadas: **30**; já cobertas: **30**; pendentes: **92 fontes**.
-- Lote 001: índice curricular BBC English Plus integralmente decidido, sem alterar as 834 unidades, 1.977 atividades, 95 subpainéis ou a Jornada.
-- Próxima seção exata: `BBC_English_Plus_transcricoes_PT_EN.md — Unidade 1`.
+- Fontes integralmente revisadas: **1/93**; fontes parcialmente analisadas: **1**.
+- Avanço editorial equivalente: **1,03/93** fontes (**1,11%**), considerando 1/30 da fonte consolidada atual.
+- Fontes integradas com unidade nova: **0**; fontes sem conteúdo novo concluídas: **1**.
+- Seções decididas: **37** — 30 do lote 001 e **7** da Unidade 1 do lote 002.
+- Unidade 1 das transcrições: **5** blocos cobertos e **2** contextos complementares; currículo, IDs, atividades, subpainéis e Jornada preservados.
+- Próxima seção exata: `BBC_English_Plus_transcricoes_PT_EN.md — Unidade 2`.
 <!-- INTEGRACAO-2019-ENGLISH:FIM -->

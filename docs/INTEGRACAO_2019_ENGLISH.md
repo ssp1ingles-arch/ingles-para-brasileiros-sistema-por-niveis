@@ -18,6 +18,12 @@ A inspeção real foi executada com Google Chrome 151.0.7922.138 em contexto Pla
 
 Próxima seção exata: `BBC_English_Plus_transcricoes_PT_EN.md — Unidade 1`.
 
+## Lote 002 — checkpoint da Unidade 1
+
+A Unidade 1 da fonte consolidada de transcrições foi lida integralmente: 73 pares EN–PT organizados em sete blocos pedagógicos. Cinco blocos já estão cobertos por unidades canônicas; os contextos de recepção formal e confirmação de número por telefone foram registrados como exemplos complementares, sem republicar os diálogos.
+
+Nenhuma unidade ou atividade foi criada. A fonte permanece `parcialmente_analisada` em 1/30 unidades. A triagem auditável está em `dados/integracao-2019-english-lote-002.json`; a próxima seção exata é a Unidade 2 da mesma fonte.
+
 ## Publicação
 
 Cada lote exige auditoria estrutural, interação, JSON/JavaScript, rotas locais e públicas, inspeção desktop/celular, `git diff --check`, revisão de direitos/segredos, commit único, push normal e confirmação do SHA implantado no GitHub Pages.

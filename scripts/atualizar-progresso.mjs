@@ -289,5 +289,13 @@ if (fs.existsSync(integracao2019Path)) {
   const rx = new RegExp(`${inicio}[\\s\\S]*?${fim}`);
   progresso = rx.test(progresso) ? progresso.replace(rx, blocoIntegracao) : `${progresso.trim()}\n\n${blocoIntegracao}\n`;
 }
+const integracao2019Lote002Path = path.join(dados, 'integracao-2019-english-lote-002.json');
+if (fs.existsSync(integracao2019Lote002Path)) {
+  const lote002 = JSON.parse(fs.readFileSync(integracao2019Lote002Path, 'utf8'));
+  const inicio = '<!-- INTEGRACAO-2019-ENGLISH:INICIO -->';
+  const fim = '<!-- INTEGRACAO-2019-ENGLISH:FIM -->';
+  const blocoIntegracao = `${inicio}\n## Integração 2019 English\n\n- Fontes de conversão aprovadas: **91**; complementares: **2**.\n- Fontes integralmente revisadas: **1/93**; fontes parcialmente analisadas: **1**.\n- Avanço editorial equivalente: **1,03/93** fontes (**1,11%**), considerando 1/30 da fonte consolidada atual.\n- Fontes integradas com unidade nova: **0**; fontes sem conteúdo novo concluídas: **1**.\n- Seções decididas: **37** — 30 do lote 001 e **${lote002.contagens.secoes_examinadas}** da Unidade 1 do lote 002.\n- Unidade 1 das transcrições: **${lote002.contagens.ja_cobertas}** blocos cobertos e **${lote002.contagens.exemplos_complementares}** contextos complementares; currículo, IDs, atividades, subpainéis e Jornada preservados.\n- Próxima seção exata: \`${lote002.proxima_secao_exata}\`.\n${fim}`;
+  progresso = progresso.replace(new RegExp(`${inicio}[\\s\\S]*?${fim}`), blocoIntegracao);
+}
 fs.writeFileSync(progressoPath, progresso, 'utf8');
 console.log(`PROGRESSO atualizado: ${tratados}/${totalFontes} fontes, ${unidades.length} unidades, ${atividades.length} atividades, ${testes}/${testes} testes, ${rotas.length} rotas.`);

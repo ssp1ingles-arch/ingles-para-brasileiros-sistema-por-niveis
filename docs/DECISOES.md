@@ -7,6 +7,13 @@
 - Consolidar suas 30 seções em destinos existentes: não há explicação, exemplo ou exercício independente que justifique republicação.
 - Preservar currículo, atividades, IDs, subpainéis, Jornada, interface e `localStorage`; registrar a nova procedência apenas nos dados auditáveis da integração.
 
+## Integração 2019 English — lote 002
+
+- Processar a fonte consolidada por unidade; a Unidade 1 forma o primeiro checkpoint seguro e a fonte permanece parcial.
+- Agrupar 73 pares EN–PT em sete objetivos, sem criar unidade por linha nem republicar o diálogo.
+- Consolidar cinco blocos em unidades existentes e registrar dois contextos complementares de recepção/telefone apenas como procedência auditável.
+- Não criar atividade: transformar os diálogos em respostas únicas exigiria reprodução ou exercício artificial.
+
 - Dados didáticos ficam em JSON; HTML apenas apresenta.
 - O primeiro lote forma uma sequência A1 curta e testável: pronomes → artigos → tempo → lugar.
 - Arquivos foram divididos internamente; apenas seções compatíveis foram publicadas.

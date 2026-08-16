@@ -3,8 +3,9 @@ import path from 'node:path';
 import { chromium } from 'playwright-core';
 
 const root = path.resolve(import.meta.dirname, '..');
-const out = path.join(root, 'docs/evidencias/integracao-2019-english-lote-001');
 const base = (process.argv[2] || 'http://127.0.0.1:8765/').replace(/\/?$/, '/');
+const lote = process.argv[3] || '001';
+const out = path.join(root, `docs/evidencias/integracao-2019-english-lote-${lote}`);
 const executablePath = 'C:/Program Files/Google/Chrome/Application/chrome.exe';
 const routes = ['index.html', 'niveis/a1/', 'niveis/a2/', 'niveis/b1/', 'niveis/b2/', 'niveis/c1/', 'niveis/c2/', 'niveis/kids/', 'estudar.html', 'praticar.html', 'jornada.html'];
 const viewports = { desktop: { width: 1440, height: 1000 }, celular: { width: 390, height: 844 } };
@@ -21,10 +22,10 @@ for (const [dispositivo, viewport] of Object.entries(viewports)) {
     page.on('console', msg => { if (msg.type() === 'error') consoleErros.push(msg.text()); });
     page.on('pageerror', err => paginaErros.push(err.message));
     page.on('requestfailed', req => requisicoesFalhas.push(`${req.method()} ${req.url()}: ${req.failure()?.errorText}`));
-    await page.addInitScript(() => {
+    await page.addInitScript(loteAtual => {
       localStorage.setItem('interfaceThemeV1', 'light');
-      localStorage.setItem('auditIsolationMarker', 'integracao-2019-lote-001');
-    });
+      localStorage.setItem('auditIsolationMarker', `integracao-2019-lote-${loteAtual}`);
+    }, lote);
     const response = await page.goto(new URL(rota, base).href, { waitUntil: 'networkidle' });
     const metricas = await page.evaluate(() => ({
       viewport_largura: innerWidth,
@@ -57,8 +58,8 @@ const temaPersistiu = await page.evaluate(() => document.documentElement.dataset
 await context.close();
 await browser.close();
 
-const aprovado = resultados.length === 22 && resultados.every(r => r.http_status === 200 && !r.overflow_horizontal && !r.console_erros.length && !r.pagina_erros.length && !r.requisicoes_falhas.length && r.marcador_perfil_isolado === 'integracao-2019-lote-001') && temaEscuro.tema === 'dark' && temaEscuro.persistido === 'dark' && temaPersistiu;
-const relatorio = { schema_version: 1, lote: 'integracao-2019-english-001', executado_em: new Date().toISOString(), base_local: base, navegador: { produto: 'Google Chrome', versao: version, executavel: executablePath, headless: true, perfil: 'contexto Playwright isolado' }, resultado: aprovado ? 'APROVADO' : 'FALHOU', cenarios: resultados.length, tema_escuro: { ...temaEscuro, persistencia_apos_reload: temaPersistiu }, resultados };
+const aprovado = resultados.length === 22 && resultados.every(r => r.http_status === 200 && !r.overflow_horizontal && !r.console_erros.length && !r.pagina_erros.length && !r.requisicoes_falhas.length && r.marcador_perfil_isolado === `integracao-2019-lote-${lote}`) && temaEscuro.tema === 'dark' && temaEscuro.persistido === 'dark' && temaPersistiu;
+const relatorio = { schema_version: 1, lote: `integracao-2019-english-${lote}`, executado_em: new Date().toISOString(), base_local: base, navegador: { produto: 'Google Chrome', versao: version, executavel: executablePath, headless: true, perfil: 'contexto Playwright isolado' }, resultado: aprovado ? 'APROVADO' : 'FALHOU', cenarios: resultados.length, tema_escuro: { ...temaEscuro, persistencia_apos_reload: temaPersistiu }, resultados };
 fs.writeFileSync(path.join(out, 'auditoria-navegador.json'), JSON.stringify(relatorio, null, 2) + '\n');
 console.log(`${relatorio.resultado}: ${resultados.length}/22 cenários; Chrome ${version}; evidências em ${path.relative(root, out)}.`);
 if (!aprovado) process.exitCode = 1;
