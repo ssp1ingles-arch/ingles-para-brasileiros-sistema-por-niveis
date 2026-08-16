@@ -385,9 +385,9 @@ Atualizado em 2026-08-16 após o lote 054.
 
 - Fontes de conversão aprovadas: **91**; complementares: **2**.
 - Fontes integralmente revisadas: **1/93**; fontes parcialmente analisadas: **1**.
-- Avanço editorial equivalente: **1,03/93** fontes (**1,11%**), considerando 1/30 da fonte consolidada atual.
+- Avanço editorial equivalente: **1,20/93** fontes (**1,29%**), considerando 6/30 da fonte consolidada atual.
 - Fontes integradas com unidade nova: **0**; fontes sem conteúdo novo concluídas: **1**.
-- Seções decididas: **37** — 30 do lote 001 e **7** da Unidade 1 do lote 002.
-- Unidade 1 das transcrições: **5** blocos cobertos e **2** contextos complementares; currículo, IDs, atividades, subpainéis e Jornada preservados.
-- Próxima seção exata: `BBC_English_Plus_transcricoes_PT_EN.md — Unidade 2`.
+- Blocos decididos: **67** — 30 do lote 001 e **37** nas Unidades 1–6 do lote 002.
+- Transcrições: **27** blocos cobertos e **10** contextos úteis não publicados; currículo, IDs, atividades, subpainéis e Jornada preservados.
+- Próxima seção exata: `BBC_English_Plus_transcricoes_PT_EN.md — Unidade 7`.
 <!-- INTEGRACAO-2019-ENGLISH:FIM -->

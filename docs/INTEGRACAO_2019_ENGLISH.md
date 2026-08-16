@@ -18,11 +18,11 @@ A inspeção real foi executada com Google Chrome 151.0.7922.138 em contexto Pla
 
 Próxima seção exata: `BBC_English_Plus_transcricoes_PT_EN.md — Unidade 1`.
 
-## Lote 002 — checkpoint da Unidade 1
+## Lote 002 — checkpoint das Unidades 1–6
 
-A Unidade 1 da fonte consolidada de transcrições foi lida integralmente: 73 pares EN–PT organizados em sete blocos pedagógicos. Cinco blocos já estão cobertos por unidades canônicas; os contextos de recepção formal e confirmação de número por telefone foram registrados como exemplos complementares, sem republicar os diálogos.
+As Unidades 1–6 da fonte consolidada de transcrições foram lidas integralmente: 501 pares EN–PT organizados em 37 blocos pedagógicos. Há 27 blocos cobertos por unidades canônicas e dez contextos úteis não publicados. A Unidade 1 contém 73 traduções PT; os 428 campos PT das Unidades 2–6 estão vazios na fonte e essa ausência foi preservada como evidência, sem tradução editorial implícita.
 
-Nenhuma unidade ou atividade foi criada. A fonte permanece `parcialmente_analisada` em 1/30 unidades. A triagem auditável está em `dados/integracao-2019-english-lote-002.json`; a próxima seção exata é a Unidade 2 da mesma fonte.
+Nenhuma unidade ou atividade foi criada. A fonte permanece `parcialmente_analisada` em 6/30 unidades. A triagem auditável está em `dados/integracao-2019-english-lote-002.json`; a próxima seção exata é a Unidade 7 da mesma fonte.
 
 ## Publicação
 

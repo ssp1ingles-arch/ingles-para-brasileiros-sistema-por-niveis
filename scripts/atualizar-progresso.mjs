@@ -294,7 +294,13 @@ if (fs.existsSync(integracao2019Lote002Path)) {
   const lote002 = JSON.parse(fs.readFileSync(integracao2019Lote002Path, 'utf8'));
   const inicio = '<!-- INTEGRACAO-2019-ENGLISH:INICIO -->';
   const fim = '<!-- INTEGRACAO-2019-ENGLISH:FIM -->';
-  const blocoIntegracao = `${inicio}\n## Integração 2019 English\n\n- Fontes de conversão aprovadas: **91**; complementares: **2**.\n- Fontes integralmente revisadas: **1/93**; fontes parcialmente analisadas: **1**.\n- Avanço editorial equivalente: **1,03/93** fontes (**1,11%**), considerando 1/30 da fonte consolidada atual.\n- Fontes integradas com unidade nova: **0**; fontes sem conteúdo novo concluídas: **1**.\n- Seções decididas: **37** — 30 do lote 001 e **${lote002.contagens.secoes_examinadas}** da Unidade 1 do lote 002.\n- Unidade 1 das transcrições: **${lote002.contagens.ja_cobertas}** blocos cobertos e **${lote002.contagens.exemplos_complementares}** contextos complementares; currículo, IDs, atividades, subpainéis e Jornada preservados.\n- Próxima seção exata: \`${lote002.proxima_secao_exata}\`.\n${fim}`;
+  const unidadesConcluidas = lote002.fonte.unidades_concluidas.length;
+  const equivalente = 1 + unidadesConcluidas / lote002.fonte.unidades_totais;
+  const percentual = (equivalente / 93 * 100).toFixed(2).replace('.', ',');
+  const equivalentePt = equivalente.toFixed(2).replace('.', ',');
+  const cobertos = lote002.contagens.por_classificacao.ja_coberto_integralmente + lote002.contagens.por_classificacao.ja_coberto_com_exemplos_equivalentes;
+  const contextos = lote002.contagens.por_classificacao.contexto_util_nao_publicado;
+  const blocoIntegracao = `${inicio}\n## Integração 2019 English\n\n- Fontes de conversão aprovadas: **91**; complementares: **2**.\n- Fontes integralmente revisadas: **1/93**; fontes parcialmente analisadas: **1**.\n- Avanço editorial equivalente: **${equivalentePt}/93** fontes (**${percentual}%**), considerando ${unidadesConcluidas}/${lote002.fonte.unidades_totais} da fonte consolidada atual.\n- Fontes integradas com unidade nova: **0**; fontes sem conteúdo novo concluídas: **1**.\n- Blocos decididos: **${30 + lote002.contagens.blocos_pedagogicos}** — 30 do lote 001 e **${lote002.contagens.blocos_pedagogicos}** nas Unidades 1–${unidadesConcluidas} do lote 002.\n- Transcrições: **${cobertos}** blocos cobertos e **${contextos}** contextos úteis não publicados; currículo, IDs, atividades, subpainéis e Jornada preservados.\n- Próxima seção exata: \`${lote002.proxima_secao_exata}\`.\n${fim}`;
   progresso = progresso.replace(new RegExp(`${inicio}[\\s\\S]*?${fim}`), blocoIntegracao);
 }
 fs.writeFileSync(progressoPath, progresso, 'utf8');

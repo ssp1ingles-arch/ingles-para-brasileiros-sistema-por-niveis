@@ -9,9 +9,10 @@
 
 ## Integração 2019 English — lote 002
 
-- Processar a fonte consolidada por unidade; a Unidade 1 forma o primeiro checkpoint seguro e a fonte permanece parcial.
-- Agrupar 73 pares EN–PT em sete objetivos, sem criar unidade por linha nem republicar o diálogo.
-- Consolidar cinco blocos em unidades existentes e registrar dois contextos complementares de recepção/telefone apenas como procedência auditável.
+- Processar a fonte consolidada por unidade; as Unidades 1–6 formam o checkpoint publicado e a fonte permanece parcial.
+- Agrupar 501 pares EN–PT em 37 objetivos, sem criar unidade por linha nem republicar o diálogo.
+- Consolidar 27 blocos já cobertos e registrar dez contextos úteis não publicados com destino, valor exclusivo, motivo e risco de fragmentação.
+- Registrar que os 428 campos PT das Unidades 2–6 estão vazios na fonte; não inventar tradução nem tratar o par formal como tradução preenchida.
 - Não criar atividade: transformar os diálogos em respostas únicas exigiria reprodução ou exercício artificial.
 
 - Dados didáticos ficam em JSON; HTML apenas apresenta.
