@@ -18,11 +18,13 @@ A inspeção real foi executada com Google Chrome 151.0.7922.138 em contexto Pla
 
 Próxima seção exata: `BBC_English_Plus_transcricoes_PT_EN.md — Unidade 1`.
 
-## Lote 002 — checkpoint das Unidades 1–6
+## Lote 002 — checkpoint das Unidades 1–15
 
-As Unidades 1–6 da fonte consolidada de transcrições foram lidas integralmente: 501 pares EN–PT organizados em 37 blocos pedagógicos. Há 27 blocos cobertos por unidades canônicas e dez contextos úteis não publicados. A Unidade 1 contém 73 traduções PT; os 428 campos PT das Unidades 2–6 estão vazios na fonte e essa ausência foi preservada como evidência, sem tradução editorial implícita.
+As Unidades 1–15 da fonte consolidada de transcrições foram lidas integralmente: 1.517 pares EN–PT organizados em 93 blocos pedagógicos. Há 62 blocos cobertos por unidades canônicas, 26 contextos úteis não publicados e cinco encadeamentos sem objetivo independente. A Unidade 1 contém 73 traduções PT; os 1.444 campos PT das Unidades 2–15 estão vazios na fonte e essa ausência foi preservada como evidência, sem tradução inventada.
 
-Nenhuma unidade ou atividade foi criada. A fonte permanece `parcialmente_analisada` em 6/30 unidades. A triagem auditável está em `dados/integracao-2019-english-lote-002.json`; a próxima seção exata é a Unidade 7 da mesma fonte.
+Nenhuma unidade, atividade ou enriquecimento foi criado: inclusive os dez contextos herdados do checkpoint 1–6 foram reavaliados e continuam dependentes do cenário da transcrição. Cada um dos 26 contextos registra unidade canônica, objetivo comunicativo, conteúdo exclusivo resumido, razão concreta, riscos separados de redundância e fragmentação e decisão final. A fonte permanece `parcialmente_analisada` em 15/30 unidades (50%); a triagem auditável está em `dados/integracao-2019-english-lote-002.json` e a próxima seção exata é a Unidade 16.
+
+A inspeção local deste checkpoint foi executada com Google Chrome 151.0.7922.138, headless, em contexto Playwright isolado. As 11 rotas passaram em desktop e celular: 22/22 cenários com HTTP 200, console, erros de página e requisições falhas vazios, sem overflow horizontal; tema escuro e persistência após recarga também passaram. O relatório e as capturas estão em `docs/evidencias/integracao-2019-english-lote-002/`.
 
 ## Publicação
 

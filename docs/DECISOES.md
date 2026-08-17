@@ -417,3 +417,9 @@
 
 O intervalo pendente 1239–1324 foi processado como macrolote único: 78 fontes integralmente decididas em seis checkpoints, incluindo curadorias, livros canônicos, extrações alternativas, índices, fontes de imagem e regras administrativas. Conteúdo útil foi consolidado somente em destinos existentes; não foram criadas unidades ou atividades e nenhuma reprodução extensa foi versionada.
 <!-- MACROLOTE-051-DECISOES:FIM -->
+
+<!-- INTEGRACAO-2019-LOTE-002-DECISOES:INICIO -->
+## Integração 2019 English — lote 002, Unidades 1–15
+
+As 15 primeiras unidades da fonte de transcrições foram lidas integralmente e divididas em 93 objetivos comunicativos. Os 62 blocos cobertos foram associados a unidades canônicas; cinco encadeamentos sem objetivo independente e 26 contextos situacionais não foram publicados. Os dez contextos do checkpoint anterior foram reavaliados sob o mesmo contrato e permaneceram não publicáveis porque seu valor exclusivo depende do diálogo e sua publicação repetiria objetivos existentes ou fragmentaria o percurso. Nenhum campo PT vazio foi traduzido, nenhuma transcrição extensa foi incorporada e nenhuma unidade ou atividade foi criada. Próxima seção: Unidade 16.
+<!-- INTEGRACAO-2019-LOTE-002-DECISOES:FIM -->

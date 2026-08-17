@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "lote": "integracao-2019-english-002",
-  "executado_em": "2026-08-16T15:40:59.107Z",
+  "executado_em": "2026-08-17T00:23:22.359Z",
   "base_local": "http://127.0.0.1:8000/",
   "navegador": {
     "produto": "Google Chrome",

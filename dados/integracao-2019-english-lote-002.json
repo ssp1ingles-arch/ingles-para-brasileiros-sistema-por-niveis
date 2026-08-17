@@ -12,9 +12,7 @@
       3,
       4,
       5,
-      6
-    ],
-    "unidades_pendentes": [
+      6,
       7,
       8,
       9,
@@ -23,7 +21,9 @@
       12,
       13,
       14,
-      15,
+      15
+    ],
+    "unidades_pendentes": [
       16,
       17,
       18,
@@ -89,26 +89,98 @@
       "campos_pt_preenchidos": 0,
       "blocos_pedagogicos": 6,
       "leitura_integral_da_unidade": true
+    },
+    {
+      "unidade": 7,
+      "linhas": 252,
+      "pares_en_pt": 125,
+      "campos_pt_preenchidos": 0,
+      "blocos_pedagogicos": 6,
+      "leitura_integral_da_unidade": true
+    },
+    {
+      "unidade": 8,
+      "linhas": 272,
+      "pares_en_pt": 135,
+      "campos_pt_preenchidos": 0,
+      "blocos_pedagogicos": 6,
+      "leitura_integral_da_unidade": true
+    },
+    {
+      "unidade": 9,
+      "linhas": 290,
+      "pares_en_pt": 144,
+      "campos_pt_preenchidos": 0,
+      "blocos_pedagogicos": 6,
+      "leitura_integral_da_unidade": true
+    },
+    {
+      "unidade": 10,
+      "linhas": 246,
+      "pares_en_pt": 122,
+      "campos_pt_preenchidos": 0,
+      "blocos_pedagogicos": 6,
+      "leitura_integral_da_unidade": true
+    },
+    {
+      "unidade": 11,
+      "linhas": 212,
+      "pares_en_pt": 105,
+      "campos_pt_preenchidos": 0,
+      "blocos_pedagogicos": 7,
+      "leitura_integral_da_unidade": true
+    },
+    {
+      "unidade": 12,
+      "linhas": 188,
+      "pares_en_pt": 93,
+      "campos_pt_preenchidos": 0,
+      "blocos_pedagogicos": 6,
+      "leitura_integral_da_unidade": true
+    },
+    {
+      "unidade": 13,
+      "linhas": 196,
+      "pares_en_pt": 97,
+      "campos_pt_preenchidos": 0,
+      "blocos_pedagogicos": 6,
+      "leitura_integral_da_unidade": true
+    },
+    {
+      "unidade": 14,
+      "linhas": 198,
+      "pares_en_pt": 98,
+      "campos_pt_preenchidos": 0,
+      "blocos_pedagogicos": 6,
+      "leitura_integral_da_unidade": true
+    },
+    {
+      "unidade": 15,
+      "linhas": 196,
+      "pares_en_pt": 97,
+      "campos_pt_preenchidos": 0,
+      "blocos_pedagogicos": 7,
+      "leitura_integral_da_unidade": true
     }
   ],
   "contagens": {
-    "unidades_examinadas": 6,
-    "pares_en_pt": 501,
-    "blocos_pedagogicos": 37,
+    "unidades_examinadas": 15,
+    "pares_en_pt": 1517,
+    "blocos_pedagogicos": 93,
     "por_classificacao": {
-      "ja_coberto_integralmente": 15,
-      "ja_coberto_com_exemplos_equivalentes": 12,
+      "ja_coberto_integralmente": 29,
+      "ja_coberto_com_exemplos_equivalentes": 33,
       "enriquecimento_de_unidade_existente": 0,
       "nova_unidade_necessaria": 0,
-      "contexto_util_nao_publicado": 10,
+      "contexto_util_nao_publicado": 26,
       "duplicata_interna_da_fonte": 0,
-      "conteudo_sem_objetivo_independente": 0,
+      "conteudo_sem_objetivo_independente": 5,
       "revisao_editorial_necessaria": 0
     }
   },
   "impacto": {
     "enriquecimentos_de_unidade": 0,
-    "contextos_uteis_nao_publicados": 10,
+    "contextos_uteis_nao_publicados": 26,
     "unidades_novas": 0,
     "atividades_novas": 0,
     "jornadas_alteradas": false,
@@ -157,9 +229,12 @@
       "decisao_editorial": "preservar somente a procedência e a decisão editorial",
       "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
       "unidade_canonica": "A2-L10-1377-01",
+      "objetivo_comunicativo": "Recepção formal e encaminhamento",
       "conteudo_exclusivo": "Recepção formal e encaminhamento",
-      "motivo_concreto": "A situação encadeada acrescenta naturalidade pragmática, mas não cria objetivo ensinável autônomo além do destino existente.",
-      "risco_redundancia_fragmentacao": "Publicar o diálogo como nova unidade repetiria estruturas já ensinadas e fragmentaria o percurso por cenário da fonte."
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Recepção formal e encaminhamento”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
     },
     {
       "ordem_na_unidade": 4,
@@ -217,9 +292,12 @@
       "decisao_editorial": "preservar somente a procedência e a decisão editorial",
       "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
       "unidade_canonica": "A1-L4-0086-01",
+      "objetivo_comunicativo": "Confirmação de número em chamada telefônica",
       "conteudo_exclusivo": "Confirmação de número em chamada telefônica",
-      "motivo_concreto": "A situação encadeada acrescenta naturalidade pragmática, mas não cria objetivo ensinável autônomo além do destino existente.",
-      "risco_redundancia_fragmentacao": "Publicar o diálogo como nova unidade repetiria estruturas já ensinadas e fragmentaria o percurso por cenário da fonte."
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Confirmação de número em chamada telefônica”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
     },
     {
       "ordem_na_unidade": 1,
@@ -278,9 +356,12 @@
       "decisao_editorial": "preservar somente a procedência e a decisão editorial",
       "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
       "unidade_canonica": "A2-L10-1377-01",
+      "objetivo_comunicativo": "Soletrar nome e sobrenome em interação",
       "conteudo_exclusivo": "Soletrar nome e sobrenome em interação",
-      "motivo_concreto": "A situação encadeada acrescenta naturalidade pragmática, mas não cria objetivo ensinável autônomo além do destino existente.",
-      "risco_redundancia_fragmentacao": "Publicar o diálogo como nova unidade repetiria estruturas já ensinadas e fragmentaria o percurso por cenário da fonte."
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Soletrar nome e sobrenome em interação”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
     },
     {
       "ordem_na_unidade": 5,
@@ -310,9 +391,12 @@
       "decisao_editorial": "preservar somente a procedência e a decisão editorial",
       "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
       "unidade_canonica": "A1-L4-0086-01",
+      "objetivo_comunicativo": "Confirmar identidade e corrigir engano ao telefone",
       "conteudo_exclusivo": "Confirmar identidade e corrigir engano ao telefone",
-      "motivo_concreto": "A situação encadeada acrescenta naturalidade pragmática, mas não cria objetivo ensinável autônomo além do destino existente.",
-      "risco_redundancia_fragmentacao": "Publicar o diálogo como nova unidade repetiria estruturas já ensinadas e fragmentaria o percurso por cenário da fonte."
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Confirmar identidade e corrigir engano ao telefone”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
     },
     {
       "ordem_na_unidade": 1,
@@ -396,9 +480,12 @@
       "decisao_editorial": "preservar somente a procedência e a decisão editorial",
       "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
       "unidade_canonica": "A2-L15-0832-01",
+      "objetivo_comunicativo": "Recepcionar hóspedes e cuidar da bagagem",
       "conteudo_exclusivo": "Recepcionar hóspedes e cuidar da bagagem",
-      "motivo_concreto": "A situação encadeada acrescenta naturalidade pragmática, mas não cria objetivo ensinável autônomo além do destino existente.",
-      "risco_redundancia_fragmentacao": "Publicar o diálogo como nova unidade repetiria estruturas já ensinadas e fragmentaria o percurso por cenário da fonte."
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Recepcionar hóspedes e cuidar da bagagem”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
     },
     {
       "ordem_na_unidade": 1,
@@ -484,9 +571,12 @@
       "decisao_editorial": "preservar somente a procedência e a decisão editorial",
       "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
       "unidade_canonica": "A2-L14-0742-01",
+      "objetivo_comunicativo": "Encadear orientação urbana até hotel com mapa e pontos de referência",
       "conteudo_exclusivo": "Encadear orientação urbana até hotel com mapa e pontos de referência",
-      "motivo_concreto": "A situação encadeada acrescenta naturalidade pragmática, mas não cria objetivo ensinável autônomo além do destino existente.",
-      "risco_redundancia_fragmentacao": "Publicar o diálogo como nova unidade repetiria estruturas já ensinadas e fragmentaria o percurso por cenário da fonte."
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Encadear orientação urbana até hotel com mapa e pontos de referência”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
     },
     {
       "ordem_na_unidade": 1,
@@ -543,9 +633,12 @@
       "decisao_editorial": "preservar somente a procedência e a decisão editorial",
       "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
       "unidade_canonica": "A2-L15-0832-01",
+      "objetivo_comunicativo": "Perguntar por hóspedes e verificar quarto ou dependência do hotel",
       "conteudo_exclusivo": "Perguntar por hóspedes e verificar quarto ou dependência do hotel",
-      "motivo_concreto": "A situação encadeada acrescenta naturalidade pragmática, mas não cria objetivo ensinável autônomo além do destino existente.",
-      "risco_redundancia_fragmentacao": "Publicar o diálogo como nova unidade repetiria estruturas já ensinadas e fragmentaria o percurso por cenário da fonte."
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Perguntar por hóspedes e verificar quarto ou dependência do hotel”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
     },
     {
       "ordem_na_unidade": 5,
@@ -575,9 +668,12 @@
       "decisao_editorial": "preservar somente a procedência e a decisão editorial",
       "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
       "unidade_canonica": "A2-L14-0742-01",
+      "objetivo_comunicativo": "Relatar sequência de localizações em um itinerário",
       "conteudo_exclusivo": "Relatar sequência de localizações em um itinerário",
-      "motivo_concreto": "A situação encadeada acrescenta naturalidade pragmática, mas não cria objetivo ensinável autônomo além do destino existente.",
-      "risco_redundancia_fragmentacao": "Publicar o diálogo como nova unidade repetiria estruturas já ensinadas e fragmentaria o percurso por cenário da fonte."
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Relatar sequência de localizações em um itinerário”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
     },
     {
       "ordem_na_unidade": 1,
@@ -634,9 +730,12 @@
       "decisao_editorial": "preservar somente a procedência e a decisão editorial",
       "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
       "unidade_canonica": "A2-L5-0128-02",
+      "objetivo_comunicativo": "Perguntar e informar partidas e chegadas de trens",
       "conteudo_exclusivo": "Perguntar e informar partidas e chegadas de trens",
-      "motivo_concreto": "A situação encadeada acrescenta naturalidade pragmática, mas não cria objetivo ensinável autônomo além do destino existente.",
-      "risco_redundancia_fragmentacao": "Publicar o diálogo como nova unidade repetiria estruturas já ensinadas e fragmentaria o percurso por cenário da fonte."
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Perguntar e informar partidas e chegadas de trens”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
     },
     {
       "ordem_na_unidade": 5,
@@ -666,10 +765,904 @@
       "decisao_editorial": "preservar somente a procedência e a decisão editorial",
       "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
       "unidade_canonica": "A1-GRAM-0002",
+      "objetivo_comunicativo": "Comparar horas simultâneas em diferentes fusos",
       "conteudo_exclusivo": "Comparar horas simultâneas em diferentes fusos",
-      "motivo_concreto": "A situação encadeada acrescenta naturalidade pragmática, mas não cria objetivo ensinável autônomo além do destino existente.",
-      "risco_redundancia_fragmentacao": "Publicar o diálogo como nova unidade repetiria estruturas já ensinadas e fragmentaria o percurso por cenário da fonte."
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Comparar horas simultâneas em diferentes fusos”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 1,
+      "unidade_fonte": 7,
+      "secao": "Identificar bagagem e pedir abertura na alfândega",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "B1-L3-0053-03",
+        "B2-L6-0173-02"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "B1-L3-0053-03",
+      "objetivo_comunicativo": "Identificar bagagem e pedir abertura na alfândega",
+      "conteudo_exclusivo": "Identificar bagagem e pedir abertura na alfândega",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Identificar bagagem e pedir abertura na alfândega”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 2,
+      "unidade_fonte": 7,
+      "secao": "Identificar objetos com this, that, these e those",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-GRAM-0010",
+        "B1-L3-0053-04"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 3,
+      "unidade_fonte": 7,
+      "secao": "Descrever mapa e paisagem com cores e substantivos",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L14-0742-01",
+        "A2-L15-0823-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 4,
+      "unidade_fonte": 7,
+      "secao": "Orientar deslocamento com straight ahead e this way",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L4-0111-01",
+        "A2-L14-0742-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 5,
+      "unidade_fonte": 7,
+      "secao": "Conduzir quiz de identificação sobre pontos turísticos",
+      "classificacao": "conteudo_sem_objetivo_independente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L10-1377-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 6,
+      "unidade_fonte": 7,
+      "secao": "Perguntar e informar idade, comprimento e altura",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-L4-0068-01",
+        "A1-L4-1521-03",
+        "A2-L4-0068-03"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 1,
+      "unidade_fonte": 8,
+      "secao": "Expressar gostos e rejeição com like e not at all",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-L8-0336-01",
+        "A2-L15-0829-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 2,
+      "unidade_fonte": 8,
+      "secao": "Pedir e dar opinião com What do you think of",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "B1-L5-0149-01",
+        "B1-L5-0149-02"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 3,
+      "unidade_fonte": 8,
+      "secao": "Comparar preferências com prefer e prefer to",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0829-01",
+        "B1-L6-0177-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 4,
+      "unidade_fonte": 8,
+      "secao": "Receber visitas e oferecer bebida na casa nova",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L10-1377-01",
+        "A2-L15-0823-01"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A2-L10-1377-01",
+      "objetivo_comunicativo": "Receber visitas e oferecer bebida na casa nova",
+      "conteudo_exclusivo": "Receber visitas e oferecer bebida na casa nova",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Receber visitas e oferecer bebida na casa nova”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 5,
+      "unidade_fonte": 8,
+      "secao": "Propor programas com shall e decidir ficar em casa",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "B1-L3-0055-04",
+        "A2-L10-1377-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 6,
+      "unidade_fonte": 8,
+      "secao": "Consultar horários de cinema, concerto e televisão",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-GRAM-0005",
+        "A2-L5-0128-02"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A1-GRAM-0005",
+      "objetivo_comunicativo": "Consultar horários de cinema, concerto e televisão",
+      "conteudo_exclusivo": "Consultar horários de cinema, concerto e televisão",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Consultar horários de cinema, concerto e televisão”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 1,
+      "unidade_fonte": 9,
+      "secao": "Dizer o que se tem com have got",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L11-0533-01",
+        "A2-L11-0534-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 2,
+      "unidade_fonte": 9,
+      "secao": "Perguntar por disponibilidade com have you got, some e any",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-GRAM-0021",
+        "A2-GRAM-0011",
+        "B1-L11-0533-02"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 3,
+      "unidade_fonte": 9,
+      "secao": "Receber clientes e reservar mesa em restaurante",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0832-01",
+        "B1-L15-0836-01"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A2-L15-0832-01",
+      "objetivo_comunicativo": "Receber clientes e reservar mesa em restaurante",
+      "conteudo_exclusivo": "Receber clientes e reservar mesa em restaurante",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Receber clientes e reservar mesa em restaurante”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 4,
+      "unidade_fonte": 9,
+      "secao": "Anotar e confirmar pedido de comida e bebida",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0823-01",
+        "B1-L10-0466-02"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A2-L15-0823-01",
+      "objetivo_comunicativo": "Anotar e confirmar pedido de comida e bebida",
+      "conteudo_exclusivo": "Anotar e confirmar pedido de comida e bebida",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Anotar e confirmar pedido de comida e bebida”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 5,
+      "unidade_fonte": 9,
+      "secao": "Perguntar por garagem ou hotel e dar direções",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L4-0111-01",
+        "A2-L14-0742-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 6,
+      "unidade_fonte": 9,
+      "secao": "Distinguir hotel e restaurante ao pedir quarto",
+      "classificacao": "conteudo_sem_objetivo_independente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0832-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 1,
+      "unidade_fonte": 10,
+      "secao": "Perguntar e dizer o que alguém está fazendo",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0829-01",
+        "B1-L15-0844-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 2,
+      "unidade_fonte": 10,
+      "secao": "Contrastar ação em curso e rotina habitual",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "B1-L15-0844-01",
+        "A2-L6-0201-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 3,
+      "unidade_fonte": 10,
+      "secao": "Descrever rotina com always, every e never",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0829-01",
+        "A2-L6-0201-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 4,
+      "unidade_fonte": 10,
+      "secao": "Relatar notícias pessoais de cartão-postal",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L10-1377-01",
+        "A2-L15-0829-01"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A2-L10-1377-01",
+      "objetivo_comunicativo": "Relatar notícias pessoais de cartão-postal",
+      "conteudo_exclusivo": "Relatar notícias pessoais de cartão-postal",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Relatar notícias pessoais de cartão-postal”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 5,
+      "unidade_fonte": 10,
+      "secao": "Descrever ações simultâneas em chamada telefônica",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-L4-0086-01",
+        "B1-L15-0844-01"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A1-L4-0086-01",
+      "objetivo_comunicativo": "Descrever ações simultâneas em chamada telefônica",
+      "conteudo_exclusivo": "Descrever ações simultâneas em chamada telefônica",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Descrever ações simultâneas em chamada telefônica”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 6,
+      "unidade_fonte": 10,
+      "secao": "Combinar programa futuro com presente contínuo",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0829-01",
+        "A2-L10-1377-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 1,
+      "unidade_fonte": 11,
+      "secao": "Recepcionar visitante, confirmar nome e encaminhar ao escritório",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L10-1377-01",
+        "B1-L15-0836-01"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A2-L10-1377-01",
+      "objetivo_comunicativo": "Recepcionar visitante, confirmar nome e encaminhar ao escritório",
+      "conteudo_exclusivo": "Recepcionar visitante, confirmar nome e encaminhar ao escritório",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Recepcionar visitante, confirmar nome e encaminhar ao escritório”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 2,
+      "unidade_fonte": 11,
+      "secao": "Recusar acesso momentâneo com I am afraid e explicar por quê",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "B2-L6-0173-02",
+        "B1-L5-0149-02"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 3,
+      "unidade_fonte": 11,
+      "secao": "Identificar interlocutores e transferir chamada telefônica",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-L4-0086-01",
+        "A2-L10-1377-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 4,
+      "unidade_fonte": 11,
+      "secao": "Marcar visita informando hotel, quarto e horário",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0829-01",
+        "A2-L5-0128-02"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A2-L15-0829-01",
+      "objetivo_comunicativo": "Marcar visita informando hotel, quarto e horário",
+      "conteudo_exclusivo": "Marcar visita informando hotel, quarto e horário",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Marcar visita informando hotel, quarto e horário”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 5,
+      "unidade_fonte": 11,
+      "secao": "Combinar entrega no quarto com shall e will",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "B1-L3-0055-04",
+        "A2-L15-0832-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 6,
+      "unidade_fonte": 11,
+      "secao": "Confirmar quarto e identidade ao chegar",
+      "classificacao": "conteudo_sem_objetivo_independente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L10-1377-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 7,
+      "unidade_fonte": 11,
+      "secao": "Perguntar por contato e planos de outra pessoa",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0829-01",
+        "A2-L15-0823-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 1,
+      "unidade_fonte": 12,
+      "secao": "Identificar pessoa por roupa, porte e objeto carregado",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0823-01",
+        "B1-L3-0053-03"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 2,
+      "unidade_fonte": 12,
+      "secao": "Procurar hóspede informando nome completo e quarto",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0832-01",
+        "B1-L15-0836-01"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A2-L15-0832-01",
+      "objetivo_comunicativo": "Procurar hóspede informando nome completo e quarto",
+      "conteudo_exclusivo": "Procurar hóspede informando nome completo e quarto",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Procurar hóspede informando nome completo e quarto”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 3,
+      "unidade_fonte": 12,
+      "secao": "Perguntar e descrever aparência física e vestuário",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0823-01",
+        "A2-L15-0829-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 4,
+      "unidade_fonte": 12,
+      "secao": "Informar idade e altura em sistemas métrico e imperial",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-L4-1521-03",
+        "A2-L4-0068-03"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 5,
+      "unidade_fonte": 12,
+      "secao": "Comparar cabelo, altura e idade",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "B1-L6-0237-01",
+        "A2-L15-0823-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 6,
+      "unidade_fonte": 12,
+      "secao": "Reunir duas pessoas que se procuram",
+      "classificacao": "conteudo_sem_objetivo_independente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L10-1377-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 1,
+      "unidade_fonte": 13,
+      "secao": "Pedir permissão e responder com may, can e afraid not",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-VERB-0001",
+        "B2-L6-0173-02"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 2,
+      "unidade_fonte": 13,
+      "secao": "Interpretar placas e proibições em espaços públicos",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-VERB-0002",
+        "A2-L15-0832-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 3,
+      "unidade_fonte": 13,
+      "secao": "Pedir e servir bebidas com may I have e would you",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-GRAM-0021",
+        "B1-L10-0466-02"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 4,
+      "unidade_fonte": 13,
+      "secao": "Pedir conta e táxi com cortesia",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "B2-L6-0173-02",
+        "A2-L15-0832-01"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "B2-L6-0173-02",
+      "objetivo_comunicativo": "Pedir conta e táxi com cortesia",
+      "conteudo_exclusivo": "Pedir conta e táxi com cortesia",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Pedir conta e táxi com cortesia”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 5,
+      "unidade_fonte": 13,
+      "secao": "Fazer sugestões com shall e let us",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "B1-L3-0055-04",
+        "A2-L10-1377-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 6,
+      "unidade_fonte": 13,
+      "secao": "Negociar programa conforme gostos e proximidade",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0829-01",
+        "A2-L4-0111-01"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A2-L15-0829-01",
+      "objetivo_comunicativo": "Negociar programa conforme gostos e proximidade",
+      "conteudo_exclusivo": "Negociar programa conforme gostos e proximidade",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Negociar programa conforme gostos e proximidade”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 1,
+      "unidade_fonte": 14,
+      "secao": "Nomear andares com ordinais e ground floor",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L4-0068-03",
+        "A2-L14-0742-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 2,
+      "unidade_fonte": 14,
+      "secao": "Localizar escritório por andar, sala e referência",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L14-0742-01",
+        "A2-L15-0832-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 3,
+      "unidade_fonte": 14,
+      "secao": "Orientar deslocamento interno com lift, upstairs e downstairs",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L14-0742-01",
+        "A2-L4-0111-01"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A2-L14-0742-01",
+      "objetivo_comunicativo": "Orientar deslocamento interno com lift, upstairs e downstairs",
+      "conteudo_exclusivo": "Orientar deslocamento interno com lift, upstairs e downstairs",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Orientar deslocamento interno com lift, upstairs e downstairs”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 4,
+      "unidade_fonte": 14,
+      "secao": "Convidar para jantar e combinar restaurante",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L10-1377-01",
+        "A2-L15-0829-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 5,
+      "unidade_fonte": 14,
+      "secao": "Dar percurso com turn e turning numerado",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L4-0111-01",
+        "A2-L14-0742-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 6,
+      "unidade_fonte": 14,
+      "secao": "Contrastar numeração de andares no inglês britânico e americano",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L14-0742-01"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A2-L14-0742-01",
+      "objetivo_comunicativo": "Contrastar numeração de andares no inglês britânico e americano",
+      "conteudo_exclusivo": "Contrastar numeração de andares no inglês britânico e americano",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Contrastar numeração de andares no inglês britânico e americano”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 1,
+      "unidade_fonte": 15,
+      "secao": "Informar saída para almoço e retorno ao escritório",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0829-01",
+        "B1-L15-0844-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 2,
+      "unidade_fonte": 15,
+      "secao": "Atender chamada e informar ausência e horário de retorno",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-L4-0086-01",
+        "A2-L5-0128-02"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A1-L4-0086-01",
+      "objetivo_comunicativo": "Atender chamada e informar ausência e horário de retorno",
+      "conteudo_exclusivo": "Atender chamada e informar ausência e horário de retorno",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Atender chamada e informar ausência e horário de retorno”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 3,
+      "unidade_fonte": 15,
+      "secao": "Decidir voltar ao trabalho ou permanecer no café",
+      "classificacao": "conteudo_sem_objetivo_independente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L10-1377-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 4,
+      "unidade_fonte": 15,
+      "secao": "Procurar pessoa e oferecer-se para encontrá-la",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L15-0832-01",
+        "A2-L10-1377-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 5,
+      "unidade_fonte": 15,
+      "secao": "Pedir que a pessoa ligue novamente em horário combinado",
+      "classificacao": "contexto_util_nao_publicado",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A1-L4-0086-01",
+        "A2-L5-0128-02"
+      ],
+      "decisao_editorial": "preservar somente a procedência e a decisão editorial",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte",
+      "unidade_canonica": "A1-L4-0086-01",
+      "objetivo_comunicativo": "Pedir que a pessoa ligue novamente em horário combinado",
+      "conteudo_exclusivo": "Pedir que a pessoa ligue novamente em horário combinado",
+      "motivo_concreto": "O valor exclusivo está no encadeamento situacional de “Pedir que a pessoa ligue novamente em horário combinado”; as estruturas necessárias para cumprir esse objetivo já são ensinadas nos destinos indicados.",
+      "risco_redundancia": "A publicação repetiria estruturas e funções comunicativas já cobertas pelas unidades canônicas indicadas.",
+      "risco_fragmentacao": "Separar o cenário da fonte criaria uma micro-unidade dependente do diálogo, sem progressão pedagógica autônoma.",
+      "decisao_final_nao_publicacao": "Não publicar; preservar somente a decisão e a procedência, sem reproduzir a transcrição."
+    },
+    {
+      "ordem_na_unidade": 6,
+      "unidade_fonte": 15,
+      "secao": "Perguntar onde alguém esteve com present perfect",
+      "classificacao": "ja_coberto_integralmente",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "B1-L15-0844-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
+    },
+    {
+      "ordem_na_unidade": 7,
+      "unidade_fonte": 15,
+      "secao": "Consultar mensagens e informar retorno futuro",
+      "classificacao": "ja_coberto_com_exemplos_equivalentes",
+      "nivel_cefr": "A1-A2",
+      "habilidade": "Conversação, escuta e uso funcional",
+      "destinos_unidades": [
+        "A2-L10-1377-01",
+        "A2-L15-0829-01"
+      ],
+      "decisao_editorial": "consolidar no destino canônico sem alterar conteúdo publicado",
+      "atividade": "não criada; o trecho depende do diálogo e não oferece resposta única sem reproduzir a fonte"
     }
   ],
-  "proxima_secao_exata": "BBC_English_Plus_transcricoes_PT_EN.md — Unidade 7"
+  "proxima_secao_exata": "BBC_English_Plus_transcricoes_PT_EN.md — Unidade 16"
 }
