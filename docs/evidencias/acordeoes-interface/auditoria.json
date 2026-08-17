@@ -1,0 +1,167 @@
+[
+  {
+    "level": "a1",
+    "mode": "desktop",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 14,
+    "footers": 0,
+    "theme": "light"
+  },
+  {
+    "level": "a1",
+    "mode": "mobile-dark",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 14,
+    "footers": 0,
+    "theme": "dark"
+  },
+  {
+    "level": "a2",
+    "mode": "desktop",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 26,
+    "footers": 0,
+    "theme": "light"
+  },
+  {
+    "level": "a2",
+    "mode": "mobile-dark",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 26,
+    "footers": 0,
+    "theme": "dark"
+  },
+  {
+    "level": "b1",
+    "mode": "desktop",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 23,
+    "footers": 0,
+    "theme": "light"
+  },
+  {
+    "level": "b1",
+    "mode": "mobile-dark",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 23,
+    "footers": 0,
+    "theme": "dark"
+  },
+  {
+    "level": "b2",
+    "mode": "desktop",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 18,
+    "footers": 0,
+    "theme": "light"
+  },
+  {
+    "level": "b2",
+    "mode": "mobile-dark",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 18,
+    "footers": 0,
+    "theme": "dark"
+  },
+  {
+    "level": "c1",
+    "mode": "desktop",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 7,
+    "footers": 0,
+    "theme": "light"
+  },
+  {
+    "level": "c1",
+    "mode": "mobile-dark",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 7,
+    "footers": 0,
+    "theme": "dark"
+  },
+  {
+    "level": "c2",
+    "mode": "desktop",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 4,
+    "footers": 0,
+    "theme": "light"
+  },
+  {
+    "level": "c2",
+    "mode": "mobile-dark",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 4,
+    "footers": 0,
+    "theme": "dark"
+  },
+  {
+    "level": "kids",
+    "mode": "desktop",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 3,
+    "footers": 0,
+    "theme": "light"
+  },
+  {
+    "level": "kids",
+    "mode": "mobile-dark",
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "openGroups": 0,
+    "groups": 3,
+    "footers": 0,
+    "theme": "dark"
+  },
+  {
+    "scenario": "exclusive",
+    "openGroups": 1,
+    "secondOpen": true
+  },
+  {
+    "scenario": "search",
+    "query": "Quando não usar A/AN",
+    "openGroups": 1,
+    "matches": 1
+  }
+]

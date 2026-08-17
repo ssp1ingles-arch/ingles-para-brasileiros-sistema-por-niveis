@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T01:44:30.518Z",
+  "gerado_em": "2026-08-17T02:15:33.848Z",
   "total": 69,
   "aprovados": 69,
   "resultados": [
@@ -74,42 +74,42 @@
       "detalhe": ""
     },
     {
-      "teste": "favorito persiste após recarga",
+      "teste": "favoritos e conclusão preservados no localStorage",
       "resultado": "APROVADO",
       "detalhe": ""
     },
     {
-      "teste": "conclusão persiste",
+      "teste": "rodapé de ações ausente",
       "resultado": "APROVADO",
       "detalhe": ""
     },
     {
-      "teste": "progresso atualizado",
+      "teste": "controles retirados dos cartões",
       "resultado": "APROVADO",
       "detalhe": ""
     },
     {
-      "teste": "remover favorito",
+      "teste": "progresso salvo refletido no grupo",
       "resultado": "APROVADO",
       "detalhe": ""
     },
     {
-      "teste": "primeira unidade sem anterior",
+      "teste": "navegação anterior removida",
       "resultado": "APROVADO",
       "detalhe": ""
     },
     {
-      "teste": "última unidade sem próxima",
+      "teste": "navegação próxima removida",
       "resultado": "APROVADO",
       "detalhe": ""
     },
     {
-      "teste": "próxima respeita filtro",
+      "teste": "rota própria de revisão preservada",
       "resultado": "APROVADO",
-      "detalhe": "166 resultados"
+      "detalhe": ""
     },
     {
-      "teste": "anterior respeita filtro",
+      "teste": "rota própria de prática preservada",
       "resultado": "APROVADO",
       "detalhe": ""
     },

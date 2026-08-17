@@ -81,9 +81,9 @@ await page.waitForTimeout(100);
 let cards = page.locator(".unit"),
   count = await cards.count();
 let sum = await page
-  .locator(".unit-group summary span")
+  .locator(".unit-group .group-count b:first-child")
   .evaluateAll((xs) =>
-    xs.reduce((n, x) => n + Number(x.textContent.match(/\d+/)?.[0] || 0), 0),
+    xs.reduce((n, x) => n + Number(x.textContent || 0), 0),
   );
 check("filtro por habilidade principal", count > 0, `${count} unidades`);
 check("contagens após filtro", count === sum, `${count}/${sum}`);
@@ -117,61 +117,25 @@ check(
 );
 await page.locator("#habilidade").selectOption("");
 
-let favorite = page.locator(".favorite").first();
-const fid = await favorite.getAttribute("data-id");
-await favorite.click();
-await page.waitForLoadState("load");
-await page.waitForSelector(`.favorite[data-id="${fid}"]`);
+const persistedId = await page.locator(".unit").first().getAttribute("id");
+await page.evaluate((id) => localStorage.setItem("nivelState", JSON.stringify({ favorites: [id], done: [id] })), persistedId);
+await page.reload();
+await page.waitForSelector(".unit-group");
 check(
-  "favorito persiste após recarga",
-  (await page.locator(`.favorite[data-id="${fid}"]`).textContent()) === "★",
+  "favoritos e conclusão preservados no localStorage",
+  await page.evaluate((id) => { const state = JSON.parse(localStorage.getItem("nivelState")); return state.favorites.includes(id) && state.done.includes(id); }, persistedId),
 );
-let done = page.locator(".done").first();
-const did = await done.getAttribute("data-id");
-await done.click();
-await page.waitForLoadState("load");
-await page.waitForSelector(`.done[data-id="${did}"]`);
-check(
-  "conclusão persiste",
-  (
-    (await page.locator(`.done[data-id="${did}"]`).textContent()) || ""
-  ).includes("Concluída"),
-);
-check(
-  "progresso atualizado",
-  parseFloat(
-    (await page.locator(".progress i").getAttribute("style"))?.match(
-      /[\d.]+/,
-    )?.[0] || 0,
-  ) > 0,
-);
-await page.locator(`.favorite[data-id="${fid}"]`).click();
-await page.waitForLoadState("load");
-check(
-  "remover favorito",
-  (await page.locator(`.favorite[data-id="${fid}"]`).textContent()) === "☆",
-);
+check("rodapé de ações ausente", (await page.locator(".unit-actions").count()) === 0);
+check("controles retirados dos cartões", (await page.locator(".unit-nav,.unit-tools,.favorite,.done").count()) === 0);
+check("progresso salvo refletido no grupo", (await page.locator(".group-count").filter({ hasText: "1 concluídas" }).count()) >= 1);
 
 await page.locator("#habilidade").selectOption({ label: "Verbos" });
 await page.waitForTimeout(100);
 cards = page.locator(".unit");
-const filteredCount = await cards.count();
-const firstUnit = page.locator(".unit:not(:has(.prev))"),
-  lastUnit = page.locator(".unit:not(:has(.next))");
-check("primeira unidade sem anterior", (await firstUnit.count()) === 1);
-check("última unidade sem próxima", (await lastUnit.count()) === 1);
-const firstId = await firstUnit.getAttribute("id"),
-  nextHref = await firstUnit.locator(".next").getAttribute("href"),
-  secondId = nextHref.slice(1);
-await firstUnit.evaluate((unit) => { unit.closest("details").open = true; });
-await firstUnit.locator(".next").click();
-check(
-  "próxima respeita filtro",
-  page.url().endsWith(`#${secondId}`),
-  `${filteredCount} resultados`,
-);
-await page.locator(`#${secondId} .prev`).click();
-check("anterior respeita filtro", page.url().endsWith(`#${firstId}`));
+check("navegação anterior removida", (await page.locator(".nav-unit.prev").count()) === 0);
+check("navegação próxima removida", (await page.locator(".nav-unit.next").count()) === 0);
+check("rota própria de revisão preservada", (await page.request.get("http://127.0.0.1:8000/estudar.html")).status() === 200);
+check("rota própria de prática preservada", (await page.request.get("http://127.0.0.1:8000/praticar.html")).status() === 200);
 
 summary = page.locator(".unit-group summary").first();
 await summary.focus();
@@ -398,8 +362,7 @@ check(
   "unidade recomendada",
   journey.url().endsWith(recHref.slice(recHref.indexOf("#"))),
 );
-await journey.waitForSelector(`${recHref.slice(recHref.indexOf("#"))} .done`);
-await journey.locator(`${recHref.slice(recHref.indexOf("#"))} .done`).click();
+await journey.evaluate((id) => { const state = JSON.parse(localStorage.getItem("nivelState") || '{"favorites":[],"done":[]}'); state.done = [...new Set([...(state.done || []), id])]; localStorage.setItem("nivelState", JSON.stringify(state)); }, recHref.slice(recHref.indexOf("#") + 1));
 await journey.goto("http://127.0.0.1:8000/jornada.html?nivel=A1");
 await journey.waitForSelector(".journey-summary");
 check(
