@@ -6,7 +6,7 @@ O índice curricular BBC English Plus foi dividido em 30 seções. Todas foram c
 
 ## Integração 2019 English — lote 002
 
-As Unidades 1–15 das transcrições foram divididas em 93 blocos A1–A2. Sessenta e dois estão cobertos integralmente ou por exemplos equivalentes, 26 preservam contexto útil sem publicação e cinco não têm objetivo independente. A fonte permanece parcial em 15/30 unidades; consulte `dados/integracao-2019-english-lote-002.json` para os destinos e as justificativas auditáveis.
+As Unidades 1–24 das transcrições foram divididas em 152 blocos A1–A2. Noventa e sete estão cobertos integralmente ou por exemplos equivalentes, 48 preservam contexto útil sem publicação e sete não têm objetivo independente. A fonte permanece parcial em 24/30 unidades; consulte `dados/integracao-2019-english-lote-002.json` para os destinos e as justificativas auditáveis.
 
 O mapa completo está em `dados/mapa-fontes.json`; decisões seção a seção estão em `dados/revisao-fontes.json`; as triagens auditáveis vão de `dados/lote-003-triagem.json` a `dados/lote-011-triagem.json`.
 

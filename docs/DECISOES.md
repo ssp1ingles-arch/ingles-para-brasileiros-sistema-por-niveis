@@ -423,3 +423,9 @@ O intervalo pendente 1239–1324 foi processado como macrolote único: 78 fontes
 
 As 15 primeiras unidades da fonte de transcrições foram lidas integralmente e divididas em 93 objetivos comunicativos. Os 62 blocos cobertos foram associados a unidades canônicas; cinco encadeamentos sem objetivo independente e 26 contextos situacionais não foram publicados. Os dez contextos do checkpoint anterior foram reavaliados sob o mesmo contrato e permaneceram não publicáveis porque seu valor exclusivo depende do diálogo e sua publicação repetiria objetivos existentes ou fragmentaria o percurso. Nenhum campo PT vazio foi traduzido, nenhuma transcrição extensa foi incorporada e nenhuma unidade ou atividade foi criada. Próxima seção: Unidade 16.
 <!-- INTEGRACAO-2019-LOTE-002-DECISOES:FIM -->
+
+<!-- INTEGRACAO-2019-LOTE-002-U16-U24:INICIO -->
+## Integração 2019 English — lote 002, Unidades 16–24
+
+As nove unidades foram lidas sequencialmente e divididas em 59 blocos. Funções de viagem, compras, preferências, necessidade, rotinas, profissões, saúde, lazer, regras e direções foram consolidadas em destinos existentes. Contextos dependentes de agência, achados e perdidos, hotel, refeição, festa, museu e deslocamento ficaram registrados sem republicação. Nenhum dos 1.085 campos PT vazios do conjunto recebeu tradução editorial. Não foram criadas unidades, atividades ou enriquecimentos. Próxima seção: Unidade 25.
+<!-- INTEGRACAO-2019-LOTE-002-U16-U24:FIM -->

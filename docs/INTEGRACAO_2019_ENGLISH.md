@@ -18,13 +18,21 @@ A inspeção real foi executada com Google Chrome 151.0.7922.138 em contexto Pla
 
 Próxima seção exata: `BBC_English_Plus_transcricoes_PT_EN.md — Unidade 1`.
 
-## Lote 002 — checkpoint das Unidades 1–15
+## Lote 002 — publicação das Unidades 1–15
 
 As Unidades 1–15 da fonte consolidada de transcrições foram lidas integralmente: 1.517 pares EN–PT organizados em 93 blocos pedagógicos. Há 62 blocos cobertos por unidades canônicas, 26 contextos úteis não publicados e cinco encadeamentos sem objetivo independente. A Unidade 1 contém 73 traduções PT; os 1.444 campos PT das Unidades 2–15 estão vazios na fonte e essa ausência foi preservada como evidência, sem tradução inventada.
 
 Nenhuma unidade, atividade ou enriquecimento foi criado: inclusive os dez contextos herdados do checkpoint 1–6 foram reavaliados e continuam dependentes do cenário da transcrição. Cada um dos 26 contextos registra unidade canônica, objetivo comunicativo, conteúdo exclusivo resumido, razão concreta, riscos separados de redundância e fragmentação e decisão final. A fonte permanece `parcialmente_analisada` em 15/30 unidades (50%); a triagem auditável está em `dados/integracao-2019-english-lote-002.json` e a próxima seção exata é a Unidade 16.
 
 A inspeção local deste checkpoint foi executada com Google Chrome 151.0.7922.138, headless, em contexto Playwright isolado. As 11 rotas passaram em desktop e celular: 22/22 cenários com HTTP 200, console, erros de página e requisições falhas vazios, sem overflow horizontal; tema escuro e persistência após recarga também passaram. O relatório e as capturas estão em `docs/evidencias/integracao-2019-english-lote-002/`.
+
+## Lote 002 — checkpoint das Unidades 16–24
+
+As Unidades 16–24 acrescentaram 1.085 pares EN–PT e 59 blocos pedagógicos ao checkpoint, todos com o campo PT vazio preservado. No acumulado das Unidades 1–24, há 2.602 pares, 152 blocos, 97 blocos cobertos por destinos canônicos, 48 contextos úteis não publicados e sete encadeamentos sem objetivo independente. Os 2.529 campos PT vazios permanecem sem tradução inventada.
+
+Nenhum enriquecimento, unidade ou atividade foi criado. A fonte permanece `parcialmente_analisada` em 24/30 unidades (80%); a próxima seção exata é a Unidade 25.
+
+Este segundo conjunto repetiu a inspeção no Google Chrome 151.0.7922.138, headless, em contexto Playwright isolado: 11 rotas em desktop e celular, 22/22 cenários aprovados, sem erros de console ou página, requisições falhas ou overflow horizontal. Redesign, refinamento, interação, temas e persistência também foram revalidados.
 
 ## Publicação
 
