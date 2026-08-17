@@ -1,0 +1,2845 @@
+{
+  "schema_version": 1,
+  "fase": "revisao_integral_das_candidatas_da_triagem_global",
+  "concluido_em": "2026-08-17T01:45:38.942Z",
+  "entrada": "dados/integracao-2019-english-triagem-global.json",
+  "totais": {
+    "candidatas": 128,
+    "decididas": 128,
+    "enriquecimento_confirmado": 27,
+    "sem_objetivo_independente": 7,
+    "redundante": 41,
+    "ja_coberta": 40,
+    "qualidade_insuficiente": 13,
+    "unidades_antes": 834,
+    "unidades_depois": 834,
+    "atividades_antes": 1977,
+    "atividades_depois": 1977
+  },
+  "garantias": {
+    "candidatas_pendentes": 0,
+    "fontes_originais_modificadas": 0,
+    "ids_preexistentes_preservados": true,
+    "jornadas_preservadas": true,
+    "localStorage_preservado": true,
+    "interface_sem_procedencia_tecnica": true
+  },
+  "decisoes": [
+    {
+      "ordem": 1,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_04_LIVRO_04.md",
+      "secao": "Página 13",
+      "linhas": {
+        "inicio": 192,
+        "fim": 216
+      },
+      "sha256_recorte": "ea0dd982aceeef3317a08776be32fa9d6f1eb4a55a88bb2f24553e3898aa5320",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1178-01",
+      "conteudo_avaliado": "Lesson 1 - Passport control",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_04_LIVRO_04.md",
+        "pagina_ou_secao": "Página 13",
+        "linhas": {
+          "inicio": 192,
+          "fim": 216
+        }
+      }
+    },
+    {
+      "ordem": 2,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_04_LIVRO_04.md",
+      "secao": "Página 31",
+      "linhas": {
+        "inicio": 587,
+        "fim": 620
+      },
+      "sha256_recorte": "279947a91462f7aab6cc62b88eb8585bc90649495ca6e9baa6a706b9802cc445",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1178-01",
+      "conteudo_avaliado": "Lesson 1 - Passport control",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_04_LIVRO_04.md",
+        "pagina_ou_secao": "Página 31",
+        "linhas": {
+          "inicio": 587,
+          "fim": 620
+        }
+      }
+    },
+    {
+      "ordem": 3,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_11_LIVRO_11.md",
+      "secao": "Página 13",
+      "linhas": {
+        "inicio": 181,
+        "fim": 205
+      },
+      "sha256_recorte": "aced1517f882520c6e8716323ff01c564db9d350d76ee6e921db013ee79cff8e",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "A2-L11-1402-01",
+      "conteudo_avaliado": "Business - Lesson 1 - Pleased to meet you",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_11_LIVRO_11.md",
+        "pagina_ou_secao": "Página 13",
+        "linhas": {
+          "inicio": 181,
+          "fim": 205
+        }
+      }
+    },
+    {
+      "ordem": 4,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_11_LIVRO_11.md",
+      "secao": "Página 76",
+      "linhas": {
+        "inicio": 1626,
+        "fim": 1659
+      },
+      "sha256_recorte": "b30e7c3b414036f93ac2e164740764f67cc713c5102ecbddd08dfec3be1396be",
+      "estado_final": "sem_objetivo_independente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "actually -- in fact, really (na verdade)",
+      "motivo": "O bloco é lista, metadado, material multilíngue sem português ou fragmento dependente sem objetivo pedagógico autônomo.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_11_LIVRO_11.md",
+        "pagina_ou_secao": "Página 76",
+        "linhas": {
+          "inicio": 1626,
+          "fim": 1659
+        }
+      }
+    },
+    {
+      "ordem": 5,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_12_LIVRO_12.md",
+      "secao": "Página 13",
+      "linhas": {
+        "inicio": 187,
+        "fim": 215
+      },
+      "sha256_recorte": "79266046f5247733291d02c16b64f92f75b3e495b69ca545c772af3c9c7fa200",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business - Lesson 3 - We need to spice up the day",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_12_LIVRO_12.md",
+        "pagina_ou_secao": "Página 13",
+        "linhas": {
+          "inicio": 187,
+          "fim": 215
+        }
+      }
+    },
+    {
+      "ordem": 6,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_12_LIVRO_12.md",
+      "secao": "Página 19",
+      "linhas": {
+        "inicio": 357,
+        "fim": 382
+      },
+      "sha256_recorte": "0abde0bbecbba0ae235456b94fcbe69b668676b45349be12c356d1b669fefdb5",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business - Lesson 4 - A pay rise",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_12_LIVRO_12.md",
+        "pagina_ou_secao": "Página 19",
+        "linhas": {
+          "inicio": 357,
+          "fim": 382
+        }
+      }
+    },
+    {
+      "ordem": 7,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_12_LIVRO_12.md",
+      "secao": "Página 82",
+      "linhas": {
+        "inicio": 1848,
+        "fim": 1887
+      },
+      "sha256_recorte": "301eb41fbcb7e0b5e2b3a6de0386345d7c26c5be0fcc7e2c57c194fa5459fe9f",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "Exercises (pages 24-27)",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_12_LIVRO_12.md",
+        "pagina_ou_secao": "Página 82",
+        "linhas": {
+          "inicio": 1848,
+          "fim": 1887
+        }
+      }
+    },
+    {
+      "ordem": 8,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_13_LIVRO_13.md",
+      "secao": "Página 25",
+      "linhas": {
+        "inicio": 471,
+        "fim": 497
+      },
+      "sha256_recorte": "aea593f4d2df73eabf4a965e112ab8c07c68b4431c8e16e91ea63b40c83dfc89",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L12-1406-01",
+      "conteudo_avaliado": "Business - Lesson 6 - I'm calling to arrange a meeting",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_13_LIVRO_13.md",
+        "pagina_ou_secao": "Página 25",
+        "linhas": {
+          "inicio": 471,
+          "fim": 497
+        }
+      }
+    },
+    {
+      "ordem": 9,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_14_LIVRO_14.md",
+      "secao": "Página 15",
+      "linhas": {
+        "inicio": 228,
+        "fim": 253
+      },
+      "sha256_recorte": "1e7ada46cd0f4c8b8f03ef5d9d8d733feef5d3405041c72ca3c83085b70d33cb",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business - Lesson 7- The shipment is in transit",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_14_LIVRO_14.md",
+        "pagina_ou_secao": "Página 15",
+        "linhas": {
+          "inicio": 228,
+          "fim": 253
+        }
+      }
+    },
+    {
+      "ordem": 10,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_14_LIVRO_14.md",
+      "secao": "Página 19",
+      "linhas": {
+        "inicio": 311,
+        "fim": 335
+      },
+      "sha256_recorte": "e78f2535437b4894d9b478e02c3ff8298ac82001d295a1a5893cc3ab1f6edfd5",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "A2-L11-1402-01",
+      "conteudo_avaliado": "Business - Lesson 8 - Do you like your job?",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_14_LIVRO_14.md",
+        "pagina_ou_secao": "Página 19",
+        "linhas": {
+          "inicio": 311,
+          "fim": 335
+        }
+      }
+    },
+    {
+      "ordem": 11,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_14_LIVRO_14.md",
+      "secao": "Página 60",
+      "linhas": {
+        "inicio": 1163,
+        "fim": 1188
+      },
+      "sha256_recorte": "243a2a55e27edd2e7c4c7474c301e0d8371c08cfa7292778d3ef24c55fb4eb48",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1178-01",
+      "conteudo_avaliado": "TRAVEL OFFER AND PACKAGE TOUR",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_14_LIVRO_14.md",
+        "pagina_ou_secao": "Página 60",
+        "linhas": {
+          "inicio": 1163,
+          "fim": 1188
+        }
+      }
+    },
+    {
+      "ordem": 12,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_15_LIVRO_15.md",
+      "secao": "Página 23",
+      "linhas": {
+        "inicio": 427,
+        "fim": 450
+      },
+      "sha256_recorte": "09a2a6c801b37783cae0431a98c3d8591eac0caa91c801dbf154ffd159be8476",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L12-1406-01",
+      "conteudo_avaliado": "Business - Lesson 10 - I'd like to welcome you all",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_15_LIVRO_15.md",
+        "pagina_ou_secao": "Página 23",
+        "linhas": {
+          "inicio": 427,
+          "fim": 450
+        }
+      }
+    },
+    {
+      "ordem": 13,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_15_LIVRO_15.md",
+      "secao": "Página 25",
+      "linhas": {
+        "inicio": 477,
+        "fim": 506
+      },
+      "sha256_recorte": "88cf211a720749382c66ae55ecb327c49fd99615da1a9460afc5f8607d8db976",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A1-L4-0086-01",
+      "conteudo_avaliado": "Business - Lesson 10 - I'd like to welcome you all",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_15_LIVRO_15.md",
+        "pagina_ou_secao": "Página 25",
+        "linhas": {
+          "inicio": 477,
+          "fim": 506
+        }
+      }
+    },
+    {
+      "ordem": 14,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_15_LIVRO_15.md",
+      "secao": "Página 78",
+      "linhas": {
+        "inicio": 1576,
+        "fim": 1613
+      },
+      "sha256_recorte": "51babd55aa75ad48e29e6af159b31a35538431c1951c53aadd4e3d07bf952c16",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "Exercises (pages 26-28)",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_15_LIVRO_15.md",
+        "pagina_ou_secao": "Página 78",
+        "linhas": {
+          "inicio": 1576,
+          "fim": 1613
+        }
+      }
+    },
+    {
+      "ordem": 15,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_16_LIVRO_16.md",
+      "secao": "Página 17",
+      "linhas": {
+        "inicio": 271,
+        "fim": 295
+      },
+      "sha256_recorte": "daa8156a784e2cfed1596eb5fc7bbb35a05ff1d1bf42b091085d7bdb9f088563",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "A2-L11-1402-01",
+      "conteudo_avaliado": "Business - Lesson 11 - Who's speaking, please?",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_16_LIVRO_16.md",
+        "pagina_ou_secao": "Página 17",
+        "linhas": {
+          "inicio": 271,
+          "fim": 295
+        }
+      }
+    },
+    {
+      "ordem": 16,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_16_LIVRO_16.md",
+      "secao": "Página 23",
+      "linhas": {
+        "inicio": 427,
+        "fim": 449
+      },
+      "sha256_recorte": "3dff56c200f769afd50c7dcf834cbf096e86cb38ca8727bd0c6b3ecfb508fe25",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "A2-L11-1402-01",
+      "conteudo_avaliado": "Business - Lesson 12 - Doctor Fraser is not available",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_16_LIVRO_16.md",
+        "pagina_ou_secao": "Página 23",
+        "linhas": {
+          "inicio": 427,
+          "fim": 449
+        }
+      }
+    },
+    {
+      "ordem": 17,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_16_LIVRO_16.md",
+      "secao": "Página 27",
+      "linhas": {
+        "inicio": 533,
+        "fim": 562
+      },
+      "sha256_recorte": "63ab6b581b3c69ac810fcc58c37354a72f4addac661791f6e431b18249080eb0",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B1-L5-0115-03",
+      "conteudo_avaliado": "Business - Lesson 12- Doctor Fraser is not available",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_16_LIVRO_16.md",
+        "pagina_ou_secao": "Página 27",
+        "linhas": {
+          "inicio": 533,
+          "fim": 562
+        }
+      }
+    },
+    {
+      "ordem": 18,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_17_LIVRO_17.md",
+      "secao": "Página 13",
+      "linhas": {
+        "inicio": 184,
+        "fim": 209
+      },
+      "sha256_recorte": "5c55fbd78aab062f62c40676ca1206f82ad058438270cdcf0e3b3e082fb23ab4",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business - Lesson 13 - Hot deals",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_17_LIVRO_17.md",
+        "pagina_ou_secao": "Página 13",
+        "linhas": {
+          "inicio": 184,
+          "fim": 209
+        }
+      }
+    },
+    {
+      "ordem": 19,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_17_LIVRO_17.md",
+      "secao": "Página 15",
+      "linhas": {
+        "inicio": 238,
+        "fim": 260
+      },
+      "sha256_recorte": "db2244e932bd9af330b809612059cfc7bd557a3389a5bf6fe2ad65d866f17d1f",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L4-0070-03",
+      "conteudo_avaliado": "Business - Lesson 13 - Hot deals",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_17_LIVRO_17.md",
+        "pagina_ou_secao": "Página 15",
+        "linhas": {
+          "inicio": 238,
+          "fim": 260
+        }
+      }
+    },
+    {
+      "ordem": 20,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_17_LIVRO_17.md",
+      "secao": "Página 17",
+      "linhas": {
+        "inicio": 290,
+        "fim": 315
+      },
+      "sha256_recorte": "7d9fcb817c444afd6a368e0146315737d53799ff0c21069efdce5ba83e2ceba5",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B2-L8-0321-03",
+      "conteudo_avaliado": "Business -Lesson 13-Hot deals",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_17_LIVRO_17.md",
+        "pagina_ou_secao": "Página 17",
+        "linhas": {
+          "inicio": 290,
+          "fim": 315
+        }
+      }
+    },
+    {
+      "ordem": 21,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_18_LIVRO_18.md",
+      "secao": "Página 17",
+      "linhas": {
+        "inicio": 273,
+        "fim": 300
+      },
+      "sha256_recorte": "6c0390643c883871fbe63e1747d60afa102cfca972a0d313cd70c15c3f0ab159",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business - Lesson 15 - I will give him the message",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_18_LIVRO_18.md",
+        "pagina_ou_secao": "Página 17",
+        "linhas": {
+          "inicio": 273,
+          "fim": 300
+        }
+      }
+    },
+    {
+      "ordem": 22,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_18_LIVRO_18.md",
+      "secao": "Página 20",
+      "linhas": {
+        "inicio": 327,
+        "fim": 351
+      },
+      "sha256_recorte": "0d0ba056a72be33994de94509decd45d77cc5a978b69abd9501ed0df72e1c940",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "(ln the shop Lucy is talking on the phone with a dealer,",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_18_LIVRO_18.md",
+        "pagina_ou_secao": "Página 20",
+        "linhas": {
+          "inicio": 327,
+          "fim": 351
+        }
+      }
+    },
+    {
+      "ordem": 23,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_18_LIVRO_18.md",
+      "secao": "Página 21",
+      "linhas": {
+        "inicio": 352,
+        "fim": 373
+      },
+      "sha256_recorte": "18542ed0304e599ba85bf940552cde66bc8fe5cfc8fc5a8069981035fc0e31c2",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business - Lesson 16 -1 agree",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_18_LIVRO_18.md",
+        "pagina_ou_secao": "Página 21",
+        "linhas": {
+          "inicio": 352,
+          "fim": 373
+        }
+      }
+    },
+    {
+      "ordem": 24,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_19_LIVRO_19.md",
+      "secao": "Página 23",
+      "linhas": {
+        "inicio": 401,
+        "fim": 425
+      },
+      "sha256_recorte": "9c10bec058b6532a32b52584eb8c859c39ae01b93a32ba1ced61ab30b5f9001c",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B1-L8-0324-01",
+      "conteudo_avaliado": "Business - Lesson 18 - Thanks for calling",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_19_LIVRO_19.md",
+        "pagina_ou_secao": "Página 23",
+        "linhas": {
+          "inicio": 401,
+          "fim": 425
+        }
+      }
+    },
+    {
+      "ordem": 25,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_19_LIVRO_19.md",
+      "secao": "Página 29",
+      "linhas": {
+        "inicio": 541,
+        "fim": 567
+      },
+      "sha256_recorte": "3cfa9dd7040dbe85304ccfb8df4d5789fed897a2a2eac08afc1efb43536b4eab",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B1-L15-0835-01",
+      "conteudo_avaliado": "Business - Exercises",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_19_LIVRO_19.md",
+        "pagina_ou_secao": "Página 29",
+        "linhas": {
+          "inicio": 541,
+          "fim": 567
+        }
+      }
+    },
+    {
+      "ordem": 26,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_19_LIVRO_19.md",
+      "secao": "Página 79",
+      "linhas": {
+        "inicio": 1526,
+        "fim": 1562
+      },
+      "sha256_recorte": "b241b6bd072c554b0d351de19de37757ce5cb1f2027f990c3ac5ca97e6b3a824",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Exercises (pages 26-28)",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_19_LIVRO_19.md",
+        "pagina_ou_secao": "Página 79",
+        "linhas": {
+          "inicio": 1526,
+          "fim": 1562
+        }
+      }
+    },
+    {
+      "ordem": 27,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_20_LIVRO_20.md",
+      "secao": "Página 13",
+      "linhas": {
+        "inicio": 186,
+        "fim": 210
+      },
+      "sha256_recorte": "fee41eb479ce433c4c3280b000ff0725bdf4004aec4ae40518a6433dc29f4fc9",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business - Lesson 19 - A very demanding job",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_20_LIVRO_20.md",
+        "pagina_ou_secao": "Página 13",
+        "linhas": {
+          "inicio": 186,
+          "fim": 210
+        }
+      }
+    },
+    {
+      "ordem": 28,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_20_LIVRO_20.md",
+      "secao": "Página 15",
+      "linhas": {
+        "inicio": 241,
+        "fim": 270
+      },
+      "sha256_recorte": "de84859cd042ef54b26cdf4868d5cec86723bd64241cebbd75ce9fd4dc756931",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B1-L9-0420-01",
+      "conteudo_avaliado": "Business - Lesson 19 - A very demanding job",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_20_LIVRO_20.md",
+        "pagina_ou_secao": "Página 15",
+        "linhas": {
+          "inicio": 241,
+          "fim": 270
+        }
+      }
+    },
+    {
+      "ordem": 29,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_20_LIVRO_20.md",
+      "secao": "Página 25",
+      "linhas": {
+        "inicio": 477,
+        "fim": 505
+      },
+      "sha256_recorte": "695d298418607382d47df64c0aecf61abc52ee7ad6927c42568c824e3db5fbfe",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business - Lesson 20 - What time are they arriving?",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_20_LIVRO_20.md",
+        "pagina_ou_secao": "Página 25",
+        "linhas": {
+          "inicio": 477,
+          "fim": 505
+        }
+      }
+    },
+    {
+      "ordem": 30,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_21_LIVRO_21.md",
+      "secao": "Página 21",
+      "linhas": {
+        "inicio": 352,
+        "fim": 377
+      },
+      "sha256_recorte": "272a74f448360e6ea2013d976c11e6a27385748300b0ec0c302f53bde48ed5df",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L12-1406-01",
+      "conteudo_avaliado": "Business - Lesson 22 - A briefing",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_21_LIVRO_21.md",
+        "pagina_ou_secao": "Página 21",
+        "linhas": {
+          "inicio": 352,
+          "fim": 377
+        }
+      }
+    },
+    {
+      "ordem": 31,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_21_LIVRO_21.md",
+      "secao": "Página 25",
+      "linhas": {
+        "inicio": 464,
+        "fim": 488
+      },
+      "sha256_recorte": "def16279db3726b6640f4d77aa4e3435b032f016e0e006d76d97fa4a7d6ae5d6",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A1-L4-0086-01",
+      "conteudo_avaliado": "Business - Lesson 22 - A briefing",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_21_LIVRO_21.md",
+        "pagina_ou_secao": "Página 25",
+        "linhas": {
+          "inicio": 464,
+          "fim": 488
+        }
+      }
+    },
+    {
+      "ordem": 32,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_22_LIVRO_22.md",
+      "secao": "Página 17",
+      "linhas": {
+        "inicio": 297,
+        "fim": 322
+      },
+      "sha256_recorte": "14c7844d9ea681acba2de860efa9b45bf7cb3dafc9136b1485b435da9251e768",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business - Lesson 23 - We need the goods urgently",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_22_LIVRO_22.md",
+        "pagina_ou_secao": "Página 17",
+        "linhas": {
+          "inicio": 297,
+          "fim": 322
+        }
+      }
+    },
+    {
+      "ordem": 33,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_22_LIVRO_22.md",
+      "secao": "Página 23",
+      "linhas": {
+        "inicio": 425,
+        "fim": 452
+      },
+      "sha256_recorte": "ab39bcacf11e642bf77b33afea8c470e35c3ec868c3ef4d8b01c4ac5ba29f844",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L12-1406-01",
+      "conteudo_avaliado": "Business - Lesson 24 - Thank you for your alttention",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_22_LIVRO_22.md",
+        "pagina_ou_secao": "Página 23",
+        "linhas": {
+          "inicio": 425,
+          "fim": 452
+        }
+      }
+    },
+    {
+      "ordem": 34,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_23_LIVRO_23.md",
+      "secao": "Página 21",
+      "linhas": {
+        "inicio": 369,
+        "fim": 400
+      },
+      "sha256_recorte": "f7c7435ae7066e1b61aff854b254512acd1dcc2fb10251ba1f2169ebd7d27287",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business-Lesson26-Bad news",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_23_LIVRO_23.md",
+        "pagina_ou_secao": "Página 21",
+        "linhas": {
+          "inicio": 369,
+          "fim": 400
+        }
+      }
+    },
+    {
+      "ordem": 35,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_23_LIVRO_23.md",
+      "secao": "Página 26",
+      "linhas": {
+        "inicio": 520,
+        "fim": 547
+      },
+      "sha256_recorte": "ef73a1d71c3744bfb2a33a58608648b4d79074635052354da84b93a9650cb27e",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B1-L4-0093-04",
+      "conteudo_avaliado": "USEFUL EXPRESSIONS",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_23_LIVRO_23.md",
+        "pagina_ou_secao": "Página 26",
+        "linhas": {
+          "inicio": 520,
+          "fim": 547
+        }
+      }
+    },
+    {
+      "ordem": 36,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_23_LIVRO_23.md",
+      "secao": "Página 36",
+      "linhas": {
+        "inicio": 694,
+        "fim": 719
+      },
+      "sha256_recorte": "a0708b430b2d01f9efbde6a2b861d75d3290408e89a7ffdf902874b5050d9ab9",
+      "estado_final": "sem_objetivo_independente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "(Emily and Adriana are chatting in the bathroom.)",
+      "motivo": "O bloco é lista, metadado, material multilíngue sem português ou fragmento dependente sem objetivo pedagógico autônomo.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_23_LIVRO_23.md",
+        "pagina_ou_secao": "Página 36",
+        "linhas": {
+          "inicio": 694,
+          "fim": 719
+        }
+      }
+    },
+    {
+      "ordem": 37,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_24_LIVRO_24.md",
+      "secao": "Página 13",
+      "linhas": {
+        "inicio": 185,
+        "fim": 212
+      },
+      "sha256_recorte": "dc1bfb2835f647b2929d10e99cea997ad0b20f88fdd197e651bfdbafddac3946",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B1-L11-1404-01",
+      "conteudo_avaliado": "Business - Lesson 27 - I'm a very energetic person",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_24_LIVRO_24.md",
+        "pagina_ou_secao": "Página 13",
+        "linhas": {
+          "inicio": 185,
+          "fim": 212
+        }
+      }
+    },
+    {
+      "ordem": 38,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_24_LIVRO_24.md",
+      "secao": "Página 76",
+      "linhas": {
+        "inicio": 1590,
+        "fim": 1627
+      },
+      "sha256_recorte": "f3e90ba9489eafbc58696be5dc518a34258d709f7405a4010bab4f17f886d2ea",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Exercises (pages 25-27)",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_24_LIVRO_24.md",
+        "pagina_ou_secao": "Página 76",
+        "linhas": {
+          "inicio": 1590,
+          "fim": 1627
+        }
+      }
+    },
+    {
+      "ordem": 39,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_business_letter.md",
+      "secao": "Conteúdo",
+      "linhas": {
+        "inicio": 14,
+        "fim": 27
+      },
+      "sha256_recorte": "b3a5e44ce5c3383166785ab65b75b7ec0c0da82442b59ceeeec09bcfcb6d5387",
+      "estado_final": "sem_objetivo_independente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "Conteúdo",
+      "motivo": "O bloco é lista, metadado, material multilíngue sem português ou fragmento dependente sem objetivo pedagógico autônomo.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_business_letter.md",
+        "pagina_ou_secao": "Conteúdo",
+        "linhas": {
+          "inicio": 14,
+          "fim": 27
+        }
+      }
+    },
+    {
+      "ordem": 40,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Business_Letter_vocabulary.md",
+      "secao": "Conteúdo",
+      "linhas": {
+        "inicio": 14,
+        "fim": 93
+      },
+      "sha256_recorte": "dabe0c58fa593d4264761625aa3ea1247c0bd5a224a2cf65b979d5f4ca8b4504",
+      "estado_final": "sem_objetivo_independente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "Conteúdo",
+      "motivo": "O bloco é lista, metadado, material multilíngue sem português ou fragmento dependente sem objetivo pedagógico autônomo.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Business_Letter_vocabulary.md",
+        "pagina_ou_secao": "Conteúdo",
+        "linhas": {
+          "inicio": 14,
+          "fim": 93
+        }
+      }
+    },
+    {
+      "ordem": 41,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Business_Letter_Writing_Basics.md",
+      "secao": "Dateline",
+      "linhas": {
+        "inicio": 93,
+        "fim": 112
+      },
+      "sha256_recorte": "8368edb71d7d4d0c3ecb9548bdd10e8d8e1149b916109cb83f545ab861bf61c1",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "C1-L12-1408-01",
+      "conteudo_avaliado": "Dateline",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Business_Letter_Writing_Basics.md",
+        "pagina_ou_secao": "Dateline",
+        "linhas": {
+          "inicio": 93,
+          "fim": 112
+        }
+      }
+    },
+    {
+      "ordem": 42,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Business_Letter_Writing_Basics.md",
+      "secao": "Body of Letter",
+      "linhas": {
+        "inicio": 120,
+        "fim": 139
+      },
+      "sha256_recorte": "f93293482b7b23d99230a1b3bfcf3faf88cee2bda47883a16048654e03d246ba",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "C1-L12-1408-01",
+      "conteudo_avaliado": "Body of Letter",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Business_Letter_Writing_Basics.md",
+        "pagina_ou_secao": "Body of Letter",
+        "linhas": {
+          "inicio": 120,
+          "fim": 139
+        }
+      }
+    },
+    {
+      "ordem": 43,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Business_Letter_Writing_Basics.md",
+      "secao": "Writer's name and title",
+      "linhas": {
+        "inicio": 140,
+        "fim": 171
+      },
+      "sha256_recorte": "c2f4d928de7d31506873b2596c1f78d2000ff56d0e5c66b428c47969d2153dab",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B2-L7-0308-01",
+      "conteudo_avaliado": "Writer's name and title",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_Business_Letter_Writing_Basics.md",
+        "pagina_ou_secao": "Writer's name and title",
+        "linhas": {
+          "inicio": 140,
+          "fim": 171
+        }
+      }
+    },
+    {
+      "ordem": 44,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_final.md",
+      "secao": "Página 3",
+      "linhas": {
+        "inicio": 131,
+        "fim": 195
+      },
+      "sha256_recorte": "b2da7f3eeb9d545de1b433c450da67090fd62164a7a86bd4f9a921630d09c51d",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L3-0066-02",
+      "conteudo_avaliado": "11 a) enclose b) submit c) include d) send",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_final.md",
+        "pagina_ou_secao": "Página 3",
+        "linhas": {
+          "inicio": 131,
+          "fim": 195
+        }
+      }
+    },
+    {
+      "ordem": 45,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_final.md",
+      "secao": "Página 6",
+      "linhas": {
+        "inicio": 326,
+        "fim": 400
+      },
+      "sha256_recorte": "792a959cdf0f4ea37bbb60cb8f2887fc75b3e3ad206c67ab9ea4515a2bce4d7c",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L3-0066-02",
+      "conteudo_avaliado": "Reading A Read these four short newspaper articles.",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_final.md",
+        "pagina_ou_secao": "Página 6",
+        "linhas": {
+          "inicio": 326,
+          "fim": 400
+        }
+      }
+    },
+    {
+      "ordem": 46,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_place.md",
+      "secao": "Página 5",
+      "linhas": {
+        "inicio": 268,
+        "fim": 330
+      },
+      "sha256_recorte": "d3e97d34fae60689c1d057dc5f13540ebb58b2b042d027b3ef37f626043e902c",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L4-0080-01",
+      "conteudo_avaliado": "Reading Read the text Business School with a difference. Some parts of the text have",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_place.md",
+        "pagina_ou_secao": "Página 5",
+        "linhas": {
+          "inicio": 268,
+          "fim": 330
+        }
+      }
+    },
+    {
+      "ordem": 47,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog1.md",
+      "secao": "Página 4",
+      "linhas": {
+        "inicio": 214,
+        "fim": 283
+      },
+      "sha256_recorte": "369fc1b4fc56a6ca667226ee5c482bff162fb2002135c2da382454d143267e1c",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L4-0092-23",
+      "conteudo_avaliado": "B Study the chart comparing three models of electronic notebook. Then",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog1.md",
+        "pagina_ou_secao": "Página 4",
+        "linhas": {
+          "inicio": 214,
+          "fim": 283
+        }
+      }
+    },
+    {
+      "ordem": 48,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog2.md",
+      "secao": "Página 3",
+      "linhas": {
+        "inicio": 137,
+        "fim": 198
+      },
+      "sha256_recorte": "9b8202460a39db2baa7db04677ec2a7a743fb98b41c42466cb95ab141ecad384",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L3-0066-02",
+      "conteudo_avaliado": "D Choose the best word to complete each of these sentences.",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog2.md",
+        "pagina_ou_secao": "Página 3",
+        "linhas": {
+          "inicio": 137,
+          "fim": 198
+        }
+      }
+    },
+    {
+      "ordem": 49,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog2.md",
+      "secao": "Página 6",
+      "linhas": {
+        "inicio": 337,
+        "fim": 395
+      },
+      "sha256_recorte": "8fc82f16ef34cbfafa22b67a0f6af76f10915f24262176f04094ea0ccf1c4747",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B1-L8-0324-01",
+      "conteudo_avaliado": "Reading Read this case study about two international retailing companies.",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog2.md",
+        "pagina_ou_secao": "Página 6",
+        "linhas": {
+          "inicio": 337,
+          "fim": 395
+        }
+      }
+    },
+    {
+      "ordem": 50,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog3.md",
+      "secao": "Página 3",
+      "linhas": {
+        "inicio": 136,
+        "fim": 196
+      },
+      "sha256_recorte": "3a54c826dd5ab37f544e3bc1163165ebef565c3215b5c7289850728d8a16b9d9",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L3-0066-02",
+      "conteudo_avaliado": "C Choose the best word to complete each of these sentences.",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog3.md",
+        "pagina_ou_secao": "Página 3",
+        "linhas": {
+          "inicio": 136,
+          "fim": 196
+        }
+      }
+    },
+    {
+      "ordem": 51,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog3.md",
+      "secao": "Página 7",
+      "linhas": {
+        "inicio": 404,
+        "fim": 458
+      },
+      "sha256_recorte": "49378766cd32a6dcd94c70a53f08b3f3f63f95a4b729dec02695882a77428836",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L3-0066-02",
+      "conteudo_avaliado": "82 Why does SAB want to move to London? Mark all the answers that are",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog3.md",
+        "pagina_ou_secao": "Página 7",
+        "linhas": {
+          "inicio": 404,
+          "fim": 458
+        }
+      }
+    },
+    {
+      "ordem": 52,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Terri.md",
+      "secao": "Conteúdo",
+      "linhas": {
+        "inicio": 14,
+        "fim": 131
+      },
+      "sha256_recorte": "95cb66face9c057918211a5f9ee10dd4790547814def88e9160cd63f2a50cf10",
+      "estado_final": "sem_objetivo_independente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "Conteúdo",
+      "motivo": "O bloco é lista, metadado, material multilíngue sem português ou fragmento dependente sem objetivo pedagógico autônomo.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Terri.md",
+        "pagina_ou_secao": "Conteúdo",
+        "linhas": {
+          "inicio": 14,
+          "fim": 131
+        }
+      }
+    },
+    {
+      "ordem": 53,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles_Curso_Completo.md",
+      "secao": "Página 70",
+      "linhas": {
+        "inicio": 3482,
+        "fim": 3535
+      },
+      "sha256_recorte": "d11d64d22f26a9636341f6fa59579b5e0e8b89923a7a3aef6ed46a08b4557939",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "A U L A O nome do remédio aparece geralmente com letras grandes pois é o mais",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles_Curso_Completo.md",
+        "pagina_ou_secao": "Página 70",
+        "linhas": {
+          "inicio": 3482,
+          "fim": 3535
+        }
+      }
+    },
+    {
+      "ordem": 54,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles_SEC-www-sec-gov-pdf-handbook-pdfWriting_handbook.md",
+      "secao": "Página 68",
+      "linhas": {
+        "inicio": 2622,
+        "fim": 2666
+      },
+      "sha256_recorte": "461e3c567877e48b4ed0904dec797af2ca8269f0aefb74dd7e3a4c41a21a3554",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L4-0092-16",
+      "conteudo_avaliado": "William Lutz, The New Doublespeak: Why No One Knows",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles_SEC-www-sec-gov-pdf-handbook-pdfWriting_handbook.md",
+        "pagina_ou_secao": "Página 68",
+        "linhas": {
+          "inicio": 2622,
+          "fim": 2666
+        }
+      }
+    },
+    {
+      "ordem": 55,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Inglish_Livro_Essential_Grammar_in_Use.md",
+      "secao": "Página 40",
+      "linhas": {
+        "inicio": 2359,
+        "fim": 2443
+      },
+      "sha256_recorte": "910f656da9478b73bc0c10979ca3c3ad399cc7f3ecb259018b3c26f835ce9d9d",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Write the questions. Use were you, did they, has he, etc.",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Inglish_Livro_Essential_Grammar_in_Use.md",
+        "pagina_ou_secao": "Página 40",
+        "linhas": {
+          "inicio": 2359,
+          "fim": 2443
+        }
+      }
+    },
+    {
+      "ordem": 56,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Inglish_Textos_arquivo_novo-02.08.07_five_hundred_english_questions-vers_o_2007_o_mesmo_500_quest_es_de_ingle.md",
+      "secao": "Página 57",
+      "linhas": {
+        "inicio": 3806,
+        "fim": 3874
+      },
+      "sha256_recorte": "64705ee46da63e7b0a331f81de5bfa998ceb87104104e4cf88043932c76bb132",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "WWW.RUMOAOITA.COM Professor Jefferson Celestino",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Inglish_Textos_arquivo_novo-02.08.07_five_hundred_english_questions-vers_o_2007_o_mesmo_500_quest_es_de_ingle.md",
+        "pagina_ou_secao": "Página 57",
+        "linhas": {
+          "inicio": 3806,
+          "fim": 3874
+        }
+      }
+    },
+    {
+      "ordem": 57,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-sb.md",
+      "secao": "Página 59",
+      "linhas": {
+        "inicio": 2923,
+        "fim": 2999
+      },
+      "sha256_recorte": "cf200c0a51c6eb67b083ae49fea21295f9eaae32f2c4827e47dc54df52954ceb",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L10-1378-01",
+      "conteudo_avaliado": "Haveyou everhad troublelearning something?",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-sb.md",
+        "pagina_ou_secao": "Página 59",
+        "linhas": {
+          "inicio": 2923,
+          "fim": 2999
+        }
+      }
+    },
+    {
+      "ordem": 58,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-sb.md",
+      "secao": "Página 73",
+      "linhas": {
+        "inicio": 3695,
+        "fim": 3755
+      },
+      "sha256_recorte": "9bbe358e7f44d305b2f13950bf2f062d330d48e1732d7f0492cf82a0bfac27b8",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Food Trends National.com",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-sb.md",
+        "pagina_ou_secao": "Página 73",
+        "linhas": {
+          "inicio": 3695,
+          "fim": 3755
+        }
+      }
+    },
+    {
+      "ordem": 59,
+      "fonte": "Interchange_4th_Selfstudy_XML_level_1.md",
+      "secao": "l2dvdl1u15a07popup",
+      "linhas": {
+        "inicio": 185,
+        "fim": 194
+      },
+      "sha256_recorte": "6b1fee3336e65536959327f96b966dd451990de521c73d40eb149e03e8ecc7bf",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "l2dvdl1u15a07popup",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_level_1.md",
+        "pagina_ou_secao": "l2dvdl1u15a07popup",
+        "linhas": {
+          "inicio": 185,
+          "fim": 194
+        }
+      }
+    },
+    {
+      "ordem": 60,
+      "fonte": "Interchange_4th_Selfstudy_XML_level_2.md",
+      "secao": "l1dvdl2u12a03",
+      "linhas": {
+        "inicio": 1666,
+        "fim": 1692
+      },
+      "sha256_recorte": "5b74717e90212a939e41efc5469a7bf7aa25dc5d0f569680e81d6e69c33ac5ca",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "l1dvdl2u12a03",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_level_2.md",
+        "pagina_ou_secao": "l1dvdl2u12a03",
+        "linhas": {
+          "inicio": 1666,
+          "fim": 1692
+        }
+      }
+    },
+    {
+      "ordem": 61,
+      "fonte": "Interchange_4th_Selfstudy_XML_level_3.md",
+      "secao": "r1dvdl3u12a08popup",
+      "linhas": {
+        "inicio": 103,
+        "fim": 120
+      },
+      "sha256_recorte": "d4e90fd454657b4eed38ea0da397c830f960b2c06610907f332eb063e35ec02c",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "r1dvdl3u12a08popup",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_level_3.md",
+        "pagina_ou_secao": "r1dvdl3u12a08popup",
+        "linhas": {
+          "inicio": 103,
+          "fim": 120
+        }
+      }
+    },
+    {
+      "ordem": 62,
+      "fonte": "Curso_de_Ingl_s_-_Wizard_Ebook.md",
+      "secao": "Página 39",
+      "linhas": {
+        "inicio": 2111,
+        "fim": 2171
+      },
+      "sha256_recorte": "e3e3491da3e7ce9b8685507790e045fd5aed9288c186763d64d683bf4789172b",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L5-0166-01",
+      "conteudo_avaliado": "Review 2 Improve your pronunciation",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Curso_de_Ingl_s_-_Wizard_Ebook.md",
+        "pagina_ou_secao": "Página 39",
+        "linhas": {
+          "inicio": 2111,
+          "fim": 2171
+        }
+      }
+    },
+    {
+      "ordem": 63,
+      "fonte": "Curso_de_Ingl_s_-_Wizard_Ebook.md",
+      "secao": "Página 45",
+      "linhas": {
+        "inicio": 2468,
+        "fim": 2526
+      },
+      "sha256_recorte": "888f1530b23b13715de8ba5466f3dd4c0c2abff305e09e32d90c84a1acdbba21",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L4-0090-02",
+      "conteudo_avaliado": "“In 1492 Columbus sailed the ocean blue”.",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Curso_de_Ingl_s_-_Wizard_Ebook.md",
+        "pagina_ou_secao": "Página 45",
+        "linhas": {
+          "inicio": 2468,
+          "fim": 2526
+        }
+      }
+    },
+    {
+      "ordem": 64,
+      "fonte": "Curso_de_Ingl_s_-_Wizard_Ebook.md",
+      "secao": "Página 53",
+      "linhas": {
+        "inicio": 2904,
+        "fim": 2962
+      },
+      "sha256_recorte": "a6b5d064e3dda33953326ecfe63be1f2b4915d32573c6a9cead08b64832eb120",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L4-0090-02",
+      "conteudo_avaliado": "To read - ler To write - escrever",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Curso_de_Ingl_s_-_Wizard_Ebook.md",
+        "pagina_ou_secao": "Página 53",
+        "linhas": {
+          "inicio": 2904,
+          "fim": 2962
+        }
+      }
+    },
+    {
+      "ordem": 65,
+      "fonte": "Curso_de_Ingl_s_BBC_English_Plus_BBC_English_Plus_CD21.artgenone_ES_Book21ES.md",
+      "secao": "Página 13",
+      "linhas": {
+        "inicio": 701,
+        "fim": 765
+      },
+      "sha256_recorte": "1f3ca6d61b4225a591a5740bf5cfea86ac1dd21d0d0217634be7e5d3878192b5",
+      "estado_final": "sem_objetivo_independente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "• A continuación del complemento cuando existe:",
+      "motivo": "O bloco é lista, metadado, material multilíngue sem português ou fragmento dependente sem objetivo pedagógico autônomo.",
+      "procedencia_interna": {
+        "arquivo": "Curso_de_Ingl_s_BBC_English_Plus_BBC_English_Plus_CD21.artgenone_ES_Book21ES.md",
+        "pagina_ou_secao": "Página 13",
+        "linhas": {
+          "inicio": 701,
+          "fim": 765
+        }
+      }
+    },
+    {
+      "ordem": 66,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_02_LIVRO_02.md",
+      "secao": "Página 39",
+      "linhas": {
+        "inicio": 687,
+        "fim": 711
+      },
+      "sha256_recorte": "36279195e1fcd978cdcd98301db077557ff40477dcfbc2981023b45039d09288",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A1-L4-0070-01",
+      "conteudo_avaliado": "Lesson 2 - Elena is looking for a job",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_02_LIVRO_02.md",
+        "pagina_ou_secao": "Página 39",
+        "linhas": {
+          "inicio": 687,
+          "fim": 711
+        }
+      }
+    },
+    {
+      "ordem": 67,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_03_LIVRO_03.md",
+      "secao": "Página 19",
+      "linhas": {
+        "inicio": 312,
+        "fim": 364
+      },
+      "sha256_recorte": "dc337bb5f35a5017126f89dee4eac67da715dc448b33648ade70724eb4970bff",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B1-L3-0053-04",
+      "conteudo_avaliado": "Lesson 1-I need a black coat",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_03_LIVRO_03.md",
+        "pagina_ou_secao": "Página 19",
+        "linhas": {
+          "inicio": 312,
+          "fim": 364
+        }
+      }
+    },
+    {
+      "ordem": 68,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_03_LIVRO_03.md",
+      "secao": "Página 32",
+      "linhas": {
+        "inicio": 620,
+        "fim": 644
+      },
+      "sha256_recorte": "7c56882bc28c7c79f3f5865eb9a474aefd6b42f15af7d7614b552ec017233d4d",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B1-L5-0126-05",
+      "conteudo_avaliado": "Agatha: Who was that?",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_03_LIVRO_03.md",
+        "pagina_ou_secao": "Página 32",
+        "linhas": {
+          "inicio": 620,
+          "fim": 644
+        }
+      }
+    },
+    {
+      "ordem": 69,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_07_LIVRO_07.md",
+      "secao": "Página 12",
+      "linhas": {
+        "inicio": 180,
+        "fim": 204
+      },
+      "sha256_recorte": "71eb849c1820e3ce6a1ba118173af7fe65e524aa99b58faa091aa74422154fd6",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Elena: Where is the Ladies' Department?",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_07_LIVRO_07.md",
+        "pagina_ou_secao": "Página 12",
+        "linhas": {
+          "inicio": 180,
+          "fim": 204
+        }
+      }
+    },
+    {
+      "ordem": 70,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_07_LIVRO_07.md",
+      "secao": "Página 78",
+      "linhas": {
+        "inicio": 1633,
+        "fim": 1674
+      },
+      "sha256_recorte": "66425cb2b6b889719d3cdc5fad973788e85cf365afb903f81fccb88ec0baf89f",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A1-L6-0199-01",
+      "conteudo_avaliado": "DEPARTMENT STORE -- Exercicios (pdginas 26-29)",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_07_LIVRO_07.md",
+        "pagina_ou_secao": "Página 78",
+        "linhas": {
+          "inicio": 1633,
+          "fim": 1674
+        }
+      }
+    },
+    {
+      "ordem": 71,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_08_LIVRO_08.md",
+      "secao": "Página 19",
+      "linhas": {
+        "inicio": 301,
+        "fim": 325
+      },
+      "sha256_recorte": "06107679d931436d428b3106e34c5431bb0b5394ca459487b0f5ae8104ed8be8",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A1-L3-0041-01",
+      "conteudo_avaliado": "Lesson 1 - Which street do I take?",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_08_LIVRO_08.md",
+        "pagina_ou_secao": "Página 19",
+        "linhas": {
+          "inicio": 301,
+          "fim": 325
+        }
+      }
+    },
+    {
+      "ordem": 72,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_08_LIVRO_08.md",
+      "secao": "Página 21",
+      "linhas": {
+        "inicio": 347,
+        "fim": 363
+      },
+      "sha256_recorte": "b3c6b8e23e4b3fdace814cf496c4e1c72cc02fbe0b0e59765eceb219eeeafcc2",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L4-0092-16",
+      "conteudo_avaliado": "Lesson 1 - Which street do I take?",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_08_LIVRO_08.md",
+        "pagina_ou_secao": "Página 21",
+        "linhas": {
+          "inicio": 347,
+          "fim": 363
+        }
+      }
+    },
+    {
+      "ordem": 73,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_11_LIVRO_11.md",
+      "secao": "Página 35",
+      "linhas": {
+        "inicio": 636,
+        "fim": 661
+      },
+      "sha256_recorte": "452508d2e7bdbfc7276b63522a1179f104df378d663377931fcb6afa3a3d777b",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Health and Body Care - Lesson 1 - Which animal are you?",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_11_LIVRO_11.md",
+        "pagina_ou_secao": "Página 35",
+        "linhas": {
+          "inicio": 636,
+          "fim": 661
+        }
+      }
+    },
+    {
+      "ordem": 74,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_13_LIVRO_13.md",
+      "secao": "Página 12",
+      "linhas": {
+        "inicio": 160,
+        "fim": 186
+      },
+      "sha256_recorte": "5d42fce2eaa8f3c2982127041760f575e6efa3968203479c80b821460d73fb86",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "(Linda is at the office, imagining an interview for a new job.)",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_13_LIVRO_13.md",
+        "pagina_ou_secao": "Página 12",
+        "linhas": {
+          "inicio": 160,
+          "fim": 186
+        }
+      }
+    },
+    {
+      "ordem": 75,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_13_LIVRO_13.md",
+      "secao": "Página 14",
+      "linhas": {
+        "inicio": 205,
+        "fim": 230
+      },
+      "sha256_recorte": "b23dc09b92434b1dde9baffc5024e29e181d1902c27d1d4d7df6ff626c5f627c",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-GRAM-0012",
+      "conteudo_avaliado": "Conforme vimos, Linda quer outro emprego. Encontrar um",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_13_LIVRO_13.md",
+        "pagina_ou_secao": "Página 14",
+        "linhas": {
+          "inicio": 205,
+          "fim": 230
+        }
+      }
+    },
+    {
+      "ordem": 76,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_21_LIVRO_21.md",
+      "secao": "Página 37",
+      "linhas": {
+        "inicio": 681,
+        "fim": 703
+      },
+      "sha256_recorte": "75d5bad0e56d97e6413bc0cb9866453263aa2d4359e462c9c29ff83d08b2adaa",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L10-1378-01",
+      "conteudo_avaliado": "Health and Body Care - Lesson 21 - Have a look at my biceps!",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_21_LIVRO_21.md",
+        "pagina_ou_secao": "Página 37",
+        "linhas": {
+          "inicio": 681,
+          "fim": 703
+        }
+      }
+    },
+    {
+      "ordem": 77,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_22_LIVRO_22.md",
+      "secao": "Página 45",
+      "linhas": {
+        "inicio": 898,
+        "fim": 929
+      },
+      "sha256_recorte": "eab6ab760ca9b0969c6dd4be747c16677ca4533fccfa5f784d19467e48ec4c1d",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A1-GRAM-0022",
+      "conteudo_avaliado": "Health and Body Care - Lesson 24 - Environmental problems",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_22_LIVRO_22.md",
+        "pagina_ou_secao": "Página 45",
+        "linhas": {
+          "inicio": 898,
+          "fim": 929
+        }
+      }
+    },
+    {
+      "ordem": 78,
+      "fonte": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_24_LIVRO_24.md",
+      "secao": "Página 30",
+      "linhas": {
+        "inicio": 591,
+        "fim": 627
+      },
+      "sha256_recorte": "10dab7df50b62c74a4ab61088903ebad6883a610202189ca09ba91df5d4bdc3f",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B1-L5-0113-01",
+      "conteudo_avaliado": "advertised - publicized (publicado; anunciado)",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "English_Way_Curso_Completo_English_Way_BBC_BRASIL_24_LIVRO_24.md",
+        "pagina_ou_secao": "Página 30",
+        "linhas": {
+          "inicio": 591,
+          "fim": 627
+        }
+      }
+    },
+    {
+      "ordem": 79,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_scanner_writing_bel.md",
+      "secao": "Página 4",
+      "linhas": {
+        "inicio": 171,
+        "fim": 206
+      },
+      "sha256_recorte": "16fa1b618a2c6b026f21a1cc492e0e5b885746841e193af5e25b7d9341fd7ede",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "C1-L12-1408-01",
+      "conteudo_avaliado": "I am writing to offer my sincere",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_scanner_writing_bel.md",
+        "pagina_ou_secao": "Página 4",
+        "linhas": {
+          "inicio": 171,
+          "fim": 206
+        }
+      }
+    },
+    {
+      "ordem": 80,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_final.md",
+      "secao": "Página 8",
+      "linhas": {
+        "inicio": 464,
+        "fim": 540
+      },
+      "sha256_recorte": "eb9f3fb8c008fe4f86f0098409f57e9e4de1dd067c350a43f4bd7bc189826695",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "a) Last year, Unilever began producing Wall’s ice cream at a $22m plant, also in",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_final.md",
+        "pagina_ou_secao": "Página 8",
+        "linhas": {
+          "inicio": 464,
+          "fim": 540
+        }
+      }
+    },
+    {
+      "ordem": 81,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_place.md",
+      "secao": "Página 1",
+      "linhas": {
+        "inicio": 12,
+        "fim": 55
+      },
+      "sha256_recorte": "7848e786287560391fff06ccccaa34bc81c23eba1d641e9b11259e0ad98d6618",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Listening You are going to hear a conversation between two colleagues. They are talking",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_place.md",
+        "pagina_ou_secao": "Página 1",
+        "linhas": {
+          "inicio": 12,
+          "fim": 55
+        }
+      }
+    },
+    {
+      "ordem": 82,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog1.md",
+      "secao": "Página 3",
+      "linhas": {
+        "inicio": 138,
+        "fim": 213
+      },
+      "sha256_recorte": "3786df34569bc02857b284992f3b59e790f65e777b9138fc3382263102bd2124",
+      "estado_final": "redundante",
+      "destino_unidade_id": "B2-L7-0308-01",
+      "conteudo_avaliado": "D The following adjectives describe an unsuccessful product. Change them to",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog1.md",
+        "pagina_ou_secao": "Página 3",
+        "linhas": {
+          "inicio": 138,
+          "fim": 213
+        }
+      }
+    },
+    {
+      "ordem": 83,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog1.md",
+      "secao": "Página 6",
+      "linhas": {
+        "inicio": 346,
+        "fim": 404
+      },
+      "sha256_recorte": "c030d319677600c1aee6c84c1d20043a2972119b292296430efb8d477431da0e",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A1-L4-0070-01",
+      "conteudo_avaliado": "54 Which of the following sentences best summarises the content of the",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog1.md",
+        "pagina_ou_secao": "Página 6",
+        "linhas": {
+          "inicio": 346,
+          "fim": 404
+        }
+      }
+    },
+    {
+      "ordem": 84,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog2.md",
+      "secao": "Página 4",
+      "linhas": {
+        "inicio": 199,
+        "fim": 271
+      },
+      "sha256_recorte": "2a71f05a6759cf5e74bc89741c5fdfe45a76d84fdd1542721498339d1daa3f77",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L3-0066-02",
+      "conteudo_avaliado": "B Complete these sentences with the words in the box (one answer will be",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles01_Bel_test_prog2.md",
+        "pagina_ou_secao": "Página 4",
+        "linhas": {
+          "inicio": 199,
+          "fim": 271
+        }
+      }
+    },
+    {
+      "ordem": 85,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles_A_Companion.md",
+      "secao": "Texto",
+      "linhas": {
+        "inicio": 14,
+        "fim": 29
+      },
+      "sha256_recorte": "43d754b447655ff19e54919e3d22eda54788fdac5bc6d71d25fcdb61c56dde1a",
+      "estado_final": "sem_objetivo_independente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "Texto",
+      "motivo": "O bloco é lista, metadado, material multilíngue sem português ou fragmento dependente sem objetivo pedagógico autônomo.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles_A_Companion.md",
+        "pagina_ou_secao": "Texto",
+        "linhas": {
+          "inicio": 14,
+          "fim": 29
+        }
+      }
+    },
+    {
+      "ordem": 86,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles_Curso_Completo.md",
+      "secao": "Página 18",
+      "linhas": {
+        "inicio": 880,
+        "fim": 942
+      },
+      "sha256_recorte": "a92bf3ee4954b3ac31c213d59018d049f8aa01f45091adeccf992af8a1241a40",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-0524-01",
+      "conteudo_avaliado": "ApresentaçãoA U L A No jogo dos desenhos que vimos na história de hoje, as pessoas descreveram",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles_Curso_Completo.md",
+        "pagina_ou_secao": "Página 18",
+        "linhas": {
+          "inicio": 880,
+          "fim": 942
+        }
+      }
+    },
+    {
+      "ordem": 87,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles_Curso_Completo.md",
+      "secao": "Página 165",
+      "linhas": {
+        "inicio": 8171,
+        "fim": 8224
+      },
+      "sha256_recorte": "4c9a3cb58b6259c302ff783c367e7a5493c46f15e6ecd2f545dc3f69db0c1521",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "A U L A ExercícioExercícioExercícioExercícioExercício 1111111111",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles_Curso_Completo.md",
+        "pagina_ou_secao": "Página 165",
+        "linhas": {
+          "inicio": 8171,
+          "fim": 8224
+        }
+      }
+    },
+    {
+      "ordem": 88,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles_SEC-www-sec-gov-pdf-handbook-pdfWriting_handbook.md",
+      "secao": "Página 34",
+      "linhas": {
+        "inicio": 1218,
+        "fim": 1265
+      },
+      "sha256_recorte": "356968cdfec92230ef108fb1f032f0c12d55f75acad3c22581f152e26ee6cdf6",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B2-L16-0881-02",
+      "conteudo_avaliado": "Use short sentences",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles_SEC-www-sec-gov-pdf-handbook-pdfWriting_handbook.md",
+        "pagina_ou_secao": "Página 34",
+        "linhas": {
+          "inicio": 1218,
+          "fim": 1265
+        }
+      }
+    },
+    {
+      "ordem": 89,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Ingles_SEC-www-sec-gov-pdf-handbook-pdfWriting_handbook.md",
+      "secao": "Página 54",
+      "linhas": {
+        "inicio": 2066,
+        "fim": 2121
+      },
+      "sha256_recorte": "87fd2ad2e67637190cc36cc2b4e356afd8a4f179a141d9c179c9cd2ce04100fc",
+      "estado_final": "enriquecimento_confirmado",
+      "destino_unidade_id": "B2-L16-0881-02",
+      "conteudo_avaliado": "Keep paragraph length relatively short",
+      "motivo": "A seção acrescenta cenário, formulação ou orientação verificável ao destino existente sem justificar fragmentação em nova unidade.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Ingles_SEC-www-sec-gov-pdf-handbook-pdfWriting_handbook.md",
+        "pagina_ou_secao": "Página 54",
+        "linhas": {
+          "inicio": 2066,
+          "fim": 2121
+        }
+      }
+    },
+    {
+      "ordem": 90,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Inglish_Livro_Essential_Grammar_in_Use.md",
+      "secao": "Página 101",
+      "linhas": {
+        "inicio": 5945,
+        "fim": 6125
+      },
+      "sha256_recorte": "8f1c7ea1f004b3dbfbe167c0ff15baffd8713319bb993d38c922dfc6dfe7c603",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "In many of these answers you can iuse",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Inglish_Livro_Essential_Grammar_in_Use.md",
+        "pagina_ou_secao": "Página 101",
+        "linhas": {
+          "inicio": 5945,
+          "fim": 6125
+        }
+      }
+    },
+    {
+      "ordem": 91,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Inglish_Livro_Essential_Grammar_in_Use.md",
+      "secao": "Página 111",
+      "linhas": {
+        "inicio": 8005,
+        "fim": 8215
+      },
+      "sha256_recorte": "bbc2ac6199a1976f8bce7e6424bfe7993b8a7854fe9a7139cd00c681ffc0fbcb",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "5 No, she's not old enough to buy",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Inglish_Livro_Essential_Grammar_in_Use.md",
+        "pagina_ou_secao": "Página 111",
+        "linhas": {
+          "inicio": 8005,
+          "fim": 8215
+        }
+      }
+    },
+    {
+      "ordem": 92,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Inglish_Mapas_mentais_mm_prep_ingles.md",
+      "secao": "Página 2",
+      "linhas": {
+        "inicio": 52,
+        "fim": 82
+      },
+      "sha256_recorte": "2cf1386cafac397dab96df8ef3e130eb2e7be15f2fa310797686ea8f31b6bb68",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "page door tree house the the the cloth house the the",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Inglish_Mapas_mentais_mm_prep_ingles.md",
+        "pagina_ou_secao": "Página 2",
+        "linhas": {
+          "inicio": 52,
+          "fim": 82
+        }
+      }
+    },
+    {
+      "ordem": 93,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Inglish_Textos_arquivo_novo-02.08.07_five_hundred_english_questions-vers_o_2007_o_mesmo_500_quest_es_de_ingle.md",
+      "secao": "Página 45",
+      "linhas": {
+        "inicio": 2982,
+        "fim": 3052
+      },
+      "sha256_recorte": "8bfcaade51c5b47f2df8807c0d7dafe3efec73a851f88bd94613b15c28c1fd21",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "WWW.RUMOAOITA.COM Professor Jefferson Celestino",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Inglish_Textos_arquivo_novo-02.08.07_five_hundred_english_questions-vers_o_2007_o_mesmo_500_quest_es_de_ingle.md",
+        "pagina_ou_secao": "Página 45",
+        "linhas": {
+          "inicio": 2982,
+          "fim": 3052
+        }
+      }
+    },
+    {
+      "ordem": 94,
+      "fonte": "Ingl_s_Tele_Curso_2_Grau_Inglish_Textos_arquivo_novo-02.08.07_five_hundred_english_questions-vers_o_2007_o_mesmo_500_quest_es_de_ingle.md",
+      "secao": "Página 49",
+      "linhas": {
+        "inicio": 3264,
+        "fim": 3334
+      },
+      "sha256_recorte": "4f66b39aea30dd0123b58212c7954726009a4ba2393c5ec6ac03350c053b2ce3",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "WWW.RUMOAOITA.COM Professor Jefferson Celestino",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "Ingl_s_Tele_Curso_2_Grau_Inglish_Textos_arquivo_novo-02.08.07_five_hundred_english_questions-vers_o_2007_o_mesmo_500_quest_es_de_ingle.md",
+        "pagina_ou_secao": "Página 49",
+        "linhas": {
+          "inicio": 3264,
+          "fim": 3334
+        }
+      }
+    },
+    {
+      "ordem": 95,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-sb.md",
+      "secao": "Página 9",
+      "linhas": {
+        "inicio": 493,
+        "fim": 568
+      },
+      "sha256_recorte": "978279927bf3edd814e724f642ab098f7960c43310e1ff81c07195b0d7233d3e",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Pronunciation/Listening",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-sb.md",
+        "pagina_ou_secao": "Página 9",
+        "linhas": {
+          "inicio": 493,
+          "fim": 568
+        }
+      }
+    },
+    {
+      "ordem": 96,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-sb.md",
+      "secao": "Página 91",
+      "linhas": {
+        "inicio": 4941,
+        "fim": 5000
+      },
+      "sha256_recorte": "f61e439e281a653252fb37f3dcd53c92b9d082a69fca13debdf6327c16ba9654",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Rain Forest Remedies?",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-sb.md",
+        "pagina_ou_secao": "Página 91",
+        "linhas": {
+          "inicio": 4941,
+          "fim": 5000
+        }
+      }
+    },
+    {
+      "ordem": 97,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-sb.md",
+      "secao": "Página 103",
+      "linhas": {
+        "inicio": 5581,
+        "fim": 5635
+      },
+      "sha256_recorte": "d2ae34ec34595c45de8359aa6edf0610277cf92163e47d11111722c9e41adbbd",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "INTERCHANGE14 Howmuchdoyouknow?",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-sb.md",
+        "pagina_ou_secao": "Página 103",
+        "linhas": {
+          "inicio": 5581,
+          "fim": 5635
+        }
+      }
+    },
+    {
+      "ordem": 98,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-wb.md",
+      "secao": "Página 37",
+      "linhas": {
+        "inicio": 1707,
+        "fim": 1759
+      },
+      "sha256_recorte": "5f977ac4cb64319066c6a0f507241974ea5c5c85be64fdbf0155d8dace24080d",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A1-L4-0102-01",
+      "conteudo_avaliado": "Complete this conversation.",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-wb.md",
+        "pagina_ou_secao": "Página 37",
+        "linhas": {
+          "inicio": 1707,
+          "fim": 1759
+        }
+      }
+    },
+    {
+      "ordem": 99,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-wb.md",
+      "secao": "Página 52",
+      "linhas": {
+        "inicio": 2410,
+        "fim": 2449
+      },
+      "sha256_recorte": "281c66fd8031694908466f3fc67ab065bcfb6d3c0609528fe43f333ea838b205",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Choose the correct words or phrases to complete this conversation.",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-wb.md",
+        "pagina_ou_secao": "Página 52",
+        "linhas": {
+          "inicio": 2410,
+          "fim": 2449
+        }
+      }
+    },
+    {
+      "ordem": 100,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-wb.md",
+      "secao": "Página 84",
+      "linhas": {
+        "inicio": 3824,
+        "fim": 3886
+      },
+      "sha256_recorte": "b247c89c86517e6d7bdb92b5dab2548c621c777e5b70c294d47b4026fd49feea",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Write the comparative and superlative of the words given.",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_01_Apostila_-_PDF_interchange_4th_1-wb.md",
+        "pagina_ou_secao": "Página 84",
+        "linhas": {
+          "inicio": 3824,
+          "fim": 3886
+        }
+      }
+    },
+    {
+      "ordem": 101,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-sb.md",
+      "secao": "Página 9",
+      "linhas": {
+        "inicio": 479,
+        "fim": 570
+      },
+      "sha256_recorte": "a7a1f7e5a4f254a0f9f2c426a4337de4ecf19da5a82ae6f1db35ecf74c1776ca",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Pronunciation/Listening",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-sb.md",
+        "pagina_ou_secao": "Página 9",
+        "linhas": {
+          "inicio": 479,
+          "fim": 570
+        }
+      }
+    },
+    {
+      "ordem": 102,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-sb.md",
+      "secao": "Página 77",
+      "linhas": {
+        "inicio": 4129,
+        "fim": 4200
+      },
+      "sha256_recorte": "3dddab76f82aff83ba09b18b2f54e1db3101ba1cf484fd6c4c27a7b4eabef79f",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "FindtheJob That's Right forYou!",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-sb.md",
+        "pagina_ou_secao": "Página 77",
+        "linhas": {
+          "inicio": 4129,
+          "fim": 4200
+        }
+      }
+    },
+    {
+      "ordem": 103,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-sb.md",
+      "secao": "Página 85",
+      "linhas": {
+        "inicio": 4568,
+        "fim": 4640
+      },
+      "sha256_recorte": "3c9236c8b98d19bdeca0807d78f50e48fe7fc3cd37a69efcf65846b90e93f19f",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "AGuidetoUnusual Museums",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-sb.md",
+        "pagina_ou_secao": "Página 85",
+        "linhas": {
+          "inicio": 4568,
+          "fim": 4640
+        }
+      }
+    },
+    {
+      "ordem": 104,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-wb.md",
+      "secao": "Página 15",
+      "linhas": {
+        "inicio": 551,
+        "fim": 593
+      },
+      "sha256_recorte": "5e9da2263246e028c6ea94fd35c5681b60516efaefe96db2057ae22156848412",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Complete these conversations. Use the words in the box.",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-wb.md",
+        "pagina_ou_secao": "Página 15",
+        "linhas": {
+          "inicio": 551,
+          "fim": 593
+        }
+      }
+    },
+    {
+      "ordem": 105,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-wb.md",
+      "secao": "Página 64",
+      "linhas": {
+        "inicio": 2686,
+        "fim": 2745
+      },
+      "sha256_recorte": "39f33c455b3e7c14f6507aa9bb23d163c09c508f94be46ea665838d4d631b061",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A1-L4-0086-01",
+      "conteudo_avaliado": "Crosswordpuzzle:Jobs",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-wb.md",
+        "pagina_ou_secao": "Página 64",
+        "linhas": {
+          "inicio": 2686,
+          "fim": 2745
+        }
+      }
+    },
+    {
+      "ordem": 106,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-wb.md",
+      "secao": "Página 73",
+      "linhas": {
+        "inicio": 3070,
+        "fim": 3122
+      },
+      "sha256_recorte": "00e44494505987277e9a7682e0d35dc23ad48ae2fbdbb9ebf5e79f39ebce347b",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L6-0188-02",
+      "conteudo_avaliado": "Work hard,play hard",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_02_Apostila_-_PDF_interchange_4th_2-wb.md",
+        "pagina_ou_secao": "Página 73",
+        "linhas": {
+          "inicio": 3070,
+          "fim": 3122
+        }
+      }
+    },
+    {
+      "ordem": 107,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-sb.md",
+      "secao": "Página 101",
+      "linhas": {
+        "inicio": 5185,
+        "fim": 5251
+      },
+      "sha256_recorte": "f0d77eb4c13d14053390b018a1f5af4369a82735cae1aefacc0491ab1837d026",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B1-L8-0368-01",
+      "conteudo_avaliado": "Hooray for Bollywood!",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-sb.md",
+        "pagina_ou_secao": "Página 101",
+        "linhas": {
+          "inicio": 5185,
+          "fim": 5251
+        }
+      }
+    },
+    {
+      "ordem": 108,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-wb.md",
+      "secao": "Página 43",
+      "linhas": {
+        "inicio": 1984,
+        "fim": 2053
+      },
+      "sha256_recorte": "6da1204666c4f5dc18b332501a0eb5fd8cde9cca10366f4b36c0e94e73b9c397",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Howsafeareyourplasticcards?",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-wb.md",
+        "pagina_ou_secao": "Página 43",
+        "linhas": {
+          "inicio": 1984,
+          "fim": 2053
+        }
+      }
+    },
+    {
+      "ordem": 109,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-wb.md",
+      "secao": "Página 49",
+      "linhas": {
+        "inicio": 2234,
+        "fim": 2289
+      },
+      "sha256_recorte": "7848ce482b6baa90e8d576e132460936441959748adbd3717eb4e15a6e123fb2",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L10-1378-01",
+      "conteudo_avaliado": "A In some countries, there are children who are educated by their",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-wb.md",
+        "pagina_ou_secao": "Página 49",
+        "linhas": {
+          "inicio": 2234,
+          "fim": 2289
+        }
+      }
+    },
+    {
+      "ordem": 110,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-wb.md",
+      "secao": "Página 97",
+      "linhas": {
+        "inicio": 4048,
+        "fim": 4121
+      },
+      "sha256_recorte": "1c544e24169f09bb023f9578c476d689fcda43fe3803287b2a463355210c429b",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Hugechallenges,enormousrewards",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_03_Apostila_-_PDF_interchange_4th_3-wb.md",
+        "pagina_ou_secao": "Página 97",
+        "linhas": {
+          "inicio": 4048,
+          "fim": 4121
+        }
+      }
+    },
+    {
+      "ordem": 111,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-sb.md",
+      "secao": "Página 113",
+      "linhas": {
+        "inicio": 5909,
+        "fim": 5968
+      },
+      "sha256_recorte": "5912dee5b720cf90da34f40fa88b32c7ff77d0851585c0d380e7fa3df9b6f24a",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "Turning Pain -to Gain",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-sb.md",
+        "pagina_ou_secao": "Página 113",
+        "linhas": {
+          "inicio": 5909,
+          "fim": 5968
+        }
+      }
+    },
+    {
+      "ordem": 112,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-sb.md",
+      "secao": "Página 145",
+      "linhas": {
+        "inicio": 7332,
+        "fim": 7398
+      },
+      "sha256_recorte": "6fb73901e6b468eaa8622c1f0b17fb3e07d073d23f24e762825ca653aac1b298",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "Simplepresent statements (page37)and Simple present statements with",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-sb.md",
+        "pagina_ou_secao": "Página 145",
+        "linhas": {
+          "inicio": 7332,
+          "fim": 7398
+        }
+      }
+    },
+    {
+      "ordem": 113,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-sb.md",
+      "secao": "Página 148",
+      "linhas": {
+        "inicio": 7496,
+        "fim": 7564
+      },
+      "sha256_recorte": "dbab0c7e45e83c992d3bda5bc3a0d8c5766ba6a860d7b23d57faaf5d363ad668",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "1 Countand noncount nouns; someandany (page59)",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-sb.md",
+        "pagina_ou_secao": "Página 148",
+        "linhas": {
+          "inicio": 7496,
+          "fim": 7564
+        }
+      }
+    },
+    {
+      "ordem": 114,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-wb.md",
+      "secao": "Página 36",
+      "linhas": {
+        "inicio": 1369,
+        "fim": 1429
+      },
+      "sha256_recorte": "2ce804146fb3648dd36f03fab1c9ee2ce9e4e2498e7ae4b31300edd0b477e723",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Complete the conversation with the correct words in parentheses.",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-wb.md",
+        "pagina_ou_secao": "Página 36",
+        "linhas": {
+          "inicio": 1369,
+          "fim": 1429
+        }
+      }
+    },
+    {
+      "ordem": 115,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-wb.md",
+      "secao": "Página 38",
+      "linhas": {
+        "inicio": 1455,
+        "fim": 1523
+      },
+      "sha256_recorte": "0db10fcc5823742cf7cdde3a1d68bc43370cd5722f4b84de3a4d4dc13e375efa",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "A2-L11-1336-01",
+      "conteudo_avaliado": "Write about Brian's weekly schedule.Use the words in parentheses.",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-wb.md",
+        "pagina_ou_secao": "Página 38",
+        "linhas": {
+          "inicio": 1455,
+          "fim": 1523
+        }
+      }
+    },
+    {
+      "ordem": 116,
+      "fonte": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-wb.md",
+      "secao": "Página 42",
+      "linhas": {
+        "inicio": 1639,
+        "fim": 1697
+      },
+      "sha256_recorte": "2f6b12cd8edd2746b8af4447bfd5f3016905bc3f08cf8978f8adecfd794f87ce",
+      "estado_final": "redundante",
+      "destino_unidade_id": "A1-L6-0179-01",
+      "conteudo_avaliado": "Complete the conversation with the correct words in parentheses.",
+      "motivo": "O bloco repete o mesmo objetivo de outra candidata, exercício mecânico ou exemplo já representado, sem ganho editorial adicional.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4_Th_EDITION_Interchange_-_INTRODUCTION_Apostila_-_PDF_interchange_intro-wb.md",
+        "pagina_ou_secao": "Página 42",
+        "linhas": {
+          "inicio": 1639,
+          "fim": 1697
+        }
+      }
+    },
+    {
+      "ordem": 117,
+      "fonte": "Interchange_4th_Selfstudy_XML_intro.md",
+      "secao": "r2dvdl0u11a10",
+      "linhas": {
+        "inicio": 1183,
+        "fim": 1197
+      },
+      "sha256_recorte": "b1354f4030d3a15e0429c9679568fb125703fc3c1fe1252e09b159f149640597",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "r2dvdl0u11a10",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_intro.md",
+        "pagina_ou_secao": "r2dvdl0u11a10",
+        "linhas": {
+          "inicio": 1183,
+          "fim": 1197
+        }
+      }
+    },
+    {
+      "ordem": 118,
+      "fonte": "Interchange_4th_Selfstudy_XML_intro.md",
+      "secao": "l3dvdl0u03a09p02",
+      "linhas": {
+        "inicio": 4759,
+        "fim": 4812
+      },
+      "sha256_recorte": "5b58f832d5b4beaecd0ff5cf8f5e224bdae81ed94b0558b1feb9c38905c6b884",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "l3dvdl0u03a09p02",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_intro.md",
+        "pagina_ou_secao": "l3dvdl0u03a09p02",
+        "linhas": {
+          "inicio": 4759,
+          "fim": 4812
+        }
+      }
+    },
+    {
+      "ordem": 119,
+      "fonte": "Interchange_4th_Selfstudy_XML_intro.md",
+      "secao": "l3dvdl0u08a06p02",
+      "linhas": {
+        "inicio": 7330,
+        "fim": 7368
+      },
+      "sha256_recorte": "2dcf4ff291a67f8213b2bf2ced5ed5f7871f290a16ffc624bc956630f1c6171c",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "l3dvdl0u08a06p02",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_intro.md",
+        "pagina_ou_secao": "l3dvdl0u08a06p02",
+        "linhas": {
+          "inicio": 7330,
+          "fim": 7368
+        }
+      }
+    },
+    {
+      "ordem": 120,
+      "fonte": "Interchange_4th_Selfstudy_XML_level_1.md",
+      "secao": "l2dvdl1u08a06",
+      "linhas": {
+        "inicio": 7698,
+        "fim": 7725
+      },
+      "sha256_recorte": "8743f75f50366edb9b481f29b913e75a5f1f06d5680c5f3b39cb08ea393787e5",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "l2dvdl1u08a06",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_level_1.md",
+        "pagina_ou_secao": "l2dvdl1u08a06",
+        "linhas": {
+          "inicio": 7698,
+          "fim": 7725
+        }
+      }
+    },
+    {
+      "ordem": 121,
+      "fonte": "Interchange_4th_Selfstudy_XML_level_1.md",
+      "secao": "l3dvdl1u08a06",
+      "linhas": {
+        "inicio": 7726,
+        "fim": 7769
+      },
+      "sha256_recorte": "d0cff56530cf155c89eb0ca93f258f4f831713cd97a8e104786634438a83bd33",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "l3dvdl1u08a06",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_level_1.md",
+        "pagina_ou_secao": "l3dvdl1u08a06",
+        "linhas": {
+          "inicio": 7726,
+          "fim": 7769
+        }
+      }
+    },
+    {
+      "ordem": 122,
+      "fonte": "Interchange_4th_Selfstudy_XML_level_2.md",
+      "secao": "l3dvdl2u11a02p02",
+      "linhas": {
+        "inicio": 1323,
+        "fim": 1366
+      },
+      "sha256_recorte": "77c656d6c5507050ea65973c449d4b9e9a51768235eb2287968ce5dc786d9243",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "l3dvdl2u11a02p02",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_level_2.md",
+        "pagina_ou_secao": "l3dvdl2u11a02p02",
+        "linhas": {
+          "inicio": 1323,
+          "fim": 1366
+        }
+      }
+    },
+    {
+      "ordem": 123,
+      "fonte": "Interchange_4th_Selfstudy_XML_level_2.md",
+      "secao": "l1dvdl2u03a05",
+      "linhas": {
+        "inicio": 4854,
+        "fim": 4885
+      },
+      "sha256_recorte": "8a0e4f0d794c10af190ef8d3ba08f05dcb0227bf0f4e9ceab6a181dab64e3e59",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "l1dvdl2u03a05",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_level_2.md",
+        "pagina_ou_secao": "l1dvdl2u03a05",
+        "linhas": {
+          "inicio": 4854,
+          "fim": 4885
+        }
+      }
+    },
+    {
+      "ordem": 124,
+      "fonte": "Interchange_4th_Selfstudy_XML_level_3.md",
+      "secao": "l1dvdl3u10a07p01",
+      "linhas": {
+        "inicio": 1171,
+        "fim": 1188
+      },
+      "sha256_recorte": "a0f0e74f60daa41272b6b08833eb9f68e21a0505db150958b6fa25a2ca87f1a3",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "l1dvdl3u10a07p01",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_level_3.md",
+        "pagina_ou_secao": "l1dvdl3u10a07p01",
+        "linhas": {
+          "inicio": 1171,
+          "fim": 1188
+        }
+      }
+    },
+    {
+      "ordem": 125,
+      "fonte": "Interchange_4th_Selfstudy_XML_level_3.md",
+      "secao": "l3dvdl3u04a02p02",
+      "linhas": {
+        "inicio": 6046,
+        "fim": 6060
+      },
+      "sha256_recorte": "16a3ed5f2bb3dc1a6bb3fd8f448b17e4497e4457ea1a58a16310eefddd47e517",
+      "estado_final": "ja_coberta",
+      "destino_unidade_id": "B2-L10-1388-01",
+      "conteudo_avaliado": "l3dvdl3u04a02p02",
+      "motivo": "O objetivo funcional e os exemplos pertencem a uma unidade canônica já publicada; a seção não acrescenta contraste, registro ou tarefa independente.",
+      "procedencia_interna": {
+        "arquivo": "Interchange_4th_Selfstudy_XML_level_3.md",
+        "pagina_ou_secao": "l3dvdl3u04a02p02",
+        "linhas": {
+          "inicio": 6046,
+          "fim": 6060
+        }
+      }
+    },
+    {
+      "ordem": 126,
+      "fonte": "k_Ingles_Doc5_paginas_visuais.md",
+      "secao": "Imagem 24: j04.jpeg",
+      "linhas": {
+        "inicio": 1119,
+        "fim": 1152
+      },
+      "sha256_recorte": "0f355dc243cc09dfee988f9ec3c69d493738b1119885b91a948306c6136c6558",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "Imagem 24: j04.jpeg",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "k_Ingles_Doc5_paginas_visuais.md",
+        "pagina_ou_secao": "Imagem 24: j04.jpeg",
+        "linhas": {
+          "inicio": 1119,
+          "fim": 1152
+        }
+      }
+    },
+    {
+      "ordem": 127,
+      "fonte": "k_Ingles_Doc5_paginas_visuais.md",
+      "secao": "Imagem 35: s11.jpeg",
+      "linhas": {
+        "inicio": 1794,
+        "fim": 1827
+      },
+      "sha256_recorte": "fd15ab3fa4f4c0bc9b4924923cb0c2838fbc31b26b90e05a2e1d7ff773fd304d",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "Imagem 35: s11.jpeg",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "k_Ingles_Doc5_paginas_visuais.md",
+        "pagina_ou_secao": "Imagem 35: s11.jpeg",
+        "linhas": {
+          "inicio": 1794,
+          "fim": 1827
+        }
+      }
+    },
+    {
+      "ordem": 128,
+      "fonte": "k_Ingles_Doc5_paginas_visuais.md",
+      "secao": "Imagem 39: s15.jpeg",
+      "linhas": {
+        "inicio": 1980,
+        "fim": 2044
+      },
+      "sha256_recorte": "7887b60b00d595518b51c9d8b01c2e9a2c332bb028c1109e1d719c642414272c",
+      "estado_final": "qualidade_insuficiente",
+      "destino_unidade_id": null,
+      "conteudo_avaliado": "Imagem 39: s15.jpeg",
+      "motivo": "A extração contém concatenação, OCR degradado ou contexto insuficiente para incorporação linguística segura.",
+      "procedencia_interna": {
+        "arquivo": "k_Ingles_Doc5_paginas_visuais.md",
+        "pagina_ou_secao": "Imagem 39: s15.jpeg",
+        "linhas": {
+          "inicio": 1980,
+          "fim": 2044
+        }
+      }
+    }
+  ]
+}

@@ -341,3 +341,9 @@ As 16 seções, 34 blocos e 174 pares declarados foram mapeados em 17 blocos dec
 
 Foram tratadas 78 fontes pendentes entre 1239 e 1324, sem recontar oito fontes antecipadas. A classificação agregada registrou 33 curadorias derivadas, 18 fontes canônicas novas, 17 duplicatas, seis índices, duas fontes curtas extraídas de imagem e duas regras administrativas. Todos os blocos receberam decisão, destino ou descarte justificado.
 <!-- MACROLOTE-051-MAPEAMENTO:FIM -->
+
+<!-- INTEGRACAO-2019-CANDIDATAS-MAPEAMENTO:INICIO -->
+## Integração 2019 English — mapeamento das candidatas
+
+As 128 decisões completas estão em `dados/integracao-2019-english-revisao-candidatas.json`. Os 27 enriquecimentos foram consolidados em `B1-L11-1178-01`, `A2-L11-1402-01`, `B1-L11-1404-01`, `B1-L12-1406-01`, `C1-L12-1408-01` e `B2-L16-0881-02`, sem exibir procedência técnica nos painéis.
+<!-- INTEGRACAO-2019-CANDIDATAS-MAPEAMENTO:FIM -->

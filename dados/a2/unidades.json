@@ -36827,7 +36827,10 @@
       "Project Editors Lili Bryant, Laura Sandford",
       "Art EditorsChrissyBarnard,Paul Drislane,MichelleStaples",
       "Editor Ben Ffrancon Davies",
-      "Editorial Assistants Sarah Edwards,Helen Leech"
+      "Editorial Assistants Sarah Edwards,Helen Leech",
+      "Would you like to leave a message?",
+      "Can I take a message?",
+      "Can you put me through to Dr Fraser?"
     ],
     "traducoes": [
       "Trecho integral preservado; orientação editorial.",
@@ -36835,7 +36838,10 @@
       "Trecho integral preservado; orientação editorial.",
       "Trecho integral preservado; orientação editorial.",
       "Trecho integral preservado; orientação editorial.",
-      "Trecho integral preservado; orientação editorial."
+      "Trecho integral preservado; orientação editorial.",
+      "Você gostaria de deixar um recado?",
+      "Posso anotar o recado?",
+      "Você pode me passar para o dr. Fraser?"
     ],
     "origem_traducoes": "fonte quando pareada; editorial quando indicado",
     "observacao_uso": "O texto-fonte integral não integra a publicação.",

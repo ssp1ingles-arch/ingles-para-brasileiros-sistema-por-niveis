@@ -435,3 +435,9 @@ As nove unidades foram lidas sequencialmente e divididas em 59 blocos. Funções
 
 A fonte foi encerrada em 30/30 unidades e 188 blocos decididos. A Unidade 28 foi confirmada como duplicata textual integral da Unidade 21 por comparação normalizada e SHA-256. Os demais blocos finais tratam de localização, casa, datas, duração, posse, hospedagem, clima, quantificadores, viagem, experiência profissional e present perfect, todos consolidados em destinos existentes ou registrados como contexto sem publicação. Os 3.242 campos PT vazios foram preservados, sem enriquecimentos, unidades ou atividades novas.
 <!-- INTEGRACAO-2019-LOTE-002-U25-U30:FIM -->
+
+<!-- INTEGRACAO-2019-CANDIDATAS-DECISOES:INICIO -->
+## Integração 2019 English — decisão das 128 candidatas
+
+As 128 candidatas da triagem global foram relidas somente em seus recortes persistidos e encerradas sem pendências. Foram confirmados 27 enriquecimentos em seis unidades existentes; nenhuma lacuna exigiu nova unidade e nenhum exercício justificou nova atividade. Exercícios mecânicos, repetições, fragmentos sem objetivo e extrações insuficientes foram rejeitados explicitamente. A procedência permanece apenas nos dados internos.
+<!-- INTEGRACAO-2019-CANDIDATAS-DECISOES:FIM -->

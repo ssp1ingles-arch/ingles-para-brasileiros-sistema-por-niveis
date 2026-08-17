@@ -1,0 +1,21 @@
+{
+  "versao": "integracao-2019-candidatas",
+  "gerado_em": "2026-08-17T01:45:39.253Z",
+  "escopo": "128 candidatas da triagem global",
+  "antes": {
+    "unidades": 834,
+    "atividades": 1977,
+    "subpaineis": 95
+  },
+  "depois": {
+    "unidades": 834,
+    "atividades": 1977,
+    "subpaineis": 95
+  },
+  "impacto": {
+    "enriquecimentos_confirmados": 27,
+    "unidades_novas": 0,
+    "atividades_novas": 0
+  },
+  "preservacao": "IDs, jornadas, localStorage, temas, navegação e rotas preservados."
+}

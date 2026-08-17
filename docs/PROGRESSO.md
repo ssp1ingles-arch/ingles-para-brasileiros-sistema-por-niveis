@@ -391,3 +391,14 @@ Atualizado em 2026-08-16 após o lote 054.
 - Transcrições: **118** blocos cobertos e **60** contextos úteis não publicados; currículo, IDs, atividades, subpainéis e Jornada preservados.
 - Próxima fase: **triagem global das 91 fontes ainda não revisadas**.
 <!-- INTEGRACAO-2019-ENGLISH:FIM -->
+
+<!-- INTEGRACAO-2019-CANDIDATAS-PROGRESSO:INICIO -->
+## Integração 2019 English — 128 candidatas
+
+- Decididas: **128/128**; pendentes: **0**.
+- Enriquecimentos confirmados: **27**; unidades novas: **0**; atividades novas: **0**.
+- Rejeições: já coberta **40**, redundante **41**, qualidade insuficiente **13** e sem objetivo independente **7**.
+- Totais preservados: **834 unidades**, **1977 atividades** e **95 subpainéis**.
+- Validação: **56/56** redesign, **111/111** refinamento, **69/69** interação e **11/11** rotas locais em desktop/celular.
+- Próxima etapa: nenhuma integração automática; somente auditoria editorial dirigida se solicitada.
+<!-- INTEGRACAO-2019-CANDIDATAS-PROGRESSO:FIM -->
