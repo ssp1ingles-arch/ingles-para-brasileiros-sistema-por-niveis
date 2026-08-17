@@ -34,6 +34,12 @@ Nenhum enriquecimento, unidade ou atividade foi criado. A fonte permanece `parci
 
 Este segundo conjunto repetiu a inspeção no Google Chrome 151.0.7922.138, headless, em contexto Playwright isolado: 11 rotas em desktop e celular, 22/22 cenários aprovados, sem erros de console ou página, requisições falhas ou overflow horizontal. Redesign, refinamento, interação, temas e persistência também foram revalidados.
 
+## Lote 002 — conclusão das Unidades 25–30
+
+As seis unidades finais acrescentaram 713 pares EN–PT e 36 decisões. A Unidade 28 repete integralmente a Unidade 21, com corpo normalizado e SHA-256 idênticos, e foi registrada uma vez como duplicata interna. No total da fonte, as 30 unidades somam 3.315 pares e 188 blocos: 118 cobertos por unidades canônicas, 60 contextos úteis não publicados, uma duplicata interna e nove encadeamentos sem objetivo independente.
+
+Somente 73 campos PT estão preenchidos na fonte; 3.242 vazios foram preservados. Nenhum contexto ficou sem decisão, e não foram criados enriquecimentos, unidades ou atividades. A fonte passa ao estado `integralmente_classificada`, com 30/30 unidades e progresso editorial de 2/93 fontes.
+
 ## Publicação
 
 Cada lote exige auditoria estrutural, interação, JSON/JavaScript, rotas locais e públicas, inspeção desktop/celular, `git diff --check`, revisão de direitos/segredos, commit único, push normal e confirmação do SHA implantado no GitHub Pages.

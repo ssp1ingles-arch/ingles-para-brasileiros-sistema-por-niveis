@@ -384,10 +384,10 @@ Atualizado em 2026-08-16 após o lote 054.
 ## Integração 2019 English
 
 - Fontes de conversão aprovadas: **91**; complementares: **2**.
-- Fontes integralmente revisadas: **1/93**; fontes parcialmente analisadas: **1**.
-- Avanço editorial equivalente: **1,80/93** fontes (**1,94%**), considerando 24/30 da fonte consolidada atual.
-- Fontes integradas com unidade nova: **0**; fontes sem conteúdo novo concluídas: **1**.
-- Blocos decididos: **182** — 30 do lote 001 e **152** nas Unidades 1–24 do lote 002.
-- Transcrições: **97** blocos cobertos e **48** contextos úteis não publicados; currículo, IDs, atividades, subpainéis e Jornada preservados.
-- Próxima seção exata: `BBC_English_Plus_transcricoes_PT_EN.md — Unidade 25`.
+- Fontes integralmente revisadas: **2/93**; fontes parcialmente analisadas: **0**.
+- Avanço editorial equivalente: **2,00/93** fontes (**2,15%**), considerando 30/30 da fonte consolidada atual.
+- Fontes integradas com unidade nova: **0**; fontes sem conteúdo novo concluídas: **2**.
+- Blocos decididos: **218** — 30 do lote 001 e **188** nas Unidades 1–30 do lote 002.
+- Transcrições: **118** blocos cobertos e **60** contextos úteis não publicados; currículo, IDs, atividades, subpainéis e Jornada preservados.
+- Próxima fase: **triagem global das 91 fontes ainda não revisadas**.
 <!-- INTEGRACAO-2019-ENGLISH:FIM -->

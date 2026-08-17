@@ -215,6 +215,54 @@ const analises = [
     ['Localizar posto após ficar sem combustível', 'contexto_util_nao_publicado', ['A2-L4-0111-01', 'A2-L15-0832-01']],
     ['Oferecer, recusar e aceitar ajuda em problema de viagem', 'ja_coberto_com_exemplos_equivalentes', ['A2-L15-0832-01', 'B2-L6-0173-02']],
   ]},
+  { unidade: 25, blocos: [
+    ['Localizar cidades por pontos cardeais e distância', 'ja_coberto_com_exemplos_equivalentes', ['A2-L14-0742-01', 'A1-L4-1521-03']],
+    ['Escolher casa de férias a partir de mapa', 'contexto_util_nao_publicado', ['A2-L15-0823-01', 'A2-L14-0742-01']],
+    ['Descrever cômodos e posição em uma casa', 'ja_coberto_integralmente', ['A2-L15-0823-01', 'A2-L14-0742-01']],
+    ['Prever entrega de porta e móveis com will', 'ja_coberto_com_exemplos_equivalentes', ['A2-L3-0055-01', 'A2-L15-0823-01']],
+    ['Descrever cozinha e localizar eletrodomésticos', 'ja_coberto_com_exemplos_equivalentes', ['A2-L15-0823-01', 'A2-L14-0742-01']],
+    ['Guardar utensílios usando under, on, in e behind', 'ja_coberto_integralmente', ['A2-L14-0742-01', 'A2-L15-0823-01']],
+    ['Reagir a defeitos sucessivos de uma casa nova', 'conteudo_sem_objetivo_independente', ['A2-L10-1377-01']],
+  ]},
+  { unidade: 26, blocos: [
+    ['Perguntar e informar datas e aniversários', 'ja_coberto_integralmente', ['A1-GRAM-0016', 'A1-L4-1521-03']],
+    ['Dizer idade futura em data de aniversário', 'ja_coberto_com_exemplos_equivalentes', ['A2-L4-0068-03', 'A2-L3-0055-01']],
+    ['Planejar viagem por estação, mês e destino', 'contexto_util_nao_publicado', ['A1-GRAM-0018', 'A2-GRAM-0007']],
+    ['Perguntar duração de viagem e tempo de percurso', 'ja_coberto_integralmente', ['A1-L4-0068-01', 'A2-GRAM-0003']],
+    ['Informar permanência com from, to e for', 'ja_coberto_com_exemplos_equivalentes', ['A2-L6-0175-01', 'A1-L4-0068-01']],
+    ['Relatar estadias anteriores com datas e anos', 'ja_coberto_com_exemplos_equivalentes', ['B1-L15-0844-01', 'A1-GRAM-0018']],
+    ['Descrever itinerário por cidades, datas e transportes', 'contexto_util_nao_publicado', ['A2-L9-0416-01', 'A2-L15-0829-01']],
+  ]},
+  { unidade: 27, blocos: [
+    ['Perguntar posse com whose e responder com possessivos', 'ja_coberto_integralmente', ['B1-L3-0053-03', 'A2-GRAM-0010']],
+    ['Devolver casacos, guarda-chuvas e bagagens ao dono', 'contexto_util_nao_publicado', ['A2-GRAM-0010', 'A2-L15-0832-01']],
+    ['Reservar quartos de hotel por tipo e comodidade', 'contexto_util_nao_publicado', ['A2-L15-0832-01', 'B1-L15-0836-01']],
+    ['Comparar hotéis por tamanho, preço e ruído', 'ja_coberto_com_exemplos_equivalentes', ['B1-L6-0237-01', 'A2-L15-0829-01']],
+    ['Comparar vestido semelhante e diferente', 'ja_coberto_com_exemplos_equivalentes', ['B1-L6-0237-01', 'A2-L15-0823-01']],
+    ['Prever tempo por região com will e there will be', 'ja_coberto_com_exemplos_equivalentes', ['A2-GRAM-0004', 'A2-L3-0055-01']],
+    ['Contrastar previsão e tempo observado', 'conteudo_sem_objetivo_independente', ['A1-GRAM-0002']],
+  ]},
+  { unidade: 28, blocos: [
+    ['Repetição integral da Unidade 21, com corpo normalizado e SHA-256 idênticos', 'duplicata_interna_da_fonte', ['A2-L8-0350-01', 'A2-L10-1377-01']],
+  ]},
+  { unidade: 29, blocos: [
+    ['Planejar viagem internacional com cheques, bilhetes e hotel', 'contexto_util_nao_publicado', ['A2-L15-0832-01', 'B1-L15-0836-01']],
+    ['Contrastar much, many, few, little, a lot e enough', 'ja_coberto_integralmente', ['A2-GRAM-0012', 'A1-GRAM-0022', 'A2-L14-0762-01']],
+    ['Decidir o que levar na bagagem de viagem', 'contexto_util_nao_publicado', ['A2-L15-0823-01', 'A2-L7-0312-01']],
+    ['Verificar mantimentos e pedir reposição', 'ja_coberto_com_exemplos_equivalentes', ['A1-GRAM-0021', 'A2-GRAM-0011']],
+    ['Comprar alimentos por peso, garrafa, pacote e caixa', 'contexto_util_nao_publicado', ['A2-L4-0068-03', 'A2-L15-0823-01']],
+    ['Reagir a pane e procurar camping próximo', 'contexto_util_nao_publicado', ['A2-L4-0111-01', 'A2-L15-0832-01']],
+    ['Relatar problemas e resultado positivo de viagem passada', 'ja_coberto_com_exemplos_equivalentes', ['B1-L15-0844-01', 'A2-L10-1377-01']],
+  ]},
+  { unidade: 30, blocos: [
+    ['Relatar tarefas concluídas e pendentes com just e yet', 'ja_coberto_com_exemplos_equivalentes', ['B1-L15-0844-01', 'A2-L6-0201-01']],
+    ['Descrever volume de trabalho e necessidade de secretária', 'contexto_util_nao_publicado', ['A2-L7-0312-01', 'A2-L15-0829-01']],
+    ['Entrevistar candidata sobre experiência profissional', 'contexto_util_nao_publicado', ['A2-L15-0829-01', 'B1-L15-0836-01']],
+    ['Contrastar duração com for e ponto inicial com since', 'ja_coberto_integralmente', ['B1-L3-0039-01', 'B2-L3-0039-02']],
+    ['Combinar retorno ao emprego com going to', 'ja_coberto_com_exemplos_equivalentes', ['A2-L15-0829-01', 'A2-L10-1377-01']],
+    ['Dar presente e falar de intenções futuras', 'ja_coberto_com_exemplos_equivalentes', ['A2-L3-0055-01', 'A2-L10-1377-01']],
+    ['Convidar vizinho para festa, oferecer e despedir-se', 'contexto_util_nao_publicado', ['A2-L10-1377-01', 'B1-L15-0836-01']],
+  ]},
 ];
 
 const secoes = [...texto.matchAll(/^## Unidade (\d+)\r?\n([\s\S]*?)(?=^## Unidade \d+\r?$|(?![\s\S]))/gm)]
@@ -253,14 +301,14 @@ const pendentes = Array.from({ length: 30 }, (_, i) => i + 1).filter(x => !concl
 const rotulos = ['ja_coberto_integralmente','ja_coberto_com_exemplos_equivalentes','enriquecimento_de_unidade_existente','nova_unidade_necessaria','contexto_util_nao_publicado','duplicata_interna_da_fonte','conteudo_sem_objetivo_independente','revisao_editorial_necessaria'];
 const porClasse = Object.fromEntries(rotulos.map(k => [k, decisoes.filter(x => x.classificacao === k).length]));
 const lote = {
-  schema_version: 2, lote: '002', estado: pendentes.length ? 'parcialmente_analisado' : 'analisado_integralmente',
+  schema_version: 2, lote: '002', estado: pendentes.length ? 'parcialmente_analisado' : 'integralmente_classificada',
   fonte: { nome, sha256_saida: item.sha256_saida, unidades_totais: 30, unidades_concluidas: concluidas, unidades_pendentes: pendentes },
   leituras,
   contagens: { unidades_examinadas: concluidas.length, pares_en_pt: leituras.reduce((n,x) => n + x.pares_en_pt, 0), blocos_pedagogicos: decisoes.length, por_classificacao: porClasse },
   impacto: { enriquecimentos_de_unidade: porClasse.enriquecimento_de_unidade_existente, contextos_uteis_nao_publicados: porClasse.contexto_util_nao_publicado, unidades_novas: porClasse.nova_unidade_necessaria, atividades_novas: 0, jornadas_alteradas: false, ids_anteriores_preservados: true },
   decisoes, proxima_secao_exata: pendentes.length ? `${nome} — Unidade ${pendentes[0]}` : null,
 };
-item.status_editorial = pendentes.length ? 'parcialmente_analisado' : 'analisado_integralmente';
+item.status_editorial = pendentes.length ? 'parcialmente_analisado' : 'integralmente_classificada';
 item.lote_integracao = '002';
 item.progresso_secoes = { unidades_concluidas: concluidas.length, unidades_totais: 30 };
 fs.writeFileSync(manifestoPath, JSON.stringify(manifesto, null, 2) + '\n');

@@ -429,3 +429,9 @@ As 15 primeiras unidades da fonte de transcrições foram lidas integralmente e 
 
 As nove unidades foram lidas sequencialmente e divididas em 59 blocos. Funções de viagem, compras, preferências, necessidade, rotinas, profissões, saúde, lazer, regras e direções foram consolidadas em destinos existentes. Contextos dependentes de agência, achados e perdidos, hotel, refeição, festa, museu e deslocamento ficaram registrados sem republicação. Nenhum dos 1.085 campos PT vazios do conjunto recebeu tradução editorial. Não foram criadas unidades, atividades ou enriquecimentos. Próxima seção: Unidade 25.
 <!-- INTEGRACAO-2019-LOTE-002-U16-U24:FIM -->
+
+<!-- INTEGRACAO-2019-LOTE-002-U25-U30:INICIO -->
+## Integração 2019 English — lote 002, Unidades 25–30
+
+A fonte foi encerrada em 30/30 unidades e 188 blocos decididos. A Unidade 28 foi confirmada como duplicata textual integral da Unidade 21 por comparação normalizada e SHA-256. Os demais blocos finais tratam de localização, casa, datas, duração, posse, hospedagem, clima, quantificadores, viagem, experiência profissional e present perfect, todos consolidados em destinos existentes ou registrados como contexto sem publicação. Os 3.242 campos PT vazios foram preservados, sem enriquecimentos, unidades ou atividades novas.
+<!-- INTEGRACAO-2019-LOTE-002-U25-U30:FIM -->

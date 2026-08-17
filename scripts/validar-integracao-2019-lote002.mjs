@@ -23,10 +23,10 @@ const sourceHash = crypto.createHash('sha256').update(fs.readFileSync(sourcePath
 if (sourceHash !== lote.fonte.sha256_saida) fail('SHA-256 atual da fonte diverge do lote.');
 const item = manifesto.itens.find(entry => entry.nome === lote.fonte.nome);
 if (!item || item.sha256_saida !== sourceHash) fail('Manifesto e fonte divergem.');
-if (lote.estado !== 'parcialmente_analisado') fail('Estado parcial esperado.');
-if (lote.fonte.unidades_totais !== 30 || lote.fonte.unidades_concluidas.join(',') !== Array.from({ length: 24 }, (_, i) => i + 1).join(',')) fail('Barreira 24/30 inválida.');
-if (lote.proxima_secao_exata !== `${lote.fonte.nome} — Unidade 25`) fail('Próxima seção inválida.');
-if (lote.leituras.length !== 24 || lote.leituras.some((leitura, i) => leitura.unidade !== i + 1 || !leitura.leitura_integral_da_unidade)) fail('Leituras sequenciais inválidas.');
+if (lote.estado !== 'integralmente_classificada') fail('Estado integral esperado.');
+if (lote.fonte.unidades_totais !== 30 || lote.fonte.unidades_concluidas.join(',') !== Array.from({ length: 30 }, (_, i) => i + 1).join(',')) fail('Barreira 30/30 inválida.');
+if (lote.proxima_secao_exata !== null || lote.fonte.unidades_pendentes.length !== 0) fail('Fonte integral ainda aponta pendência.');
+if (lote.leituras.length !== 30 || lote.leituras.some((leitura, i) => leitura.unidade !== i + 1 || !leitura.leitura_integral_da_unidade)) fail('Leituras sequenciais inválidas.');
 if (lote.leituras.reduce((sum, itemLeitura) => sum + itemLeitura.pares_en_pt, 0) !== lote.contagens.pares_en_pt) fail('Total de pares divergente.');
 if (lote.decisoes.length !== lote.contagens.blocos_pedagogicos) fail('Total de blocos divergente.');
 for (const decisao of lote.decisoes) {
@@ -45,4 +45,4 @@ for (const [rotulo] of [...rotulos].map(rotulo => [rotulo])) {
 }
 if (lote.impacto.unidades_novas !== 0 || lote.impacto.atividades_novas !== 0) fail('Impacto curricular inesperado.');
 
-console.log(`INTEGRAÇÃO 2019 LOTE 002 OK: 24/30 unidades, ${lote.contagens.pares_en_pt} pares, ${lote.decisoes.length} blocos, SHA-256 preservado.`);
+console.log(`INTEGRAÇÃO 2019 LOTE 002 OK: 30/30 unidades, ${lote.contagens.pares_en_pt} pares, ${lote.decisoes.length} blocos, SHA-256 preservado.`);

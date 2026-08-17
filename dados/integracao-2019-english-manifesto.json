@@ -23,10 +23,10 @@
       "nome": "BBC_English_Plus_transcricoes_PT_EN.md",
       "sha256_saida": "7058fae0c94163a7870a5ce6cae34d444e5f8f15b94acf85388ffd45908d1689",
       "status_conversao": "aprovado",
-      "status_editorial": "parcialmente_analisado",
+      "status_editorial": "integralmente_classificada",
       "lote_integracao": "002",
       "progresso_secoes": {
-        "unidades_concluidas": 24,
+        "unidades_concluidas": 30,
         "unidades_totais": 30
       }
     },
